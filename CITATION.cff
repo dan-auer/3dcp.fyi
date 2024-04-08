@@ -1,7 +1,7 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use 3dcp.fyi for your research, please cite the following."
-references:
-  - type: conference-paper
+preferred-citation:
+  type: conference-paper
   authors:
   - family-names: Auer
     given-names: Daniel
@@ -32,6 +32,6 @@ references:
     country: tba
     date-start: tba
     date-end: tba
-start: tba
-end: tba
-doi: tba
+  start: tba
+  end: tba
+  doi: tba
