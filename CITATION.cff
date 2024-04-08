@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+- family-names: "Auer"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0002-9701-7807"
+- family-names: "Bos"
+  given-names: "Freek"
+  orcid: "https://orcid.org/0000-0002-6666-2395"
+- family-names: "Fischer"
+  given-names: "Oliver"
+  orcid: "https://orcid.org/0000-0003-0528-5634"
+title: "3dcp.fyi"
+version: 2.0.4
+doi: 10.0000/00000
+date-released: 2024-04-15
+url: "https://github.com/dan-auer/3dcp.fyi"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Auer"
+    given-names: "Daniel"
+    orcid: "https://orcid.org/0000-0002-9701-7807"
+  - family-names: "Bos"
+    given-names: "Freek"
+    orcid: "https://orcid.org/0000-0002-6666-2395"
+  - family-names: "Fischer"
+    given-names: "Oliver"
+    orcid: "https://orcid.org/0000-0003-0528-5634"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1
+  end: 10
+  title: "My awesome research software"
+  issue: 1
+  volume: 1
+  year: 2021
