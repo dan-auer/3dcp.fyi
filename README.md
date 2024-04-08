@@ -50,7 +50,7 @@ src=https://img.shields.io/badge/Download%20Dataset-3dcp.bib%20(1.8%20MB)-e37222
 <a href="https://orcid.org/0000-0002-3999-5186"> Markus <b>Taubert</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-6666-2395"> Freek <b>Bos</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a><br>Journal Article – Cement and Concrete Research, Vol. 157
 
-<details><summary>Metrics</summary><img alt="3D Printed Concrete" src="dat/fig/x.svg"></details>
+<details><summary>Metrics</summary><img src="dat/fig/x.svg"></details>
 
 <a href="https://scholar.google.com/scholar_lookup?title=A%20Roadmap%20for%20Quality%20Control%20of%20Hardening%20and%20Hardened%20Printed%20Concrete"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/googlescholar.svg" ><img src="dat/md/ico/wm/googlescholar.svg" width="16" height="16"></picture></a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000799138600004" title="Search on Web of Science"  ><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/wos.svg" ><img src="dat/md/ico/wm/wos.svg" width="16" height="16"></picture></a>
@@ -109,7 +109,7 @@ tba
 
 </div>
 
-## Data 
+## Data (CTRL + F)
 ### 2024-04
 ###### [00000](dat/md/2024-04.md#abbakorajaiseta20243CPUCFD) 3D Concrete Printing Using Computational Fluid Dynamics: Modeling of Material Extrusion with Slip Boundaries, Abbaoui et al.
 ###### [00001](dat/md/2024-04.md#akbachaizhioror2024D) Diamanti: 3D Printed, Post-Tensioned Concrete Canopy, Akbarzadeh et al.
