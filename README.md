@@ -40,8 +40,7 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 
 ## Example
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/openaccess.svg"><img 
-src="dat/md/ico/wm/openaccess.svg" width="16" height="16"></picture> <a 
+### <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/openaccess.svg"><img src="dat/md/ico/wm/openaccess.svg" width="16" height="16"></picture> <a 
 href="https://github.com/dan-auer/3dcp.fyi/blob/main/dat/3dcp.fyi.bib#L28903-L28921" title="Get the BibTeX 
 Entry"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/bibtex.svg"><img 
 src="dat/md/ico/wm/bibtex.svg" width="16" height="16"></picture></a> <a 
