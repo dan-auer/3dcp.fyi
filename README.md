@@ -40,92 +40,32 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 
 ## Example
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/openaccess.svg"><img 
-src="dat/md/ico/wm/openaccess.svg" width="16" height="16"></picture> <a 
-href="https://github.com/dan-auer/3dcp.fyi/blob/main/dat/3dcp.fyi.bib#L28903-L28921" title="Get the BibTeX 
-Entry"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/bibtex.svg"><img 
-src="dat/md/ico/wm/bibtex.svg" width="16" height="16"></picture></a> <a 
-href="https://doi.org/10.1016/j.cemconres.2022.106800" title="DOI" ><picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/doi.svg" ><img src="dat/md/ico/wm/doi.svg" width="16" height="16"></picture></a> <a 
-href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconres.2022.106800&domain=pdf" title="Crossmark" 
-><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/crossmark.svg" ><img 
-src="dat/md/ico/wm/crossmark.svg" width="16" height="16"></picture></a> <a 
-href="https://pure.tue.nl/ws/files/201597010/1_s2.0_S0008884622000916_main.pdf" title="Get the *.pdf via 
-unpaywall.com" ><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/down.svg" ><img 
-src="dat/md/ico/wm/down.svg" width="16" height="16"></picture></a> A Roadmap for Quality Control of Hardening and 
-Hardened Printed Concrete (2022-04)
-<a href="https://orcid.org/0000-0002-4685-7064"> Viktor <b>Mechtcherine</b> <picture><source media="(
-prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" 
-height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-7718-3189"> Kim <b>Tittelboom</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-9525-6759"> Ali <b>Kazemian</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-6160-9448"> Eric <b>Kreiger</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0003-2422-4589"> Behzad <b>Nematollahi</b> <picture><source media="(
-prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" 
-height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-8580-5320"> Venkatesh <b>Nerella</b> <picture><source media="(
-prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" 
-height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-2358-1261"> Manu <b>Santhanam</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0001-5603-2616"> Geert <b>Schutter</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0001-8066-7750"> Gideon <b>Zijl</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0001-8626-918X"> Dirk <b>Lowke</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-0905-9557"> Egor <b>Ivaniuk</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-3999-5186"> Markus <b>Taubert</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-6666-2395"> Freek <b>Bos</b> <picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" 
-height="16"></picture></a><br>Journal Article – Cement and Concrete Research, Vol. 157
+### <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/openaccess.svg"><img src="ico/wm/openaccess.svg" width="16" height="16"></picture> <a href="https://github.com/dan-auer/3dcp.fyi/blob/main/dat/3dcp.fyi.bib#L28903-L28921" title="Get the BibTeX Entry"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/bibtex.svg"><img src="ico/wm/bibtex.svg" width="16" height="16"></picture></a> <a href="https://doi.org/10.1016/j.cemconres.2022.106800" title="DOI" ><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/doi.svg" ><img src="ico/wm/doi.svg" width="16" height="16"></picture></a> <a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconres.2022.106800&domain=pdf" title="Crossmark" ><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/crossmark.svg" ><img src="ico/wm/crossmark.svg" width="16" height="16"></picture></a> <a href="https://pure.tue.nl/ws/files/201597010/1_s2.0_S0008884622000916_main.pdf" title="Get the *.pdf via unpaywall.com" ><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/down.svg" ><img src="ico/wm/down.svg" width="16" height="16"></picture></a> A Roadmap for Quality Control of Hardening and Hardened Printed Concrete (2022-04)
+<a href="https://orcid.org/0000-0002-4685-7064"> Viktor <b>Mechtcherine</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-7718-3189"> Kim <b>Tittelboom</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-9525-6759"> Ali <b>Kazemian</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-6160-9448"> Eric <b>Kreiger</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0003-2422-4589"> Behzad <b>Nematollahi</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-8580-5320"> Venkatesh <b>Nerella</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-2358-1261"> Manu <b>Santhanam</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0001-5603-2616"> Geert <b>Schutter</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0001-8066-7750"> Gideon <b>Zijl</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0001-8626-918X"> Dirk <b>Lowke</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-0905-9557"> Egor <b>Ivaniuk</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-3999-5186"> Markus <b>Taubert</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-6666-2395"> Freek <b>Bos</b> <picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/orcid.svg" ><img src="ico/wm/orcid.svg" width="16" height="16"></picture></a><br>Journal Article – Cement and Concrete Research, Vol. 157
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Roadmap%20for%20Quality%20Control%20of%20Hardening%20and
-%20Hardened%20Printed%20Concrete" title="Search on Google Scholar"><picture><source media="(prefers-color-scheme: 
-dark)" srcset="dat/md/ico/dm/googlescholar.svg" ><img src="dat/md/ico/wm/googlescholar.svg" width="16" 
-height="16"></picture></a>
-<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000799138600004" title="Search on Web of 
-Science"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/wos.svg" ><img 
-src="dat/md/ico/wm/wos.svg" width="16" height="16"></picture></a>
-<a href="http://www.scopus.com/record/display.url?eid=2-s2.0-85127958344&origin=resultslist" title="Search on 
-Scopus"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/scopus.svg" ><img 
-src="dat/md/ico/wm/scopus.svg" width="16" height="16"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/blank.svg"><img 
-src="dat/md/ico/wm/blank.svg" width="16" height="16"></picture><picture><source media="(prefers-color-scheme: dark)" 
-srcset="dat/md/ico/dm/blank.svg"><img src="dat/md/ico/wm/blank.svg" width="16" height="16"></picture><a 
-href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2022.106800" title="Search on plu.mx"><picture><source media="(
-prefers-color-scheme: dark)" srcset="dat/md/ico/dm/plumx.svg" ><img src="dat/md/ico/wm/plumx.svg" width="16" 
-height="16"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/blank.svg"><img 
-src="dat/md/ico/wm/blank.svg" width="16" height="16"></picture><a 
-href="https://api.crossref.org/works/10.1016/j.cemconres.2022.106800" title="Search on Crossref"><picture><source 
-media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/crossref.svg" ><img src="dat/md/ico/wm/crossref.svg" 
-width="16" height="16"></picture></a>
-<a href="https://api.openalex.org/works/doi:10.1016/j.cemconres.2022.106800" title="Search on 
-OpenAlex"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/openalex.svg" ><img 
-src="dat/md/ico/wm/openalex.svg" width="16" height="16"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/blank.svg"><img 
-src="dat/md/ico/wm/blank.svg" width="16" height="16"></picture><a 
-href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cemconres.2022.106800" title="Search on Semantic 
-Scholar"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/semanticscholar.svg" ><img 
-src="dat/md/ico/wm/semanticscholar.svg" width="16" height="16"></picture></a>
-<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.cemconres.2022.106800" title="Search on Open 
-Citations"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/opencitations.svg" ><img 
-src="dat/md/ico/wm/opencitations.svg" width="16" height="16"></picture></a>
-<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconres.2022.106800&type=publication&type
-=publication" title="Search on Researchgate"><picture><source media="(prefers-color-scheme: dark)" 
-srcset="dat/md/ico/dm/researchgate.svg" ><img src="dat/md/ico/wm/researchgate.svg" width="16" height="16"></picture></a>
-<a href="https://scite.ai/reports/a-roadmap-for-quality-control-r6zmb5x4" title="Search on Scite" ><picture><source 
-media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/scite.svg"><img src="dat/md/ico/wm/scite.svg" width="16" 
-height="16"></picture></a>
-<a href="https://inciteful.xyz/p/W4224055972" title="Search on Inciteful"><picture><source media="(
-prefers-color-scheme: dark)" srcset="dat/md/ico/dm/connectedpapers.svg" ><img src="dat/md/ico/wm/connectedpapers.svg" 
-width="16" height="16"></picture></a>
+<a href="https://scholar.google.com/scholar_lookup?title=A%20Roadmap%20for%20Quality%20Control%20of%20Hardening%20and%20Hardened%20Printed%20Concrete" title="Search on Google Scholar"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/googlescholar.svg" ><img src="ico/wm/googlescholar.svg" width="16" height="16"></picture></a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000799138600004" title="Search on Web of Science"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/wos.svg" ><img src="ico/wm/wos.svg" width="16" height="16"></picture></a>
+<a href="http://www.scopus.com/record/display.url?eid=2-s2.0-85127958344&origin=resultslist" title="Search on Scopus"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/scopus.svg" ><img src="ico/wm/scopus.svg" width="16" height="16"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/blank.svg"><img src="ico/wm/blank.svg" width="16" height="16"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/blank.svg"><img src="ico/wm/blank.svg" width="16" height="16"></picture><a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2022.106800" title="Search on plu.mx"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/plumx.svg" ><img src="ico/wm/plumx.svg" width="16" height="16"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/blank.svg"><img src="ico/wm/blank.svg" width="16" height="16"></picture><a href="https://api.crossref.org/works/10.1016/j.cemconres.2022.106800" title="Search on Crossref"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/crossref.svg" ><img src="ico/wm/crossref.svg" width="16" height="16"></picture></a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.cemconres.2022.106800" title="Search on OpenAlex"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/openalex.svg" ><img src="ico/wm/openalex.svg" width="16" height="16"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/blank.svg"><img src="ico/wm/blank.svg" width="16" height="16"></picture><a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cemconres.2022.106800" title="Search on Semantic Scholar"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/semanticscholar.svg" ><img src="ico/wm/semanticscholar.svg" width="16" height="16"></picture></a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.cemconres.2022.106800" title="Search on Open Citations"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/opencitations.svg" ><img src="ico/wm/opencitations.svg" width="16" height="16"></picture></a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconres.2022.106800&type=publication&type=publication" title="Search on Researchgate"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/researchgate.svg" ><img src="ico/wm/researchgate.svg" width="16" height="16"></picture></a>
+<a href="https://scite.ai/reports/a-roadmap-for-quality-control-r6zmb5x4" title="Search on Scite" ><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/scite.svg"><img src="ico/wm/scite.svg" width="16" height="16"></picture></a>
+<a href="https://inciteful.xyz/p/W4224055972" title="Search on Inciteful"><picture><source media="(prefers-color-scheme: dark)" srcset="ico/dm/connectedpapers.svg" ><img src="ico/wm/connectedpapers.svg" width="16" height="16"></picture></a>
 
 ## Publication
 
