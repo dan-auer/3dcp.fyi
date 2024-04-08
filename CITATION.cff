@@ -1,0 +1,37 @@
+cff-version: 1.0.0
+message: "If you use 3dcp.fyi for your research, please cite the following."
+references:
+  - type: conference-paper
+  authors:
+  - family-names: Auer
+    given-names: Daniel
+    orcid: 0000-0002-9701-7807
+    affiliation: Chair of Concrete Structures, School of Engineering and Design, Technical University of Munich 
+  - family-names: Bos
+    given-names: Freek
+    orcid: 0000-0002-6666-2395
+    affiliation: Chair of Concrete Structures, School of Engineering and Design, Technical University of Munich 
+  - family-names: Fischer
+    given-names: Oliver
+    orcid: 0000-0003-0528-5634
+    affiliation: Chair of Concrete Structures, School of Engineering and Design, Technical University of Munich 
+  title: "3dcp.fyi"
+  year: 2024
+  collection-title: tba
+  collection-doi: tba
+  editors:
+  - family-names: tba
+    given-names: tba
+  conference:
+  - name: tba
+    location: tba
+    address: tba
+    city: tba
+    region: tba
+    post-code: tba
+    country: tba
+    date-start: tba
+    date-end: tba
+start: tba
+end: tba
+doi: tba
