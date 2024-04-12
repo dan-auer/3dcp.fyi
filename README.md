@@ -37,6 +37,7 @@ quality and consistency, we've taken the extra step of manually curating each en
 generations](https://en.wikipedia.org/wiki/Topological_sorting)
 - [x] links to third party services are provided
 - [ ] community detection is applied to identify clusters of related works (upcoming feature)
+- [ ] abstracts and keywords indexed by controlled vocabulary (upcoming feature)
 
 ## Example
 
