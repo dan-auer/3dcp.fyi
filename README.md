@@ -19,8 +19,8 @@ src=https://img.shields.io/badge/Evaluated%20Citations-52k-98c6ea></a>
 
 <a href="https://www.3dcp.fyi" title="Last Update"><img 
 src=https://img.shields.io/badge/Last%20Update-2024--08--27-a2ad00></a>
-<a href="https://github.com/dan-auer/3dcp.fyi/blob/main/dat/3dcp.fyi.bib" title="Download Dataset"><img 
-src=https://img.shields.io/badge/Download%20Dataset-3dcp.bib%20(1.87%20MB)-e37222></a>
+<a href="https://raw.githubusercontent.com/dan-auer/3dcp.fyi/main/dat/3dcp.fyi.bib" title="Download Dataset ↓"><img 
+src=https://img.shields.io/badge/Download%20Dataset-3dcp.bib%20(5.81%20MB)-e37222></a>
 </h5>
 
 > Relax, this isn't another review paper on 3D concrete printing (**3DCP**)! Instead, we've curated an exhaustive 
