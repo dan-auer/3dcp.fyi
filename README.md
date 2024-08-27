@@ -9,7 +9,7 @@
 # 3DCP.fyi
 
 <h5 align="center">
-<a href="https://www.3dcp.fyi" title="Publication"><img src=https://img.shields.io/badge/DOI-tba-0065bd></a>
+<a href="https://www.3dcp.fyi" title="Publication"><img src=https://img.shields.io/badge/DOI-10.1007/978-3-031-70031-6_62-0065bd></a>
 <a href="https://www.3dcp.fyi" title="Contribution"><img src=https://img.shields.io/badge/Contribution-Welcome-999999></a>
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licence"><img src=https://img.shields.io/badge/Licence-CC%20BY--NC--SA--4.0-999999></a>
     
@@ -55,6 +55,7 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 <a href="https://orcid.org/0000-0002-3999-5186"> Markus <b>Taubert</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-6666-2395"> Freek <b>Bos</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a><br>Journal Article – Cement and Concrete Research, Vol. 157
 
+<details><summary>Abstract</summary>This article focuses on the specifics in characterizing the properties of additively manufactured, cement-based materials in their hardening and hardened states. Such characterization is required for the material development, structural design, and quality control of both printable material and 3D-printed elements. The related challenges are associated with the printed material's layered structure, which results in higher degrees of anisotropy and inhomogeneity in comparison to conventionally cast concrete. Thus, in the production of test specimens, the particularities of the real-scale 3D-printing process must be considered. Here a distinction is made between the production of samples for material testing prior to or parallel to actual application and those extracted from full-scale elements. Specifics of destructive testing are analyzed with emphasis on mechanical characteristics, while the discussion of non-destructive testing mainly addresses the geometry of the deposited layers and printed elements, measuring deformations, and finding such defects as voids and gaps. Finally, approaches required for developing/adapting guidelines and standards for testing of 3D-printed, cement-based materials are discussed.</details>
 <details><summary>Metrics</summary><img src="dat/md/fig/mech_titt_kaze_krei.2022.ARfQCoHaHPC.svg"></details><a href="https://scholar.google.com/scholar_lookup?title=A%20Roadmap%20for%20Quality%20Control%20of%20Hardening%20and%20Hardened%20Printed%20Concrete" title="Search on Google Scholar"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/googlescholar.svg" ><img src="dat/md/ico/wm/googlescholar.svg" width="16" height="16"></picture></a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000799138600004" title="Search on Web of Science"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/wos.svg" ><img src="dat/md/ico/wm/wos.svg" width="16" height="16"></picture></a>
 <a href="http://www.scopus.com/record/display.url?eid=2-s2.0-85127958344&origin=resultslist" title="Search on Scopus"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/scopus.svg" ><img src="dat/md/ico/wm/scopus.svg" width="16" height="16"></picture></a>
@@ -69,7 +70,8 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 
 ## Publication
 
-tba
+Accepted for Publication @ 4th RILEM International Conference on Concrete and Digital Fabrication 2024
+4th to 6th September 2024 - Munich, Germany
 
 ## Overview
 
