@@ -12,7 +12,7 @@
 <a href="https://www.3dcp.fyi" title="Publication"><img src=https://img.shields.io/badge/DOI-10.1007/978--3--031--70031--6__62-0065bd></a>
 <a href="https://www.3dcp.fyi" title="Contribution"><img src=https://img.shields.io/badge/Contribution-Welcome-999999></a>
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licence"><img src=https://img.shields.io/badge/Licence-CC%20BY--NC--SA--4.0-999999></a>
-    
+
 <a href="https://www.3dcp.fyi" title="Entries in Database"><img src=https://img.shields.io/badge/Scientific%20Works-3039-98c6ea></a>
 <a href="https://www.3dcp.fyi" title="References in Database"><img 
 src=https://img.shields.io/badge/Evaluated%20Citations-52k-98c6ea></a>
@@ -31,18 +31,23 @@ quality and consistency, we've taken the extra step of manually curating each en
 - [x] authors are identified through their **ORCiD** profiles
 - [ ] universities are tagged with their respective **ROR**s (upcoming feature)
 - [ ] citations have a semantic weight (upcoming feature)
-- [x] open accessible papers are tagged by XXX and can be downloaded via XXX
+- [x] open accessible papers are tagged and can be downloaded directly
 - [x] year of publication is enhanced by the month
 - [x] publications are evaluated by several of their centralities in the citation network over multiple [topological 
 generations](https://en.wikipedia.org/wiki/Topological_sorting)
 - [x] links to third party services are provided
 - [ ] community detection is applied to identify clusters of related works (upcoming feature)
 
+## Publication
+
+Accepted for Publication @ 4th RILEM International Conference on Concrete and Digital Fabrication 2024
+4th to 6th September 2024 - Munich, Germany
+
 ## Example
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/openaccess.svg"><img src="dat/md/ico/wm/openaccess.svg" width="16" height="16"></picture> <a href="https://github.com/dan-auer/3dcp.fyi/blob/main/dat/3dcp.fyi.bib#L28903-L28921" title="Get the BibTeX Entry"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/bibtex.svg"><img src="dat/md/ico/wm/bibtex.svg" width="16" height="16"></picture></a> <a href="https://doi.org/10.1016/j.cemconres.2022.106800" title="DOI" ><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/doi.svg" ><img src="dat/md/ico/wm/doi.svg" width="16" height="16"></picture></a> <a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconres.2022.106800&domain=pdf" title="Crossmark" ><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/crossmark.svg" ><img src="dat/md/ico/wm/crossmark.svg" width="16" height="16"></picture></a> <a href="https://pure.tue.nl/ws/files/201597010/1_s2.0_S0008884622000916_main.pdf" title="Get the *.pdf via unpaywall.com" ><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/down.svg" ><img src="dat/md/ico/wm/down.svg" width="16" height="16"></picture></a> A Roadmap for Quality Control of Hardening and Hardened Printed Concrete (2022-04)
 <a href="https://orcid.org/0000-0002-4685-7064"> Viktor <b>Mechtcherine</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0002-7718-3189"> Kim <b>Tittelboom</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0002-7718-3189"> Kim <b>van Tittelboom</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-9525-6759"> Ali <b>Kazemian</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-6160-9448"> Eric <b>Kreiger</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0003-2422-4589"> Behzad <b>Nematollahi</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
@@ -67,11 +72,6 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 <a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconres.2022.106800&type=publication&type=publication" title="Search on Researchgate"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/researchgate.svg" ><img src="dat/md/ico/wm/researchgate.svg" width="16" height="16"></picture></a>
 <a href="https://scite.ai/reports/a-roadmap-for-quality-control-r6zmb5x4" title="Search on Scite" ><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/scite.svg"><img src="dat/md/ico/wm/scite.svg" width="16" height="16"></picture></a>
 <a href="https://inciteful.xyz/p/W4224055972" title="Search on Inciteful"><picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/connectedpapers.svg" ><img src="dat/md/ico/wm/connectedpapers.svg" width="16" height="16"></picture></a>
-
-## Publication
-
-Accepted for Publication @ 4th RILEM International Conference on Concrete and Digital Fabrication 2024
-4th to 6th September 2024 - Munich, Germany
 
 ## Overview
 
