@@ -9,7 +9,7 @@
 # 3DCP.fyi
 
 <h5 align="center">
-<a href="https://www.3dcp.fyi" title="Publication"><img src=https://img.shields.io/badge/DOI-10.1007/978--3-031--70031--6_62-0065bd></a>
+<a href="https://www.3dcp.fyi" title="Publication"><img src=https://img.shields.io/badge/DOI-10.1007/978--3--031--70031--6__62-0065bd></a>
 <a href="https://www.3dcp.fyi" title="Contribution"><img src=https://img.shields.io/badge/Contribution-Welcome-999999></a>
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licence"><img src=https://img.shields.io/badge/Licence-CC%20BY--NC--SA--4.0-999999></a>
     
