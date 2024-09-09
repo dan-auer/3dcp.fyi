@@ -40,6 +40,7 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 
 ## Publication
 
+If our database has been helpful to you, please consider citing our work!
 ```
 @inproceedings{auer_bos_fisc.2024.3f,
   title               = {3DCP.fyi - A Comprehensive Citation Network Graph on the State of the Artin 3D Concrete Printing},
