@@ -40,8 +40,20 @@ generations](https://en.wikipedia.org/wiki/Topological_sorting)
 
 ## Publication
 
-Accepted for Publication @ 4th RILEM International Conference on Concrete and Digital Fabrication 2024
-4th to 6th September 2024 - Munich, Germany
+```
+@inproceedings{auer_bos_fisc.2024.3f,
+  title               = {3DCP.fyi - A Comprehensive Citation Network Graph on the State of the Artin 3D Concrete Printing},
+  author              = {Auer, Daniel and Bos, Freek Paul and Fischer, Oliver},
+  year                = {2024},
+  booktitle           = {Proceedings of the Fourth RILEM International Conference on Concrete and Digital Fabrication},
+  publisher           = {Springer Nature Switzerland},
+  address             = {Cham},
+  volume              = {53},
+  pages               = {533--538},
+  doi                 = {10.1007/978-3-031-70031-6_62},
+  editor              = {Lowke, Dirk and Freund, Niklas and Böhler, David and Herding, Friedrich}
+}
+```
 
 ## Example
 
@@ -53,8 +65,8 @@ Accepted for Publication @ 4th RILEM International Conference on Concrete and Di
 <a href="https://orcid.org/0000-0003-2422-4589"> Behzad <b>Nematollahi</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-8580-5320"> Venkatesh <b>Nerella</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-2358-1261"> Manu <b>Santhanam</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0001-5603-2616"> Geert <b>Schutter</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
-<a href="https://orcid.org/0000-0001-8066-7750"> Gideon <b>Zijl</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0001-5603-2616"> Geert <b>de Schutter</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
+<a href="https://orcid.org/0000-0001-8066-7750"> Gideon <b>van Zijl</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0001-8626-918X"> Dirk <b>Lowke</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-0905-9557"> Egor <b>Ivaniuk</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
 <a href="https://orcid.org/0000-0002-3999-5186"> Markus <b>Taubert</b> <picture><source media="(prefers-color-scheme: dark)" srcset="dat/md/ico/dm/orcid.svg" ><img src="dat/md/ico/wm/orcid.svg" width="16" height="16"></picture></a>,
