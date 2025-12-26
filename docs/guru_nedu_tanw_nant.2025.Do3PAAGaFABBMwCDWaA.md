@@ -1,0 +1,118 @@
+---
+hide:
+    - navigation
+    - tags
+title: M. Gurunandan, Aparna Nedunuri, Jayant Tanwar, Prakash Nanthagopalan, Salman Muhammad
+description:
+tags:
+ - activation
+ - aggregate
+ - alkali
+ - ash
+ - base
+ - binder
+ - concrete
+ - demolition
+ - development
+ - ggbfs
+ - mortar
+ - printability
+ - waste
+
+---
+
+#:aca-closedaccess:{ .xred '} Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates ([2025-02](date/2025/02))
+<a href="https://doi.org/10.1016/j.cemconcomp.2025.105954" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.105954</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a> <a href="https://orcid.org/0000-0002-6140-7432" title="ORCID: 0000-0002-6140-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/nedunuri_sai-surya-sree_aparna"><b>Nedunuri</b> Aparna</a> <a href="https://orcid.org/0000-0003-3672-2729" title="ORCID: 0000-0003-3672-2729" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/tanwar_jayant"><b>Tanwar</b> Jayant</a> <a href="https://orcid.org/0009-0005-6353-9833" title="ORCID: 0009-0005-6353-9833" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/muhammad_salman"><b>Muhammad</b> Salman</a> <a href="https://orcid.org/0000-0003-2812-9351" title="ORCID: 0000-0003-2812-9351" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Cement and Concrete Composites, Vol. 157, No. 105954
+
+:aca-blank:{ .lg .middle}
+    [`#activation`](keyword/activation)
+    [`#aggregate`](keyword/aggregate)
+    [`#alkali`](keyword/alkali)
+    [`#ash`](keyword/ash)
+    [`#base`](keyword/base)
+    [`#binder`](keyword/binder)
+    [`#concrete`](keyword/concrete)
+    [`#demolition`](keyword/demolition)
+    [`#development`](keyword/development)
+    [`#ggbfs`](keyword/ggbfs)
+    [`#mortar`](keyword/mortar)
+    [`#printability`](keyword/printability)
+    [`#waste`](keyword/waste)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D-Printable%20Alkali-Activated%20GGBFS%20and%20Fly-Ash-Binder-Based%20Mortars%20with%20Concrete-Demolition-Waste%20as%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216869199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001424546800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.105954" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.cemconcomp.2025.105954" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.cemconcomp.2025.105954" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cemconcomp.2025.105954" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconcomp.2025.105954&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.cemconcomp.2025.105954" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconcomp.2025.105954&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4407167427" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.105954" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.105954?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    3D-printable alkali-activated mortar mixtures using concrete demolition waste (CDW) as aggregates, which are pumpable, extrudable, buildable up to 1000 mm with an open time of 180 minutes were developed in this study. The mixtures provided a minimum compressive strength of 50 MPa at 28 days age. The effect of various parameters such as binder composition, water-to-binder ratio, molar modulus and activator dosage on workability of the mixtures was investigated. The mixtures were assessed for pumpability, extrudability and buildability in fresh state and for compressive and splitting tensile strength in hardened state. The high workability mixtures (spread diameter>180 mm) recorded lower pumping pressure (<6 bar) and higher extrusion test discharge (>25 cm3/s at 25 rpm) inferring that they were easier to pump and extrude. However, they possessed lower strength (<1 kg) and stiffness (<2 kg/mm) at 20th minute in empirical buildability test, leading to lower buildable height (100 mm). The mixtures with spread diameter of 135–165 mm having static yield stress of 1.8–2.4 kPa, were apt for 3D-printing as it was buildable (>500 mm) without compromising on pumpability and extrudability. FTIR, XRD and TGA studies revealed that the prolonged workable time was due to the formation of sodium carbonate resulting from the reaction of carbonate phases in CDW with sodium hydroxide. The printing process has not affected the mechanical properties of the mixtures and there is no cold joint formed between subsequently printed layers. The 3D-printed specimens exhibited an anisotropic index of less than 0.30 indicating that they were isotopic in compression.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM/">Investigation of Additive Incorporation on Rheological, Microstructural and Mechanical Properties of 3D Printable Alkali-Activated Materials</a></li>
+      <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
+      <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
+      <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ilca_kula_sahm.2024.3PCaDWBG/">3D Printable Construction and Demolition Waste-Based Geopolymer:<br/>Investigating the Effects of Additives on Engineering Properties</a></li>
+      <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/ozcelikci_emircan"><b>Ozcelikci</b> Emircan</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ilca_sahi_kul_ozce.2023.RPaEPAoCaDWBGMwVTP/">Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols</a></li>
+      <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../jaji_zijl_baba.2023.SMFRMBGf3CPA/">Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application:<br/>Evaluating Fresh and Hardened Properties</a></li>
+      <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
+      <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
+      <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CbPCaTBSoAMMUXRCT/">Correlation between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
+      <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>
+      <li><a href="../../../author/liu_chenkang"><b>Liu</b> Chenkang</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhou_cong"><b>Zhou</b> Cong</a>, <a href="../../../author/sun_honglei"><b>Sun</b> Honglei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../liu_yue_zhou_sun.2021.AMPoEB3PLC/">Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
+      <li><a href="../../../author/mir_namra"><b>Mir</b> Namra</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM/">Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
+      <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
+      <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
+      <li>None</li>
+      <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../noai_chou_alba_skib.2023.RBAiOPAAM/">Recycled Brick-Aggregates in One-Part Alkali-Activated Materials:<br/>Impact on 3D Printing Performance and Material-Properties</a></li>
+      <li><a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ozk_ilca_amin_tugl.2023.BPaAPo3PCaDWBG/">Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers:<br/>Effect of Operational- and Material-Oriented Parameters</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../pand_ruan_unlu_tan.2020.IotPoAASMItUoNCaNSf3P/">Investigation of the Properties of Alkali-Activated Slag Mixes Involving the Use of Nano-Clay and Nucleation-Seeds for 3D Printing</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../pand_unlu_tan.2019.EaRCoGNUi3P/">Extrusion and Rheology Characterization of Geopolymer Nanocomposites Used in 3D Printing</a></li>
+      <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pasu_rama_sanj.2023.3CPoEFGCBW/">3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste</a></li>
+      <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a></li>
+      <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
+      <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
+      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
+      <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
+      <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
+      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
+      <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>

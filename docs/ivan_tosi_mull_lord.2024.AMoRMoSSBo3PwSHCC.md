@@ -1,0 +1,124 @@
+---
+hide:
+    - navigation
+    - tags
+title: Egor Ivaniuk, Zlata Tošić, Steffen Müller, Daniel Lordick, Viktor Mechtcherine
+description:
+tags:
+ - automation
+ - base
+ - cement
+ - composite
+ - hardened
+ - manufacturing
+ - modular
+ - print
+ - reinforcement
+ - segment
+ - shell
+ - strain
+ - on
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.autcon.2024.105591) Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites ([2024-07](date/2024/07))
+<a href="https://doi.org/10.1016/j.autcon.2024.105591" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2024.105591</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> <a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> <a href="https://orcid.org/0000-0002-6276-2452" title="ORCID: 0000-0002-6276-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> <a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> <a href="https://orcid.org/0000-0001-9739-4728" title="ORCID: 0000-0001-9739-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Automation in Construction, Vol. 166, No. 105591
+
+:aca-blank:{ .lg .middle}
+    [`#automation`](keyword/automation)
+    [`#base`](keyword/base)
+    [`#cement`](keyword/cement)
+    [`#composite`](keyword/composite)
+    [`#hardened`](keyword/hardened)
+    [`#manufacturing`](keyword/manufacturing)
+    [`#modular`](keyword/modular)
+    [`#print`](keyword/print)
+    [`#reinforcement`](keyword/reinforcement)
+    [`#segment`](keyword/segment)
+    [`#shell`](keyword/shell)
+    [`#strain`](keyword/strain)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Manufacturing%20of%20Reinforced%20Modules%20of%20Segmented%20Shells%20Based%20on%203D%20Printing%20with%20Strain-Hardening%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197045724&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001264929000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105591" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.autcon.2024.105591" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.autcon.2024.105591" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.autcon.2024.105591" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.autcon.2024.105591&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.autcon.2024.105591" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.autcon.2024.105591&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4400229937" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2024.105591" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2024.105591?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    To mitigate the negative environmental impact of cement production, it is crucial to adopt a more rational approach to its utilization. One approach is the fabrication of thin-walled concrete shells, which can cover large spans while minimalizing material consumption. The implementation of the modular approach in shell structures can overcome the limitations of the conventional formwork-based method. Until now, however, there was no approach available for fast and efficient automated production of reinforced concrete shell modules. This paper presents a fully automated method for creating such modules. It utilizes 3D printing with Strain-Hardening Cementitious Composite to fabricate the module contours. As a result, modules were manufactured in accordance with the proposed approach and were assembled into a shell structure. Finally, the developed module production method was analyzed to estimate the time required to produce a single module in the case of continuous flow production.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
+      <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
+      <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
+      <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
+      <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
+      <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
+      <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
+      <li>None</li>
+      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
+      <li>None</li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
+      <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/li_yuqian"><b>Li</b> Yuqian</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_xu_li.2022.TIoFSo3CPBF/">The Impacts of Fabrication Systems on 3D Concrete Printing Building Forms</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ivan_eich_tosi_mull.2022.3PaAoFMUPSHCBC/">3D Printing and Assembling of Frame Modules Using Printable Strain-Hardening Cement-Based Composites</a></li>
+      <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ivan_ivan_soko_tosi.2022.ADMDoPSHCC/">Application-Driven Material-Design of Printable Strain-Hardening Cementitious Composites</a></li>
+      <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
+      <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../lim_weng_pham.2020.3PoCCSUAMF/">3D Printing of Curved Concrete Surfaces Using Adaptable Membrane Formwork</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mech_mich_lieb_schn.2020.MICFCaNRfCC/">Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>Material and Automation Perspectives</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
+      <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nuh_oval_orr.2022.A/">ARCS:<br/>Automated Robotic Concrete Spraying for the Fabrication of Variable Thickness Doubly Curved Shells</a></li>
+      <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nuh_oval_orr_shep.2022.DFoRCSUARCS/">Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying</a></li>
+      <li><a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/costa_eduardo"><b>Costa</b> Eduardo</a>, <a href="../../../author/madyan_abo_omar"><b>Madyan</b> Omar</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../oval_nuh_cost_mady.2023.APLCSCSBFS/">A Prototype Low-Carbon Segmented Concrete Shell Building Floor System</a></li>
+      <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
+      <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
+      <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tosi_eich_ivan_lord.2022.DaOoFFSfMC3P/">Design and Optimization of Free-Form Surfaces for Modular Concrete 3D Printing</a></li>
+      <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
+      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
+      <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
+      <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
+      <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../du_deng_qian.2025.B3PHBCCfUHIP/">Biomimetic 3D Printed Herringbone-Bouligand Cementitious Composites for Ultra-High Impact Performance</a></li>
+      <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
+      <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/pukhkaiev_dmytro"><b>Pukhkaiev</b> Dmytro</a>, <a href="../../../author/reichle_mathias"><b>Reichle</b> Mathias</a>, <a href="../../../author/zhao_wanqi"><b>Zhao</b> Wanqi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ivan_pukh_reic_zhao.2025.RAoMCSUF/">Robotic Assembly of Modular Concrete Shells Using Falsework</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_tosi_lord_mech.2024.FPoVCMfTWCSS/">Flow Production of Variable Curved Modules for Thin-Walled Concrete Shell Structures</a></li>
+      <li><a href="../../../author/adams_julian_thomas"><b>Adams</b> Thomas</a>, <a href="../../../author/wu_han_chu"><b>Wu</b> Chu</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../adam_wu_mull_mech.2024.ABMoCS/">As-Built Monitoring of Concrete Structures</a></li>
+    </ol>
+</div>

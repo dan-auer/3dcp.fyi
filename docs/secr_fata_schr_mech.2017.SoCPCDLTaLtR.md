@@ -1,0 +1,113 @@
+---
+hide:
+    - navigation
+    - tags
+title: Egor Secrieru, Shirin Fataei, Christof Schröfl, Viktor Mechtcherine
+description:
+tags:
+ - combination
+ - concrete
+ - difference
+ - labor
+ - link
+ - pumpability
+ - rheology
+ - tool
+ - on
+
+---
+
+#:aca-closedaccess:{ .xred '} Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology ([2017-04](date/2017/04))
+<a href="https://doi.org/10.1016/j.conbuildmat.2017.03.199" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2017.03.199</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a> <a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a> <a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> <a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Construction and Building Materials, Vol. 144, pp. 451-461
+
+:aca-blank:{ .lg .middle}
+    [`#combination`](keyword/combination)
+    [`#concrete`](keyword/concrete)
+    [`#difference`](keyword/difference)
+    [`#labor`](keyword/labor)
+    [`#link`](keyword/link)
+    [`#pumpability`](keyword/pumpability)
+    [`#rheology`](keyword/rheology)
+    [`#tool`](keyword/tool)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Concrete%20Pumpability%20Combining%20Different%20Laboratory%20Tools%20and%20Linkage%20to%20Rheology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85016713392&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000401385800046" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2017.03.199" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.conbuildmat.2017.03.199" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.conbuildmat.2017.03.199" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.conbuildmat.2017.03.199" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.conbuildmat.2017.03.199&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.conbuildmat.2017.03.199" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.conbuildmat.2017.03.199&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W2604661082" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2017.03.199" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2017.03.199?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    The paper at hand focuses on various methods to characterize the pumpability of fresh concrete. Primarily the rheological behaviours of the concrete as a bulk are described. The study concentrates on the composition and rheological properties of the lubrication layer forming at the interface to the pipeline wall, since this layer is widely considered crucial for concrete pumpability. For this purpose, the material forming the lubrication layer (LL) is sampled from the various concrete mixtures. The results confirm that in addition to the rheological properties of the bulk of fresh concrete, the properties of the lubrication layer and the roughness of the pipe-wall significantly affect concrete flow in pipes. Based on the composition of the concrete and the lubrication layer, it is possible to design the constitutive material of the lubrication layer with properties similar to the one forming in concrete during pumping. It has as well been demonstrated that knowledge of the rheological properties of the lubrication layer is not sufficient to state whether the concrete is pumpable or not. Only a combination of rheological instruments makes the adequate description of concrete pumpability possible.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
+      <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
+      <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
+      <li>None</li>
+      <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
+      <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2014/11">(2014-11)</a><br><a href="../../../secr_butl_mech.2014.TPoC/">Testing Pumpability of Concrete:<br/>From Laboratory into Practice</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
+      <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../abed_wari_alaw_jabr.2024.FLEtMS/">From Local Earth to Modern Structures:<br/>A Critical Review of 3D Printed Cement Composites for Sustainable and Efficient Construction</a></li>
+      <li><a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mali_riaz_rehm_usma.2024.AMDPi3PC/">Advancing Mix-Design Prediction in 3D Printed Concrete:<br/>Predicting Anisotropic Compressive Strength and Slump-Flow</a></li>
+      <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/gao_yang"><b>Gao</b> Yang</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/jiao_huazhe"><b>Jiao</b> Huazhe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_gao_chen_jiao.2024.3PCTfaRP/">3D Printing Concrete Technology from a Rheology Perspective:<br/>A Review</a></li>
+      <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shen_zhu_cai_li.2024.DoaNEDtItPo3PGC/">Development of a Novel Extrusion-Device to Improve the Printability of 3D Printable Geopolymer Concrete</a></li>
+      <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a></li>
+      <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/ding_faxing"><b>Ding</b> Faxing</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../xie_liu_ding_zhan.2023.CaMotPMSttSFoCFUP/">Characteristics and Mechanism of the Particle-Migration Subject to the Shear Flow of Concrete Flow Under Pressure</a></li>
+      <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
+      <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>
+      <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../skib_put_kasz_hoff.2022.TEoURPAoMaDPo3PM/">The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar</a></li>
+      <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
+      <li><a href="../../../author/cui_jinyang"><b>Cui</b> Jinyang</a>, <a href="../../../author/he_zhen"><b>He</b> Zhen</a>, <a href="../../../author/zhang_guozhi"><b>Zhang</b> Guozhi</a>, <a href="../../../author/cai_xinhua"><b>Cai</b> Xinhua</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../cui_he_zhan_cai.2022.RPoSUHPCwDVEA/">Rheological Properties of Sprayable Ultra-High-Performance Concrete with Different Viscosity-Enhancing Agents</a></li>
+      <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/jakubowska_patrycja"><b>Jakubowska</b> Patrycja</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_jaku_kasz_sibe.2021.EAMPo3PMwSG/">Early-Age Mechanical Properties of 3D Printed Mortar with Spent Garnet</a></li>
+      <li><a href="../../../author/tavangar_tooran"><b>Tavangar</b> Tooran</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../tava_hoss_yahi_khay.2022.NTVMtSPoFCTCoLLaPZ/">Novel Tri-Viscous-Model to Simulate Pumping of Flowable Concrete Through Characterization of Lubrication-Layer and Plug-Zones</a></li>
+      <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
+      <li><a href="../../../author/tavangar_tooran"><b>Tavangar</b> Tooran</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tava_hoss_yahi_khay.2021.CIoCPF/">Computational Investigation of Concrete-Pipe-Flow:<br/>Critical Review</a></li>
+      <li><a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../fata_secr_mech_rous.2021.AFOPMftPoSIPMaLLFDCP/">A First-Order Physical Model for the Prediction of Shear-Induced Particle-Migration and Lubricating-Layer Formation During Concrete Pumping</a></li>
+      <li><a href="../../../author/song_hongwei"><b>Song</b> Hongwei</a>, <a href="../../../author/li_xinle"><b>Li</b> Xinle</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../song_li.2021.AOotRMPD3PaMPoNiCC/">An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites</a></li>
+      <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
+      <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
+      <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../skib_put_kasz.2021.EoMMUPi3CPT/">Evaluation of Material-Modification Using PET in 3D Concrete Printing Technology</a></li>
+      <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
+      <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
+      <li><a href="../../../author/zongo_karim"><b>Zongo</b> Karim</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a>, <a href="../../../author/duval_corentin"><b>Duval</b> Corentin</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zong_char_duva_ouel.2020.DaSYSDoCPwA/">Dynamic and Static Yield-Stress Determination of Cementitious Paste with Admixtures</a></li>
+      <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
+      <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../mech_nere.2019.3CPbSD/">3D-Concrete-Printing by Selective Deposition:<br/>Requirements for Fresh Concrete and Testing</a></li>
+      <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
+      <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../secr_cota_mech_loha.2018.CiCPDPaFoLMUP/">Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure</a></li>
+      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../nere_mech.2018.VSPRfEPoC/">Virtual Sliding-Pipe Rheometer for Estimating Pumpability of Concrete</a></li>
+    </ol>
+</div>

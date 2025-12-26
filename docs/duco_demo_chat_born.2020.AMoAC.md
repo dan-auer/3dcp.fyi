@@ -1,0 +1,122 @@
+---
+hide:
+    - navigation
+    - tags
+title: Nicolas Ducoulombier, Léo Demont, Camille Chateau, Michel Bornert, Jean-François Caron
+description:
+tags:
+ - additive
+ - anisotropy
+ - base
+ - cement
+ - concrete
+ - continuous
+ - fiber
+ - flow
+ - manufacturing
+ - matrix
+ - pultrusion
+ - a
+ - in
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.promfg.2020.04.117) Additive Manufacturing of Anisotropic Concrete:<br/>:aca-blank: A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix ([2020-04](date/2020/04))
+<a href="https://doi.org/10.1016/j.promfg.2020.04.117" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.promfg.2020.04.117</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/chateau_camille"><b>Chateau</b> Camille</a>
+,     <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a> <a href="https://orcid.org/0000-0002-6964-5793" title="ORCID: 0000-0002-6964-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Procedia Manufacturing, Vol. 47, pp. 1070-1077
+
+:aca-blank:{ .lg .middle}
+    [`#additive`](keyword/additive)
+    [`#anisotropy`](keyword/anisotropy)
+    [`#base`](keyword/base)
+    [`#cement`](keyword/cement)
+    [`#concrete`](keyword/concrete)
+    [`#continuous`](keyword/continuous)
+    [`#fiber`](keyword/fiber)
+    [`#flow`](keyword/flow)
+    [`#manufacturing`](keyword/manufacturing)
+    [`#matrix`](keyword/matrix)
+    [`#pultrusion`](keyword/pultrusion)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Anisotropic%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085496435&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000863670600169" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.promfg.2020.04.117" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.promfg.2020.04.117" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.promfg.2020.04.117" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.promfg.2020.04.117" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.promfg.2020.04.117&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.promfg.2020.04.117" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.promfg.2020.04.117&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W3018712310" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.promfg.2020.04.117" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.promfg.2020.04.117?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    For the tens past years, important development has been achieved on the adaptation of additive manufacturing to the construction industry using concrete. They mostly concerns control rheology at fresh state, setting time, and technology advances. Nevertheless, the reinforcement of 3D printed part remains an open question. Different reinforcement protocols have been proposed in the literature, often based on traditional way of reinforcement. In this context, the aim of this paper is to present an alternative way to reinforce extruded concrete or other pasty materials inspired by the composite industry. The present patented manufacturing methodology is based on extrusion-based additive manufacturing, inspired by pultrusion and co-extrusion process of polymer composites, but taking full advantage of the specific rheological behaviour of cementitious matrix. It consists in the continuous addition of numerous continuous yarn in the extruded mortar before the final extrusion. A comparison between those processes is made. Depending on the number of yarns and their sizes, this process is showed to provide ductility for limited amount of reinforcement and have the potential to be an alternative to passive rebar traditionally used in concrete by providing a true reinforcement in traction to the structure for larger number of yarns, changing extruded concrete in unidirectional composite with brittle matrix. Using appropriate matrix formulation, the mastering of its yield stress during the extrusion is showed to be the most important process parameters.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
+      <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
+      <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
+      <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../duba_bave_dirr.2018.DoSTBIWfRFiC/">Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete</a></li>
+      <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../duba_bave_dirr.2019.STMWwRME/">Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion</a></li>
+      <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
+      <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
+      <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
+      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
+      <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/karakchi-ogli_davut"><b>Karakchi-Ogli</b> Davut</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../slav_levc_arta_kara.2026.MBaREo3PCUCTaB/">Mechanical Behavior and Reinforcement Efficiency of 3D Printed Concrete Under Compression, Tension, and Bending</a></li>
+      <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.3PAoFAaGABaTBCM/">3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar</a></li>
+      <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.EtRoMiBaTB3PM/">Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>Deep Insights into Printability</a></li>
+      <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>
+      <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kuzm_roux_fera.2025.EIo3CP/">Environmental Impact of 3D Concrete Printing</a></li>
+      <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../perr_jacq_amzi.2025.3CP/">3D Concrete Printing</a></li>
+      <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../demo_bono_duco_mesn.2024.AC/">Anisotropic Concrete:<br/>A Composite Look on the Engineering and Architecture of Concrete Construction</a></li>
+      <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dams_chen_kaya_shep.2024.TRoAAMiC/">The Rise of Aerial Additive Manufacturing in Construction:<br/>A Review of Material Advancements</a></li>
+      <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../caro_duco_demo_bono.2024.RRCwRa3P/">Reinvent Reinforced Concrete with Robotics and 3D Printing</a></li>
+      <li><a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a>, <a href="../../../author/kotova_s_kristina"><b>Kotova</b> Кristina</a>, <a href="../../../author/shvedova_a_mariia"><b>Shvedova</b> Mariia</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../slav_arta_koto_shve.2024.POBoSaCFi3PCMoVC/">Pull-Out Behavior of Steel- and Carbon-Fibers in 3D Printable Cement Matrices of Various Compositions</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../caro_duco_demo_bono.2023.3PoCFCC/">3D Printing of Continuous-Fibers Cementitious Composites:<br/>Anisotropic 3D Mortar</a></li>
+      <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../demo_mesn_duco_caro.2023.AILSMoPMwaPSV/">Affordable In-Line Structuration Measurements of Printable Mortar with a Pocket-Shear-Vane</a></li>
+      <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a>, <a href="../../../author/kim_sung-wook"><b>Kim</b> Sung-Wook</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../seo_kim_kim_kwon.2023.MPo3PCwCAaPFitAaUE/">Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment</a></li>
+      <li><a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/chen_peng"><b>Chen</b> Peng</a>, <a href="../../../author/li_ning"><b>Li</b> Ning</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_chen_li.2023.ARotESDfLSEB3CP/">A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing</a></li>
+      <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
+      <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a>, <a href="../../../author/margerit_pierre"><b>Margerit</b> Pierre</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../demo_char_marg_duco.2022.FBPoAC/">Flow-Based Pultrusion of Anisotropic Concrete:<br/>Mechanical Properties at Hardened State</a></li>
+      <li><a href="../../../author/oke_ayodeji"><b>Oke</b> Ayodeji</a>, <a href="../../../author/atofarati_oluwatosin_john"><b>Atofarati</b> John</a>, <a href="../../../author/bello_sherifat"><b>Bello</b> Sherifat</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../oke_atof_bell.2022.Ao3PfSCiaEE/">Awareness of 3D Printing for Sustainable Construction in an Emerging Economy</a></li>
+      <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
+      <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../marc_sanj.2021.RMf3CPUPCBP/">Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
+      <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>
+      <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
+      <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
+    </ol>
+</div>

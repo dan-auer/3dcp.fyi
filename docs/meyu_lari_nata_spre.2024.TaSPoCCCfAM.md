@@ -1,0 +1,75 @@
+---
+hide:
+    - navigation
+    - tags
+title: Ohad Meyuhas, Pavel Larianovsky, Jonathan Natanian, Aaron Sprecher
+description:
+tags:
+ - additive
+ - cement
+ - composite
+ - manufacturing
+ - performance
+ - structure
+ - temperature
+
+---
+
+#:aca-closedaccess:{ .xred '} Thermal and Structural Performance of Cork-Cement Composite for Additive Manufacturing ([2024-09](date/2024/09))
+<a href="https://doi.org/10.52842/conf.ecaade.2024.1.265" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.52842/conf.ecaade.2024.1.265</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a> <a href="https://orcid.org/0009-0006-6648-5524" title="ORCID: 0009-0006-6648-5524" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> <a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/natanian_jonathan"><b>Natanian</b> Jonathan</a>
+,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+
+:aca-blank:{ .lg .middle}
+    [`#additive`](keyword/additive)
+    [`#cement`](keyword/cement)
+    [`#composite`](keyword/composite)
+    [`#manufacturing`](keyword/manufacturing)
+    [`#performance`](keyword/performance)
+    [`#structure`](keyword/structure)
+    [`#temperature`](keyword/temperature)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Structural%20Performance%20of%20Cork-Cement%20Composite%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209825909&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2024.1.265" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.52842/conf.ecaade.2024.1.265" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.52842/conf.ecaade.2024.1.265" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.52842/conf.ecaade.2024.1.265" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.52842/conf.ecaade.2024.1.265&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.52842/conf.ecaade.2024.1.265" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.52842/conf.ecaade.2024.1.265&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4404456182" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.52842/conf.ecaade.2024.1.265" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.52842/conf.ecaade.2024.1.265?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    This study explores the potential of cork-cement composites for structural and thermal performance in architecture through additive manufacturing (AM) technology. By optimizing the composite for 3D printing, the research demonstrates the unique applicability of this composite for large-scale architectural projects, particularly for building envelope elements. Employing a robotic 3D printing process, masonry blocks were manufactured and evaluated for structural performance and thermal efficiency. The results of this study demonstrate the practicality of using cement-cork composite in AM architectural envelopes. In addition, the results show that 3D-printed cork-cement composite elements outperform traditional masonry blocks. Ultimately, this study paves the way for future 3D printing of architectural elements with functionally graded structural and thermal performance.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>
+      <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../guim_delg_luca.2021.TaEBo3PoBC/">Thermal and Environmental Benefits of 3D Printing on Building Construction</a></li>
+      <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
+    </ol>
+</div>

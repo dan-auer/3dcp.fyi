@@ -1,0 +1,133 @@
+---
+hide:
+    - navigation
+    - tags
+title: Norman Hack, Mohammad Bahar, Christian Hühne, William Lopez, Stefan Gantner, Noor Khader, Tom Rothe
+description:
+tags:
+ - additive
+ - base
+ - development
+ - direction
+ - dynamic
+ - fiber
+ - manufacturing
+ - multi
+ - print
+ - process
+ - robot
+ - shotcrete
+ - a
+ - multi
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2079-6439/9/6/39/pdf?version=1623242166) Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing ([2021-06](date/2021/06))
+<a href="https://doi.org/10.3390/fib9060039" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/fib9060039</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a> <a href="https://orcid.org/0000-0002-8549-4198" title="ORCID: 0000-0002-8549-4198" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lopez_william"><b>Lopez</b> William</a>
+,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/khader_noor"><b>Khader</b> Noor</a> <a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> <a href="https://orcid.org/0000-0001-7066-3211" title="ORCID: 0000-0001-7066-3211" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Fibers, Vol. 9, Iss. 6, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#additive`](keyword/additive)
+    [`#base`](keyword/base)
+    [`#development`](keyword/development)
+    [`#direction`](keyword/direction)
+    [`#dynamic`](keyword/dynamic)
+    [`#fiber`](keyword/fiber)
+    [`#manufacturing`](keyword/manufacturing)
+    [`#multi`](keyword/multi)
+    [`#print`](keyword/print)
+    [`#process`](keyword/process)
+    [`#robot`](keyword/robot)
+    [`#shotcrete`](keyword/shotcrete)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Robot-Based%20Multi-Directional%20Dynamic%20Fiber%20Winding%20Process%20for%20Additive%20Manufacturing%20Using%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108717881&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000665339500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.3390/fib9060039" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.3390/fib9060039" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.3390/fib9060039" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.3390/fib9060039" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.3390/fib9060039&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.3390/fib9060039" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.3390/fib9060039&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W3168451992" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.3390/fib9060039" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.3390/fib9060039?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    The research described in this paper is dedicated to the use of continuous fibers as reinforcement for additive manufacturing, particularly using Shotcrete. Composites and in particular fiber reinforced polymers (FRP) are increasingly present in concrete reinforcement. Their corrosion resistance, high tensile strength, low weight, and high flexibility offer an interesting alternative to conventional steel reinforcement, especially with respect to their use in Concrete 3D Printing. This paper presents an initial development of a dynamic robot-based manufacturing process for FRP concrete reinforcement as an innovative way to increase shape freedom and efficiency in concrete construction. The focus here is on prefabricated fiber reinforcement, which is concreted in a subsequent additive process to produce load-bearing components. After the presentation of the fabrication concept for the integration of FRP reinforcement and the state of the art, a requirements analysis regarding the mechanical bonding behavior in concrete is carried out. This is followed by a description of the development of a dynamic fiber winding process and its integration into an automated production system for individualized fiber reinforcement. Next, initial tests for the automated application of concrete by means of Shotcrete 3D Printing are carried out. In addition, an outlook describes further technical development steps and provides an outline of advanced manufacturing concepts for additive concrete manufacturing with integrated fiber reinforcement.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
+      <li>None</li>
+      <li>None</li>
+      <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
+      <li>None</li>
+      <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
+      <li>None</li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../klof_hack_main_broh.2019.AMiC/">Additive Manufacturing in Construction:<br/>First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</a></li>
+      <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
+      <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
+      <li>None</li>
+      <li>None</li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
+      <li><a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b> Fatima</a>, <a href="../../../author/ahmad_rafiq"><b>Ahmad</b> Rafiq</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rami_ahma.2025.STAfAC/">Sustainable Technology Advances for Additive Construction:<br/>A State-of-the-Art Review</a></li>
+      <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
+      <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ribe_camp_bran_figu.2025.3CS/">3DCP Composite Systems:<br/>Additive Manufacturing of a Concrete and Cellulose Interlocking Wall</a></li>
+      <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/peng_zechen"><b>Peng</b> Zechen</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ding_peng_dong.2025.MPoCGR3PCAS/">Mechanical Properties of CFRP Grid Reinforced 3D Printed Concrete Arch Structures</a></li>
+      <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
+      <li><a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>, <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP/">Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../freu_davi_drod_lowk.2024.VSRI/">Vibrated Short Rebar Insertion:<br/>The Effect of Integration Time on the Resulting Bond Quality</a></li>
+      <li><a href="../../../author/baghi_ali"><b>Baghi</b> Ali</a>, <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bagh_amin_mema_bile.2024.3CPoSSFvEC/">3D Concrete Printing of Self-Supported Filaments via Entrained Cables:<br/>Constructing Formwork-Free Spanning Structures</a></li>
+      <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_sanj.2024.PL3CPUQNM/">Pumping-Less 3D Concrete Printing Using Quick Nozzle Mixing</a></li>
+      <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
+      <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/bleker_lazlo"><b>Bleker</b> Lazlo</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../renn_gant_diel_blek.2023.RK/">Robotic Knitcrete:<br/>Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork</a></li>
+      <li><a href="../../../author/friese_danny"><b>Friese</b> Danny</a>, <a href="../../../author/hahn_lars"><b>Hahn</b> Lars</a>, <a href="../../../author/le-xuan_hung"><b>Le Xuan</b> Hung</a>, <a href="../../../author/mersch_johannes"><b>Mersch</b> Johannes</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../frie_hahn_lex_mers.2023.RAMTf3NMRSitCA/">Robot-Assisted Manufacturing Technology for 3D Non-Metallic Reinforcement Structures in the Construction Applications</a></li>
+      <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../dorr_davi_freu_lowk.2023.IPIoRfCEDS3P/">In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../roth_huhn_gant_hack.2023.DWPoIFRSfAMiC/">Dynamic Winding Process of Individualized Fiber-Reinforcement Structures for Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/wu_huanyu"><b>Wu</b> Huanyu</a>, <a href="../../../author/liu_yongqi"><b>Liu</b> Yongqi</a>, <a href="../../../author/chang_ruidong"><b>Chang</b> Ruidong</a>, <a href="../../../author/wu_lingyi"><b>Wu</b> Lingyi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../wu_liu_chan_wu.2024.RSQaToCR/">Research Status Quo and Trends of Construction Robotics:<br/>A Bibliometric Analysis</a></li>
+      <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a></li>
+      <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../kalt_raup_mats.2022.IoRTMftSoMfMoTRCUaLME/">Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder:<br/>LabMorTex</a></li>
+      <li><a href="../../../author/nuh_mishael"><b>Nuh</b> Mishael</a>, <a href="../../../author/oval_robin"><b>Oval</b> Robin</a>, <a href="../../../author/orr_j_john"><b>Orr</b> John</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nuh_oval_orr_shep.2022.DFoRCSUARCS/">Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/bahrens_meike"><b>Bährens</b> Meike</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../klof_dorf_bahr_diel.2022.TRIotST2A/">The Research Infrastructure of the SFB TRR 277 AMC:<br/>Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gant_renn_roth_huhn.2022.CW/">Core Winding:<br/>Force-Flow-Oriented Fiber-Reinforcement in Additive Manufacturing with Concrete</a></li>
+      <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
+      <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../renn_khad_hack_klof.2021.AHAMA/">A Hybrid Additive Manufacturing Approach:<br/>Combining Additive Manufacturing and Green-State Concrete Milling to Create a Functionally Integrated Loadbearing Concrete Panel System</a></li>
+      <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../gant_roth_huhn_hack.2022.RSfAMiCBoDFW/">Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding:<br/>Concepts and Initial Case Studies</a></li>
+      <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
+      <li><a href="../../../author/leite_gabriela"><b>Leite</b> Gabriela</a>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../leit_font.2021.AMatEotCI/">Additive Manufacturing and the Evolution of the Construction Industry:<br/>A Systematic Literature Review 2015-2021</a></li>
+    </ol>
+</div>

@@ -1,0 +1,21 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#feedback
+
+<ol reversed>
+  <li><a href="../../../author/couque_pierre"><b>Couque</b> Pierre</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/corvez_dominique"><b>Corvez</b> Dominique</a>, <a href="../../../author/tanant_julien"><b>Tanant</b> Julien</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../couq_carn_corv_tana.2025.3PCAftI/">3D Printed Concrete - Applications for the Industry:<br/>Latest Feedback from France</a></li>
+  <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
+  <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV/">Real-Time Monitoring and Feedback Operation System for 3D Printed Concrete Based on Computer-Vision</a></li>
+  <li><a href="../../../author/espinosa_simon"><b>Espinosa</b> Simon</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../espi_slep_borr.2024.IoLPFiFfAMiC/">Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction</a></li>
+  <li><a href="../../../author/blagojevic_boris"><b>Blagojevic</b> Boris</a>, <a href="../../../author/gienger_andreas"><b>Gienger</b> Andreas</a>, <a href="../../../author/nigl_david"><b>Nigl</b> David</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../blag_gien_nigl_blan.2023.MFCaCTGfaCCS/">Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System</a></li>
+  <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/zahedi_ata"><b>Zahedi</b> Ata</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_zahe_petz.2022.PDDSfACUFKaIPfSwaFM/">Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism</a></li>
+  <li><a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a>, <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/feihl_nicolas"><b>Feihl</b> Nicolas</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../fran_taha_feih_llor.2022.GFSfRS/">Geometric Feedback System for Robotic Spraying</a></li>
+  <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_lim_moha_paul.2017.AoRCPUFCS/">Automation of Robotic Concrete Printing Using Feedback-Control-System</a></li>
+  <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
+</ol>

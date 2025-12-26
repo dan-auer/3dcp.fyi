@@ -1,0 +1,77 @@
+---
+hide:
+    - navigation
+    - tags
+title: Yuanyuan Zhang, Pan Pan, Wenqiang Li, Biqin Dong, Jiaoning Tang, Feng Xing, Guang Zhu
+description:
+tags:
+ - agent
+ - cement
+ - embedded
+ - freeform
+ - material
+ - print
+ - transport
+ - in
+
+---
+
+#:aca-closedaccess:{ .xred '} Freeform Embedded Printing of Vasculature in Cementitious Materials for Healing-Agent Transport ([2022-09](date/2022/09))
+<a href="https://doi.org/10.1016/j.addma.2022.103140" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103140</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a>
+,     <a href="../../../author/pan_pan"><b>Pan</b> Pan</a>
+,     <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>
+,     <a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a>
+,     <a href="../../../author/tang_jiaoning"><b>Tang</b> Jiaoning</a>
+,     <a href="../../../author/xing_feng"><b>Xing</b> Feng</a>
+,     <a href="../../../author/zhu_ming_guang"><b>Zhu</b> Guang</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Additive Manufacturing, Vol. 59, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#agent`](keyword/agent)
+    [`#cement`](keyword/cement)
+    [`#embedded`](keyword/embedded)
+    [`#freeform`](keyword/freeform)
+    [`#material`](keyword/material)
+    [`#print`](keyword/print)
+    [`#transport`](keyword/transport)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Freeform%20Embedded%20Printing%20of%20Vasculature%20in%20Cementitious%20Materials%20for%20Healing-Agent%20Transport" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138052968&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000861100400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2022.103140" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.addma.2022.103140" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.addma.2022.103140" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.addma.2022.103140" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.addma.2022.103140&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.addma.2022.103140" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.addma.2022.103140&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4295066805" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.103140" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.103140?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Vascular systems for mass recycling promise to endow cementitious materials with self-recovering abilities, which would prolong their durability. However, there is still a lack of strategy in the construction of freeform vasculature with three-dimensional connectivity. In this work, we have developed an embedded printing strategy within cementitious materials, in which a Pickering emulsion gel is developed as the fugitive ink. The proposed two-phase ink allows versatile printing, effective sealing, and can be removed under mild conditions, enabling the formation of freeform, isolated vascular networks. To support the development of embedded printing strategy, we also analyzed the relationships between vessel features, CM hydration, writing speed, and flow rate. The tested aqueous healing agent moves through the printed vasculature to reach and heal cracks, demonstrating the effectiveness of this internal structure in terms of mass transport. We conclude that embedded printing allows the creation of vascular structures in cementitious materials and, ultimately, of intelligent construction materials.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/thomas_amaury"><b>Thomas</b> Amaury</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../lowk_vand_pier_thom.2021.I3CPiaCL/">Injection 3D Concrete Printing in a Carrier Liquid:<br/>Underlying Physics and Applications to Lightweight Space Frame Structures</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>

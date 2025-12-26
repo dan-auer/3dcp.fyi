@@ -1,0 +1,18 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+#  Scheurer Martin 
+
+<ol reversed>
+  <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/evers_clara"><b>Evers</b> Clara</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ditt_sche_ever_meye.2023.SPoTR3PCE/">Structural Performance of Textile Reinforced 3D Printed Concrete Elements</a></li>
+  <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_ditt_sche_grie.2023.UTaIFfAMwC/">Utilizing Textiles as Integrated Formwork for Additive Manufacturing with Concrete</a></li>
+  <li><a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a>, <a href="../../../author/aydogan_gurabi_olcay"><b>Aydoğan</b> Olcay</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../nikr_aydo_ditt_sche.2023.IoCTFi3PCC/">Implementation of Continuous Textile-Fibers in 3D Printable Cementitious Composite</a></li>
+  <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dringenberg_steffen"><b>Dringenberg</b> Steffen</a>, <a href="../../../author/jitton_velasco_joaquin"><b>Jitton</b> Joaquin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ditt_sche_drin_jitt.2022.DCPwVTR/">Digital Concrete Production with Vertical Textile Reinforcement</a></li>
+  <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/quenzel_philipp"><b>Quenzel</b> Philipp</a>, <a href="../../../author/nolke_peter"><b>Nölke</b> Peter</a>, <a href="../../../author/reuter-schniete_jonas"><b>Reuter‐Schniete</b> Jonas</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../sche_quen_nolk_reut.2021.ItFoUCFTaRf3CP/">Investigating the Feasibility of Using Carbon Fiber Tapes as Reinforcement for 3D Concrete Printing</a></li>
+  <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../sche_ditt_grie.2020.PftIoCFBRiDCP/">Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production</a></li>
+</ol>

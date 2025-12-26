@@ -1,0 +1,114 @@
+---
+hide:
+    - navigation
+    - tags
+title: Matheus Tinoco, Tiago Cavalcante, Luiza Andrade, Olga Araújo, Ricardo Lopes, Romildo Toledo Filho, Oscar Mendoza Reales
+description:
+tags:
+ - aggregate
+ - base
+ - bio
+ - cement
+ - composite
+ - design
+ - mixing
+ - particle
+ - printability
+ - strategy
+
+---
+
+#:aca-closedaccess:{ .xred '} Mix-Design-Strategies for 3D Printable Bio-Based Cementitious Composites Using Rice-Husk-Particles as Multifunctional Aggregates ([2025-01](date/2025/01))
+<a href="https://doi.org/10.1016/j.jobe.2024.111740" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.jobe.2024.111740</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a> <a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a> <a href="https://orcid.org/0009-0002-2308-5505" title="ORCID: 0009-0002-2308-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/andrade_draeger_luiza"><b>de Andrade</b> Luiza</a>
+,     <a href="../../../author/araujo_m-o_olga"><b>de Araújo</b> Olga</a>
+,     <a href="../../../author/lopes_tadeu_ricardo"><b>Lopes</b> Ricardo</a> <a href="https://orcid.org/0000-0001-7250-824X" title="ORCID: 0000-0001-7250-824X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Journal of Building Engineering, No. 111740
+
+:aca-blank:{ .lg .middle}
+    [`#aggregate`](keyword/aggregate)
+    [`#base`](keyword/base)
+    [`#bio`](keyword/bio)
+    [`#cement`](keyword/cement)
+    [`#composite`](keyword/composite)
+    [`#design`](keyword/design)
+    [`#mixing`](keyword/mixing)
+    [`#particle`](keyword/particle)
+    [`#printability`](keyword/printability)
+    [`#strategy`](keyword/strategy)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Mix-Design-Strategies%20for%203D%20Printable%20Bio-Based%20Cementitious%20Composites%20Using%20Rice-Husk-Particles%20as%20Multifunctional%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214114200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001407699200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111740" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.jobe.2024.111740" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.jobe.2024.111740" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.jobe.2024.111740" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.jobe.2024.111740&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.jobe.2024.111740" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.jobe.2024.111740&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4406070888" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.jobe.2024.111740" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.jobe.2024.111740?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    This work compares two mix design strategies for 3D printable cementitious composites using rice husk particles as multifunctional aggregates. The first strategy involves directly replacing sand with rice husk while keeping the cement paste volume constant. The second strategy introduces rice husk as an extra component, thereby increasing the solids content while maintaining a constant sand-to-cement ratio. Different volume fractions of rice husk (10%, 15%, 20%, and 25%) were used. Replacing natural sand with 15% bio-aggregates leads to a 53% decrease in yield stress and a 62% decrease in structuration rate, due to the lubricating effect of pre-wetted bio-aggregates and a decrease in system interlock. Adding rice husk as extra component, however, increases both yield stress and structuration rate, which is related to the reduced paste volume and increase in internal friction. With 25% rice husk, the initial yield stress increases from 1.21 kPa to 5.55 kPa, and the structuration rate increases from 26.9 Pa/min to 105.2 Pa/min. The second strategy effectively improved buildability and reduced cement consumption, making it the most suitable choice for producing printable mixtures. Mechanical tests indicate that rice husk has limited effect on anisotropy and interlayer bond adhesion. However, at higher fractions, increased porosity and particle debonding at interfaces pose new challenges for enhancing composite performance. The results highlight the potential rice husk as a multifunctional aggregate in 3D-printed cementitious composites, providing insights for the development of sustainable construction materials with optimized fresh and mechanical properties.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
+      <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP/">Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance</a></li>
+      <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS/">Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica</a></li>
+      <li><a href="../../../author/diniz_alessandro-almeida_hugo"><b>Diniz</b> Hugo</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/ferreira_landolfo-silva_ruan"><b>Ferreira</b> Ruan</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P/">Synergistic Effects of the Use of Metakaolin, Sand and Water on the Properties of Cementitious Composites for 3D Printing</a></li>
+      <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
+      <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
+      <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../kaus_sone_amat_das.2023.OoMPo3PMBoRPaMSUFDoE/">Optimization of Mix Proportion of 3D Printable Mortar Based on Rheological Properties and Material-Strength Using Factorial Design of Experiment</a></li>
+      <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
+      <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../mark_mech.2023.QoPSaPSCot3PCU2DIC/">Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation</a></li>
+      <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
+      <li>None</li>
+      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
+      <li><a href="../../../author/niu_geng"><b>Niu</b> Geng</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../niu_liu_jia_ma.2024.PaPAo3PLEC/">Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete:<br/>Insights from the Excess-Paste-Theory</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
+      <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
+      <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC/">A Theoretical Model to Predict the Structural Buildability of 3D Printable Concrete</a></li>
+      <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
+      <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../rang_guim_sale_luca.2024.3PLMwCtITEiB/">3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings</a></li>
+      <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/martinez_fabio"><b>Martínez</b> Fabio</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../roba_varg_mart_guti.2024.UoPaFAftRoCaDWit3PoPBCM/">Utilization of Powders and Fine Aggregates from the Recycling of Construction and Demolition Waste in the 3D Printing of Portland-Based Cementitious Materials</a></li>
+      <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
+      <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/gouvea_lucas"><b>Gouvêa</b> Lucas</a>, <a href="../../../author/cassia-magalhaes-martins_karenn"><b>Cássia Magalhães Martins</b> Karenn</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS/">The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption</a></li>
+      <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
+      <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tino_mend_tole.2023.RBo3PBCPwRH/">Rheological Behavior of 3D Printable Bio-Concretes Produced with Rice Husk</a></li>
+      <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
+      <li><a href="../../../author/xu_yanqun"><b>Xu</b> Yanqun</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../xu_yuan_li_shi.2021.CoILPaRBo3wVPTI/">Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
+      <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/lima-moura-paiva_rayane"><b>Lima Moura Paiva</b> Rayane</a>, <a href="../../../author/andrade_draeger_luiza"><b>Andrade</b> Luiza</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tino_lima_andr_mend.2025.H3PMIFEPCaFA/">Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash:<br/>A Sustainable Alternative to Cement-Intensive Systems</a></li>
+      <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_marq_rama_barl.2025.FaHPoCFRMf3PiC/">Fresh and Hardened Properties of Cellulose Fiber-Reinforced Mortars for 3D Printing in Construction</a></li>
+      <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_tole_mend.2025.RHBAf3PiC/">Rice Husk Bio-Aggregates for 3D Printing in Construction:<br/>Balancing Fresh and Hardened Properties</a></li>
+      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
+    </ol>
+</div>

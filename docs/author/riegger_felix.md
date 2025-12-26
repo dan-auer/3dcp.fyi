@@ -1,0 +1,14 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+#  Riegger Felix 
+
+<ol reversed>
+  <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/riegger_felix"><b>Riegger</b> Felix</a>, <a href="../../../author/hamilton_duncan_leigh"><b>Hamilton</b> Leigh</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../stra_rieg_hami_kran.2023.SPI/">Selective Paste-Intrusion:<br/>Integration of Reinforcement by WAAM</a></li>
+  <li><a href="../../../author/riegger_felix"><b>Riegger</b> Felix</a>, <a href="../../../author/zah_f_michael"><b>Zäh</b> Michael</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../rieg_zah.2022.AMoSR/">Additive Manufacturing of Steel-Reinforcements:<br/>Integration of WAAM Reinforcements in Particle-Bed 3D Printing with Selective Cement-Paste-Intrusion</a></li>
+</ol>

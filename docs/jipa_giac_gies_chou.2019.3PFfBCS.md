@@ -1,0 +1,107 @@
+---
+hide:
+    - navigation
+    - tags
+title: Mihail-Andrei Jipa, Federico Giacomarra, Rena Giesecke, Georgia Chousou, Matteo Pacher, Benjamin Dillenburger, Matteo Lomaglio, Matthias Leschok
+description:
+tags:
+ - bespoke
+ - concrete
+ - formwork
+ - print
+ - stair
+
+---
+
+#:aca-closedaccess:{ .xred '} 3D Printed Formwork for Bespoke Concrete Stairs ([2019-06](date/2019/06))
+<a href="https://doi.org/10.1145/3328939.3329003" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1145/3328939.3329003</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> <a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>
+,     <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>
+,     <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a>
+,     <a href="../../../author/pacher_matteo"><b>Pacher</b> Matteo</a>
+,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lomaglio_matteo"><b>Lomaglio</b> Matteo</a>
+,     <a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a> <a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+
+:aca-blank:{ .lg .middle}
+    [`#bespoke`](keyword/bespoke)
+    [`#concrete`](keyword/concrete)
+    [`#formwork`](keyword/formwork)
+    [`#print`](keyword/print)
+    [`#stair`](keyword/stair)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Formwork%20for%20Bespoke%20Concrete%20Stairs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068757047&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000507628500008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1145/3328939.3329003" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1145/3328939.3329003" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1145/3328939.3329003" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1145/3328939.3329003" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1145/3328939.3329003&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1145/3328939.3329003" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1145/3328939.3329003&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W2952931710" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1145/3328939.3329003" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1145/3328939.3329003?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Non-standard stairs have an important role in architecture, but their complex details and three-dimensionality pose significant fabrication challenges. One of the preferred materials for custom stairs is concrete, which can be cast in complex shapes, the only limitation in this case being the fabrication of the necessary formworks. This paper reviews the opportunities and challenges of using 3D-printed formwork for fabricating custom concrete stairs with complex geometries (Fig. 1). 3D printing can unlock an entirely new vocabulary of shapes for concrete structures, previously unavailable with traditional formwork systems. Only a minimal amount of 3D-printed plastic is required to deliver a very thin, stable shell. With these formworks, complex topologies can be achieved in concrete elements. Such elements can optimize the structural performance or improve functional aspects, as well as introduce a radically different aesthetic.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../gard_jans.2014.F/">FreeFab:<br/>Development of a Construction-Scale Robotic Formwork 3D Printer</a></li>
+      <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>, <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a> <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../gard_jans_kirc.2016.ARoaCSRSf3PoCF/">A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork</a></li>
+      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../jipa_bern_dill.2017.SF/">Submillimetre Formwork:<br/>3D Printed Plastic Formwork for Concrete Elements</a></li>
+      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../jipa_bern_meib_dill.2016.3PSiPFfTOCS/">3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs</a></li>
+      <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
+      <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
+      <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../meib_jipa_gies_sham.2018.SS/">Smart Slab:<br/>Computational Design and Digital Fabrication of a Lightweight Concrete Slab</a></li>
+      <li><a href="../../../author/morel_philippe"><b>Morel</b> Philippe</a>, <a href="../../../author/schwartz_thibault"><b>Schwartz</b> Thibault</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../more_schw.2015.ACSfSCL/">Automated Casting Systems for Spatial Concrete Lattices</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
+      <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_mara_abde_dubo.2025.LCAoEBRUT/">Life Cycle Assessment of Earth-Based Residential Unit “TOVA”:<br/>A 3D Printed On-Site Load-Bearing Structure</a></li>
+      <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a>, <a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a>, <a href="../../../author/xu_weishun"><b>Xu</b> Weishun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jin_xu_xu.2025.I3PCFiTVGR/">Integrating 3D-Printed Clay Formwork into Thin-Vaulted Green Roof</a></li>
+      <li><a href="../../../author/hua_hao"><b>Hua</b> Hao</a>, <a href="../../../author/liu_yizhuo"><b>Liu</b> Yizhuo</a>, <a href="../../../author/hovestadt_ludger"><b>Hovestadt</b> Ludger</a>, <a href="../../../author/he_siyuan"><b>He</b> Siyuan</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hua_liu_hove_he.2025.DN/">Digital Nervi:<br/>Performance‐based Design of Lightweight Isostatic Ribbed Slab with 3D Printed Concrete Formwork</a></li>
+      <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a>, <a href="../../../author/anwar_parvez_mohammed"><b>Anwar</b> Mohammed</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sala_jaya_anwa.2025.SoRIMf3PCUM/">Selection of Reinforcement Incorporation Method for 3D Printed Concrete Using MCDM</a></li>
+      <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b> Pietro</a>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b> Anthony</a>, <a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_ross_poli_ross.2025.SREBAw3PF/">Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks:<br/>Parametric Modeling, Prototyping, and Laboratory Testing</a></li>
+      <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_bian_forc.2025.ADT3PCF/">Advancing Decarbonization Through 3D Printed Concrete Formworks:<br/>LIFE Cycle Analysis of Technologies, Materials, and Processes</a></li>
+      <li><a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chou_yoo_jipa_dill.2024.C/">Cadenza:<br/>3D Printed Formwork for a Free-Form Stair</a></li>
+      <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../beka_titt_schu.2024.IoCCotSBoTDPCF/">Influence of Curing Conditions on the Shrinkage Behavior of Three-Dimensional Printed Concrete Formwork</a></li>
+      <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b> Rahasadat</a>, <a href="../../../author/li_yunyan"><b>Li</b> Yunyan</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moza_kamr_li_mata.2024.LCF3PfRCC/">Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction</a></li>
+      <li><a href="../../../author/gappmeier_peter"><b>Gappmeier</b> Peter</a>, <a href="../../../author/reichenbach_sara"><b>Reichenbach</b> Sara</a>, <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../gapp_reic_krom.2024.AiFASaMiCC/">Advances in Formwork Automation, Structure and Materials in Concrete Construction</a></li>
+      <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../moin.2023.PiAIM/">Perspectives in Architected Infrastructure Materials</a></li>
+      <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/akerman_marc"><b>Akerman</b> Marc</a>, <a href="../../../author/schwendemann_daniel"><b>Schwendemann</b> Daniel</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../burg_llor_aker_schw.2023.CF/">Circular Formwork:<br/>Recycling of 3D Printed Thermoplastic Formwork for Concrete</a></li>
+      <li><a href="../../../author/mallikarjuna_balichakra"><b>Mallikarjuna</b> Balichakra</a>, <a href="../../../author/hareeswar_n_m"><b>Hareeswar</b> M.</a>, <a href="../../../author/sharath_c_p"><b>Sharath</b> P.</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../mall_hare_shar.2024.AoAMiCaBI/">Applications of Additive Manufacturing in Construction and Building Industries</a></li>
+      <li><a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../hube_burg_mata_kauf.2023.SDaToMORRSw3PF/">Structural Design and Testing of Material-Optimized Ribbed RC Slabs with 3D Printed Formwork</a></li>
+      <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
+      <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
+      <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sala_jaya.2022.OSoRAaFSfDFTiCI/">Optimum Selection of Reinforcement, Assembly, and Formwork System for Digital Fabrication Technique in Construction Industry:<br/>A Critical Review</a></li>
+      <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/huber_tobias"><b>Huber</b> Tobias</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../burg_hube_llor_mata.2022.DaFoORCFSULS3PF/">Design and Fabrication of Optimised Ribbed Concrete Floor Slabs Using Large-Scale 3D Printed Formwork</a></li>
+      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../jipa_reit_flat_dill.2022.ESCo3PPEtC/">Environmental Stress Cracking of 3D Printed Polymers Exposed to Concrete</a></li>
+      <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
+      <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
+      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
+      <li><a href="../../../author/stieler_david"><b>Stieler</b> David</a>, <a href="../../../author/schwinn_tobias"><b>Schwinn</b> Tobias</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../stie_schw_meng.2022.VI/">Volumetric Intersections:<br/>Modularization Approaches for Freeform Prefab Concrete Construction</a></li>
+      <li><a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../rana_mele_bloc.2021.ALCFCFS/">A Low-Carbon, Funicular Concrete Floor System:<br/>Design and Engineering of the HiLo Floor</a></li>
+      <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lesc_dill.2020.STS3PFfC/">Sustainable Thin-Shell 3D Printed Formwork for Concrete</a></li>
+      <li><a href="../../../author/gardner_e_guy"><b>Gardner</b> Guy</a>, <a href="../../../author/forward_kristen"><b>Forward</b> Kristen</a>, <a href="../../../author/tse_kim"><b>Tse</b> Kim</a>, <a href="../../../author/sharma_karan"><b>Sharma</b> Karan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gard_forw_tse_shar.2020.RCF/">Rapid Composite Formwork:<br/>An Automated and Customizable Process for Freeform Concrete Through Computational Design and Robotic Fabrication</a></li>
+      <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
+    </ol>
+</div>

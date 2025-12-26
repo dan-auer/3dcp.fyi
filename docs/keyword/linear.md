@@ -1,0 +1,22 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#linear
+
+<ol reversed>
+  <li><a href="../../../author/gao_jianhao"><b>Gao</b> Jianhao</a>, <a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a>, <a href="../../../author/wang_chaofeng"><b>Wang</b> Chaofeng</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../gao_niu_wang.2025.LHP/">Linear Helical Printing:<br/>A Novel Approach to 3D Printing Concrete Structures with Enhanced Integrity</a></li>
+  <li><a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/bures_vladislav"><b>Bureš</b> Vladislav</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ryme_cerv_jend_bure.2024.I3MaNLNSiCAM/">Integrating 3D Modelling and Non-Linear Numerical Simulations in Concrete Additive Manufacturing</a></li>
+  <li><a href="../../../author/bharti_mrityunjay"><b>Bharti</b> Mrityunjay</a>, <a href="../../../author/menon_arun"><b>Menon</b> Arun</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bhar_meno_sant.2024.NLBUCoH3PC/">Non-Linear Behavior Under Compression of Hardened 3D Printed Concrete</a></li>
+  <li><a href="../../../author/li_huanbao"><b>Li</b> Huanbao</a>, <a href="../../../author/li_zihan"><b>Li</b> Zihan</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../li_li_skib_wang.2023.MQCwNLFMi3CP/">Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing</a></li>
+  <li><a href="../../../author/mader_thomas"><b>Mader</b> Thomas</a>, <a href="../../../author/schreter-fleischhacker_magdalena"><b>Schreter-Fleischhacker</b> Magdalena</a>, <a href="../../../author/shkundalova_olena"><b>Shkundalova</b> Olena</a>, <a href="../../../author/neuner_matthias"><b>Neuner</b> Matthias</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../made_schr_shku_neun.2023.CMoONLMBoH3PC/">Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete</a></li>
+  <li><a href="../../../author/mehdizadeh_samim"><b>Mehdizadeh</b> Samim</a>, <a href="../../../author/zimmermann_adrian"><b>Zimmermann</b> Adrian</a>, <a href="../../../author/tessmann_oliver"><b>Tessmann</b> Oliver</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mehd_zimm_tess.2023.R/">RotoColumn:<br/>A Continuous Digital Fabrication Framework for Casting Large-Scale Linear Concrete Hollow Elements</a></li>
+  <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a></li>
+  <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../trip_nair_neit.2022.ACAoBo3PCatUoBLSSCBFCTTP/">A Comprehensive Analysis of Buildability of 3D Printed Concrete and the Use of Bi-Linear Stress-Strain Criterion-Based Failure Curves Towards Their Prediction</a></li>
+  <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../nedj.2021.OaGNLIFftMo3CP/">On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing</a></li>
+  <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/sakdanaraseth_thanut"><b>Sakdanaraseth</b> Thanut</a>, <a href="../../../author/horayangkura_vimolsiddhi"><b>Horayangkura</b> Vimolsiddhi</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../pras_sakd_hora.2021.DaCMoa3CPSSCLP/">Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion</a></li>
+</ol>

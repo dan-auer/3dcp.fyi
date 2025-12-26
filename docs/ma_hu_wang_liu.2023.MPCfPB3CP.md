@@ -1,0 +1,117 @@
+---
+hide:
+    - navigation
+    - tags
+title: Guowei Ma, Tingyu Hu, Fang Wang, Xiongfei Liu, Zhijian Li
+description:
+tags:
+ - base
+ - cement
+ - concrete
+ - evaluation
+ - magnesium
+ - optimization
+ - powder
+ - print
+ - printability
+ - quality
+ - system
+
+---
+
+#:aca-closedaccess:{ .xred '} Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>:aca-blank: Systematic Evaluation and Optimization of Printability and Printing Quality ([2023-02](date/2023/02))
+<a href="https://doi.org/10.1016/j.cemconcomp.2023.105000" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2023.105000</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a> <a href="https://orcid.org/0000-0001-9124-434X" title="ORCID: 0000-0001-9124-434X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>
+,     <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> <a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> <a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Cement and Concrete Composites, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#base`](keyword/base)
+    [`#cement`](keyword/cement)
+    [`#concrete`](keyword/concrete)
+    [`#evaluation`](keyword/evaluation)
+    [`#magnesium`](keyword/magnesium)
+    [`#optimization`](keyword/optimization)
+    [`#powder`](keyword/powder)
+    [`#print`](keyword/print)
+    [`#printability`](keyword/printability)
+    [`#quality`](keyword/quality)
+    [`#system`](keyword/system)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Magnesium%20Phosphate%20Cement%20for%20Powder-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150339071&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000957457400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2023.105000" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.cemconcomp.2023.105000" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.cemconcomp.2023.105000" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cemconcomp.2023.105000" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconcomp.2023.105000&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.cemconcomp.2023.105000" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconcomp.2023.105000&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4321486751" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2023.105000" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2023.105000?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    With the advantages of fast hardening, high early strength, excellent bonding strength and room temperature curing, magnesium phosphate cement (MPC) is highly preferable for powder-based 3D concrete printing. In this paper, a systematic approach via comprehending parametric analysis, visualizing techniques (SEM, XRD and X-Ray CT) and mechanical testing is developed to evaluate and optimize printability and printing quality of powder-based 3D MPC printing. The test printing results show that appropriately mapped proportions of ingredients will orient the specific properties towards the target objectives through navigating different combinations of proportions comprehensively. Specifically, 1,2-propylene glycol is able to significantly increase the viscosity of the binder, and Surfynol 465 can substantially reduce the surface tension of the binder. 25 wt% quartz sand can remarkably improve spreadability and surface flatness of the powder bed. In addition, the penetration and diffusion of the binder in the powder bed is effectively controlled by appropriate content of polyvinyl alcohol (PVA) due to the properties of high viscosity and good film-forming, thus remarkably improves printing accuracy. The compactness and hydration degree of the powder-based 3D printed MPC are optimized by 5 wt% PVA (MPC5) with the total porosity reduced by 2.86% compared to that of MPC0 (without PVA). High printing precision of the printed complex geological canyon river model indicates that MPC with appropriate contents of modulators, such as 1,2-propylene glycol and Surfynol 465 for binder and PVA and quartz sand for base powder, is desirable powder-based 3D printable material.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
+      <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
+      <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
+      <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
+      <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
+      <li><a href="../../../author/min_kyung-sung"><b>Min</b> Kyung-Sung</a>, <a href="../../../author/park_kwang-min"><b>Park</b> Kwang-Min</a>, <a href="../../../author/lee_bong-chun"><b>Lee</b> Bong-Chun</a>, <a href="../../../author/roh_young-sook"><b>Roh</b> Young-Sook</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../min_park_lee_roh.2021.CDbBOoCMBBJ3PM/">Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar</a></li>
+      <li><a href="../../../author/na_okpin"><b>Na</b> Okpin</a>, <a href="../../../author/kim_kangmin"><b>Kim</b> Kangmin</a>, <a href="../../../author/lee_hyunjoo"><b>Lee</b> Hyunjoo</a>, <a href="../../../author/lee_hyunseung"><b>Lee</b> Hyunseung</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../na_kim_lee_lee.2021.PaSToCCwNaGfBJ3P/">Printability and Setting-Time of CSA Cement with Na2SiO3 and Gypsum for Binder-Jetting 3D Printing</a></li>
+      <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a>, <a href="../../../author/rasouli_habib"><b>Rasouli</b> Habib</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../shak_gowr_raso.2021.EaNAo3PCMSUI3/">Experimental and Numerical Analysis of 3D Printed Cement Mortar Specimens Using Inkjet 3DP</a></li>
+      <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM/">Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials</a></li>
+      <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
+      <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vone_odag_brum_dill.2020.GFfBJ3P/">Geopolymer Formulation for Binder-Jet 3D Printing</a></li>
+      <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
+      <li>None</li>
+      <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
+      <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/wang_yong"><b>Wang</b> Yong</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_chen_wang_vo.2025.IMoMtPRotRaMDo3PMPCaEH/">Influencing Mechanism of Magnesium-to-Phosphate Ratio on the Rheology and Microstructure Development of 3D-Printed Magnesium Phosphate Cement at Early Hydration</a></li>
+      <li><a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/li_lingyu"><b>Li</b> Lingyu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_deng_li_li.2025.PoAMBMPCaAoRS3PT/">Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology</a></li>
+      <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a></li>
+      <li><a href="../../../author/zhong_jianjun"><b>Zhong</b> Jianjun</a>, <a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/ma_haiyan"><b>Ma</b> Haiyan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhon_lyu_deng_ma.2025.AEMftPoMPCCfIMSER3P/">An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing</a></li>
+      <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/chen_dongjian"><b>Chen</b> Dongjian</a>, <a href="../../../author/liu_shiyuan"><b>Liu</b> Shiyuan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF/">Energy Storage Properties and Mechanical Strengths of 3D Printed Porous Concrete Structural Supercapacitors Reinforced by Electrodes Made of Carbon-Black-Coated Ni Foam</a></li>
+      <li><a href="../../../author/liu_junxing"><b>Liu</b> Junxing</a>, <a href="../../../author/li_peiqi"><b>Li</b> Peiqi</a>, <a href="../../../author/piao_taiyan"><b>Piao</b> Taiyan</a>, <a href="../../../author/im_sumin"><b>Im</b> Sumin</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../liu_li_piao_im.2025.HACMfBJ3P/">High-Alumina Cementitious Materials for Binder-Jetting 3D Printing:<br/>Exploring Suitable Mixing-Ratio and Curing-Solution for Improving Mechanical Properties and Hydration-Reaction</a></li>
+      <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
+      <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
+      <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a>, <a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b> Sathvik</a>, <a href="../../../author/singh_kumar_atul"><b>Singh</b> Atul</a>, <a href="../../../author/kumar_rakesh"><b>Kumar</b> Rakesh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../shiv_shar_sing_kuma.2024.APTS/">A Path Towards SDGs:<br/>Investigation of the Challenges in Adopting 3D Concrete Printing in India</a></li>
+      <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a>, <a href="../../../author/fernandez_raul"><b>Fernández</b> Raúl</a>, <a href="../../../author/cuevas_jaime"><b>Cuevas</b> Jaime</a>, <a href="../../../author/marieta_cristina"><b>Marieta</b> Cristina</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../padi_fern_cuev_mari.2024.LCFMPCf3CP/">Low-Carbon Footprint Magnesium-Phosphate-Cement for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ding_liu_ou_nish.2024.3PHFRECC/">3D Printing Hybrid-Fiber-Reinforced Engineered Cementitious Composites:<br/>Feasibility in Long-Open-Time Applications</a></li>
+      <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../ye_zhua_teng_yu.2024.CEAo3CPwECC/">Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
+      <li><a href="../../../author/tiwari_k_adarsh"><b>Tiwari</b> Adarsh</a>, <a href="../../../author/pratapa_pradeep_phanisri"><b>Pratapa</b> Phanisri</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../tiwa_prat_sant.2024.LC/">Lattice Concrete:<br/>3D Printed Periodic Cellular Structures Through Selective Cement-Hydration</a></li>
+      <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_nan"><b>Wang</b> Nan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../liu_wang_zhan_ma.2024.OoPPaMPfPB3PMPCUFA/">Optimization of Printing Precision and Mechanical Property for Powder-Based 3D Printed Magnesium Phosphate Cement Using Fly-Ash</a></li>
+      <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pi_lu_yao_li.2024.ARBPAMf3PECCCFD/">A Rheological-Based Printability-Assessment Method for 3D Printing Engineered Cementitious Composites Considering Fiber-Dispersion</a></li>
+      <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pi_lu_li_zhou.2023.CPaFMo3PECC3EUBL/">Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads</a></li>
+      <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_zong_zhu.2023.PGAaMSo3PVCBwCaS/">Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil</a></li>
+      <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
+    </ol>
+</div>

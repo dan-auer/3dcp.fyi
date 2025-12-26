@@ -1,0 +1,22 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#planar
+
+<ol reversed>
+  <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/yau_man_ho"><b>Yau</b> Ho</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_yau_lomb.2025.SINPSf3CP/">Stress-Informed Non-Planar Slicing for 3D Concrete Printing</a></li>
+  <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/bayramvand_alireza"><b>Bayramvand</b> Alireza</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../lin_bayr_meib.2025.TLS/">Towards Lightweight Structure:<br/>Coupling Topology Optimization with Non-Planar 3D Concrete Printing</a></li>
+  <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_meib.2024.ISP/">Integrated Sensing Printhead:<br/>In-line Data Collection for Non-Planar 3D Concrete Printing</a></li>
+  <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/melter_oto"><b>Melter</b> Oto</a>, <a href="../../../author/hvizdal_ales"><b>Hvizdal</b> Ales</a>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b> Henri</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vele_melt_hviz_acht.2024.E3CPBwNPL/">Enhancing 3D Concrete Printing Buildability with Non-Planar Layering:<br/>A Case Study</a></li>
+  <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/prokop_simon"><b>Prokop</b> Simon</a>, <a href="../../../author/ciganik_ondrej"><b>Ciganik</b> Ondrej</a>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b> Lukáš</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vele_prok_ciga_kuri.2024.NP3PoCC/">Non-Planar 3D Printing of Clay Columns:<br/>A Method for Improving Stability and Performance</a></li>
+  <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
+  <li><a href="../../../author/ahmad_lina"><b>Ahmad</b> Lina</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/sosa_marco"><b>Sosa</b> Marco</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ahma_jabi_sosa.2024.NPRPoEBM/">Non-Planar Robotic Printing of Earth-Based Material:<br/>A Case Study Using Cob-Like Mixture</a></li>
+  <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b> Lukáš</a>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b> Henri</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../vele_kuri_acht.2023.IBoOo3POTNPSIbFFA/">Improving Buildability of Overhangs of 3D Printed Objects Through Non-Planar Slicing Informed by Force-Flow-Analysis</a></li>
+  <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_nguy_tran.2023.DDaPSo3CPoNPS/">Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces</a></li>
+  <li><a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> et al. <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../schi_borg_bos_ahme.2017.DCCP/">Double Curved Concrete Printing:<br/>Printing on Non-Planar Surfaces</a></li>
+</ol>

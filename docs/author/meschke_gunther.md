@@ -1,0 +1,22 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+#  Meschke Günther 
+
+<ol reversed>
+  <li><a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../daad_rein_mesc.2024.NSo3CP/">Numerical Simulation of 3D Concrete Printing:<br/>From the Layer- to the Structural-Scale</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../rein_daad_mesc.2024.NSoTDCPBoaUFaSMF/">Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../rein_gudz_mesc.2023.CMoFOD3CP/">Computational Modeling of Fiber Orientation During 3D Concrete Printing</a></li>
+  <li><a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../daad_rein_gudz_mesc.2024.CMoFOD3CP/">Computational Modeling of Fiber Orientation During 3D Concrete Printing</a></li>
+  <li><a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a>, <a href="../../../author/neu_gerrit"><b>Neu</b> Gerrit</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mesc_neu_gudz_rein.2022.CMoF/">Computational Modeling of FRC:<br/>From 3D Printing to Robust Design</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rein_mesc.2022.AfAMwESBoaMS/">Algorithm for Aging Materials with Evolving Stiffness Based on a Multiplicative Split</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../rein_gudz_mesc.2022.FOMDEB3CP/">Fiber-Orientation Modeling During Extrusion-Based 3D Concrete Printing</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../rein_nere_mech_mesc.2019.PFESoEPoFCD3CP/">Particle-Finite-Element-Simulation of Extrusion-Processes of Fresh Concrete During 3D Concrete Printing</a></li>
+  <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../rein_mesc.2018.PFESoFCf3PA/">Particle-Finite-Element-Simulation of Fresh Concrete for 3D Printing Applications</a></li>
+</ol>

@@ -1,0 +1,120 @@
+---
+hide:
+    - navigation
+    - tags
+title: Yi Zhang, Lucas Lima, David Böhler, Arun Arunothayan, Adewumi Babafemi, Bilal Baz, Laura Caneda-Martínez, Geert Schutter, Hongjian Du, Niklas Freund, Yangyunzhi Gao, Lucija Hanžič, Smrati Jain, Zengwu Jiang, Emmanuel Keita, Dirk Lowke, Inka Mai (née Dressler), Shravan Muthukrishnan, Qiang Ren, Alise Sapata, Māris Šinka, Chalermwut Snguanyat, Katarina Šter, Jolien Putten, Zhendi Wang, Timothy Wangler, Kim Tittelboom
+description:
+tags:
+ - assessment
+ - base
+ - cement
+ - durability
+ - material
+ - print
+ - rilem
+ - a
+
+---
+
+#:aca-closedaccess:{ .xred '} Durability Assessment of 3D Printed Cement-Based Materials:<br/>:aca-blank: A RILEM TC 304-ADC Interlaboratory Study ([2025-10](date/2025/10))
+<a href="https://doi.org/10.1617/s11527-025-02797-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02797-5</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lima_nascimento_lucas"><b>de Lima</b> Lucas</a> <a href="https://orcid.org/0000-0002-7041-8985" title="ORCID: 0000-0002-7041-8985" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/bohler_david"><b>Böhler</b> David</a> <a href="https://orcid.org/0000-0003-4621-0612" title="ORCID: 0000-0003-4621-0612" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> <a href="https://orcid.org/0000-0002-5827-1917" title="ORCID: 0000-0002-5827-1917" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> <a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> <a href="https://orcid.org/0000-0002-6423-9876" title="ORCID: 0000-0002-6423-9876" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> <a href="https://orcid.org/0000-0003-2392-5439" title="ORCID: 0000-0003-2392-5439" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a> <a href="https://orcid.org/0000-0001-7059-5351" title="ORCID: 0000-0001-7059-5351" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/hanzic_lucija"><b>Hanžič</b> Lucija</a> <a href="https://orcid.org/0000-0002-8209-4308" title="ORCID: 0000-0002-8209-4308" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a> <a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/jiang_zengwu"><b>Jiang</b> Zengwu</a>
+,     <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> <a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> <a href="https://orcid.org/0000-0003-1811-9491" title="ORCID: 0000-0003-1811-9491" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> <a href="https://orcid.org/0000-0002-1830-6353" title="ORCID: 0000-0002-1830-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> <a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> <a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/ster_katarina"><b>Šter</b> Katarina</a> <a href="https://orcid.org/0000-0002-7923-5261" title="ORCID: 0000-0002-7923-5261" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/putten_jolien"><b>van der Putten</b> Jolien</a> <a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> <a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Materials and Structures, Vol. 58, Iss. 9, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#assessment`](keyword/assessment)
+    [`#base`](keyword/base)
+    [`#cement`](keyword/cement)
+    [`#durability`](keyword/durability)
+    [`#material`](keyword/material)
+    [`#print`](keyword/print)
+    [`#rilem`](keyword/rilem)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Durability%20Assessment%20of%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020378437&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001604330400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02797-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1617/s11527-025-02797-5" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1617/s11527-025-02797-5" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1617/s11527-025-02797-5" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1617/s11527-025-02797-5&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1617/s11527-025-02797-5" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1617/s11527-025-02797-5&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4415660423" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1617/s11527-025-02797-5" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1617/s11527-025-02797-5?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    The two major themes in the current construction industry are digital construction and low environmental impact. As a prominent digital construction technology, concrete 3D printing has attracted increasing attention. However, the current understanding of the durability of 3D printed cement-based materials (3DPCM) remains limited, which hinders its wider application, especially as load-bearing, reinforced concrete structures. This work shares the knowledge acquired during a broad interlaboratory study regarding the durability of 3DPCM with 15 laboratories from 13 countries participating, under the framework of TC 304-ADC ‘Assessment of Additively Manufactured Concrete Materials and Structures’. Anisotropy in water absorption capacity, carbonation and chloride ingress resistance of 3DPCM were evaluated by 15 institutes with their own printable materials and printing equipment. Additionally, the impacts of cold joints on these properties were investigated and a comparison between printed and cast samples was carried out. The outcome of this study indicates that the water absorption test provides information on the bulk porosity of the samples, while the carbonation and chloride ingress tests are more effective and visually reflect the local defects, especially the layer interfaces and cold joints. The water ingress depth of cast samples prepared with printable mixtures is an order of magnitude higher compared to conventional concrete, while their carbonation and chloride ingress resistance are comparable. The sorptivity and estimated water ingress height of printed samples measured in the direction parallel to the filaments is generally higher than that measured in the perpendicular direction and in cast samples. Similarly, the carbonation and chloride ingress depth and rate of printed samples measured in the direction parallel to the filaments is generally higher than that measured in the perpendicular direction or in cast samples. The overall durability of 3DPCM is weakened by anisotropy, these effects can be addressed with targeted mixture design and processing strategies. Due to the variations in printers, printing parameters and materials, three types of cross-section geometries were observed in printed samples with cold joints. The carbonation depth that measured from the maximum carbonation ingress point near the cold joint to the sample edge effectively captures the effect of cold joints in all these three types of cross-section geometries of printed samples. Finally, the participants identified areas of improvement in the methodology and suggestions were made to refine the procedure for adoption in future research.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../beka_titt_schu.2023.TEoCCotSLo3PCF/">The Effect of Curing Conditions on the Service Life of 3D Printed Concrete Formwork</a></li>
+      <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bohl_freu_mai_lowk.2023.S3P/">Shotcrete 3D Printing:<br/>Effect of Material‐Process-Interaction on the Global and Local Material Density</a></li>
+      <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bohl_mai_lowk.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</a></li>
+      <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
+      <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../mai_herd_lowk.2023.EoGSaLToHSPiSCA/">Effect of Grain-Size and Layer-Thickness on Hardened State Properties in Selective Cement-Activation</a></li>
+      <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
+      <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
+      <li><a href="../../../author/min_kyung-sung"><b>Min</b> Kyung-Sung</a>, <a href="../../../author/park_kwang-min"><b>Park</b> Kwang-Min</a>, <a href="../../../author/lee_bong-chun"><b>Lee</b> Bong-Chun</a>, <a href="../../../author/roh_young-sook"><b>Roh</b> Young-Sook</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../min_park_lee_roh.2021.CDbBOoCMBBJ3PM/">Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar</a></li>
+      <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mune_krug_zijl.2023.IILBi3PCTITH/">Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGbSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap between Successive Layers</a></li>
+      <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
+      <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a></li>
+      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../tao_moha_rahu_yuan.2022.SCCMwRPPfTPP/">Stiffening Controllable Concrete Modified with Redispersible Polymer Powder for Twin-Pipe Printing</a></li>
+      <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC/">Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a></li>
+      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
+      <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
+      <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
+      <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>

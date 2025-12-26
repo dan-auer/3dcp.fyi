@@ -1,0 +1,21 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#head
+
+<ol reversed>
+  <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
+  <li><a href="../../../author/wu_changzhong"><b>Wu</b> Changzhong</a>, <a href="../../../author/lu_yuanyuan"><b>Lu</b> Yuanyuan</a>, <a href="../../../author/tian_jiaxin"><b>Tian</b> Jiaxin</a>, <a href="../../../author/zhu_xingyu"><b>Zhu</b> Xingyu</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wu_lu_tian_zhu.2025.Ro3PSoCBoRAaSDoSH/">Research on 3D Printed Section of Concrete Based on Robot Arm and Structural Design of Sprinkler Head</a></li>
+  <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../rama_pasu_mech_sanj.2024.TPPHMoHAACfBEi3CP/">Two-Part Print-Head Mixing of Hybrid Alkali-Activated Cement for Buildability Enhancement in 3D Concrete Printing</a></li>
+  <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rama_pasu_mech_sanj.2024.PHMoGaOSfHAACi3CP/">Print-Head Mixing of Geopolymer and OPC Slurries for Hybrid Alkali-Activated Cement in 3D Concrete Printing</a></li>
+  <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_ren_yan_ao.2024.BMAaODo3CPH/">Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head</a></li>
+  <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wei_han_chen_lu.2024.NSo3CPDfPHaPP/">Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process</a></li>
+  <li><a href="../../../author/ruitinga_volker"><b>Ruitinga</b> Volker</a>, <a href="../../../author/avramiea_chris_emma"><b>Avramiea</b> Emma</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ruit_avra.2024.CMPHE3PC/">Custom-Made Print-Heads Empowering 3D Printed Concrete:<br/>Innovations in Digital Design and Fabrication of Complex Prefabricated Elements</a></li>
+  <li><a href="../../../author/adams_julian_thomas"><b>Adams</b> Thomas</a>, <a href="../../../author/heuer_christoph"><b>Heuer</b> Christoph</a>, <a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b> Sigrid</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../adam_heue_brel.2022.D3PHfSSEoFRC/">Dynamic 3D Print-Head for Spatial Strand-Extrusion of Fiber-Reinforced Concrete:<br/>Requirements, Development and Application</a></li>
+  <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>
+</ol>

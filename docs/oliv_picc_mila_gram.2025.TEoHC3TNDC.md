@@ -1,0 +1,114 @@
+---
+hide:
+    - navigation
+    - tags
+title: Nik Olivo, Valeria Piccioni, Francesco Milano, Fabio Gramazio, Matthias Kohler, Arno Schlüter, Benjamin Dillenburger
+description:
+tags:
+ - core
+ - customization
+ - design
+ - enhancement
+ - hollow
+ - nozzle
+ - temperature
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.susmat.2025.e01273) Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization ([2025-02](date/2025/02))
+<a href="https://doi.org/10.1016/j.susmat.2025.e01273" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.susmat.2025.e01273</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a> <a href="https://orcid.org/0009-0008-6014-4774" title="ORCID: 0009-0008-6014-4774" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a> <a href="https://orcid.org/0000-0003-0119-8189" title="ORCID: 0000-0003-0119-8189" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a> <a href="https://orcid.org/0000-0002-4657-4144" title="ORCID: 0000-0002-4657-4144" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> <a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/schluter_arno"><b>Schlüter</b> Arno</a> <a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Sustainable Materials and Technologies, No. e01273
+
+:aca-blank:{ .lg .middle}
+    [`#core`](keyword/core)
+    [`#customization`](keyword/customization)
+    [`#design`](keyword/design)
+    [`#enhancement`](keyword/enhancement)
+    [`#hollow`](keyword/hollow)
+    [`#nozzle`](keyword/nozzle)
+    [`#temperature`](keyword/temperature)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Enhancement%20of%20Hollow-Core%203DP%20Through%20Nozzle%20Design%20Customization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217900492&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001430295200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.susmat.2025.e01273" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.susmat.2025.e01273" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.susmat.2025.e01273" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.susmat.2025.e01273" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.susmat.2025.e01273&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.susmat.2025.e01273" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.susmat.2025.e01273&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4407462958" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.susmat.2025.e01273" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.susmat.2025.e01273?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    On the architectural scale, material extrusion (ME) or Big Area Additive Manufacturing (BAAM) have been fabrication methods for polymer-based components explored as an alternative to injection molding, over the past 20 years. These Additive Manufacturing (AM) techniques face long printing hours, slow material cooling rates, and high material usage when scaling towards building-size components. Hollow-core 3D printing (HC3DP) is an novel fabrication method that addresses these limitations by extruding tubular beads, thereby saving time and materials. A key advantage of HC3DP is its insulating properties due to the air chambers within the prints. This technique has significant potential for large-scale facade fabrication while providing essential thermal insulation.
+However, initial research indicates that deploying HC3DP at an architectural scale, while meeting building insulation standards, requires using a double pane with an internal infill structure. This reduces its ability to optimize time and material efficiency. The full potential of this technology rather relies on its application for the fabrication of single-pane mono-material façade elements. Therefore, as a first step, this research aims to explore the different insulating properties of various HC wall configurations from more complex to infill-less wall typologies. As a second step, thermally optimized bespoke die-end extrusion nozzles are designed for HC3DP of façade panels to achieve higher material, time, and thermal efficiency.
+Through bespoke nozzle customization, different levels of thermal insulation improvement could be achieved, reaching an U-Value of 0.998 W/m2K on a HC3DP single-pane panel, improving by two the insulating capacity of basic single pane circular-sectioned HC, and complying with the nearly zero-energy building (NZEB) standards (1). All of this while reducing printing time, material usage and cost up to half compared to an insulating-equivalent HC3DP wall typology.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
+      <li>None</li>
+      <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
+      <li><a href="../../../author/biswas_kaushik"><b>Biswas</b> Kaushik</a>, <a href="../../../author/rose_james"><b>Rose</b> James</a>, <a href="../../../author/eikevik_leif"><b>Eikevik</b> Leif</a>, <a href="../../../author/guerguis_maged"><b>Guerguis</b> Maged</a> et al. <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../bisw_rose_eike_guer.2017.AMIE/">Additive Manufacturing Integrated Energy:<br/>Enabling Innovative Solutions for Buildings of the Future</a></li>
+      <li>None</li>
+      <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
+      <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM/">Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements</a></li>
+      <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/renz_mauritz"><b>Renz</b> Mauritz</a>, <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../brie_renz_noum_stra.2023.MAF/">Monolithic AM Façade:<br/>Multi-Objective Parametric Design-Optimization of Additively Manufactured Insulating Wall Elements</a></li>
+      <li>None</li>
+      <li><a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/gamote_perez_ringo"><b>Gamote</b> Ringo</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/arnold_kilian"><b>Arnold</b> Kilian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../chei_gamo_llor_arno.2024.3PoaMPBE/">3D Printing of a Multi-Performative Building Envelope:<br/>Assessment of Air-Permeability, Water-Tightness, Wind-Loads, and Impact-Resistance</a></li>
+      <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b> Jarosław</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a>, <a href="../../../author/ehm_clemens"><b>Ehm</b> Clemens</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../cuev_strz_kim_ehm.2023.TDoSL3PWBE/">Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes:<br/>Experimental and Numerical Studies</a></li>
+      <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
+      <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
+      <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/tan_ze-mei_jolyn"><b>Tan</b> Jolyn</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../he_tan_chow_li.2021.DoNNfHILSo3PCP/">Design of Novel Nozzles for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
+      <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
+      <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
+      <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b> Tegoeh</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lao_li_tjah.2021.VGNfSQEi3CP/">Variable-Geometry Nozzle for Surface Quality Enhancement in 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/quirin_didier"><b>Quirin</b> Didier</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../lao_tay_quir_tan.2018.TEoNSotCaSoSPiAMoC/">The Effect of Nozzle Shapes on the Compactness and Strength of Structure Printed in Additive Manufacturing of Concrete</a></li>
+      <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/seshadri_bharath"><b>Seshadri</b> Bharath</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lesc_chei_picc_sesh.2023.3PF/">3D Printing Facades:<br/>Design, Fabrication, and Assessment Methods</a></li>
+      <li>None</li>
+      <li>None</li>
+      <li>None</li>
+      <li><a href="../../../author/marais_hannelie"><b>Marais</b> Hannelie</a>, <a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../mara_chri_cho_vill.2021.CAoTPo3PCWSwC/">Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities</a></li>
+      <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mcge_ng_yu_li.2020.ENSfI3oECCES/">Extrusion Nozzle Shaping for Improved 3DP of Engineered Cementitious Composites (ECC-SHCC)</a></li>
+      <li><a href="../../../author/nemova_darya"><b>Nemova</b> Darya</a>, <a href="../../../author/kotov_vladimirovich_evgeny"><b>Kotov</b> Evgeny</a>, <a href="../../../author/andreeva_darya"><b>Andreeva</b> Darya</a>, <a href="../../../author/khorobrov_svyatoslav"><b>Khorobrov</b> Svyatoslav</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nemo_koto_andr_khor.2022.ESotTPo3PES/">Experimental Study on the Thermal Performance of 3D Printed Enclosing Structures</a></li>
+      <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
+      <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../pan_guo_jian_ji.2022.FaDBoCMTNwDGP/">Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters:<br/>Experimental and Numerical Approaches</a></li>
+      <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
+      <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
+      <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a></li>
+      <li>None</li>
+      <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
+      <li><a href="../../../author/sarakinioti_valentini_maria"><b>Sarakinioti</b> Maria</a>, <a href="../../../author/turrin_michela"><b>Turrin</b> Michela</a>, <a href="../../../author/konstantinou_thaleia"><b>Konstantinou</b> Thaleia</a>, <a href="../../../author/tenpierik_martin"><b>Tenpierik</b> Martin</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../sara_turr_kons_tenp.2018.DaI3PFwCGfATC/">Developing an Integrated 3D Printed Façade with Complex Geometries for Active Temperature-Control</a></li>
+      <li><a href="../../../author/urhal_pinar"><b>Urhal</b> Pinar</a>, <a href="../../../author/weightman_andrew"><b>Weightman</b> Andrew</a>, <a href="../../../author/diver_carl"><b>Diver</b> Carl</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../urha_weig_dive_bart.2019.RAAM/">Robot-Assisted Additive Manufacturing:<br/>A Review</a></li>
+      <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vant_stee_cort_boel.2020.DOf3CP/">Design-Optimization for 3D Concrete Printing:<br/>Improving Structural and Thermal Performances</a></li>
+      <li>None</li>
+      <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>

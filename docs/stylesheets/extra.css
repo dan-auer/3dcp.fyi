@@ -1,0 +1,23 @@
+.tum {
+  color: #3070B3;
+}
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+
+.xgreen {
+  animation: heart 1000ms infinite;
+  color: #2CA25F;
+}
+
+.xred {
+  color: #DD1C77;
+}
+
+

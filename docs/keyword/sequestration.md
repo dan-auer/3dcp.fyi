@@ -1,0 +1,20 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#sequestration
+
+<ol reversed>
+  <li><a href="../../../author/khan_hilal"><b>Khan</b> Hilal</a>, <a href="../../../author/zahid_zamil"><b>Zahid</b> Zamil</a>, <a href="../../../author/hussain_fazal"><b>Hussain</b> Fazal</a>, <a href="../../../author/ahmad_junaid"><b>Ahmad</b> Junaid</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../khan_zahi_huss_ahma.2025.SMBBCCfCSESaSIA/">Sustainable Multifunctional Biochar-Based Cementitious Composites for Carbon Sequestration, Energy Storage, and Smart Infrastructure Applications:<br/>A Review</a></li>
+  <li><a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gupt_saha_soda_dwiv.2025.DoCS3PSEM/">Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials:<br/>Investigation into Engineering Performance and Resistance Against Acid Attack</a></li>
+  <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b> Yogarajah</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kopi_raje_sanj_elak.2025.CSaLCSi3PC/">CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete</a></li>
+  <li><a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a>, <a href="../../../author/hermida_luis_jose"><b>Hermida</b> José</a>, <a href="../../../author/saavedra_ruth"><b>Saavedra</b> Ruth</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../nava_tosi_herm_saav.2024.3PCaaSoRA/">3D Printed Concrete as a Source of Recycled Aggregates:<br/>Potential for Multi-Recycling and CO2 Sequestration</a></li>
+  <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lim_tay_paul_lee.2024.CCaSwISCaSI3CP/">Carbon Capture and Sequestration with In-Situ CO2 and Steam Integrated 3D Concrete Printing</a></li>
+  <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_soda_dwiv_kuma.2024.3PwSE/">3D Printing with Stabilized Earth:<br/>Material-Development and Effect of Carbon-Sequestration on Engineering-Performance</a></li>
+  <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a>, <a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lim_tay_amr_fadh.2024.CSw3CP/">Carbon Sequestration with 3D Concrete Printing:<br/>Potentials and Challenges</a></li>
+  <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a></li>
+</ol>

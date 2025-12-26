@@ -1,0 +1,97 @@
+---
+hide:
+    - navigation
+    - tags
+title: Can Tang, Yujie Zhou, Awais Mehmood, Chlihi Rania, Wenfeng Hao
+description:
+tags:
+ - base
+ - cement
+ - composite
+ - compression
+ - design
+ - fabrication
+ - negative
+ - poisson
+ - print
+ - property
+ - ratio
+ - reinforcement
+ - structure
+ - wall
+ - a
+
+---
+
+#:aca-closedaccess:{ .xred '} A Novel 3D-Printed Negative Poisson's Ratio Grid-Reinforced Cement-Based Composite Wall Structure:<br/>:aca-blank: Design, Fabrication, and Compressive Properties ([2025-11](date/2025/11))
+<a href="https://doi.org/10.1016/j.tws.2025.114268" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.tws.2025.114268</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/tang_can"><b>Tang</b> Can</a>
+,     <a href="../../../author/zhou_yujie"><b>Zhou</b> Yujie</a>
+,     <a href="../../../author/mehmood_awais"><b>Mehmood</b> Awais</a>
+,     <a href="../../../author/rania_chlihi"><b>Rania</b> Chlihi</a>
+,     <a href="../../../author/hao_wenfeng"><b>Hao</b> Wenfeng</a> <a href="https://orcid.org/0000-0001-6738-4991" title="ORCID: 0000-0001-6738-4991" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Thin-Walled Structures, No. 114268
+
+:aca-blank:{ .lg .middle}
+    [`#base`](keyword/base)
+    [`#cement`](keyword/cement)
+    [`#composite`](keyword/composite)
+    [`#compression`](keyword/compression)
+    [`#design`](keyword/design)
+    [`#fabrication`](keyword/fabrication)
+    [`#negative`](keyword/negative)
+    [`#poisson`](keyword/poisson)
+    [`#print`](keyword/print)
+    [`#property`](keyword/property)
+    [`#ratio`](keyword/ratio)
+    [`#reinforcement`](keyword/reinforcement)
+    [`#structure`](keyword/structure)
+    [`#wall`](keyword/wall)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%203D-Printed%20Negative%20Poisson%27s%20Ratio%20Grid-Reinforced%20Cement-Based%20Composite%20Wall%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022464320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001630126400004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.tws.2025.114268" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.tws.2025.114268" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.tws.2025.114268" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.tws.2025.114268" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.tws.2025.114268&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.tws.2025.114268" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.tws.2025.114268&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W7106165338" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.tws.2025.114268" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.tws.2025.114268?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Auxetic structures theoretically offer significant potential for regulating material damage evolution; however, the understanding of their synergistic mechanisms with cement matrices under multi-field coupling conditions remains limited. This study employs 3D printing technology to fabricate two-dimensional re-entrant honeycomb auxetic structures with three distinct angles using PA12, which are embedded as reinforcements in cementitious materials to construct novel cement-based wall structures. Uniaxial compression tests combined with digital image correlation (2D-DIC) and acoustic emission (AE) monitoring reveal that these novel cement-based wall structures not only retain the anomalous mechanical properties characteristic of cement composites but also exhibit compressive strength enhancements of 64.78%, 58.04%, and 47.70% compared to conventional walls, along with post-peak energy absorption capacities per unit volume increased by 99.5, 54.23, and 83.42 times relative to the control group. Strain field analysis demonstrates that the precisely controlled geometric topology of the novel wall structures effectively suppresses lateral expansion of the cement matrix and delays crack propagation. AE signal characteristics indicate that the novel wall structures facilitate a transition in damage evolution from brittle to ductile failure, promoting more orderly crack development. Furthermore, damage pattern classification based on factor analysis and fuzzy C-means clustering corroborates the restructuring effect of the novel cement-based wall structures on damage chronology. This research demonstrates that 3D-printed auxetic-reinforced cement-based wall structures exhibit exceptional compressive performance, energy absorption capacity, and damage regulation capabilities, offering innovative solutions for high-performance structural design in seismic-resistant construction and protective engineering.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
+      <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../bai_xiao_ding_yu.2024.IBPB3PECCaPCC/">Interfacial Bond-Properties Between 3D Printed Engineered Cementitious Composite and Post-Cast Concrete</a></li>
+      <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF/">Experimental and Numerical Study on the Flexural Behavior of 3D Printed Composite Beams with U-Shaped ECC Formwork</a></li>
+      <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
+      <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
+      <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a></li>
+      <li><a href="../../../author/quintana-ruiz_dario_osvaldo"><b>Quintana-Ruiz</b> Osvaldo</a>, <a href="../../../author/campello_de-morais-barreto_eduardo"><b>Campello</b> Eduardo</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../quin_camp.2024.DMoAMT/">DEM Modeling of Advanced Manufacturing Technologies:<br/>From SLS to 3D Concrete Printing</a></li>
+      <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../xiao_bai_wu_duan.2024.ILBSaPCo3PECC/">Inter-Layer Bonding Strength and Pore Characteristics of 3D Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/zhao_guoqi"><b>Zhao</b> Guoqi</a>, <a href="../../../author/fan_yichang"><b>Fan</b> Yichang</a>, <a href="../../../author/tang_can"><b>Tang</b> Can</a>, <a href="../../../author/wei_yuanyuan"><b>Wei</b> Yuanyuan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhao_fan_tang_wei.2024.PaCPoCCRb3PCSwaNPsR/">Preparation and Compressive Properties of Cementitious Composites Reinforced by 3D Printed Cellular Structures with a Negative Poisson's Ratio</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>

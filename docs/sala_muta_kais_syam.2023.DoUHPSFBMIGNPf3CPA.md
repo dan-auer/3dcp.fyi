@@ -1,0 +1,119 @@
+---
+hide:
+    - navigation
+    - tags
+title: Husam Salah, Azrul Mutalib, Amrul Kaish, Agusril Syamsir, Hassan Algaifi
+description:
+tags:
+ - application
+ - base
+ - concrete
+ - development
+ - fume
+ - graphene
+ - height
+ - incorporation
+ - mortar
+ - performance
+ - print
+ - silica
+ - nano
+ - ultra
+ - nano
+ - ultra
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2075-5309/13/8/1949/pdf?version=1690796006) Development of Ultra-High-Performance Silica-Fume-Based Mortar Incorporating Graphene-Nano-Platelets for 3D Concrete Printing Application ([2023-07](date/2023/07))
+<a href="https://doi.org/10.3390/buildings13081949" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/buildings13081949</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/salah_azzam-abdullah_husam"><b>Salah</b> Husam</a> <a href="https://orcid.org/0000-0001-9409-3567" title="ORCID: 0000-0001-9409-3567" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mutalib_a_azrul"><b>Mutalib</b> Azrul</a>
+,     <a href="../../../author/kaish_b-m-a_amrul"><b>Kaish</b> Amrul</a> <a href="https://orcid.org/0000-0003-1609-1026" title="ORCID: 0000-0003-1609-1026" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/syamsir_agusril"><b>Syamsir</b> Agusril</a> <a href="https://orcid.org/0000-0002-5919-0588" title="ORCID: 0000-0002-5919-0588" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/algaifi_amer_hassan"><b>Algaifi</b> Hassan</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Buildings, Vol. 13, Iss. 8, No. 1949
+
+:aca-blank:{ .lg .middle}
+    [`#application`](keyword/application)
+    [`#base`](keyword/base)
+    [`#concrete`](keyword/concrete)
+    [`#development`](keyword/development)
+    [`#fume`](keyword/fume)
+    [`#graphene`](keyword/graphene)
+    [`#height`](keyword/height)
+    [`#incorporation`](keyword/incorporation)
+    [`#mortar`](keyword/mortar)
+    [`#performance`](keyword/performance)
+    [`#print`](keyword/print)
+    [`#silica`](keyword/silica)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Ultra-High-Performance%20Silica-Fume-Based%20Mortar%20Incorporating%20Graphene-Nano-Platelets%20for%203D%20Concrete%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169144622&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001056230600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.3390/buildings13081949" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.3390/buildings13081949" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.3390/buildings13081949" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.3390/buildings13081949" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.3390/buildings13081949&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.3390/buildings13081949" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.3390/buildings13081949&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4385416091" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.3390/buildings13081949" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.3390/buildings13081949?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Although the use of 3D printing in civil engineering has grown in popularity, one of the primary challenges associated with it is the absence of steel bars inside the printed mortar. As a result, developing 3D printing mortar with ultra-high compressive, flexural, and tensile strengths is critical. In the present study, an ultra-high-performance mortar incorporating silica fume (SF) and graphene nanoplatelets (GNPs) was developed for 3D printing application. The concrete mixture added SF to the concrete mixture in the range between 0% and 20%, while GNPs were added as a partial replacement by cement weight from 0.5% to 2%. The flowability and the machinal properties of the proposed mortar, including compressive (CS), tensile (TS), and flexural strength (FS), were investigated and assessed. Microstructure analysis involving FESEM and EDX was also investigated and evaluated, while response surface methodology (RSM) was considered to predict and optimize the optimum value of GNPs and SF. Workability results show that the flowability is reduced when the amount of graphene increases. Based on the predicted and experimental results, ultra-high-strength mortar can be developed by including 1.5% of GNPs and 20% of SF, in which the CS jumped from 70.7 MPa to 133.3 MPa at the age of 28 days. The FS and TS were 20.66 MPa and 14.67 MPa compared to the control mix (9.75 MPa and 6.36 MPa), respectively. This favorable outcome was credited to the pozzolanic activity of SF and the effectiveness of GNPs in compacting the pores and bridging the cracks at the nanoscale level, which were verified by FE-SEM and EDX. In addition, the developed quadratic equations proved their accuracy in predicting and optimizing the mechanical properties with low error (less than 0.09) and high correlation (R2 > 0.97). It can be concluded that the current work is an important step forward in developing a 3D printing mortar. The lack of reinforcement in the printed mortar structure has been a considerable difficulty, and the SF and GNPs have increased the compressive, flexural, and tensile strengths of the mortar. Thus, these improvements will encourage the industry to utilize sustainable materials to produce more affordable housing.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
+      <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
+      <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
+      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
+      <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
+      <li>None</li>
+      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lee_kim_moon_kim.2019.EotMPoa3PM/">Evaluation of the Mechanical Properties of a 3D Printed Mortar</a></li>
+      <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
+      <li><a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>, <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../mart_math_bos_coen.2017.O3PCSUTO/">Optimizing 3D Printed Concrete Structures Using Topology Optimization</a></li>
+      <li>None</li>
+      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
+      <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
+      <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>, <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chun_liar_loot.2021.TEoNSotFaHPo3PM/">The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars</a></li>
+      <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
+      <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
+      <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
+      <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a>, <a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a>, <a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a>, <a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jamj_thul_redd_kafl.2025.ACRoSIoNi3PC/">A Critical Review on Synergistic Integration of Nanomaterials in 3D-Printed Concrete:<br/>Rheology to Microstructure and Eco-Functionality</a></li>
+      <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
+      <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>
+      <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
+      <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
+      <li><a href="../../../author/jalil_siti-nur-natasha-abdul"><b>Jalil</b> Siti Nur Natasha Abdul</a>, <a href="../../../author/rizal-alias_ahmad"><b>Rizal Alias</b> Ahmad</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jali_riza_alia.2025.CaSiI3CP3TiM/">Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia:<br/>Materials and Design Codes</a></li>
+      <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/venkatachalam_akshay"><b>Venkatachalam</b> Akshay</a>, <a href="../../../author/divigalpitiya_ranjith"><b>Divigalpitiya</b> Ranjith</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB/">Ultra-Low Dosages of Novel Graphene Types Enhance the Rheological Properties and Buildability of 3D Printed Binders</a></li>
+      <li><a href="../../../author/nassrullah_ghaith"><b>Nassrullah</b> Ghaith</a>, <a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/rub_k-abu_rashid"><b>Rub</b> Rashid</a>, <a href="../../../author/cho_cung-suk"><b>Cho</b> Cung-Suk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../nass_ali_rub_cho.2025.OCBMFf3P/">Optimizing Cement-Based Material Formulation for 3D Printing:<br/>Integrating Carbon Nanotubes and Silica Fume</a></li>
+      <li><a href="../../../author/ali_mukarram_mohd"><b>Ali</b> Mohd</a>, <a href="../../../author/rub_k-abu_rashid"><b>Rub</b> Rashid</a>, <a href="../../../author/banat_fawzi"><b>Banat</b> Fawzi</a>, <a href="../../../author/kim_tae-yeon"><b>Kim</b> Tae-Yeon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ali_rub_bana_kim.2024.EtPQaMPo3PCCwDSBGCSH/">Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid</a></li>
+      <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../pras.2024.H3PTMCS/">How 3D Printing Technology Makes Cities Smarter:<br/>A Review, Thematic Analysis, and Perspectives</a></li>
+      <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a></li>
+      <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
+      <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a>, <a href="../../../author/vornicu_nicoleta"><b>Vornicu</b> Nicoleta</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../ungu_onut_tara_vorn.2023.MaMPoCE3PCRwPF/">Microstructure and Mechanical Properties of Cost-Efficient 3D Printed Concrete Reinforced with Polypropylene Fibers</a></li>
+    </ol>
+</div>

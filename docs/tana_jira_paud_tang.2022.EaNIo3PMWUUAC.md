@@ -1,0 +1,115 @@
+---
+hide:
+    - navigation
+    - tags
+title: Ganchai Tanapornraweekit, Patiphat Jiramarootapong, Satish Paudel, Somnuk Tangtermsirikul, Chalermwut Snguanyat
+description:
+tags:
+ - axis
+ - compression
+ - experiment
+ - investigation
+ - mortar
+ - numeric
+ - print
+ - uniform
+ - wall
+ - under
+
+---
+
+#:aca-closedaccess:{ .xred '} Experimental and Numerical Investigation of 3D Printed Mortar Walls Under Uniform Axial Compression ([2022-11](date/2022/11))
+<a href="https://doi.org/10.1016/j.conbuildmat.2022.129552" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129552</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a> <a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>
+,     <a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a> <a href="https://orcid.org/0000-0002-1757-8525" title="ORCID: 0000-0002-1757-8525" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> <a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Construction and Building Materials, Vol. 360, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#axis`](keyword/axis)
+    [`#compression`](keyword/compression)
+    [`#experiment`](keyword/experiment)
+    [`#investigation`](keyword/investigation)
+    [`#mortar`](keyword/mortar)
+    [`#numeric`](keyword/numeric)
+    [`#print`](keyword/print)
+    [`#uniform`](keyword/uniform)
+    [`#wall`](keyword/wall)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Numerical%20Investigation%20of%203D%20Printed%20Mortar%20Walls%20Under%20Uniform%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141235801&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000882164200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129552" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.conbuildmat.2022.129552" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.conbuildmat.2022.129552" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.conbuildmat.2022.129552" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.conbuildmat.2022.129552&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.conbuildmat.2022.129552" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.conbuildmat.2022.129552&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4308493102" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129552" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129552?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    This study aims to investigate and trace the behavior of 3D-printed load-bearing walls under uniform axial compression load. The manufacturing procedure of 3D-printed structures is unique as they are printed layer by layer where the interface between layers is usually a weak plane for 3D-printed structures. This weak plane also causes the printed mortar to behave as an orthotropic material. To analyze and trace the behavior of 3D-printed structures, the basic mechanical properties of the 3D-printed mortar as well as the interface strength between printed layers are investigated in this study. In addition, a series of load tests on 3D-printed load-bearing walls were performed to investigate the behavior of this kind of printed structure under uniform axial compression load. There are three different printing wall patterns tested in this study, plain, diamond, and carp walls. Both diamond and carp walls failed by buckling of the printed mortar. However, with a better load transfer path of the diamond wall, the diamond wall showed a more ductile response compared to the carp wall. The diamond wall requires less printing time and less mortar consumption, but it shows a higher load at first crack, higher loadcarrying capacity, and more ductile response compared to the other two walls, depicting its better overall performance as a load-bearing wall. This research also proposes an FE model which considers the interface strength of the 3D-printed layers. The proposed model can be used to predict the load–displacement, stress–strain distribution, load transfer path as well as failure pattern of the tested 3D-printed walls with satisfactory accuracy. The model can also capture well a complex geometrical non-linearity of the printed wall observed through buckling of the tested walls.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li>None</li>
+      <li><a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jira_pras_sngu_tana.2020.LCCaFMo3PMWPUACL/">Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading</a></li>
+      <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
+      <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
+      <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
+      <li><a href="../../../author/meurer_maximilian"><b>Meurer</b> Maximilian</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../meur_cla.2021.MPoH3PCaM/">Mechanical Properties of Hardened 3D Printed Concretes and Mortars:<br/>Development of a Consistent Experimental Characterization-Strategy</a></li>
+      <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
+      <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
+      <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
+      <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b> Scott</a>, <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>, <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../veri_kowa_carl_brig.2020.Po3PMwtDoa3CPDS/">Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System</a></li>
+      <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
+      <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
+      <li><a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a>, <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL/">Effects of Printing Interval Time on the Structural Performance of 3D-Printed Beams Under Four-Point Bending Loads</a></li>
+      <li><a href="../../../author/vollmert_jasper"><b>Vollmert</b> Jasper</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/alatassi_adel"><b>Alatassi</b> Adel</a>, <a href="../../../author/chmelnizkij_alexander"><b>Chmelnizkij</b> Alexander</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../voll_pera_alat_chme.2025.TSHMoCPS/">Towards Structural Health Monitoring of Clay-Printed Structures</a></li>
+      <li><a href="../../../author/kumar_sai_s"><b>Kumar</b> S.</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kuma_muth_pand.2025.NIoSBo3PCW/">Numerical Investigation of Structural Behavior of 3D-Printed Concrete Walls:<br/>Insights from Damage Mechanics and Cohesive Zone Approaches</a></li>
+      <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wars_pand_bisw.2025.DoER3PCWBoA31/">Design of Earthquake-Resistant 3D Printed Concrete Wall Based on ACI 318-19:<br/>Analytical Investigation and Numerical Modelling</a></li>
+      <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a></li>
+      <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>
+      <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a></li>
+      <li><a href="../../../author/hassan_amer"><b>Hassan</b> Amer</a>, <a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a>, <a href="../../../author/noaman_faisal_mohammed"><b>Noaman</b> Mohammed</a>, <a href="../../../author/zhang_chunwei"><b>Zhang</b> Chunwei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hass_alom_noam_zhan.2025.3PCfSC/">3D Printed Concrete for Sustainable Construction:<br/>A Review of Mechanical Properties and Environmental Impact</a></li>
+      <li><a href="../../../author/mohammed_a_arafat"><b>Mohammed</b> Arafat</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/abdwais_h_ahmed"><b>Abdwais</b> Ahmed</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../moha_tami_abdw.2024.SPo3CPLBW/">Structural Performance of 3D Concrete Printed Load-Bearing Walls</a></li>
+      <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>
+      <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>
+      <li><a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a>, <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b> Passarin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dhan_tana_tang_jong.2024.UCo3PLBWwO/">Uniaxial Compression on 3D Printed Load-Bearing Walls with Openings</a></li>
+      <li><a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b> Passarin</a>, <a href="../../../author/chaiyapoom_phattarakamon"><b>Chaiyapoom</b> Phattarakamon</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/meemuk_kornravee"><b>Meemuk</b> Kornravee</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jong_chai_jira_meem.2024.TS3PPPVCBiT/">The Second 3D Printed Prefabricated Prefinished Volumetric Construction Building in Thailand:<br/>A New Sustainable and Efficient Approach for a Low-Rise Prefab Modular Building</a></li>
+      <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
+      <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../naka_hash_sugi_kono.2024.IoPPoMPaFPo3PC/">Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../souz_ribe_sten_nema.2024.3PSLCMfCoASHiB/">3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>Potential, Challenges, and Research Needs</a></li>
+      <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a>, <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/zu_kun"><b>Zu</b> Kun</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_taka_jian_zu.2023.MPo3PCC/">Mechanical Properties of 3D Printed Concrete Components:<br/>A Review</a></li>
+      <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
+      <li><a href="../../../author/paudel_satish"><b>Paudel</b> Satish</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../paud.2023.IoMAtStSPo3PPWUUAC/">Investigation of Modelling Approaches to Study the Structural Performance of 3D Printed Plain Wall Under Uniform Axial Compression</a></li>
+    </ol>
+</div>

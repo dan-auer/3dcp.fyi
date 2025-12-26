@@ -1,0 +1,117 @@
+---
+hide:
+    - navigation
+    - tags
+title: Viktor Mechtcherine, Albert Michel, Marco Liebscher, Kai Schneider, Christoph Großmann
+description:
+tags:
+ - automation
+ - carbon
+ - composite
+ - concrete
+ - construction
+ - fiber
+ - impregnation
+ - material
+ - mineral
+ - reinforcement
+
+---
+
+#:aca-closedaccess:{ .xred '} Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>:aca-blank: Material and Automation Perspectives ([2019-11](date/2019/11))
+<a href="https://doi.org/10.1016/j.autcon.2019.103002" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.autcon.2019.103002</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>
+,     <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> <a href="https://orcid.org/0000-0003-4054-6414" title="ORCID: 0000-0003-4054-6414" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a>
+,     <a href="../../../author/grossmann_christoph"><b>Großmann</b> Christoph</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Automation in Construction, Vol. 110, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#automation`](keyword/automation)
+    [`#carbon`](keyword/carbon)
+    [`#composite`](keyword/composite)
+    [`#concrete`](keyword/concrete)
+    [`#construction`](keyword/construction)
+    [`#fiber`](keyword/fiber)
+    [`#impregnation`](keyword/impregnation)
+    [`#material`](keyword/material)
+    [`#mineral`](keyword/mineral)
+    [`#reinforcement`](keyword/reinforcement)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Mineral-Impregnated%20Carbon-Fiber%20Composites%20as%20Novel%20Reinforcement%20for%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85074788070&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000517664900003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2019.103002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.autcon.2019.103002" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.autcon.2019.103002" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.autcon.2019.103002" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.autcon.2019.103002&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.autcon.2019.103002" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.autcon.2019.103002&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W2986327802" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.autcon.2019.103002" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.autcon.2019.103002?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Mineral-impregnated carbon fiber composites (MCF) constitute a new type of reinforcement for construction. While inheriting the advantages of existing carbon fiber reinforcements, which are composite materials made of carbon filaments embedded in a thermoplastic or thermosetting matrix, MCF surpass the limitations of such polymer-impregnated types. More particularly, mineral impregnation considerably improves the performance of the reinforcement at elevated temperatures, enhances its bond to the concrete matrix, and increases technological flexibility, especially with respect to emerging automated production approaches. The article at hand presents the technology for continuous impregnation of carbon yarns with appropriately chosen fine mineral binder suspensions. Several examples for the automated manufacturing of reinforcement systems made of this new composite material are provided: one-dimensional elements such as bars and strips, two-dimensional reinforcements in the form of mats, and three-dimensional cases as examples of reinforcements for a balcony and shell elements. Furthermore, an outlook on introducing the novel reinforcement into highly automated, additive construction technologies is given.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../shen_sun_lu_zhan.2025.FaAMPoPFR3PCC/">Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_tosi_lord_mech.2024.FPoVCMfTWCSS/">Flow Production of Variable Curved Modules for Thin-Walled Concrete Shell Structures</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../neef_mech.2024.CFRfEB3CP/">Continuous Fiber-Reinforcement for Extrusion-Based 3D Concrete Printing</a></li>
+      <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../ivan_tosi_mull_lord.2024.AMoRMoSSBo3PwSHCC/">Automated Manufacturing of Reinforced Modules of Segmented Shells Based on 3D Printing with Strain-Hardening Cementitious Composites</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../caro_duco_demo_bono.2024.RRCwRa3P/">Reinvent Reinforced Concrete with Robotics and 3D Printing</a></li>
+      <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../neef_mull_mech.2024.ICMICFiDFwC/">Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.PBAM/">Powder-Bed Additive Manufacturing</a></li>
+      <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.SAM/">Shotcrete Additive Manufacturing</a></li>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../caro_duco_demo_bono.2023.3PoCFCC/">3D Printing of Continuous-Fibers Cementitious Composites:<br/>Anisotropic 3D Mortar</a></li>
+      <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../jacq_perr.2023.SCD/">Sewing Concrete Device:<br/>Combining In-Line Rheology-Control and Reinforcement-System for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_ditt_sche_grie.2023.UTaIFfAMwC/">Utilizing Textiles as Integrated Formwork for Additive Manufacturing with Concrete</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/backes_gerta_jana"><b>Backes</b> Jana</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_kalt_mull_back.2023.EoHYSCRCwMIR/">Extrusion of High Yield Strength Carbon-Reinforced Concrete with Mineral Impregnated Rovings</a></li>
+      <li><a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/chen_peng"><b>Chen</b> Peng</a>, <a href="../../../author/li_ning"><b>Li</b> Ning</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_chen_li.2023.ARotESDfLSEB3CP/">A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing</a></li>
+      <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../neef_mech.2022.AgCmmTdG/">Additiv gefertigter Carbonbeton mit mineralischer Tränkung der Garne</a></li>
+      <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tosi_eich_ivan_lord.2022.DaOoFFSfMC3P/">Design and Optimization of Free-Form Surfaces for Modular Concrete 3D Printing</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../neef_mull_mech.2022.IoMICFMiF3PCF/">Integration of Mineral Impregnated Carbon-Fiber (MCF) into Fine 3D Printed Concrete Filaments</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../neef_butl_mech.2022.IMBCFi3CP/">Integrating Mineral-Bonded Carbon Fibers into 3D Concrete Printing</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ivan_eich_tosi_mull.2022.3PaAoFMUPSHCBC/">3D Printing and Assembling of Frame Modules Using Printable Strain-Hardening Cement-Based Composites</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ivan_ivan_soko_tosi.2022.ADMDoPSHCC/">Application-Driven Material-Design of Printable Strain-Hardening Cementitious Composites</a></li>
+      <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../vasi_hack_klof_lowk.2022.DFiB/">Digitale Fertigung im Betonbau</a></li>
+      <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ivan_mull_neef_mech.2022.SfIRI3CPatTD/">Strategies for Integrating Reinforcement Into 3D Concrete Printing at the TU Dresden</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../neef_mech.2022.SIoCMBCRIAMwC/">Simultaneous Integration of Continuous Mineral-Bonded Carbon Reinforcement Into Additive Manufacturing with Concrete</a></li>
+      <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
+      <li><a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../liu_huan_wang_sun.2021.TaFPo3PJRM/">Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar</a></li>
+      <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
+      <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../neef_mull_mech.2020.3PwCC/">3D Printing with Carbon Concrete:<br/>Technology and the First Test Results</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../sche_ditt_grie.2020.PftIoCFBRiDCP/">Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../klof_empe_hack_herr.2020.SftRf3CP/">Strategies for the Reinforcement for 3D-Concrete-Printing</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schmeier_tobias"><b>Schmeier</b> Tobias</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mech_mich_lieb_schm.2020.EBAMwCRC/">Extrusion-Based Additive Manufacturing with Carbon Reinforced Concrete:<br/>Concept and Feasibility Study</a></li>
+      <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
+    </ol>
+</div>

@@ -1,0 +1,20 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+#  Pott Ursula 
+
+<ol reversed>
+  <li><a href="../../../author/ji_yianliang"><b>Ji</b> Yianliang</a>, <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a>, <a href="../../../author/rossler_christiane"><b>Rößler</b> Christiane</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH/">Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration</a></li>
+  <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM/">Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method</a></li>
+  <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT/">Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test</a></li>
+  <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a></li>
+  <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a></li>
+  <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wang_flat_rous_perr.2022.PCBM/">Printable Cement-Based Materials:<br/>Fresh Properties Measurements and Control</a></li>
+  <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
+  <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/jansen_daniel"><b>Jansen</b> Daniel</a>, <a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../pott_jako_jans_neub.2020.IotIoCaSaTIotRB/">Investigation of the Incompatibilities of Cement and Superplasticizers and Their Influence on the Rheological Behavior</a></li>
+</ol>

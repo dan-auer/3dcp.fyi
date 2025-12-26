@@ -1,0 +1,14 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+#  Yin Kangting 
+
+<ol reversed>
+  <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/yin_kangting"><b>Yin</b> Kangting</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../wang_jian_pan_yin.2021.TSEoEECTTSaNCotBo3PCM/">The Synergistic Effect of Ester-Ether Copolymerization Thixo-Tropic Superplasticizer and Nano-Clay on the Buildability of 3D Printable Cementitious Materials</a></li>
+  <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/he_hui"><b>He</b> Hui</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../pan_jian_he_wang.2021.EoSBUoILBSo3PCM/">Effect of Structural Build-Up on Inter-Layer Bond Strength of 3D Printed Cement Mortars</a></li>
+</ol>

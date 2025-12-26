@@ -1,0 +1,21 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#closed
+
+<ol reversed>
+  <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
+  <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a>, <a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lan_yang_xu_chen.2024.QAoIFPi3PAARSCBoaCFFM/">Quantitative Assessment of Interfacial-Fracture-Properties in 3D Printed Alkali-Activated Recycled Sand Concrete Based on a Closed-Form Fracture-Model</a></li>
+  <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>
+  <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a>, <a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_yang_liu_xu.2024.CFFMfECRo3PFRAASFARSC/">Closed-Form Fracture-Model for Evaluating Crack-Resistance of 3D Printed Fiber-Reinforced Alkali-Activated Slag/Fly-Ash Recycled-Sand Concrete</a></li>
+  <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../slep_mawa_borr_mabo.2024.DTiAM/">Digital Twinning in Additive Manufacturing:<br/>Closing the Digital-Physical-Digital Loop by Automated Integration of Captured Geometric Data into Fabrication Information Models</a></li>
+  <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/jantzen_carsten"><b>Jantzen</b> Carsten</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hack_jant_broh_gerk.2022.ACLWfQIaIPPo3PCE/">A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D Printed Concrete Elements</a></li>
+  <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../slep_vilg_borr.2021.FIM/">Fabrication Information Modeling:<br/>Closing the Gap between Building Information Modeling and Digital Fabrication</a></li>
+  <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>
+  <li><a href="../../../author/xu_xuchu"><b>Xu</b> Xuchu</a>, <a href="../../../author/wang_ruoyu"><b>Wang</b> Ruoyu</a>, <a href="../../../author/cao_qiming"><b>Cao</b> Qiming</a>, <a href="../../../author/feng_chen"><b>Feng</b> Chen</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../xu_wang_cao_feng.2020.T3PaCLCf3CP/">Towards 3D-Perception and Closed-Loop-Control for 3D Construction Printing</a></li>
+</ol>

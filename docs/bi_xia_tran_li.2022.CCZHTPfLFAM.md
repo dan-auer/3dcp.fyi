@@ -1,0 +1,139 @@
+---
+hide:
+    - navigation
+    - tags
+title: Minghao Bi, Lingwei Xia, Jonathan Tran, Zhi Li, Qian Wan, Li Wang, Wei Shen, Guowei Ma, Yi Xie
+description:
+tags:
+ - additive
+ - continuous
+ - contour
+ - format
+ - hybrid
+ - large
+ - manufacturing
+ - path
+ - tool
+
+---
+
+#:aca-closedaccess:{ .xred '} Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing ([2022-04](date/2022/04))
+<a href="https://doi.org/10.1016/j.addma.2022.102822" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.102822</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a> <a href="https://orcid.org/0000-0003-4872-0675" title="ORCID: 0000-0003-4872-0675" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a> <a href="https://orcid.org/0000-0003-3727-6935" title="ORCID: 0000-0003-3727-6935" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> <a href="https://orcid.org/0000-0003-4501-1232" title="ORCID: 0000-0003-4501-1232" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/wan_qian"><b>Wan</b> Qian</a> <a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/shen_wei"><b>Shen</b> Wei</a>
+,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Additive Manufacturing, Vol. 55, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#additive`](keyword/additive)
+    [`#continuous`](keyword/continuous)
+    [`#contour`](keyword/contour)
+    [`#format`](keyword/format)
+    [`#hybrid`](keyword/hybrid)
+    [`#large`](keyword/large)
+    [`#manufacturing`](keyword/manufacturing)
+    [`#path`](keyword/path)
+    [`#tool`](keyword/tool)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Continuous%20Contour-Zigzag%20Hybrid%20Tool-Path%20for%20Large-Format%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132105817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000798067500002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2022.102822" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.addma.2022.102822" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.addma.2022.102822" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.addma.2022.102822" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.addma.2022.102822&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.addma.2022.102822" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.addma.2022.102822&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4223593452" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.addma.2022.102822" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.addma.2022.102822?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Large format additive manufacturing (LFAM) has witnessed rapid development in recent years and facilitated digital fabrications of geometrically intricate structures. However, there has been limited research on toolpath optimization tailored for LFAM. This paper presents a novel framework to generate a globally continuous toolpath for both solid and partial infill designs in LFAM. For solid infill, outward contour and double offset schemes are used to generate smooth curves as the primary volume-filling paths; the remaining unfilled areas are covered by extending zigzag lines from the closest contours. Subsequently, a contour layer-wise connection is carried out based on the depth-first-search algorithm to formulate a globally continuous path. A post-processing step is also presented to optimize the coverage and curvature of the toolpath design. The concept is extended for partial infill settings by trimming and joining rectangular grid lines. Compared with other state-of-the-art methods in the literature, the proposed algorithm is superior in delivering better print quality, fewer sharp turns, and enhanced fabrication efficiency. Finally, two interesting experiments demonstrate how LFAM of topology optimized structures can benefit from the proposed continuous toolpath: topology optimized table printed from thermoplastic polyurethane (TPU) and topology optimized chair printed from 3D concrete printing (3DCP).
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li>None</li>
+      <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
+      <li>None</li>
+      <li>None</li>
+      <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP/">Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars</a></li>
+      <li>None</li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
+      <li>None</li>
+      <li>None</li>
+      <li>None</li>
+      <li>None</li>
+      <li>None</li>
+      <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
+      <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
+      <li>None</li>
+      <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
+      <li>None</li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
+      <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
+      <li><a href="../../../author/pajonk_adam"><b>Pajonk</b> Adam</a>, <a href="../../../author/prieto_alejandro"><b>Prieto</b> Alejandro</a>, <a href="../../../author/blum_ulrich"><b>Blum</b> Ulrich</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../pajo_prie_blum_knaa.2022.MMAMiAaC/">Multi-Material Additive Manufacturing in Architecture and Construction:<br/>A Review</a></li>
+      <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
+      <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../pham_lu_tran.2022.IoPPoMPoTDPFRC/">Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete</a></li>
+      <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
+      <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
+      <li>None</li>
+      <li><a href="../../../author/shen_hongyao"><b>Shen</b> Hongyao</a>, <a href="../../../author/pan_lingnan"><b>Pan</b> Lingnan</a>, <a href="../../../author/qian_jun"><b>Qian</b> Jun</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../shen_pan_qian.2019.RoLSAMBoMRCT/">Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology</a></li>
+      <li>None</li>
+      <li>None</li>
+      <li>None</li>
+      <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
+      <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
+      <li>None</li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
+      <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/sharma_deepak"><b>Sharma</b> Deepak</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sahu_shar_pand.2025.TTOLCBDfAM/">Tailoring Topology-Optimized Lightweight Concrete Beam Design for Additive Manufacturing</a></li>
+      <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/cao_jianfu"><b>Cao</b> Jianfu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_liu_xu_cao.2025.AGALHCPPAfC3PoCPSBoMOOaRL/">A General Adaptive Layer Height Continuous Path Planning Algorithm for Concrete 3D Printing of Complex Porous Structures Based on Multi-Objective Optimization and Reinforcement Learning</a></li>
+      <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
+      <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/zuo_tianyi"><b>Zuo</b> Tianyi</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wang_zuo_xu_liu.2025.RLBCPPaAC3PoCHC/">Reinforcement Learning-Based Continuous Path Planning and Automated Concrete 3D Printing of Complex Hollow Components</a></li>
+      <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a></li>
+      <li><a href="../../../author/bhowmik_anirban"><b>Bhowmik</b> Anirban</a>, <a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b> Biswajoy</a>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bhow_bhat_sahu.2025.ACAoMPaSAi3CP/">A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing</a></li>
+      <li><a href="../../../author/li_yuhan"><b>Li</b> Yuhan</a>, <a href="../../../author/rian_md_iasef"><b>Rian</b> Iasef</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a>, <a href="../../../author/tang_shu"><b>Tang</b> Shu</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_rian_chen_tang.2025.AoFCf3CPoPPP/">Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels</a></li>
+      <li><a href="../../../author/li_yuhan"><b>Li</b> Yuhan</a>, <a href="../../../author/rian_md_iasef"><b>Rian</b> Iasef</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a>, <a href="../../../author/tang_shu"><b>Tang</b> Shu</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_rian_chen_tang.2025.AoFCf3CPoPPPb/">Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels</a></li>
+      <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
+      <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/khieu_hoang_hai"><b>Khieu</b> Hai</a>, <a href="../../../author/black_r_jay"><b>Black</b> Jay</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_khie_blac_nguy.2025.TS3PSFRSfCS/">Two-Scale 3D Printed Steel-Fiber-Reinforcements-Strategy for Concrete Structures</a></li>
+      <li><a href="../../../author/he_chenming"><b>He</b> Chenming</a>, <a href="../../../author/michalatos_panagiotis"><b>Michalatos</b> Panagiotis</a>, <a href="../../../author/sabin_jenny"><b>Sabin</b> Jenny</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../he_mich_sabi.2024.G/">GrowFill:<br/>Generative Adaptive Infill for Additive Manufacturing</a></li>
+      <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sahu_pand.2024.ATBCPPfAMoC/">A TSP-Based Continuous Path-Planning for Additive Manufacturing of Concrete</a></li>
+      <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huan_xu_anto_dill.2024.SSL/">Self-Supporting Lamellae:<br/>Shape Variation Methods for the 3D Concrete Printing of Large Overhang Structures</a></li>
+      <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
+      <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH/">Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height</a></li>
+      <li><a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/olabi_mohammad"><b>Olabi</b> Mohammad</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST/">Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories</a></li>
+      <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
+      <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/hu_hanyang"><b>Hu</b> Hanyang</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../huan_xu_hu.2023.SFaPPGMfLA3CPP/">Space-Filling and Print-Path-Generation-Methods for Large-Area 3D Concrete Printing Pavements</a></li>
+      <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../wan_yang_wang_ma.2023.GCPPf3CPMBS/">Global Continuous Path-Planning for 3D Concrete Printing Multi-Branched Structure</a></li>
+      <li><a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xia_bi_wu_wang.2023.ILDMvSOaPPfME/">Integrated Lightweight Design-Method via Structural Optimization and Path-Planning for Material-Extrusion</a></li>
+      <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
+      <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_nguy_tran.2023.DDaPSo3CPoNPS/">Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces</a></li>
+      <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/megens_johannes"><b>Megens</b> Johannes</a>, <a href="../../../author/casucci_tommaso"><b>Casucci</b> Tommaso</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC/">Print-Path Design for Inclined-Plane Robotic 3D Printing of Unreinforced Concrete</a></li>
+      <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a></li>
+    </ol>
+</div>

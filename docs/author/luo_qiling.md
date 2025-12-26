@@ -1,0 +1,19 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+#  Luo Qiling 
+
+<ol reversed>
+  <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
+  <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC/">Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
+  <li><a href="../../../author/wu_dinglue"><b>Wu</b> Dinglue</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zhang_shunxian"><b>Zhang</b> Shunxian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wu_luo_long_zhan.2024.AC3PwPILBS/">Advancing Construction 3D Printing with Predictive Inter-Layer Bonding Strength:<br/>A Stacking Model Paradigm</a></li>
+  <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/li_lixao"><b>Li</b> Lixao</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../geng_luo_chen_li.2024.IMOOo3PLCCfMSR/">Intelligent Multi-Objective Optimization of 3D Printing Low-Carbon Concrete for Multi-Scenario Requirements</a></li>
+  <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/fu_junen"><b>Fu</b> Junen</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../geng_long_luo_fu.2023.IPoDYSi3PCBoML/">Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning</a></li>
+  <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>, <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../geng_luo_liu_li.2023.RSaPoMLiC3P/">Research Status and Prospect of Machine Learning in Construction 3D Printing</a></li>
+  <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tao_lin_luo_long.2022.LICEoFACfAASi3P/">Leveraging Internal Curing Effect of Fly-Ash-Cenosphere for Alleviating Autogenous Shrinkage in 3D Printing</a></li>
+</ol>

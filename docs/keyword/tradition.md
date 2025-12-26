@@ -1,0 +1,22 @@
+---
+hide:
+  - navigation
+  - tags
+search:
+  exclude: true
+---
+
+# \#tradition
+
+<ol reversed>
+  <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a>, <a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a>, <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fale_tren_zani.2025.EaaBM/">Earth as a Building Material:<br/>From Traditional Building Techniques to Additive Manufacturing</a></li>
+  <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
+  <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_besk_krav_zhon.2025.EVo3CP/">Economic Viability of 3D Concrete Printing:<br/>A Comparative Study with Traditional Construction Method</a></li>
+  <li><a href="../../../author/karamara_merve"><b>Karamara</b> Merve</a>, <a href="../../../author/bogdanski_moritz-ole"><b>Bogdanski</b> Moritz-Ole</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kara_bogd_zoll_albr.2025.IEaS/">Increasing Efficiency and Sustainability:<br/>A Comparative Analysis of Concrete 3D Printing and Traditional Methods Based on Case Studies</a></li>
+  <li><a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>, <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../aras_moha_gola.2025.AtEIoBHiRA/">Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>3D Printing vs. Traditional Construction Techniques</a></li>
+  <li><a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a>, <a href="../../../author/ayoub_sara"><b>Ayoub</b> Sara</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../caba_ayou.2024.EA/">Earth Architecture:<br/>Integtrating Tradition for 3D Printing Solutions</a></li>
+  <li><a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../josa_fuen.2024.TaMMoC/">Traditional and Modern Methods of Construction:<br/>Comparative Study of the Sustainability of Single‐Family Homes</a></li>
+  <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../besk_raza_zhon_skib.2024.3PvTC/">3D Printing vs. Traditional Construction:<br/>Cost Comparisons from Design to Waste Disposal Stages</a></li>
+  <li><a href="../../../author/meere_hani"><b>Meere</b> Hani</a>, <a href="../../../author/yan_shuaxing"><b>Yan</b> Shuaxing</a>, <a href="../../../author/wang_dongpo"><b>Wang</b> Dongpo</a>, <a href="../../../author/bi_yuzhang"><b>Bi</b> Yuzhang</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../meer_yan_wang_bi.2023.BoTCDaTDPCDUtDFI/">Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact</a></li>
+  <li><a href="../../../author/dimitriou_savvas"><b>Dimitriou</b> Savvas</a>, <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../dimi_kont.2024.FFB3PoSEIbtTAoCV/">Force-Flow Based 3D Printing of Structural Elements Inspired by the Traditional Architecture of Cross-Vaults</a></li>
+</ol>

@@ -1,0 +1,124 @@
+---
+hide:
+    - navigation
+    - tags
+title: Jianhua Cheng, Meng Chen, Yulin Ge, Tong Zhang
+description:
+tags:
+ - acoustic
+ - behavior
+ - cement
+ - characteristic
+ - composite
+ - damage
+ - elevation
+ - emission
+ - engineered
+ - evolutionary
+ - insights
+ - mechanics
+ - print
+ - temperature
+
+---
+
+#:aca-closedaccess:{ .xred '} Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>:aca-blank: Insights from Acoustic Emission Characterization ([2025-12](date/2025/12))
+<a href="https://doi.org/10.1016/j.cemconcomp.2025.106425" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106425</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> <a href="https://orcid.org/0009-0008-5559-9117" title="ORCID: 0009-0008-5559-9117" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>
+,     <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>
+,     <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="https://orcid.org/0000-0002-9796-656X" title="ORCID: 0000-0002-9796-656X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Cement and Concrete Composites, Vol. 167, No. 106425
+
+:aca-blank:{ .lg .middle}
+    [`#acoustic`](keyword/acoustic)
+    [`#behavior`](keyword/behavior)
+    [`#cement`](keyword/cement)
+    [`#characteristic`](keyword/characteristic)
+    [`#composite`](keyword/composite)
+    [`#damage`](keyword/damage)
+    [`#elevation`](keyword/elevation)
+    [`#emission`](keyword/emission)
+    [`#engineered`](keyword/engineered)
+    [`#evolutionary`](keyword/evolutionary)
+    [`#insights`](keyword/insights)
+    [`#mechanics`](keyword/mechanics)
+    [`#print`](keyword/print)
+    [`#temperature`](keyword/temperature)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20and%20Damage%20Evolution%20of%203D-Printed%20Engineered%20Cementitious%20Composites%20at%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106425" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.cemconcomp.2025.106425" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.cemconcomp.2025.106425" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cemconcomp.2025.106425" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconcomp.2025.106425&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.cemconcomp.2025.106425" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconcomp.2025.106425&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/None" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106425" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106425?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Clarifying the elevated temperature behavior of 3D-printed concrete, which differs from that of cast counterparts due to anisotropy and weak interfacial bonding, is critical for promoting its safe application in civil and strategic infrastructure. This study investigated the mechanical behavior of mold-cast (MC) and 3D-printed engineered cementitious composites (3DP-ECC) over the range of 20–800 °C, and employed acoustic emission (AE) techniques to monitor internal damage evolution. The results revealed that the macroscopic mechanical properties of all ECC specimens peaked at 105 °C and subsequently deteriorated with increasing temperature. Although the mechanical anisotropy of 3DP-ECC diminished due to matrix degradation at elevated temperatures, its tensile, compressive, and flexural failure paths remained deflected by interlayer interfaces, demonstrating superior crack control capacity. Further AE signal analysis identified fiber melting as a critical point for accelerated internal damage, characterized by a 58.4 %–66.5 % decrease in AE events and an 88.8 %–91.2 % drop in AE energy. Moreover, 3DP-ECC exhibited less thermal damage and superior energy absorption capacity at elevated temperatures, with AE ring counts and energy values 16.3 %–125.7 % and 9.3 %–145.5 % higher than MC specimens, respectively. The optimal loading orientation was observed along the Y-direction. These findings offer thorough insights into the elevated temperature response of 3DP-ECC and provide guidance for the development of more fire-resistant 3D-printed materials and structures.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
+      <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
+      <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_chen_zhan_wang.2025.ECaCMotADCBo3PECC/">Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
+      <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../dong_yang_liu_ren.2022.MaMBo3PUHPCaET/">Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures</a></li>
+      <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_yan"><b>Zhang</b> Yan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../dong_yang_liu_zhan.2024.IBCo3PUHPCAET/">Interface Bonding Characteristics of 3D Printed Ultra-High-Performance Concrete After Elevated Temperatures</a></li>
+      <li><a href="../../../author/ge_zhi"><b>Ge</b> Zhi</a>, <a href="../../../author/tawfek_m_abdullah"><b>Tawfek</b> Abdullah</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/yang_yongwei"><b>Yang</b> Yongwei</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../ge_tawf_zhan_yang.2021.IoaEAotFOaMPoECC/">Influence of an Extrusion-Approach on the Fiber-Orientation and Mechanical Properties of Engineering Cementitious Composite</a></li>
+      <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
+      <li>None</li>
+      <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ingl_prem.2025.AEEo3PUHPCwaWCAUFaHS/">Acoustic Emission Examination of 3D Printed Ultra-High Performance Concrete with and Without Coarse Aggregate Under Fresh and Hardened States</a></li>
+      <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/mahmood_sultan"><b>Mahmood</b> Sultan</a>, <a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../kola_busw_mahm_isa.2025.OtOoAoEB3PC/">On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete:<br/>The Roles of Filament Skin and Agglomeration</a></li>
+      <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_li_jian_ding.2024.ARo3PECCB/">Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams</a></li>
+      <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
+      <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_zhan_liu_he.2022.AotMPaDMf3PCBoPS/">Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure</a></li>
+      <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ma_zhan_jia_liu.2022.EoDEoMPIRaPSo3PC/">Effect of Drying Environment on Mechanical Properties, Internal RH and Pore-Structure of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/pavlin_majda"><b>Pavlin</b> Majda</a>, <a href="../../../author/horvat_barbara"><b>Horvat</b> Barbara</a>, <a href="../../../author/cerc-korosec_romana"><b>Cerc Korošec</b> Romana</a>, <a href="../../../author/capuder_rok"><b>Capuder</b> Rok</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pavl_horv_cerc_capu.2024.Coa3PAAMBoWMWaRaET/">Characterisation of a 3D Printed Alkali-Activated Material Based on Waste-Mineral-Wool at Room and Elevated Temperatures</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
+      <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_zhan_zhan.2024.HPaMo3PECCBoLCCC/">Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement</a></li>
+      <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_dexin"><b>Li</b> Dexin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wang_lin_ma_li.2022.MaMPo3PACBCEtET/">Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures</a></li>
+      <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wu_liu_liu_bai.2024.MotIoMSPSotTMPo3PCwRS/">Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand</a></li>
+      <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
+      <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/lu_pengyuan"><b>Lu</b> Pengyuan</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_lu_liu_dong.2024.EoSFwDOoMPo3PSFRC/">Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete:<br/>Meso-Scale Finite-Element-Analysis</a></li>
+      <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>
+      <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>
+      <li><a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/he_qianpeng"><b>He</b> Qianpeng</a>, <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_he_ping_pan.2025.AFBaEAo3PECC3EBULVI/">Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact</a></li>
+      <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a></li>
+      <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/dai_yecheng"><b>Dai</b> Yecheng</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ye_yang_yu_dai.2024.SEoFaFBo3PECC/">Size-Effect on Flexural and Fracture Behaviors of 3D Printed Engineered Cementitious Composites:<br/>Experimental and Numerical Studies</a></li>
+      <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a></li>
+      <li><a href="../../../author/yue_g_j"><b>Yue</b> J.</a>, <a href="../../../author/beskos_e_dimitrios"><b>Beskos</b> Dimitrios</a>, <a href="../../../author/feng_c"><b>Feng</b> C.</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yue_besk_feng_wu.2022.HFCoPCUAEMT/">Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique</a></li>
+      <li><a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/xia_yong"><b>Xia</b> Yong</a>, <a href="../../../author/hou_dongqi"><b>Hou</b> Dongqi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhao_jian_xia_hou.2025.MICPEoTSaEASo3PC/">Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
+      <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
+      <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>

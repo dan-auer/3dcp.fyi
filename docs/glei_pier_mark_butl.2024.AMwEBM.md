@@ -1,0 +1,79 @@
+---
+hide:
+    - navigation
+    - tags
+title: Leonie Gleiser, Robin Pierer, Slava Markin, Marko Butler, Viktor Mechtcherine
+description:
+tags:
+ - additive
+ - base
+ - deformation
+ - earth
+ - manufacturing
+ - material
+ - minimum
+ - shrinkage
+
+---
+
+#:aca-closedaccess:{ .xred '} Additive Manufacturing with Earth-Based Materials:<br/>:aca-blank: Minimization of Shrinkage Deformation ([2024-07](date/2024/07))
+<a href="https://doi.org/10.1007/978-3-031-62690-6_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-62690-6_2</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/gleiser_leonie"><b>Gleiser</b> Leonie</a> <a href="https://orcid.org/0009-0008-8464-9902" title="ORCID: 0009-0008-8464-9902" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/pierer_robin"><b>Pierer</b> Robin</a>
+,     <a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> <a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> <a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+
+:aca-blank:{ .lg .middle}
+    [`#additive`](keyword/additive)
+    [`#base`](keyword/base)
+    [`#deformation`](keyword/deformation)
+    [`#earth`](keyword/earth)
+    [`#manufacturing`](keyword/manufacturing)
+    [`#material`](keyword/material)
+    [`#minimum`](keyword/minimum)
+    [`#shrinkage`](keyword/shrinkage)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20with%20Earth-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200481766&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001290430600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-62690-6_2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1007/978-3-031-62690-6_2" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1007/978-3-031-62690-6_2" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1007/978-3-031-62690-6_2" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1007/978-3-031-62690-6_2&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1007/978-3-031-62690-6_2" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1007/978-3-031-62690-6_2&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4400040063" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1007/978-3-031-62690-6_2" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1007/978-3-031-62690-6_2?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    Methods for additive manufacturing in the construction sector have been increasingly developing over the last few years. Consequently, additive manufacturing using sustainable earth-based materials has become feasible. This fusion of traditional circular construction materials with digital production techniques yields a promising construction technology. However, components fabricated trough additive manufacturing with earth-based materials still encounter significant shrinkage deformations and cracking, negatively impacting product properties and diminishing overall quality. Therefore, this study investigates methods to mitigate shrinkage in additively manufactured earth-based materials and measures for shrinkage assessment. By adjusting the clay, silt and sand content the properties of the earth mixture can be enhanced to minimize shrinkage. Additionally, a strategic deposition or printing path during additive manufacturing can contribute to reducing shrinkage deformations in 3D-printed elements, consequently enhancing their quality. The effects of both measures on the shrinkage of earth materials and printed elements are demonstrated. Implementing of the findings from this study enables the 3D-printing of aesthetically earth-made products with reproducible quality in terms of shrinkage and strength.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
+      <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
+      <li>None</li>
+      <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
+    </ol>
+</div>

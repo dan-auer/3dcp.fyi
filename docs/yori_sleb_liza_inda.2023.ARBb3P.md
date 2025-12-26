@@ -1,0 +1,116 @@
+---
+hide:
+    - navigation
+    - tags
+title: Adrian Yoris-Nobile, Carlos Slebi-Acevedo, Esther Lizasoain-Arteaga, Irune Indacoechea-Vega, Elena Blanco-Fernandez, Daniel Castro-Fresno, Alejandro Alonso-Estebanez, Sara Alonso-Cañon, Carlos Real-Gutierrez, Fouad Boukhelf, Mohamed Boutouil, Nassim Sebaibi, Alice Hall, Sam Greenhill, Roger Herbert, Richard Stafford, Bianca Reis, Pieter Linden, Oscar Babé, Hugo Meyer, João Franco, Emanuel Almada, Maria Borges, Isabel Sousa-Pinto, Miriam Guerra, Jorge Lobo-Arteaga
+description:
+tags:
+ - artificial
+ - buildability
+ - design
+ - fabrication
+ - material
+ - print
+ - reef
+ - selective
+ - in
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.conbuildmat.2022.129766) Artificial Reefs Built by 3D Printing:<br/>:aca-blank: Systematisation in the Design, Material-Selection and Fabrication ([2022-11](date/2022/11))
+<a href="https://doi.org/10.1016/j.conbuildmat.2022.129766" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.129766</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> <a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>
+,     <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>
+,     <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> <a href="https://orcid.org/0000-0001-9110-9084" title="ORCID: 0000-0001-9110-9084" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> <a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a> <a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/alonso-estebanez_alejandro"><b>Alonso-Estebanez</b> Alejandro</a>
+,     <a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a> <a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/real-gutierrez_carlos"><b>Real-Gutierrez</b> Carlos</a>
+,     <a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a> <a href="https://orcid.org/0000-0002-7029-2956" title="ORCID: 0000-0002-7029-2956" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a> <a href="https://orcid.org/0000-0002-2752-8265" title="ORCID: 0000-0002-2752-8265" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a> <a href="https://orcid.org/0000-0002-1241-2745" title="ORCID: 0000-0002-1241-2745" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a> <a href="https://orcid.org/0000-0002-1048-3101" title="ORCID: 0000-0002-1048-3101" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/greenhill_sam"><b>Greenhill</b> Sam</a>
+,     <a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a>
+,     <a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a> <a href="https://orcid.org/0000-0002-1964-5787" title="ORCID: 0000-0002-1964-5787" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/reis_bianca"><b>Reis</b> Bianca</a>
+,     <a href="../../../author/linden_pieter"><b>van der Linden</b> Pieter</a> <a href="https://orcid.org/0000-0003-1022-553X" title="ORCID: 0000-0003-1022-553X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/babe_gomez_oscar"><b>Babé</b> Oscar</a> <a href="https://orcid.org/0000-0003-1067-7595" title="ORCID: 0000-0003-1067-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/meyer_sainz_hugo"><b>Meyer</b> Hugo</a> <a href="https://orcid.org/0000-0002-3613-6458" title="ORCID: 0000-0002-3613-6458" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/franco_n_joao"><b>Franco</b> João</a> <a href="https://orcid.org/0000-0002-8249-5224" title="ORCID: 0000-0002-8249-5224" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/almada_emanuel"><b>Almada</b> Emanuel</a>
+,     <a href="../../../author/borges_teresa_maria"><b>Borges</b> Maria</a> <a href="https://orcid.org/0000-0003-4876-1354" title="ORCID: 0000-0003-4876-1354" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/sousa-pinto_isabel"><b>Sousa-Pinto</b> Isabel</a> <a href="https://orcid.org/0000-0002-9231-0553" title="ORCID: 0000-0002-9231-0553" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/guerra_tuaty_miriam"><b>Guerra</b> Miriam</a> <a href="https://orcid.org/0000-0003-0178-310X" title="ORCID: 0000-0003-0178-310X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lobo-arteaga_jorge"><b>Lobo-Arteaga</b> Jorge</a> <a href="https://orcid.org/0000-0001-5570-8768" title="ORCID: 0000-0001-5570-8768" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Construction and Building Materials, Vol. 362, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#artificial`](keyword/artificial)
+    [`#buildability`](keyword/buildability)
+    [`#design`](keyword/design)
+    [`#fabrication`](keyword/fabrication)
+    [`#material`](keyword/material)
+    [`#print`](keyword/print)
+    [`#reef`](keyword/reef)
+    [`#selective`](keyword/selective)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Reefs%20Built%20by%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142315370&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000898654800002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129766" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.conbuildmat.2022.129766" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.conbuildmat.2022.129766" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.conbuildmat.2022.129766" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.conbuildmat.2022.129766&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.conbuildmat.2022.129766" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.conbuildmat.2022.129766&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4309771114" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.conbuildmat.2022.129766" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.conbuildmat.2022.129766?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    The recovery of degraded marine coasts and the improvement of natural habitats are current issues of vital importance for the development of life, both marine and terrestrial. In this sense, the immersion of artificial reefs (ARs) in the marine environment is a way to stimulate the recovery of these damaged ecosystems. But it is necessary to have a multidisciplinary approach that analyses the materials, designs and construction process of artificial reefs in order to understand their true impact on the environment. For this reason, this paper presents the manufacture of artificial reefs by 3D printing, proposing designs with a combination of prismatic and random shapes, with different external overhangs as well as inner holes. For the definition of the artificial reef designs, criteria provided by marine biologists and the results obtained from a numerical simulation with ANSYS were taken into account, with which the stability of the artificial reefs on the seabed was analysed. Three dosages of cement mortars and three dosages of geopolymer mortars were studied as impression materials. The studies included determination of the rheological properties of the mortars, to define the printability, determination of the cost of the materials used, and determination of the mechanical strength and biological receptivity in prismatic specimens that were immersed in the sea for 3 months. To evaluate the environmental impact of the materials used in the production of the mortars, a Life Cycle Assessment (LCA) was carried out. In order to choose the mortars that encompassed the best properties studied, Multi-Criteria Decision Making (MCDM) was applied and the two best mortars were used for the manufacture of the artificial reefs. Finally, the advantages and disadvantages of the 3D printing process used were analysed. The results of the studies carried out in this research show that cement mortars have better characteristics for artificial reef applications using 3D printing, and that the technique applied for the manufacture of the artificial reefs allowed the digital models to be faithfully reproduced.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a></li>
+      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
+      <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
+      <li><a href="../../../author/ly_oceane"><b>Ly</b> Océane</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../ly_yori_seba_blan.2021.Oo3PCfAR/">Optimization of 3D Printed Concrete for Artificial Reefs:<br/>Biofouling and Mechanical Analysis</a></li>
+      <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
+      <li><a href="../../../author/berman_ofer"><b>Berman</b> Ofer</a>, <a href="../../../author/zavadsky_andrey"><b>Zavadsky</b> Andrey</a>, <a href="../../../author/drimer_nitai"><b>Drimer</b> Nitai</a>, <a href="../../../author/shashar_nadav"><b>Shashar</b> Nadav</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../berm_zava_drim_shas.2025.APC3PAR/">A Pure Ceramic 3D Printed Artificial Reef:<br/>Stability and Response</a></li>
+      <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../srin_pand_sura_sith.2025.MDOo3PCCfMA/">Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</a></li>
+      <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
+      <li><a href="../../../author/campos_pante-leme_guilherme"><b>Campos</b> Guilherme</a>, <a href="../../../author/lunelli_sinigaglia_pietro"><b>Lunelli</b> Pietro</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../camp_lune_mora_souz.2025.OoCBCMwSBFf3P/">Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing</a></li>
+      <li><a href="../../../author/kuang_weifeng"><b>Kuang</b> Weifeng</a>, <a href="../../../author/pavlenko_petro"><b>Pavlenko</b> Petro</a>, <a href="../../../author/guo_haoyu"><b>Guo</b> Haoyu</a>, <a href="../../../author/tian_kuo"><b>Tian</b> Kuo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../kuan_pavl_guo_tian.2025.UoMMSWi3PECfAR/">Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs</a></li>
+      <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../srin_pand_sura_sith.2025.IoMCaCCoPoS3PM/">Influence of Mixture-Composition and Carbonation-Curing on Properties of Sustainable 3D Printable Mortars</a></li>
+      <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../pham_huan.2024.3PACR/">3D Printed Artificial Coral Reefs:<br/>Design and Manufacture</a></li>
+      <li><a href="../../../author/matus_valenzuela_ilse"><b>Matus</b> Ilse</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a>, <a href="../../../author/gois_joaquim"><b>Góis</b> Joaquim</a>, <a href="../../../author/vaz-pires_paulo"><b>Vaz-Pires</b> Paulo</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../matu_alve_gois_vaz.2024.ARTAM/">Artificial Reefs Through Additive Manufacturing:<br/>A Review of Their Design, Purposes and Fabrication Process for Marine Restoration and Management</a></li>
+      <li><a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a>, <a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a>, <a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a>, <a href="../../../author/jones_g"><b>Jones</b> G.</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../hall_herb_staf_jone.2023.3PHEU/">3D Printed Habitat Enhancement Units:<br/>Key Features to Incorporate within Multifunctional Infrastructure</a></li>
+      <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/dynowski_piotr"><b>Dynowski</b> Piotr</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../korn_gade_dyno_tran.2024.AMiUA/">Additive Manufacturing in Underwater Applications</a></li>
+      <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
+    </ol>
+</div>

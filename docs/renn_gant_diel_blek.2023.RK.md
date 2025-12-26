@@ -1,0 +1,110 @@
+---
+hide:
+    - navigation
+    - tags
+title: Philipp Rennen, Stefan Gantner, Gido Dielemans, Lazlo Bleker, Nikoletta Christidi, Robin Dörrie, Majid Hojjat, Inka Mai (née Dressler), Karam Mawas, Dirk Lowke, Pierluigi D'Acunto, Kathrin Dörfler, Norman Hack, Mariana Popescu
+description:
+tags:
+ - bridge
+ - computer
+ - design
+ - fabrication
+ - formwork
+ - knit
+ - robot
+ - shotcrete
+ - a
+ - on
+
+---
+
+#[:aca-openaccess:{ .xgreen }](https://www.frontiersin.org/articles/10.3389/fbuil.2023.1269000/pdf?isPublishedV2=False) Robotic Knitcrete:<br/>:aca-blank: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork ([2023-12](date/2023/12))
+<a href="https://doi.org/10.3389/fbuil.2023.1269000" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3389/fbuil.2023.1269000</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a> <a href="https://orcid.org/0000-0002-0188-3314" title="ORCID: 0000-0002-0188-3314" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> <a href="https://orcid.org/0000-0001-6756-8942" title="ORCID: 0000-0001-6756-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> <a href="https://orcid.org/0000-0002-0925-6112" title="ORCID: 0000-0002-0925-6112" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/bleker_lazlo"><b>Bleker</b> Lazlo</a> <a href="https://orcid.org/0009-0008-7313-0750" title="ORCID: 0009-0008-7313-0750" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/christidi_nikoletta"><b>Christidi</b> Nikoletta</a> <a href="https://orcid.org/0009-0005-3291-0521" title="ORCID: 0009-0005-3291-0521" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> <a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/hojjat_majid"><b>Hojjat</b> Majid</a>
+,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> <a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/popescu_mariana"><b>Popescu</b> Mariana</a> <a href="https://orcid.org/0000-0001-5524-852X" title="ORCID: 0000-0001-5524-852X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Frontiers in Built Environment, Vol. 9, No. (None,)
+
+:aca-blank:{ .lg .middle}
+    [`#bridge`](keyword/bridge)
+    [`#computer`](keyword/computer)
+    [`#design`](keyword/design)
+    [`#fabrication`](keyword/fabrication)
+    [`#formwork`](keyword/formwork)
+    [`#knit`](keyword/knit)
+    [`#robot`](keyword/robot)
+    [`#shotcrete`](keyword/shotcrete)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Knitcrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180459567&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001128364900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.3389/fbuil.2023.1269000" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.3389/fbuil.2023.1269000" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.3389/fbuil.2023.1269000" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.3389/fbuil.2023.1269000" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.3389/fbuil.2023.1269000&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.3389/fbuil.2023.1269000" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.3389/fbuil.2023.1269000&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4389435960" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.3389/fbuil.2023.1269000" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.3389/fbuil.2023.1269000?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    The research project presented here aims to develop a design-informed manufacturing process for complex concrete shell structures in additive manufacturing and thus overcome limitations of traditional construction methods such as formwork- and labor intensity. To achieve this, an effort was made to merge the two technologies of CNC knitted stay-in-place formwork, known as KnitCrete, and robotically applied shotcrete, known as Shotcrete 3D Printing (SC3DP), and thereby reduce their respective limitations. The proposed workflow unites both digital fabrication methods into a seamless process that additionally integrates computational form finding, robotically applied fiber reinforcement, CNC post processing and geometric quality verification to ensure precision and efficiency. As part of a cross-university, research-based teaching format, this concept was implemented in the construction of a full-scale pedestrian bridge, which served as a demonstrator to evaluate the capabilities and limitations of the process. While overcoming some challenges during the process, the successful prove of concept shows a significant leap in digital fabrication of complex concrete geometry, reducing reliance on labor-intensive methods. The results shown in this paper make this fabrication approach a promising starting point for further developments in additive manufacturing in the construction sector.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gant_renn_roth_huhn.2022.CW/">Core Winding:<br/>Force-Flow-Oriented Fiber-Reinforcement in Additive Manufacturing with Concrete</a></li>
+      <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../gant_roth_huhn_hack.2022.RSfAMiCBoDFW/">Reinforcement-Strategies for Additive Manufacturing in Construction Based on Dynamic Fiber Winding:<br/>Concepts and Initial Case Studies</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../klof_hack_main_broh.2019.AMiC/">Additive Manufacturing in Construction:<br/>First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lach_bohl_freu_mai.2023.MtIoMaPPoS3PS/">Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands:<br/>Cross-Section Adjustment for Automatic Robotic Manufacturing</a></li>
+      <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
+      <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mai_freu_lowk.2020.CoSPPwS3PbADaPP/">Control of Strand Properties Produced with Shotcrete 3D Printing by Accelerator Dosage and Process Parameters</a></li>
+      <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mawa_mabo_gerk.2022.AGIiDF/">Automatic Geometric Inspection in Digital Fabrication</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+      <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
+      <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
+      <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
+      <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
+      <li><a href="../../../author/keune_anna"><b>Keune</b> Anna</a>, <a href="../../../author/simsic_ziva"><b>Simšič</b> Živa</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../keun_sims_klof_dorf.2025.AE/">AMC Edu:<br/>Lab Design to Learn About Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
+      <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
+      <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_guo_wang_zhan.2025.SB3PCEWAM/">Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials:<br/>Optimization with Structures Design</a></li>
+      <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pier_perr.2025.APMfCM/">Alternative Printing-Methods for Cementitious Materials</a></li>
+      <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
+      <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
+      <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../renn_gant_roth_baz.2024.SEoS3PaRFWfTSE/">Structural Evaluation of Shotcrete 3D Printing and Robotic Fiber Winding for Thin-Shell Elements</a></li>
+    </ol>
+</div>

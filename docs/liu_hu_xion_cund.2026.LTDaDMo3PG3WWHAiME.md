@@ -1,0 +1,125 @@
+---
+hide:
+    - navigation
+    - tags
+title: Xinhao Liu, Jiajun Hu, Guiyan Xiong, Andrew Cundy, Jörg Wiedenmann, Xiqiang Lin, Ming Xia, Xiaolu Guo
+description:
+tags:
+ - agent
+ - degradation
+ - durability
+ - environment
+ - geopolymer
+ - length
+ - marine
+ - mechanism
+ - print
+ - term
+ - without
+ - in
+
+---
+
+#:aca-closedaccess:{ .xred '} Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments ([2025-12](date/2025/12))
+<a href="https://doi.org/10.1016/j.cemconcomp.2025.106426" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106426</a>
+
+-------------------------
+
+:aca-blank:{ .lg .middle}
+      <a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>
+,     <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> <a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>
+,     <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a>
+,     <a href="../../../author/wiedenmann_jorg"><b>Wiedenmann</b> Jörg</a>
+,     <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>
+,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
+,     <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>
+  
+:aca-blank:{ .lg .middle}
+    Journal Article - Cement and Concrete Composites, Vol. 167, No. 106426
+
+:aca-blank:{ .lg .middle}
+    [`#agent`](keyword/agent)
+    [`#degradation`](keyword/degradation)
+    [`#durability`](keyword/durability)
+    [`#environment`](keyword/environment)
+    [`#geopolymer`](keyword/geopolymer)
+    [`#length`](keyword/length)
+    [`#marine`](keyword/marine)
+    [`#mechanism`](keyword/mechanism)
+    [`#print`](keyword/print)
+    [`#term`](keyword/term)
+    [`#without`](keyword/without)
+
+
+-------------------------
+
+<a href="https://scholar.google.com/scholar_lookup?title=Long-Term%20Durability%20and%20Degradation%20Mechanisms%20of%203D%20Printed%20Geopolymers%20%283DPG%29%20With/Without%20Healing%20Agents%20in%20Marine%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106426" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.1016/j.cemconcomp.2025.106426" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.1016/j.cemconcomp.2025.106426" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.1016/j.cemconcomp.2025.106426" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.1016/j.cemconcomp.2025.106426&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.1016/j.cemconcomp.2025.106426" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.1016/j.cemconcomp.2025.106426&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4417118210" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.1016/j.cemconcomp.2025.106426" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.1016/j.cemconcomp.2025.106426?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
+
+
+-------------------------
+
+???+ quote "Abstract" 
+    The degradation performance and mechanisms of 3D printed geopolymers (3DPG) under atmospheric (atmospheric zone, AZ), seawater submerged (submerged zone, SZ), intertidal (tidal zone, TZ) conditions over 12 months exposure were evaluated by monitoring their large-scale properties (apparent morphology, mass change, mechanical behavior), combined with microstructural analysis of pore structure and reaction product distribution, aggressive ions' penetration depth and distribution. AZ samples showed minimal mass change and steadily increasing strength over time. SZ samples' mass increased due to salt absorption, but surface aggregate precipitates; the mechanical strength first increased and then decreased. TZ samples' mass continuously losses, the mechanical strength first increased and then decreased. Notably, adding healing agent significantly enhanced the mechanical properties of 3DPG. 3DPG exhibited vertical layering pore distribution characteristics and had no high interlayer porosity defects after seawater erosion. With increasing erosion time, porosity increased in AZ samples; both SZ and TZ samples experienced decreasing porosity and reduced pore throat number and length. After seawater erosion, AZ samples formed geopolymer gel, Ca(OH)2, CaCO3, with minimal Cl− or SO42− penetration. SZ samples have geopolymer gel with deeper Cl− penetration (6.0 mm) and SO42− intrusion (2.0 mm). TZ samples contained gel and CaSO4, showing the deepest Cl− infiltration (>10.0 mm) and an SO42− enrichment peak at 2.0 mm depth. Prolonged erosion progressively leached Ca2+ from SZ and TZ samples, causing geopolymer decalcification, increasing the Na/Ca ratio, disrupting the gel's change balance and structural integrity, distorting the 3D network, reducing stability, with salt recrystallization caused by tidal action exacerbating damage.
+
+##### :aca-blank:{ .lg .middle } { data-search-exclude }
+<div class="grid cards" markdown>
+???+ quote "References"
+    <ol>
+      <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
+      <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
+      <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
+      <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC/">Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete</a></li>
+      <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
+      <li><a href="../../../author/dong_wei"><b>Dong</b> Wei</a>, <a href="../../../author/wang_junfeng"><b>Wang</b> Junfeng</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/qu_shuqiang"><b>Qu</b> Shuqiang</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dong_wang_hang_qu.2024.RoPPaSFRo3PCwFSaAS/">Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand</a></li>
+      <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a>, <a href="../../../author/evseeva_anastasiia"><b>Evseeva</b> Anastasiia</a>, <a href="../../../author/dickey_brandon"><b>Dickey</b> Brandon</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../ghan_evse_dick_gupt.2023.EEoPDoFaTRoTDPCP/">Examining Effect of Printing-Directionality on Freezing-and-Thawing Response of Three-Dimensional-Printed Cement-Paste</a></li>
+      <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
+      <li><a href="../../../author/inaty_francois"><b>Inaty</b> Francois</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../inat_baz_aoua.2022.LTDAo3PC/">Long-Term Durability-Assessment of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jaji_zijl_baba.2024.DaPSoMB3PGC/">Durability and Pore-Structure of Metakaolin-Based 3D Printed Geopolymer Concrete</a></li>
+      <li><a href="../../../author/khan_aamish-hassan_mirza"><b>Khan</b> Mirza</a>, <a href="../../../author/ahmed_aayzaz"><b>Ahmed</b> Aayzaz</a>, <a href="../../../author/ali_tariq"><b>Ali</b> Tariq</a>, <a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../khan_ahme_ali_qure.2025.CRo3PCLCAAaMM/">Comprehensive Review of 3D Printed Concrete, Life Cycle Assessment, AI and ML Models:<br/>Materials, Engineered Properties and Techniques for Additive Manufacturing</a></li>
+      <li><a href="../../../author/kuang_weifeng"><b>Kuang</b> Weifeng</a>, <a href="../../../author/pavlenko_petro"><b>Pavlenko</b> Petro</a>, <a href="../../../author/guo_haoyu"><b>Guo</b> Haoyu</a>, <a href="../../../author/tian_kuo"><b>Tian</b> Kuo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../kuan_pavl_guo_tian.2025.UoMMSWi3PECfAR/">Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs</a></li>
+      <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../liu_hu_guo.2024.PaILBPo3PFRG/">Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer</a></li>
+      <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../liu_hu_guo.2025.IIBo3PFRGbHA/">Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents:<br/>Properties, Mechanism, and Environmental Impacts</a></li>
+      <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a></li>
+      <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/wu_jian"><b>Wu</b> Jian</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_liu_wu_wu.2025.EoXRCCPSotFTRo3PCwRCA/">Effect of X-Ray CT Characterized Pore Structure on the Freeze-Thaw Resistance of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>
+      <li><a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>, <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_zou_chen_deng.2025.FSo3PRCaaPF/">Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>Mechanical Properties, Interlayer Interface and Durability</a></li>
+      <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
+      <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
+      <li>None</li>
+      <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a></li>
+      <li><a href="../../../author/rui_aoyu"><b>Rui</b> Aoyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../rui_wang_lin_ma.2023.ESoDAo3PCEtSA/">Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack</a></li>
+      <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sapa_sink_sahm_kora.2025.EBPf3PC/">Establishing Benchmark Properties for 3D-Printed Concrete:<br/>A Study of Printability, Strength, and Durability</a></li>
+      <li><a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shaz_li.2025.IBEoSSaDi3PCS/">Interfacial Bond-Effects on Shear-Strength and Damage in 3D Printed Concrete Structures:<br/>A Combined Experimental and Numerical Study</a></li>
+      <li><a href="../../../author/si_qi"><b>Si</b> Qi</a>, <a href="../../../author/zhang_wenna"><b>Zhang</b> Wenna</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a>, <a href="../../../author/zheng_jianqiang"><b>Zheng</b> Jianqiang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../si_zhan_pan_zhen.2025.SotMaDPo3PBFRC/">Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete</a></li>
+      <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>
+      <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pultorak_monika"><b>Pułtorak</b> Monika</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../skib_put_kasz_hoff.2022.TEoURPAoMaDPo3PM/">The Effect of Using Recycled PET-Aggregates on Mechanical and Durability Properties of 3D Printed Mortar</a></li>
+      <li><a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/ziemelis_krists"><b>Ziemelis</b> Krists</a>, <a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../spur_sink_ziem_baja.2023.TEo3PoFRoC/">The Effects of 3D Printing on Frost-Resistance of Concrete</a></li>
+      <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../srin_pand_sura_sith.2025.MDOo3PCCfMA/">Mix Design Optimization of 3D-Printed Cementitious Composites for Marine Applications:<br/>Impact of Binder Composition, Accelerated Carbonation, and PVA Fibers on Strength and Durability</a></li>
+      <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
+      <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a></li>
+      <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../tany_selo_cosk.2024.TEoNZOoFTRo3PGM/">The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars</a></li>
+      <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_sahi.2024.TIoAEoFEi3PC/">The Impact of Air-Entraining on Frost-Endurance in 3D Printed Concrete:<br/>The Function of Printing Orientation and Curing Process</a></li>
+      <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wang_qiu_chen_liu.2024.3CPiAaUW/">3D Concrete Printing in Air and Under Water:<br/>A Comparative Study on the Buildability and Inter-Layer Adhesion</a></li>
+      <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wang_xiao_wang_jian.2022.FTRo3PCwDS/">Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand</a></li>
+      <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a></li>
+      <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yori_sleb_liza_inda.2023.ARBb3P/">Artificial Reefs Built by 3D Printing:<br/>Systematisation in the Design, Material-Selection and Fabrication</a></li>
+      <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
+      <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a></li>
+    </ol>
+???+ quote "Citations"
+    <ol reversed>
+    </ol>
+</div>
