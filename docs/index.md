@@ -21,7 +21,7 @@ If our database has been helpful to you, please consider citing our work!
 
 
 [:fontawesome-solid-newspaper: 4653 Articles](https://3dcp.fyi){ .md-button }
-
+[:fontawesome-solid-newspaper: Last Update on 2025-12-27](https://3dcp.fyi){ .md-button }
 
 <div class="grid cards" markdown>
 
@@ -29,7 +29,7 @@ If our database has been helpful to you, please consider citing our work!
 
     ---
 
-    Use ++ctrl+k++ to search in the 4552 articles and their abstracts.
+    Use ++ctrl+k++ to search in the 4653 articles and their abstracts.
 
 -   :fontawesome-solid-calendar:{ .lg .middle } [__Search by Date__](date/index.md)
 
@@ -48,5 +48,6 @@ If our database has been helpful to you, please consider citing our work!
 
     ---
 
+    Search by the authors contribution. All 8000 unique authors are listed, the minimum requirement to be listed in the author page is 3 contributions.
 
 </div>
