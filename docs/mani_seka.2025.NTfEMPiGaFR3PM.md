@@ -14,7 +14,6 @@ tags:
  - property
  - reinforcement
  - technique
- - in
 
 ---
 
@@ -94,7 +93,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_sahi.2021.FaRPoAE3PM/">Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
-      <li>None</li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>

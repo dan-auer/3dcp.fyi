@@ -18,7 +18,6 @@ tags:
  - rheology
  - temperature
  - viscosity
- - a
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../dai_tao_titt_schu.2023.RaMPo3PAASMwAoNC/">Rheological and Mechanical Properties of 3D Printable Alkali-Activated Slag Mixtures with Addition of Nano Clay</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../moha_rahu_tao_schu.2022.HRIoBCSwaTSMP/">Hydration Re-Initiation of Borated CSA Systems with a Two-Stage Mixing Process:<br/>An Application in Extrusion-Based Concrete 3D Printing</a></li>
@@ -110,7 +108,6 @@ tags:
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zhan_xia_sanj.2022.SDNNMf3CP/">Short-Duration Near-Nozzle Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

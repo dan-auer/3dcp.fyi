@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/salehi_faezeh"><b>Salehi</b> Faezeh</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Earth and Space 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#binder`](keyword/binder)

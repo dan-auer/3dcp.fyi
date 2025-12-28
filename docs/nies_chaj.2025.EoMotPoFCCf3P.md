@@ -14,7 +14,6 @@ tags:
  - property
  - review
  - short
- - on
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> <a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 227-233
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -72,7 +72,6 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>

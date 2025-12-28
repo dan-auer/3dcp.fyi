@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/ahmed_waleed"><b>Ahmed</b> Waleed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 225-234
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

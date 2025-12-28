@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - International fib Symposium, pp. 519-528
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

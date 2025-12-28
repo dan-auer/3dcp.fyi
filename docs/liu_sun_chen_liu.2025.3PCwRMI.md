@@ -14,7 +14,6 @@ tags:
  - print
  - property
  - temperature
- - on
 
 ---
 

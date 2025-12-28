@@ -10,7 +10,6 @@ tags:
  - nozzle
  - process
  - robot
- - a
 
 ---
 
@@ -63,7 +62,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../gaud_duba_bouy_mall.2019.BAULFOTLSAMoUHPC/">Building Applications Using Lost Formworks Obtained Through Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>

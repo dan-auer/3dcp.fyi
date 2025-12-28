@@ -11,7 +11,6 @@ tags:
  - industry
  - model
  - print
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/li_guokai"><b>Li</b> Guokai</a> <a href="https://orcid.org/0000-0002-1810-4639" title="ORCID: 0000-0002-1810-4639" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Construction and Real Estate Management, pp. 164-176
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -64,7 +64,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -11,7 +11,6 @@ tags:
  - development
  - habitat
  - technique
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 43rd AIAA Aerospace Sciences Meeting and Exhibit, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

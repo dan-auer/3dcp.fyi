@@ -14,7 +14,6 @@ tags:
  - performance
  - print
  - structure
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/alatassi_adel"><b>Alatassi</b> Adel</a> <a href="https://orcid.org/0009-0006-2862-5530" title="ORCID: 0009-0006-2862-5530" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 423-430
 
 :aca-blank:{ .lg .middle}
     [`#air`](keyword/air)
@@ -62,8 +62,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Earthen materials used for centuries are capable of providing effective thermal resistance and good heat absorption in buildings. In addition to materials, passive design strategies that provide natural ventilation have been traditionally employed to achieve thermal comfort levels inside buildings. Several passive cooling and heating systems were used in old buildings such as windcatchers, solar chimneys, and Trombe walls. However, nowadays, these systems and materials are replaced by non-environmentally friendly materials and HVAC systems that consume high energy and emit more carbon emissions, consequently contributing to climate change and the rise of temperature.
-This paper aims to assess the impact of a designed opening in a large-scale 3D-printed earthen living structure. The opening is operable and has a dual function of natural cooling and heating. The methodology followed utilizes Computational Fluid Dynamic (CFD) analysis simulation to measure the air-flow pattern and movement through the 3D-printed openings in the space considering various parameters while designing such as opening size, shape, and location. A small-scale prototype of the opening mechanism is 3D printed before the large-scale structure. Crane WASP technology is used to 3D print on-site with locally sourced earthen materials excavated from the site. The results record a different performance of airflow patterns and speed in relation to the opening size, shape, and location of both air inlet and outlet. Temperature and pressure are the main factors that allow control of natural movement in space. Further research is to monitor the openings on-site through loggers and sensors at different times. Implementing earthen materials and passive design strategies would enhance the airflow performance and reduce the demand for artificial cooling systems which would enhance the built environment.
+    Earthen materials used for centuries are capable of providing effective thermal resistance and good heat absorption in buildings. In addition to materials, passive design strategies that provide natural ventilation have been traditionally employed to achieve thermal comfort levels inside buildings. Several passive cooling and heating systems were used in old buildings such as windcatchers, solar chimneys, and Trombe walls. However, nowadays, these systems and materials are replaced by non-environmentally friendly materials and HVAC systems that consume high energy and emit more carbon emissions, consequently contributing to climate change and the rise of temperature. This paper aims to assess the impact of a designed opening in a large-scale 3D-printed earthen living structure. The opening is operable and has a dual function of natural cooling and heating. The methodology followed utilizes Computational Fluid Dynamic (CFD) analysis simulation to measure the air-flow pattern and movement through the 3D-printed openings in the space considering various parameters while designing such as opening size, shape, and location. A small-scale prototype of the opening mechanism is 3D printed before the large-scale structure. Crane WASP technology is used to 3D print on-site with locally sourced earthen materials excavated from the site. The results record a different performance of airflow patterns and speed in relation to the opening size, shape, and location of both air inlet and outlet. Temperature and pressure are the main factors that allow control of natural movement in space. Further research is to monitor the openings on-site through loggers and sensors at different times. Implementing earthen materials and passive design strategies would enhance the airflow performance and reduce the demand for artificial cooling systems which would enhance the built environment.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

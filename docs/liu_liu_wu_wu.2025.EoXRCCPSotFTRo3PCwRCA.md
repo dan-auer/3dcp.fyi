@@ -18,7 +18,6 @@ tags:
  - resistance
  - structure
  - thaw
- - on
 
 ---
 

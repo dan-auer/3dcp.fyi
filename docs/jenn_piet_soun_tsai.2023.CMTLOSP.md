@@ -11,7 +11,6 @@ tags:
  - print
  - site
  - thin
- - on
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/atanasova_lidia"><b>Atanasova</b> Lidia</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../diel_lach_reck_atan.2022.MAM/">Mobile Additive Manufacturing:<br/>A Case Study of Clay Formwork for Bespoke In-Situ Concrete Construction</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../guam_garc_mart_chee.2020.ACPEoDMMUaD3PoBEftCI/">A Comprehensive Performance Evaluation of Different Mobile Manipulators Used as Displaceable 3D Printers of Building Elements for the Construction Industry</a></li>
@@ -77,7 +75,6 @@ tags:
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/jenny_david"><b>Jenny</b> David</a>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jenn_llor_jenn_soun.2022.RPS/">Robotic Plaster Spraying:<br/>Crafting Surfaces with Adaptive Thin-Layer Printing</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/mitterberger_daniela"><b>Mitterberger</b> Daniela</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../jenn_mitt_llor_vase.2022.ROSATLP/">Robotic On-Site Adaptive Thin-Layer Printing:<br/>Challenges and Workflow for Design and Fabrication of Bespoke Cementitious Plasterwork at Full-Architectural-Scale</a></li>
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../lach_reck_raat.2022.CTCfMRAtLSAaAMiC/">Contour-Tracking-Control for Mobile Robots Applicable to Large-Scale Assembly and Additive Manufacturing in Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/tiryaki_efe_mehmet"><b>Tiryaki</b> Mehmet</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../tiry_zhan_pham.2019.PWM/">Printing-While-Moving:<br/>A New Paradigm for Large-Scale Robotic 3D Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>

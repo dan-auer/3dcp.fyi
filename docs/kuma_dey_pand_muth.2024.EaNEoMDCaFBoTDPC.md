@@ -17,7 +17,6 @@ tags:
  - numeric
  - print
  - three
- - multi
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/meurer_maximilian"><b>Meurer</b> Maximilian</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../meur_cla.2021.MPoH3PCaM/">Mechanical Properties of Hardened 3D Printed Concretes and Mortars:<br/>Development of a Consistent Experimental Characterization-Strategy</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../nguy_liu_li_zhan.2023.Mo3PBIBCSRwSF/">Modelling of 3D Printed Bio-Inspired Bouligand Cementitious Structures Reinforced with Steel-Fibers</a></li>

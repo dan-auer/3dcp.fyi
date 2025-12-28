@@ -15,7 +15,6 @@ tags:
  - printability
  - property
  - temperature
- - on
 
 ---
 
@@ -74,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
@@ -94,7 +92,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ma_sun_wang_asla.2018.EaMAPoCCf3PCWCS/">Electromagnetic and Microwave-Absorbing Properties of Cementitious Composite for 3D Printing Containing Waste Copper Solids</a></li>
-      <li>None</li>
       <li><a href="../../../author/marais_hannelie"><b>Marais</b> Hannelie</a>, <a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../mara_chri_cho_vill.2021.CAoTPo3PCWSwC/">Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>

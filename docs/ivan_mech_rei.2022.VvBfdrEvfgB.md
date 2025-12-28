@@ -19,6 +19,7 @@ tags:
 ,     <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> <a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb, pp. 109-114
 
 :aca-blank:{ .lg .middle}
 

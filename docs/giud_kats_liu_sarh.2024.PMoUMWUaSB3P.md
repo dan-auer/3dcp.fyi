@@ -12,7 +12,6 @@ tags:
  - print
  - sand
  - wall
- - a
 
 ---
 

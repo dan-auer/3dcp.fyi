@@ -14,7 +14,6 @@ tags:
  - print
  - simulation
  - structure
- - in
 
 ---
 
@@ -81,7 +80,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>

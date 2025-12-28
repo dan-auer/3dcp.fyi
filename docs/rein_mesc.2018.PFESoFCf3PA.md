@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Forschungskolloquium 2018 Grasellenbach, pp. 68-70
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

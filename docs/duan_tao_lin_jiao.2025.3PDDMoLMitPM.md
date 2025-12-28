@@ -13,7 +13,6 @@ tags:
  - mortar
  - print
  - printability
- - in
 
 ---
 
@@ -79,9 +78,7 @@ tags:
       <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../gao_chen_chen_yu.2023.TaMPo3PFGC/">Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete:<br/>The Role of SAC on the Rheology and Phase Evolution of 3DPC</a></li>
       <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../liu_cai_sun_wang.2024.SB3PFC/">Spray-Based 3D Printed Foam-Concrete:<br/>Cooperative Optimization for Lightweight and High-Strength Performance</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../long_lin_tao_ye.2021.PaPPo3PLCCCC/">Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>

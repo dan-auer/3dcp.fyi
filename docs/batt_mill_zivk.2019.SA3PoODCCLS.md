@@ -13,8 +13,6 @@ tags:
  - optimization
  - print
  - structure
- - double
- - sub
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 242-255
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2013/06">(2013-06)</a><br><a href="../../../keat_oxma.2013.CF/">Compound Fabrication:<br/>A Multi-Functional Robotic Platform for Digital Design and Fabrication</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

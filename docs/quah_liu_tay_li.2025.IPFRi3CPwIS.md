@@ -11,7 +11,6 @@ tags:
  - process
  - repair
  - segment
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
-      <li>None</li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>

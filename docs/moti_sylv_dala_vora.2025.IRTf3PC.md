@@ -15,7 +15,6 @@ tags:
  - shape
  - strength
  - technique
- - on
 
 ---
 
@@ -94,7 +93,6 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
-      <li>None</li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/strohle_max"><b>Strohle</b> Max</a>, <a href="../../../author/sadique_monower"><b>Sadique</b> Monower</a>, <a href="../../../author/dulaimi_anmar"><b>Dulaimi</b> Anmar</a>, <a href="../../../author/kadhim_amoori_mustafa"><b>Kadhim</b> Mustafa</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../stro_sadi_dula_kadh.2023.PaBo3C/">Prospect and Barrier of 3D Concrete:<br/>A Systematic Review</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sun_asla_lu_wang.2021.FRLECCf3CP/">Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing</a></li>

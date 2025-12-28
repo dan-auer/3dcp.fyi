@@ -13,7 +13,6 @@ tags:
  - inter
  - layer
  - reinforcement
- - inter
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 87-98
 
 :aca-blank:{ .lg .middle}
     [`#alignment`](keyword/alignment)

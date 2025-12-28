@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/miyajima_akira"><b>Miyajima</b> Akira</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

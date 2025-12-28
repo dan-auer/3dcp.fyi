@@ -16,7 +16,6 @@ tags:
  - print
  - term
  - without
- - in
 
 ---
 
@@ -98,7 +97,6 @@ tags:
       <li><a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a>, <a href="../../../author/deng_yongjun"><b>Deng</b> Yongjun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_zou_chen_deng.2025.FSo3PRCaaPF/">Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork:<br/>Mechanical Properties, Interlayer Interface and Durability</a></li>
       <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a></li>
       <li><a href="../../../author/rui_aoyu"><b>Rui</b> Aoyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../rui_wang_lin_ma.2023.ESoDAo3PCEtSA/">Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack</a></li>
       <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sapa_sink_sahm_kora.2025.EBPf3PC/">Establishing Benchmark Properties for 3D-Printed Concrete:<br/>A Study of Printability, Strength, and Durability</a></li>

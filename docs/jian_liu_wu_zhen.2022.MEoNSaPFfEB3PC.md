@@ -16,8 +16,6 @@ tags:
  - print
  - printability
  - silica
- - nano
- - nano
 
 ---
 
@@ -177,7 +175,7 @@ tags:
       <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a>, <a href="../../../author/kim_sung-wook"><b>Kim</b> Sung-Wook</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../seo_kim_kim_kwon.2023.MPo3PCwCAaPFitAaUE/">Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhou_zhenhua"><b>Zhou</b> Zhenhua</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../liu_jian_zhou_xin.2023.TPaHPoNCCwMPFfCB3P/">The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../liu_jian_huan_xin.2022.TFaHPo3PCBMwSCNT/">The Fresh and Hardened Properties of 3D Printing Cement-Base Materials with Self-Cleaning Nano-TiO2:<br/>An Exploratory Study</a></li>
-      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDbMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
       <li><a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/ziemelis_krists"><b>Ziemelis</b> Krists</a>, <a href="../../../author/vanags_andris"><b>Vanags</b> Andris</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../spur_sink_ziem_vana.2022.TEoAEAoFaHPo3C/">The Effects of Air-Entraining Agent on Fresh and Hardened Properties of 3D Concrete</a></li>
     </ol>
 </div>

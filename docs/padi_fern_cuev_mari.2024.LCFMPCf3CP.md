@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/guerrero_antonio"><b>Guerrero</b> Antonio</a> <a href="https://orcid.org/0000-0001-8602-1248" title="ORCID: 0000-0001-8602-1248" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 39-45
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)

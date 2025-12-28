@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Concrete-Polymer Composites in Circular Economy, pp. 577-584
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)
@@ -72,7 +73,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="../../../date/2013/05">(2013-05)</a><br><a href="../../../llor_gram_kohl_lang.2013.CCC/">Complex Concrete Constructions:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/murcia_heras"><b>Murcia</b> Heras</a>, <a href="../../../author/abdellatef_mohammed"><b>Abdellatef</b> Mohammed</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../murc_abde_gene_taha.2021.RCoTDPPC/">Rheological Characterization of Three-Dimensional-Printed Polymer Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>

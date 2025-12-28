@@ -11,8 +11,6 @@ tags:
  - review
  - sustainability
  - tailing
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/gomez_roberto"><b>Gómez</b> Roberto</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances on the Mechanical Behavior of Materials, pp. 89-107
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -15,7 +15,6 @@ tags:
  - print
  - reinforcement
  - three
- - on
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>

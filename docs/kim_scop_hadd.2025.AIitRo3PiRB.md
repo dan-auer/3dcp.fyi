@@ -10,7 +10,6 @@ tags:
  - house
  - investigation
  - print
- - in
 
 ---
 
@@ -65,7 +64,6 @@ tags:
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/capeto_paula_ana"><b>Capêto</b> Ana</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cape_jesu_urib_guim.2024.BaGF/">Building a Greener Future:<br/>Advancing Concrete Production Sustainability and the Thermal Properties of 3D Printed Mortars</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
-      <li>None</li>
       <li><a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b> Leonardo</a>, <a href="../../../author/argenti_maria"><b>Argenti</b> Maria</a>, <a href="../../../author/ferretti_elena"><b>Ferretti</b> Elena</a>, <a href="../../../author/paparella_giulio"><b>Paparella</b> Giulio</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../giac_arge_ferr_papa.2024.TDPwEM/">Three-Dimensional Printing with Earthen Materials:<br/>A Settlement-Scale Design Experience</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
       <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/mansour_stephan"><b>Mansour</b> Stephan</a>, <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_mans_monk.2024.ACiP/">Additive Construction in Practice:<br/>Realities of Acceptance Criteria</a></li>

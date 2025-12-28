@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 121-130
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -60,7 +61,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

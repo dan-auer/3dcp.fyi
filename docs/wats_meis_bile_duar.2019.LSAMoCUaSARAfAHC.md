@@ -16,7 +16,6 @@ tags:
  - robot
  - scale
  - six
- - a
 
 ---
 
@@ -38,6 +37,7 @@ tags:
 ,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th Annual International Solid Freeform Fabrication Symposium, pp. 1583-1595
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -82,7 +82,6 @@ tags:
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
-      <li>None</li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
     </ol>
 ???+ quote "Citations"

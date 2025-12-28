@@ -16,8 +16,6 @@ tags:
  - soil
  - structure
  - system
- - a
- - in
 
 ---
 
@@ -82,7 +80,6 @@ tags:
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>

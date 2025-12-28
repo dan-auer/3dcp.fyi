@@ -14,7 +14,6 @@ tags:
  - material
  - print
  - recycling
- - in
 
 ---
 

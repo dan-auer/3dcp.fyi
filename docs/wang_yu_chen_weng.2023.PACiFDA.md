@@ -14,9 +14,6 @@ tags:
  - method
  - mixing
  - promotion
- - a
- - in
- - on
 
 ---
 

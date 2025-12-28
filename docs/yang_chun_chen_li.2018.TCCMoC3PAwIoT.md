@@ -73,7 +73,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

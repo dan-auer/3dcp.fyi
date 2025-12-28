@@ -16,7 +16,6 @@ tags:
  - term
  - util
  - vma
- - in
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../sahi_mard.2023.MPDPaILAo3M/">Mechanical Properties, Durability Performance and Inter-Layer Adhesion of 3DPC Mixtures:<br/>A State‐of‐the‐art Review</a></li>
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
     </ol>

@@ -14,9 +14,6 @@ tags:
  - print
  - robot
  - technique
- - a
- - in
- - on
 
 ---
 
@@ -34,6 +31,7 @@ tags:
 ,     <a href="../../../author/denecker_melanie"><b>Denecker</b> Mélanie</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - International Conference on Smart, Sustainable and Sensuous Settlements Transformation, pp. 199-206
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

@@ -11,7 +11,6 @@ tags:
  - failure
  - fire
  - print
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 449-458
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

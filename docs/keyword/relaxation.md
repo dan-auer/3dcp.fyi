@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#relaxation
+# #relaxation
 
 <ol reversed>
   <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhao_wanting"><b>Zhao</b> Wanting</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhu_zhao_zhao_guan.2024.MAoRPo3PSSCCBoLFNMRT/">Mechanism Analysis of Rheological Properties of 3D Printed Steel-Slag Cementitious Composite Based on Low-Field Nuclear-Magnetic-Relaxation-Test</a></li>

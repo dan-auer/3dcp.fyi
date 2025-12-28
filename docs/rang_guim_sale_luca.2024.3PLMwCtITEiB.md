@@ -12,7 +12,6 @@ tags:
  - mortar
  - print
  - temperature
- - in
 
 ---
 
@@ -66,14 +65,12 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/marais_hannelie"><b>Marais</b> Hannelie</a>, <a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../mara_chri_cho_vill.2021.CAoTPo3PCWSwC/">Computational Assessment of Thermal Performance of 3D Printed Concrete Wall Structures with Cavities</a></li>
-      <li>None</li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/seers_thomas"><b>Seers</b> Thomas</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../moha_masa_seer_gham.2020.HPLCf3P/">High-Performance Lightweight Concrete for 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../nere_krau_mech.2020.DPTfBo3PCCEV/">Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability</a></li>

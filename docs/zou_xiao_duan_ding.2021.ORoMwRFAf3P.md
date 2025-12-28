@@ -11,7 +11,6 @@ tags:
  - print
  - recycling
  - rheology
- - on
 
 ---
 
@@ -95,7 +94,6 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

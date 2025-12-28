@@ -9,9 +9,6 @@ tags:
  - industry
  - near
  - print
- - a
- - in
- - near
 
 ---
 
@@ -26,6 +23,7 @@ tags:
 ,     <a href="../../../author/moreno_galvez_daniel"><b>Moreno</b> Daniel</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#case`](keyword/case)

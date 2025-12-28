@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 489-499
 
 :aca-blank:{ .lg .middle}
     [`#character`](keyword/character)
@@ -68,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../pand_tay_paul_tan.2018.CCaFPo3CP/">Current Challenges and Future Potential of 3D Concrete Printing</a></li>

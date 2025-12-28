@@ -13,8 +13,6 @@ tags:
  - manufacturing
  - parallel
  - robot
- - a
- - on
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/barrado_mikel"><b>Barrado</b> Mikel</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Cable-Driven Parallel Robots, pp. 353-363
 
 :aca-blank:{ .lg .middle}
     [`#achievement`](keyword/achievement)
@@ -65,9 +64,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Generalization of additive manufacturing has led to consider this technological solution for more and more challenging use cases. Porting this technology to construction industry is a major step to overcome. Most of the recent research deal with materials, construction and extrusion techniques. Positioning of the extruder or material handler is mostly carried out by standard anthropomorphic robots or large-scale gantries. Cable-driven parallel robots (CDPR) can be an efficient alternative to these positioning solutions, being capable of automated motions in six degrees of freedom and easily relocated.
-The combination of the Cogiro CDPR (Tecnalia, LIRMM-CNRS, 2010) with the extruder and material of the Pylos project (IAAC, 2013), open the opportunity to a 3D printing machine with a workspace of 13.6×9.4×3.3 m. Two prints, with different patterns, have been achieved with the Pylos extruder mounted on Cogiro, drawing a wire of material of 11 m in width and 3mm in height: the first spanning 3.5 m in length, the second, reaching a height of 0.86 m.
-The motivation of this paper is to give an insight to the necessary technical implementations on a CDPR for dealing with additive manufacturing process relevant for construction, in particular acute modelling of the cable and its extension under load, and to showcase the experimental prints carried out by the authors.
+    Generalization of additive manufacturing has led to consider this technological solution for more and more challenging use cases. Porting this technology to construction industry is a major step to overcome. Most of the recent research deal with materials, construction and extrusion techniques. Positioning of the extruder or material handler is mostly carried out by standard anthropomorphic robots or large-scale gantries. Cable-driven parallel robots (CDPR) can be an efficient alternative to these positioning solutions, being capable of automated motions in six degrees of freedom and easily relocated. The combination of the Cogiro CDPR (Tecnalia, LIRMM-CNRS, 2010) with the extruder and material of the Pylos project (IAAC, 2013), open the opportunity to a 3D printing machine with a workspace of 13.6×9.4×3.3 m. Two prints, with different patterns, have been achieved with the Pylos extruder mounted on Cogiro, drawing a wire of material of 11 m in width and 3mm in height: the first spanning 3.5 m in length, the second, reaching a height of 0.86 m. The motivation of this paper is to give an insight to the necessary technical implementations on a CDPR for dealing with additive manufacturing process relevant for construction, in particular acute modelling of the cable and its extension under load, and to showcase the experimental prints carried out by the authors.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

@@ -14,7 +14,6 @@ tags:
  - print
  - review
  - use
- - multi
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/nam_jun_young"><b>Nam</b> Young</a>, <a href="../../../author/hwang_kwang_young"><b>Hwang</b> Young</a>, <a href="../../../author/park_woon_ji"><b>Park</b> Ji</a>, <a href="../../../author/lim_mook_yun"><b>Lim</b> Yun</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../nam_hwan_park_lim.2019.FStCFDfEoCPvTDP/">Feasibility Study to Control Fiber-Distribution for Enhancement of Composite Properties via Three-Dimensional Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#homogeneity
+# #homogeneity
 
 <ol reversed>
   <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../hech_kran_gehl.2023.NNMfAMoCM/">Near‐Nozzle Mixing for Additive Manufacturing of Cementitious Mortar:<br/>A Homogeneity Study</a></li>

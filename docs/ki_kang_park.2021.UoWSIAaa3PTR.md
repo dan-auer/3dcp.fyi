@@ -9,7 +9,6 @@ tags:
  - print
  - technology
  - upcycling
- - a
 
 ---
 
@@ -63,7 +62,6 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../nema_xia_sanj.2019.PpMtISoPB3PGfDCA/">Post-processing Methods to Improve Strength of Particle-Bed 3D Printed Geopolymer for Digital Construction Applications</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

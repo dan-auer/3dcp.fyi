@@ -10,7 +10,6 @@ tags:
  - implementation
  - innovation
  - print
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Additive Manufacturing, pp. 149-157
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

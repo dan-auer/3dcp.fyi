@@ -14,8 +14,6 @@ tags:
  - solid
  - state
  - structure
- - a
- - on
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. 779-789
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

@@ -13,7 +13,6 @@ tags:
  - recycling
  - use
  - waste
- - in
 
 ---
 
@@ -101,7 +100,6 @@ tags:
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

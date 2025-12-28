@@ -10,7 +10,6 @@ tags:
  - continuous
  - industry
  - robot
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/walker_d_ian"><b>Walker</b> Ian</a> <a href="https://orcid.org/0000-0002-9465-2960" title="ORCID: 0000-0002-9465-2960" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Handbook on Soft Robotics, pp. 281-314
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -60,7 +60,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/srivastava_manu"><b>Srivastava</b> Manu</a>, <a href="../../../author/ammons_jake"><b>Ammons</b> Jake</a>, <a href="../../../author/peerzada_basit_abdul"><b>Peerzada</b> Abdul</a>, <a href="../../../author/krovi_n_venkat"><b>Krovi</b> Venkat</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../sriv_ammo_peer_krov.2022.3PoCwaCRHUVCK/">3D Printing of Concrete with a Continuum-Robot-Hose Using Variable-Curvature Kinematics</a></li>
-      <li>None</li>
       <li><a href="../../../author/tiryaki_efe_mehmet"><b>Tiryaki</b> Mehmet</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../tiry_zhan_pham.2019.PWM/">Printing-While-Moving:<br/>A New Paradigm for Large-Scale Robotic 3D Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>

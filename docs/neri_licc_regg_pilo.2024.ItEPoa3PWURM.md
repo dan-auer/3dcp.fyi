@@ -12,7 +12,6 @@ tags:
  - print
  - recycling
  - wall
- - a
 
 ---
 

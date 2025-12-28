@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/shorstova_s_elena"><b>Shorstova</b> Elena</a> <a href="https://orcid.org/0000-0003-4031-0989" title="ORCID: 0000-0003-4031-0989" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Energy Systems, pp. 224-230
 
 :aca-blank:{ .lg .middle}
     [`#fiber`](keyword/fiber)
@@ -59,7 +60,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

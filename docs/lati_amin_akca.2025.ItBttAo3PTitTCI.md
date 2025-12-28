@@ -12,7 +12,6 @@ tags:
  - investigation
  - print
  - technology
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/akcay_caner_emre"><b>Akcay</b> Emre</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Information Technology in Civil and Building Engineering, pp. 361-373
 
 :aca-blank:{ .lg .middle}
     [`#adoption`](keyword/adoption)
@@ -82,7 +82,6 @@ tags:
       <li><a href="../../../author/ning_xin"><b>Ning</b> Xin</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a>, <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ning_liu_wu_wang.2021.3PiC/">3D Printing in Construction:<br/>Current Status, Implementation Hindrances, and Development Agenda</a></li>
       <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/shafqat_ali"><b>Shafqat</b> Ali</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/okland_andreas"><b>Økland</b> Andreas</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../olss_shaf_aric_kla.2019.3PTiC/">3D Printing Technology in Construction:<br/>Results from a Survey</a></li>
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>

@@ -13,8 +13,6 @@ tags:
  - print
  - process
  - robot
- - a
- - in
 
 ---
 
@@ -79,7 +77,6 @@ tags:
       <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/jiang_xuepeng"><b>Jiang</b> Xuepeng</a>, <a href="../../../author/singh_a_amit"><b>Singh</b> Amit</a>, <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mani_jian_sing_li.2020.EoNGo3PoCC/">Effects of Nozzle Geometries on 3D Printing of Clay Constructs:<br/>Quantifying Contour-Deviation and Mechanical Properties</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

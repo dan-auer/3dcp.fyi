@@ -16,7 +16,6 @@ tags:
  - printability
  - sustainability
  - system
- - a
 
 ---
 
@@ -79,7 +78,6 @@ tags:
       <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../cava_tole_mend.2024.IoRCPoRoPCBM/">Influence of Recycled Concrete-Powder on Rheology of Printable Cement-Based Matrixes</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a></li>
-      <li>None</li>
       <li><a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../fern_cald_mend.2023.EEo3PCWCtLCPitCoSH/">Environmental Evaluation of 3D Printed Concrete Walls Considering the Life Cycle Perspective in the Context of Social Housing</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>

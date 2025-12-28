@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#labor
+# #labor
 
 <ol reversed>
   <li><a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lu_sun_shen_zhan.2025.Bo3PECCE/">Buildability of 3D Printing Engineered Cementitious Composites (ECC):<br/>A Comprehensive Assessment Framework Under Laboratory Conditions</a></li>

@@ -11,7 +11,6 @@ tags:
  - hydration
  - paste
  - print
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 216-221
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -64,12 +64,10 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/azima_m"><b>Azima</b> M.</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/mullem_t"><b>Mullem</b> T.</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../putt_azim_heed_mull.2020.NRtStWIvtILo3PCMfCL/">Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

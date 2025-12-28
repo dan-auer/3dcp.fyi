@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 35-43
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

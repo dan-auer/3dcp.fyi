@@ -11,7 +11,6 @@ tags:
  - development
  - print
  - robot
- - a
 
 ---
 

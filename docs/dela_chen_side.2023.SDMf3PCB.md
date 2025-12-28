@@ -60,7 +60,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>

@@ -11,7 +11,6 @@ tags:
  - multi
  - print
  - quality
- - multi
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/schlette_christian"><b>Schlette</b> Christian</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -13,7 +13,6 @@ tags:
  - quaternary
  - slag
  - steel
- - on
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_bhag_unlu_tan.2019.SaCoOPGfEB3CP/">Synthesis and Characterization of One-Part Geopolymers for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>

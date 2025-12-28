@@ -79,8 +79,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
       <li><a href="../../../author/hansemann_georg"><b>Hansemann</b> Georg</a>, <a href="../../../author/schmid_robert"><b>Schmid</b> Robert</a>, <a href="../../../author/holzinger_christoph"><b>Holzinger</b> Christoph</a>, <a href="../../../author/tapley_paul_joshua"><b>Tapley</b> Joshua</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hans_schm_holz_tapl.2020.AFoCEbR/">Additive Fabrication of Concrete Elements by Robots:<br/>Lightweight Concrete Ceiling</a></li>

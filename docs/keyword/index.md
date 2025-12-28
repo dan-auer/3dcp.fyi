@@ -1,4 +1,12 @@
+---
+hide:
+  - tags
+  - footer
+search:
+  exclude: true
+---
 # Keywords by Initial Letter
+
 
 ## 0-9
 

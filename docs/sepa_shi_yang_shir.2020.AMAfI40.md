@@ -12,7 +12,6 @@ tags:
  - manufacturing
  - review
  - system
- - a
 
 ---
 
@@ -67,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -88,7 +86,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mcge_ng_yu_li.2020.ENSfI3oECCES/">Extrusion Nozzle Shaping for Improved 3DP of Engineered Cementitious Composites (ECC-SHCC)</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>

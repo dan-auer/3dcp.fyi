@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#frame
+# #frame
 
 <ol reversed>
   <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>

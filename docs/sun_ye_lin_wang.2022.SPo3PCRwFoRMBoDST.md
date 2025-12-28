@@ -15,7 +15,6 @@ tags:
  - rigid
  - shear
  - test
- - on
 
 ---
 

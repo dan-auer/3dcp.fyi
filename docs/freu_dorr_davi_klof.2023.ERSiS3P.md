@@ -15,8 +15,6 @@ tags:
  - shotcrete
  - structure
  - void
- - in
- - on
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#accelerator`](keyword/accelerator)

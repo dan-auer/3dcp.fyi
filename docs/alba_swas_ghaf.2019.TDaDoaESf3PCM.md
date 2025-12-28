@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Symposium on Multidisciplinary Studies and Innovative Technologies, pp. 1-5
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

@@ -12,8 +12,6 @@ tags:
  - print
  - strength
  - workability
- - on
- - out
 
 ---
 
@@ -142,7 +140,7 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ding_wang_liu_xiao.2023.SoPOPoSBf3PC/">Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete</a></li>
       <li><a href="../../../author/vijayalaxmi_jeyasingh"><b>Vijayalaxmi</b> Jeyasingh</a>, <a href="../../../author/singh_parth"><b>Singh</b> Parth</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vija_sing.2023.CAoC3PaCCTfH/">Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
-      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCIPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-In-Process to Reinforce 3D Printed Concrete</a></li>
+      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCiPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-in-Process to Reinforce 3D Printed Concrete</a></li>
       <li><a href="../../../author/diwan_anushree"><b>Diwan</b> Anushree</a>, <a href="../../../author/patel_singh_shiv"><b>Patel</b> Shiv</a>, <a href="../../../author/pal_ankit"><b>Pal</b> Ankit</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../diwa_pate_pal_dwiv.2024.FCoCMwVSFfAC/">Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction</a></li>
       <li><a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../wang_jia_deng_zhan.2022.BBBSBa3PC/">Bond Behavior Between Steel-Bars and 3D Printed Concrete:<br/>Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating</a></li>
       <li><a href="../../../author/inaty_francois"><b>Inaty</b> Francois</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../inat_baz_aoua.2022.LTDAo3PC/">Long-Term Durability-Assessment of 3D Printed Concrete</a></li>

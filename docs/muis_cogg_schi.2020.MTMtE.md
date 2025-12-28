@@ -7,7 +7,6 @@ description:
 tags:
  - construction
  - industry
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
 ,     <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> <a href="https://orcid.org/0000-0003-0549-4516" title="ORCID: 0000-0003-0549-4516" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 839-851
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

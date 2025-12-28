@@ -13,7 +13,6 @@ tags:
  - penetration
  - robust
  - silica
- - in
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

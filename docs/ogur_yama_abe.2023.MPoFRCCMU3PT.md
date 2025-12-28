@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/abe_hiroyuki"><b>Abe</b> Hiroyuki</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Strain-Hardening Cementitious Composites, pp. 69-78
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

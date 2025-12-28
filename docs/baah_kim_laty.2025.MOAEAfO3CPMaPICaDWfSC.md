@@ -20,7 +20,6 @@ tags:
  - print
  - sustainability
  - waste
- - multi
 
 ---
 
@@ -104,7 +103,6 @@ tags:
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../rahu_moha_schu_titt.2022.3PCwNaRCA/">3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>Rheological, Mechanical and Shrinkage Behavior</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>

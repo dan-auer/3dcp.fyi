@@ -12,7 +12,6 @@ tags:
  - print
  - quality
  - strength
- - on
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 439-448
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

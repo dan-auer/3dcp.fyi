@@ -16,7 +16,6 @@ tags:
  - robot
  - structure
  - wall
- - a
 
 ---
 

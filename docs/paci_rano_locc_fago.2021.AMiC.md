@@ -14,9 +14,6 @@ tags:
  - process
  - review
  - technology
- - a
- - in
- - on
 
 ---
 
@@ -83,8 +80,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../mech_nere.2018.3PwC/">3D Printing with Concrete:<br/>State-of-the-Art, Trends, Challenges</a></li>
       <li><a href="../../../author/pacillo_arcangelo_gerardo"><b>Pacillo</b> Gerardo</a>, <a href="../../../author/ranocchiai_giovanna"><b>Ranocchiai</b> Giovanna</a>, <a href="../../../author/loccarini_federica"><b>Loccarini</b> Federica</a>, <a href="../../../author/fagone_mario"><b>Fagone</b> Mario</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../paci_rano_locc_fago.2021.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Technologies, Processes, Materials, and Their Applications of 3D and 4D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/leach_neil"><b>Leach</b> Neil</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../than_khos_carl_leac.2012.ACECRSaCCTfLSID/">Architectural Concepts Employing Co-Robot-Strategy and Contour Crafting Technologies for Lunar Settlement Infrastructure Development</a></li>
     </ol>

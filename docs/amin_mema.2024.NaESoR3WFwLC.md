@@ -13,7 +13,6 @@ tags:
  - numeric
  - reinforcement
  - wall
- - on
 
 ---
 
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
-      <li>None</li>
       <li><a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET/">A Micro-Scale-Based Numerical Model for Investigating Hygro-Thermo-Mechanical Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../han_yan_liu_huo.2022.ESoLS3PCWUAC/">Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>

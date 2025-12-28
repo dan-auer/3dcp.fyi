@@ -17,7 +17,6 @@ tags:
  - print
  - retainment
  - superplasticizer
- - inter
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>

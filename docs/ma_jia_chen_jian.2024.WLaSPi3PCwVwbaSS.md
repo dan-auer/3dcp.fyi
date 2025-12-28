@@ -14,7 +14,6 @@ tags:
  - specimen
  - variation
  - water
- - in
 
 ---
 
@@ -97,7 +96,6 @@ tags:
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/snoeck_didier"><b>Snoeck</b> Didier</a>, <a href="../../../author/coensel_r"><b>Coensel</b> R.</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../putt_snoe_coen_schu.2021.EASPo3PCMwSP/">Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>

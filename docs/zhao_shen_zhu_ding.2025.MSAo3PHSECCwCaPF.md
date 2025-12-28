@@ -21,8 +21,6 @@ tags:
  - scale
  - strength
  - structure
- - in
- - multi
 
 ---
 

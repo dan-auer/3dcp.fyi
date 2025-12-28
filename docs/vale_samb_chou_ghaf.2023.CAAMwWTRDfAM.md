@@ -18,7 +18,6 @@ tags:
  - savings
  - sustainability
  - waste
- - eco
 
 ---
 
@@ -91,7 +90,6 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../khal_wang_celi.2020.3PMOC/">3D Printable Magnesium Oxide Concrete:<br/>Towards Sustainable Modern Architecture</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a></li>
-      <li>None</li>
       <li><a href="../../../author/ranjan_rajeev"><b>Ranjan</b> Rajeev</a>, <a href="../../../author/kumar_deepak"><b>Kumar</b> Deepak</a>, <a href="../../../author/kundu_manoj"><b>Kundu</b> Manoj</a>, <a href="../../../author/chandra-moi_subhash"><b>Chandra Moi</b> Subhash</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ranj_kuma_kund_chan.2022.ACRoCoMUi3PP/">A Critical Review on Classification of Materials Used in 3D Printing Process</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/marini_danilo"><b>Marini</b> Danilo</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../samb_mari_siba_vale.2020.PMAoRCCSfAPC/">Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction</a></li>

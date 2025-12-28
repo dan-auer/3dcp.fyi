@@ -14,8 +14,6 @@ tags:
  - rapid
  - scale
  - use
- - mega
- - mega
 
 ---
 
@@ -72,7 +70,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>

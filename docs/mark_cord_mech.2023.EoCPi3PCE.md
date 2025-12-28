@@ -15,7 +15,6 @@ tags:
  - pressure
  - print
  - validation
- - in
 
 ---
 
@@ -81,7 +80,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
     </ol>
 ???+ quote "Citations"

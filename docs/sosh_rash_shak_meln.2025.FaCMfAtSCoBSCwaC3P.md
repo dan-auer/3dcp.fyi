@@ -15,7 +15,6 @@ tags:
  - print
  - strength
  - structure
- - a
 
 ---
 
@@ -78,10 +77,8 @@ tags:
       <li><a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a>, <a href="../../../author/hu_xiangcheng"><b>Hu</b> Xiangcheng</a>, <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_hu_shah.2024.ABi3PC/">Anisotropic Behavior in 3D Printed Concrete:<br/>Finite Element Simulation Approach</a></li>
       <li><a href="../../../author/liu_chenkang"><b>Liu</b> Chenkang</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhou_cong"><b>Zhou</b> Cong</a>, <a href="../../../author/sun_honglei"><b>Sun</b> Honglei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../liu_yue_zhou_sun.2021.AMPoEB3PLC/">Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete</a></li>
       <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>
       <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a>, <a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a>, <a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a>, <a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../nan_qiao_leng_bai.2025.ASRi3PC/">Advancing Structural Reinforcement in 3D Printed Concrete:<br/>Current Methods, Challenges, and Innovations</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

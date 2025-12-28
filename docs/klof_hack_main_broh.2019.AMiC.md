@@ -15,7 +15,6 @@ tags:
  - reinforcement
  - shotcrete
  - technology
- - in
 
 ---
 
@@ -81,9 +80,7 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bekey_george"><b>Bekey</b> George</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../khos_beke.2002.ACUCC/">Automated Construction Using Contour Crafting:<br/>Applications on Earth and Beyond</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
 ???+ quote "Citations"

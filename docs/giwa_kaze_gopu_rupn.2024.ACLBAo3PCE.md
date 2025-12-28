@@ -12,7 +12,6 @@ tags:
  - element
  - load
  - print
- - a
 
 ---
 
@@ -90,7 +89,6 @@ tags:
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>
       <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>, <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>, <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../moza_bruc_clun_xie.2023.DDaFoCFfCC/">Digital Design and Fabrication of Clay Formwork for Concrete Casting</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
-      <li>None</li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a></li>

@@ -14,7 +14,6 @@ tags:
  - print
  - stiffness
  - twin
- - twin
 
 ---
 
@@ -74,7 +73,6 @@ tags:
     <ol>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>

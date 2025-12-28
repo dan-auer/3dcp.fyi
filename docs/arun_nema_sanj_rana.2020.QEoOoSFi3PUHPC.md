@@ -14,9 +14,6 @@ tags:
  - print
  - quantity
  - steel
- - in
- - ultra
- - ultra
 
 ---
 
@@ -34,6 +31,7 @@ tags:
 ,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 389-397
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

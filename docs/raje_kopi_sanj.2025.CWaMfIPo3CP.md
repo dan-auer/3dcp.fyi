@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#carbonation`](keyword/carbonation)
@@ -59,7 +60,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/augonis_algirdas"><b>Augonis</b> Algirdas</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../butk_vait_sink_augo.2023.IoCBSGi3CP/">Influence of Carbonated-Bottom-Slag-Granules in 3D Concrete Printing</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
@@ -67,7 +67,6 @@ tags:
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/wang_dingyi"><b>Wang</b> Dingyi</a>, <a href="../../../author/zhang_tingting"><b>Zhang</b> Tingting</a>, <a href="../../../author/guo_xudong"><b>Guo</b> Xudong</a>, <a href="../../../author/ling_dayi"><b>Ling</b> Dayi</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../wang_zhan_guo_ling.2022.TPo3PiFCN/">The Potential of 3D Printing in Facilitating Carbon Neutrality</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

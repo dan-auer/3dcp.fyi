@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/lande_ingrid"><b>Lande</b> Ingrid</a> <a href="https://orcid.org/0000-0001-7946-5094" title="ORCID: 0000-0001-7946-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Net-Zero Built Environment, pp. 1-11
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

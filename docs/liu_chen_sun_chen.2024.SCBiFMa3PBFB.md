@@ -14,7 +14,6 @@ tags:
  - mortar
  - print
  - steel
- - in
 
 ---
 
@@ -96,7 +95,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../trip_nair_neit.2022.ACAoBo3PCatUoBLSSCBFCTTP/">A Comprehensive Analysis of Buildability of 3D Printed Concrete and the Use of Bi-Linear Stress-Strain Criterion-Based Failure Curves Towards Their Prediction</a></li>
       <li><a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../wang_jia_deng_zhan.2022.BBBSBa3PC/">Bond Behavior Between Steel-Bars and 3D Printed Concrete:<br/>Effect of Concrete Rheological Property, Steel-Bar Diameter and Paste-Coating</a></li>

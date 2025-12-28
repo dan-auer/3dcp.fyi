@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a> <a href="https://orcid.org/0000-0002-6464-2622" title="ORCID: 0000-0002-6464-2622" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 90-97
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)
@@ -68,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/yang_qian"><b>Yang</b> Qian</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../jian_yang_zhu_zhan.2022.EtSEoCaSCotPoOM/">Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>

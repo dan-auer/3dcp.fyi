@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#solar
+# #solar
 
 <ol reversed>
   <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../marc.2024.C3PMWSaESSS/">Concrete 3D Printed Marine Wind, Solar and Energy Storage Support Structures</a></li>

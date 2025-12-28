@@ -17,7 +17,6 @@ tags:
  - quantification
  - reinforcement
  - structure
- - in
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#adsorption`](keyword/adsorption)

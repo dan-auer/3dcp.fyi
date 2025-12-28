@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/musacchi_ettore"><b>Musacchi</b> Ettore</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 113-124
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

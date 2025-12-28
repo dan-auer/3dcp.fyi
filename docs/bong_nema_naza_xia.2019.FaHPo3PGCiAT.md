@@ -12,7 +12,6 @@ tags:
  - printability
  - property
  - temperature
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 3-11
 
 :aca-blank:{ .lg .middle}
     [`#cure`](keyword/cure)
@@ -68,7 +68,6 @@ tags:
     <ol>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
     </ol>

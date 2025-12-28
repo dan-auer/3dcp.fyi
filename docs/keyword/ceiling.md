@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#ceiling
+# #ceiling
 
 <ol reversed>
   <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>

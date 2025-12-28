@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures, pp. 202-211
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -65,10 +66,8 @@ tags:
     <ol>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

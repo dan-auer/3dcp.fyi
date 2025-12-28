@@ -14,7 +14,6 @@ tags:
  - temperature
  - triangle
  - wall
- - in
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/andrade_conde-carvalho_henrique"><b>de Andrade</b> Henrique</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Joint XLV Ibero-Latin-American Congress on Computational Methods in Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#air`](keyword/air)

@@ -14,7 +14,6 @@ tags:
  - temperature
  - value
  - wall
- - in
 
 ---
 

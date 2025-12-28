@@ -11,8 +11,6 @@ tags:
  - hardened
  - linear
  - print
- - non
- - under
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

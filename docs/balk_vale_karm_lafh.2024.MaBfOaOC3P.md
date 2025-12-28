@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/boutabba_assia"><b>Boutabba</b> Assia</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#barrier`](keyword/barrier)

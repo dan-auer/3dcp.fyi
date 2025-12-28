@@ -11,8 +11,6 @@ tags:
  - print
  - repair
  - robot
- - a
- - in
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 156-164
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -70,7 +69,7 @@ tags:
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/mitterberger_daniela"><b>Mitterberger</b> Daniela</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../jenn_mitt_llor_vase.2022.ROSATLP/">Robotic On-Site Adaptive Thin-Layer Printing:<br/>Challenges and Workflow for Design and Fabrication of Bespoke Cementitious Plasterwork at Full-Architectural-Scale</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/pietrasik_l_lukasz"><b>Pietrasik</b> Lukasz</a>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a>, <a href="../../../author/tsai_ping-hsun"><b>Tsai</b> Ping-Hsun</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../jenn_piet_soun_tsai.2023.CMTLOSP/">Continuous Mobile Thin-Layer On-Site Printing</a></li>
-      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMsAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-step Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMSAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-Step Additive Manufacturing in Construction</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

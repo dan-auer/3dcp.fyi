@@ -12,7 +12,6 @@ tags:
  - print
  - self
  - sensor
- - self
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../wang_asla.2023.SPoRCBw3PCBSEaSSCC/">Structural Performance of Reinforced Concrete Beams with 3D Printed Cement-Based Sensor Embedded and Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_asla_mukh.2022.Do3PSSCC/">Development of 3D Printable Self-Sensing Cementitious Composites</a></li>
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/zhang_runhong"><b>Zhang</b> Runhong</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_yao_yang_zhan.2022.MPo3PCiSCC/">Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions</a></li>

@@ -12,8 +12,6 @@ tags:
  - print
  - sand
  - sustainability
- - a
- - in
 
 ---
 

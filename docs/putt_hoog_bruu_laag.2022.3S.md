@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 50-55
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

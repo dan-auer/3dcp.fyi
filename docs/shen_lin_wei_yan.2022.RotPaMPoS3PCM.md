@@ -11,7 +11,6 @@ tags:
  - print
  - property
  - solid
- - on
 
 ---
 
@@ -80,7 +79,6 @@ tags:
       <li><a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ramy_cusa.2022.DFCMfSoOSCaPCF/">Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow</a></li>
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/zhang_runhong"><b>Zhang</b> Runhong</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../wang_yao_yang_zhan.2022.MPo3PCiSCC/">Mechanical Performance of 3D Printed Concrete in Steam-Curing Conditions</a></li>
       <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

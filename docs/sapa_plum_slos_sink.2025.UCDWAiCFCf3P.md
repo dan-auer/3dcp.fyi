@@ -13,7 +13,6 @@ tags:
  - print
  - util
  - waste
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> <a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Building Materials, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

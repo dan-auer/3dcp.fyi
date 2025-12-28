@@ -12,7 +12,6 @@ tags:
  - performance
  - print
  - rheology
- - on
 
 ---
 
@@ -66,9 +65,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a></li>

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 417-425
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -73,9 +74,7 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nema_xia_bong_sanj.2019.HPo3POPGfCA/">Hardened Properties of 3D Printable One-Part Geopolymer for Construction Applications</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

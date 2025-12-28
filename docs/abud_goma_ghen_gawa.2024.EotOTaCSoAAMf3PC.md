@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/gawady_mohamed"><b>el Gawady</b> Mohamed</a> <a href="https://orcid.org/0000-0001-6928-9875" title="ORCID: 0000-0001-6928-9875" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International Conference on Advances in Civil Infrastructure and Construction Materials, pp. 89-97
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

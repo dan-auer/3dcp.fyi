@@ -14,7 +14,6 @@ tags:
  - relation
  - structure
  - temperature
- - up
 
 ---
 

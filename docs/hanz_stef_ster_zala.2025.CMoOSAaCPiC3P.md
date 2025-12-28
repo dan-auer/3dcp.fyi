@@ -10,7 +10,6 @@ tags:
  - constitution
  - milling
  - print
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>

@@ -19,7 +19,7 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Bond Shear Performances and Constitutive Model of Interfaces between Vertical and Horizontal Filaments of 3D Printed Concrete ([2021-11](date/2021/11))
+#:aca-closedaccess:{ .xred '} Bond Shear Performances and Constitutive Model of Interfaces Between Vertical and Horizontal Filaments of 3D Printed Concrete ([2021-11](date/2021/11))
 <a href="https://doi.org/10.1016/j.conbuildmat.2021.125819" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2021.125819</a>
 
 -------------------------
@@ -50,7 +50,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bond%20Shear%20Performances%20and%20Constitutive%20Model%20of%20Interfaces%20between%20Vertical%20and%20Horizontal%20Filaments%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Bond%20Shear%20Performances%20and%20Constitutive%20Model%20of%20Interfaces%20Between%20Vertical%20and%20Horizontal%20Filaments%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120347893&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000736970800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.125819" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -88,9 +88,7 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
-      <li>None</li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nema_xia_vija_sanj.2019.PoEB3PGfDCA/">Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>

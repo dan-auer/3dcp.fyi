@@ -12,8 +12,6 @@ tags:
  - fabrication
  - reduction
  - structure
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/horswill_duncan"><b>Horswill</b> Duncan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2024, pp. 206-213
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)
@@ -58,9 +57,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    As the energy used to operate buildings today trends greener thanks to advances in sustainable energy production, there is a growing interest in the materials used to construct buildings and how the carbon emissions associated with these materials can be reduced. Concrete construction is a significant contributor to carbon emissions, and, with this project, the client, AP Pension, is embarking on a mission to demonstrate a novel approach to reducing the carbon footprint of its concrete buildings.
-
-To encourage this vision, an opportunity to develop and apply innovative design strategies was created by AP Pension in the form of a small community house located in Fredericia, Denmark. The project format made it possible for the project team to engage in a collaborative research process with close coordination between architecture and engineering, the use of computational design to combine geometry with structural analysis, and a ‘design through making’ mindset with a particular focus on the practical nature of 3D-printed concrete, and how this comes together with the requirements of the Eurocodes and building regulations. This culminated in a series of structural tests, both small-scale in the lab and full-scale at the printing facility, to corroborate the original design assumptions about the material and to validate certain requirements of concrete construction in terms of durability, robustness, and tolerance. As part of the sustainable goals of the project, all parties involved in the project formulated an ambitious project target: to achieve a total CO2 equivalent below 5kg CO2/m2/year over a 50-year period while keeping concrete as the primary material for structural and aesthetic elements.
+    As the energy used to operate buildings today trends greener thanks to advances in sustainable energy production, there is a growing interest in the materials used to construct buildings and how the carbon emissions associated with these materials can be reduced. Concrete construction is a significant contributor to carbon emissions, and, with this project, the client, AP Pension, is embarking on a mission to demonstrate a novel approach to reducing the carbon footprint of its concrete buildings. To encourage this vision, an opportunity to develop and apply innovative design strategies was created by AP Pension in the form of a small community house located in Fredericia, Denmark. The project format made it possible for the project team to engage in a collaborative research process with close coordination between architecture and engineering, the use of computational design to combine geometry with structural analysis, and a ‘design through making’ mindset with a particular focus on the practical nature of 3D-printed concrete, and how this comes together with the requirements of the Eurocodes and building regulations. This culminated in a series of structural tests, both small-scale in the lab and full-scale at the printing facility, to corroborate the original design assumptions about the material and to validate certain requirements of concrete construction in terms of durability, robustness, and tolerance. As part of the sustainable goals of the project, all parties involved in the project formulated an ambitious project target: to achieve a total CO2 equivalent below 5kg CO2/m2/year over a 50-year period while keeping concrete as the primary material for structural and aesthetic elements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

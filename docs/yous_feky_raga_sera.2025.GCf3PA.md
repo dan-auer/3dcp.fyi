@@ -12,7 +12,6 @@ tags:
  - geopolymer
  - print
  - statistics
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/serag_i_mohamed"><b>Serag</b> Mohamed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ICSDI 2024 Volume 3, pp. 23-31
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -66,8 +66,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/youssef_passant"><b>Youssef</b> Passant</a>, <a href="../../../author/feky_s_muhammad"><b>Feky</b> Muhammad</a>, <a href="../../../author/ragab_m_ahmed"><b>Ragab</b> Ahmed</a>, <a href="../../../author/serag_i_mohamed"><b>Serag</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yous_feky_raga_sera.2024.CoGCf3P/">Characterization of Geopolymer Composites for 3D Printing:<br/>A Microstructure Approach</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>

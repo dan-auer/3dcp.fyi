@@ -13,7 +13,6 @@ tags:
  - reinforcement
  - steel
  - structure
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/yakovlev_egor"><b>Yakovlev</b> Egor</a> <a href="https://orcid.org/0000-0002-8077-0392" title="ORCID: 0000-0002-8077-0392" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ASTM International Conference on Additive Manufacturing, pp. 165-179
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

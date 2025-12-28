@@ -13,8 +13,6 @@ tags:
  - model
  - numeric
  - simulation
- - in
- - non
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/citek_david"><b>Čítek</b> David</a> <a href="https://orcid.org/0000-0002-2615-1873" title="ORCID: 0000-0002-2615-1873" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ryme_cerv_jend.2023.MMaSo3CPP/">Material-Modelling and Simulation of 3D Concrete Printing Process</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
 ???+ quote "Citations"

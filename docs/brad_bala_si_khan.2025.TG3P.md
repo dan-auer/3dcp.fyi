@@ -15,7 +15,6 @@ tags:
  - performance
  - print
  - silica
- - a
 
 ---
 
@@ -73,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bono_duco_mesn_caro.2024.MfFLCPMTPPO/">Methodology for Formulating Low-Carbon Printable Mortar Through Particles-Packing-Optimization</a></li>
       <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>

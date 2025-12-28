@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#aesthetic
+# #aesthetic
 
 <ol reversed>
   <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../krug_most_zijl.2022.ASBCMEA3PCS/">A Strain-Based Constitutive Model Ensuring Aesthetic 3D Printed Concrete Structures:<br/>Limiting Differential Settlement of Filaments</a></li>

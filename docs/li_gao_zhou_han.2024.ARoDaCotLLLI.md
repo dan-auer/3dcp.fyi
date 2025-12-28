@@ -9,8 +9,6 @@ tags:
  - design
  - infrastructure
  - review
- - a
- - on
 
 ---
 
@@ -65,7 +63,6 @@ tags:
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../khos_than_yuan_zhan.2013.AiCCTfESIB/">Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -16,10 +16,6 @@ tags:
  - stage
  - supplement
  - synergy
- - multi
- - on
- - ultra
- - ultra
 
 ---
 
@@ -77,15 +73,12 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../chen_liu_cao_chen.2022.SIoRPR3PPfAAM/">Systematical Investigation of Rheological Performance Regarding 3D Printing Process for Alkali-Activated Materials:<br/>Effect of Precursor Nature</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS/">Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
-      <li>None</li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ma_yan_zhan_sanj.2022.EoSSo3CPoGwQB/">Effect of Steel-Slag on 3D Concrete Printing of Geopolymer with Quaternary Binders</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_bhag_unlu_tan.2019.SaCoOPGfEB3CP/">Synthesis and Characterization of One-Part Geopolymers for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_tan.2019.RBoHVFAMCMSfDCA/">Rheological Behavior of High-Volume Fly-Ash Mixtures Containing Micro-Silica for Digital Construction Application</a></li>

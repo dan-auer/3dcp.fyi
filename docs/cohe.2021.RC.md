@@ -9,8 +9,6 @@ tags:
  - case
  - concrete
  - print
- - a
- - in
 
 ---
 
@@ -23,6 +21,7 @@ tags:
       <a href="../../../author/cohen_zach"><b>Cohen</b> Zach</a> <a href="https://orcid.org/0000-0001-9014-4814" title="ORCID: 0000-0001-9014-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 109th ACSA Annual Meeting, pp. 192-199
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

@@ -8,7 +8,6 @@ tags:
  - design
  - experiment
  - print
- - a
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 36th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 31-38
 
 :aca-blank:{ .lg .middle}
     [`#design`](keyword/design)

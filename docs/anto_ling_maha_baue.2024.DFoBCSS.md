@@ -60,7 +60,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_mai_broh_gant.2020.I3CPI/">Injection 3D Concrete Printing (I3DCP):<br/>Basic Principles and Case Studies</a></li>
       <li><a href="../../../author/nething_christoph"><b>Nething</b> Christoph</a>, <a href="../../../author/smirnova_maya"><b>Smirnova</b> Maya</a>, <a href="../../../author/groning_ad_janosch"><b>Gröning</b> Janosch</a>, <a href="../../../author/haase_walter"><b>Haase</b> Walter</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../neth_smir_gron_haas.2020.AMf3PBCSSUSaUACCP/">A Method for 3D Printing Bio-Cemented Spatial Structures Using Sand and Urease-Active-Calcium-Carbonate-Powder</a></li>
     </ol>

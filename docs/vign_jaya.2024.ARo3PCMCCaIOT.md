@@ -20,8 +20,6 @@ tags:
  - property
  - review
  - tailing
- - a
- - on
 
 ---
 

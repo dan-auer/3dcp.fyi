@@ -10,7 +10,6 @@ tags:
  - print
  - rheology
  - vibration
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/lange_a_david"><b>Lange</b> David</a> <a href="https://orcid.org/0000-0002-6517-711X" title="ORCID: 0000-0002-6517-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 353-359
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

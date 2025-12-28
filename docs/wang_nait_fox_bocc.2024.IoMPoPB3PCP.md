@@ -12,7 +12,6 @@ tags:
  - print
  - property
  - proportion
- - on
 
 ---
 
@@ -66,12 +65,10 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
-      <li>None</li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/qamar_i_muath"><b>Qamar</b> Mu'ath</a>, <a href="../../../author/yaghmour_emad"><b>Yaghmour</b> Emad</a>, <a href="../../../author/wang_xingjian"><b>Wang</b> Xingjian</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qama_yagh_wang_nait.2024.Uo3PCCfTES/">Use of 3D Printed Concrete Components for Thermal Energy Storage</a></li>

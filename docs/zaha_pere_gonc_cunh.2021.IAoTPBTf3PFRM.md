@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> <a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM Spring Convention and Conference, pp. 313-325
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

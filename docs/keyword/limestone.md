@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#limestone
+# #limestone
 
 <ol reversed>
   <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_chen_zhan_zhan.2025.IoLCCotMBo3PECC/">Influence of Limestone Calcined Clay on the Mechanical Behaviour of 3D Printed Engineered Cementitious Composites</a></li>

@@ -11,7 +11,6 @@ tags:
  - ready
  - seismic
  - system
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -63,7 +63,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/triantafyllidis_zafiris"><b>Triantafyllidis</b> Zafiris</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raza_tria_anto_dill.2024.SPoFSPSSBCw3PPCF/">Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork</a></li>
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
     </ol>

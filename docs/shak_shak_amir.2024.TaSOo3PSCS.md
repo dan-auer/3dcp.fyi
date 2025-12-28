@@ -11,7 +11,6 @@ tags:
  - stress
  - structure
  - topology
- - pre
 
 ---
 

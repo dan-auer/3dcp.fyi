@@ -15,8 +15,6 @@ tags:
  - property
  - technique
  - test
- - in
- - non
 
 ---
 
@@ -90,7 +88,6 @@ tags:
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/stappen_f_jeroen"><b>Stappen</b> Jeroen</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moha_rahu_stap_cnud.2023.AoPSCaTo3PCUMIPaXRT/">Assessment of Pore-Structure Characteristics and Tortuosity of 3D Printed Concrete Using Mercury-Intrusion-Porosimetry and X-Ray Tomography</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/pan_zuanfeng"><b>Pan</b> Zuanfeng</a>, <a href="../../../author/si_doudou"><b>Si</b> Doudou</a>, <a href="../../../author/tao_jinghong"><b>Tao</b> Jinghong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pan_si_tao_xiao.2023.CBo3PCwDPPaCA/">Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages</a></li>

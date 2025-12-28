@@ -13,8 +13,6 @@ tags:
  - print
  - reinforcement
  - shape
- - a
- - in
 
 ---
 

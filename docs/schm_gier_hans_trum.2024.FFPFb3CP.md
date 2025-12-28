@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/freytag_bernhard"><b>Freytag</b> Bernhard</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 501-508
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -52,9 +53,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Nowadays, 3D concrete printing (3DCP) can build on a broad base of developments concerning all areas along the process. Thanks to increased precision, material performance and reinforcement methods, highly sophisticated concrete components can now be produced using 3DCP.
-The research presented in this paper integrates various process-related possibilities to design a structural application – a filigree curtain wall façade panel with the dimensions of 135x350 cm. The panel features hollow ribs on the backside, where the two support anchors are situated, and follows the internal force flow by using variable-width printing. To meet the load-bearing requirements, a dual approach is adopted. Areas exposed to tensile stress are strengthened by increasing their thickness and/or printing with embedded wire rope reinforcement. The bending load-bearing capacity is achieved by longitudinally pre-stressing the panel. The panel can be manufactured in one piece or can be assembled from several segments using match-casting method.
-The paper at hand presents the over-all application concept and shows the results of manufacturing tests, mechanical tests, and numerical investigations. The findings obtained demonstrate the potential of filigree curtain wall façade panels made by 3DCP.
+    Nowadays, 3D concrete printing (3DCP) can build on a broad base of developments concerning all areas along the process. Thanks to increased precision, material performance and reinforcement methods, highly sophisticated concrete components can now be produced using 3DCP. The research presented in this paper integrates various process-related possibilities to design a structural application – a filigree curtain wall façade panel with the dimensions of 135x350 cm. The panel features hollow ribs on the backside, where the two support anchors are situated, and follows the internal force flow by using variable-width printing. To meet the load-bearing requirements, a dual approach is adopted. Areas exposed to tensile stress are strengthened by increasing their thickness and/or printing with embedded wire rope reinforcement. The bending load-bearing capacity is achieved by longitudinally pre-stressing the panel. The panel can be manufactured in one piece or can be assembled from several segments using match-casting method. The paper at hand presents the over-all application concept and shows the results of manufacturing tests, mechanical tests, and numerical investigations. The findings obtained demonstrate the potential of filigree curtain wall façade panels made by 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/case_p_michael"><b>Case</b> Michael</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures Conference 2018, pp. 412-424
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

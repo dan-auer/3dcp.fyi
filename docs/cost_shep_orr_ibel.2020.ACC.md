@@ -13,7 +13,6 @@ tags:
  - digital
  - prism
  - reinforcement
- - non
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/oval_robin"><b>Oval</b> Robin</a> <a href="https://orcid.org/0000-0002-9701-9853" title="ORCID: 0000-0002-9701-9853" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 863-872
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

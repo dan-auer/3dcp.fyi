@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#capillary
+# #capillary
 
 <ol reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>

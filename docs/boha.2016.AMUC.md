@@ -8,7 +8,6 @@ tags:
  - bridge
  - concrete
  - manufacturing
- - a
 
 ---
 
@@ -21,6 +20,7 @@ tags:
       <a href="../../../author/bohan_p_richard"><b>Bohan</b> Richard</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Cement Industry Technical Conference, pp. 1-10
 
 :aca-blank:{ .lg .middle}
     [`#bridge`](keyword/bridge)

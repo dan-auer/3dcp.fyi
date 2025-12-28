@@ -9,7 +9,6 @@ tags:
  - engineered
  - print
  - structure
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - High Tech Concrete, pp. xliii-lvii
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -86,7 +86,7 @@ tags:
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
       <li><a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a>, <a href="../../../author/keller_petr"><b>Keller</b> Petr</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../mend_kell.2023.AoODPbEoCMU3S/">Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning</a></li>
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sent_raph.2022.UCVfMtQo3PCS/">Using Computer-Vision for Monitoring the Quality of 3D Printed Concrete Structures</a></li>
-      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCIPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-In-Process to Reinforce 3D Printed Concrete</a></li>
+      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCiPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-in-Process to Reinforce 3D Printed Concrete</a></li>
       <li><a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a>, <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a>, <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../garc_dokl_dokl_caro.2022.ILMo3CPUCV/">In-Line Monitoring of 3D Concrete Printing Using Computer-Vision</a></li>
       <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nabo_bres_sani.2022.EA3CPtRV/">Environment-Aware 3D Concrete Printing through Robot-Vision</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../li_zhan_tay_ting.2022.TD3PfBaC/">Three-Dimensional (3D) Printing for Building and Construction</a></li>

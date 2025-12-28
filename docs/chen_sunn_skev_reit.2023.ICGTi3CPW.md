@@ -10,7 +10,6 @@ tags:
  - print
  - transparency
  - wall
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 28th Conference on Computer Aided Architectural Design Research in Asia, pp. 169-178
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

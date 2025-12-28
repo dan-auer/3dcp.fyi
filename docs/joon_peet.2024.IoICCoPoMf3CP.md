@@ -11,7 +11,6 @@ tags:
  - mixture
  - print
  - property
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/peetrimagi_lauri"><b>Peetrimägi</b> Lauri</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

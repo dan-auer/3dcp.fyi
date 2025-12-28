@@ -14,7 +14,6 @@ tags:
  - tension
  - test
  - use
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/pinkerton_r_luke"><b>Pinkerton</b> Luke</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 35-54
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

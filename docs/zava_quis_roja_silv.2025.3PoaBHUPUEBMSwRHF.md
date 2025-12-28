@@ -14,7 +14,6 @@ tags:
  - prototype
  - stability
  - unit
- - a
 
 ---
 
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>, <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bici_yuni.2023.Ao3PTfBC/">Analysis of 3D Printing Techniques for Building Construction:<br/>A Review</a></li>
       <li><a href="../../../author/dhaese_romain"><b>D'Haese</b> Romain</a>, <a href="../../../author/carpentier_olivier"><b>Carpentier</b> Olivier</a>, <a href="../../../author/dubois_vincent"><b>Dubois</b> Vincent</a>, <a href="../../../author/chafei_sawsen"><b>Chafei</b> Sawsen</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dha_carp_dubo_chaf.2022.3PMMwIB/">3D Printable Materials Made with Industrial Byproducts:<br/>Formulation, Fresh and Hardened Properties</a></li>
-      <li>None</li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>

@@ -17,8 +17,6 @@ tags:
  - split
  - temperature
  - tension
- - on
- - under
 
 ---
 

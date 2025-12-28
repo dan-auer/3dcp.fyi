@@ -19,6 +19,7 @@ tags:
 ,     <a href="../../../author/strasky_jiri"><b>Stráský</b> Jiří</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 15th fib International PhD Symposium in Civil Engineering, pp. 1251-1258
 
 :aca-blank:{ .lg .middle}
     [`#print`](keyword/print)

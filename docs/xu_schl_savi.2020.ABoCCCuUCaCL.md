@@ -12,7 +12,6 @@ tags:
  - compression
  - cycle
  - load
- - under
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 547-556
 
 :aca-blank:{ .lg .middle}
     [`#axis`](keyword/axis)

@@ -9,7 +9,6 @@ tags:
  - print
  - review
  - short
- - a
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/venkatakrishnaiah_r"><b>Venkatakrishnaiah</b> R.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 261-273
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

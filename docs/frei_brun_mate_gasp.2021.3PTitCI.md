@@ -9,7 +9,6 @@ tags:
  - industry
  - print
  - technology
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 157-167
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -61,7 +61,6 @@ tags:
     <ol>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/bulgakov_alexey"><b>Bulgakov</b> Alexey</a>, <a href="../../../author/sayfeddine_daher"><b>Sayfeddine</b> Daher</a> <a href="../../../date/2015/07">(2015-07)</a><br><a href="../../../krau_otto_bulg_sayf.2018.SOo3CPUtMoC/">Strategic Optimization of 3D Concrete Printing Using the Method of CONPrint3D®</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>

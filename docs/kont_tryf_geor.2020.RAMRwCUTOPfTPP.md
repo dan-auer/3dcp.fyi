@@ -16,7 +16,6 @@ tags:
  - robot
  - tool
  - topology
- - a
 
 ---
 

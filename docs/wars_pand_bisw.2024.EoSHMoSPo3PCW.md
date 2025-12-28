@@ -15,8 +15,6 @@ tags:
  - seismic
  - strain
  - wall
- - a
- - on
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

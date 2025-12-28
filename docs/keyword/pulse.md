@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#pulse
+# #pulse
 
 <ol reversed>
   <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_asla.2025.MaUPVPo3PRCCRwPF/">Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers</a></li>

@@ -11,7 +11,6 @@ tags:
  - hybrid
  - material
  - print
- - on
 
 ---
 
@@ -70,13 +69,11 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/lach_michal"><b>Łach</b> Michał</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../marc_ziej_ach_korn.2019.PoUt3PPitCaGA/">Possibilities of Using the 3D Printing Process in the Concrete and Geopolymers Application</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

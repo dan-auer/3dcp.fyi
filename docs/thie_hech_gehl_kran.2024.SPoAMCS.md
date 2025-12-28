@@ -17,7 +17,6 @@ tags:
  - structure
  - sustainability
  - wall
- - on
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> <a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 13-21
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -69,8 +69,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The Brundtland Report defined sustainable development as a development that meets the needs of the present without compromising the ability of future generations to meet their own needs. If this definition is applied to the construction sector, a new, circular approach to cementitious materials is required. Additive manufacturing (AM) enables to design material-efficient and monolithic structures that meet physical and chemical requirements of building standards while allowing reuse or high-quality recycling of concrete.
-Here, the environmental impact as well as the circularity potential of an additively manufactured exterior wall, produced by 3D concrete extrusion, are determined. To classify the results, the additively manufactured exterior wall is compared with a conventional concrete construction. Finally, various options for optimizing the printed wall are considered and evaluated. Additive manufacturing enabled significant material savings compared to conventional construction. The environmental impacts strongly depend on the used concrete composition. For example, greenhouse gas emissions could be reduced by 20% when changing the type of lightweight aggregate. The additively manufactured exterior wall exhibited advantages in terms of circularity. Through further development and research, additive manufacturing of concrete can promote a paradigm shift towards sustainable practices.
+    The Brundtland Report defined sustainable development as a development that meets the needs of the present without compromising the ability of future generations to meet their own needs. If this definition is applied to the construction sector, a new, circular approach to cementitious materials is required. Additive manufacturing (AM) enables to design material-efficient and monolithic structures that meet physical and chemical requirements of building standards while allowing reuse or high-quality recycling of concrete. Here, the environmental impact as well as the circularity potential of an additively manufactured exterior wall, produced by 3D concrete extrusion, are determined. To classify the results, the additively manufactured exterior wall is compared with a conventional concrete construction. Finally, various options for optimizing the printed wall are considered and evaluated. Additive manufacturing enabled significant material savings compared to conventional construction. The environmental impacts strongly depend on the used concrete composition. For example, greenhouse gas emissions could be reduced by 20% when changing the type of lightweight aggregate. The additively manufactured exterior wall exhibited advantages in terms of circularity. Through further development and research, additive manufacturing of concrete can promote a paradigm shift towards sustainable practices.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
@@ -79,7 +78,6 @@ Here, the environmental impact as well as the circularity potential of an additi
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/renz_mauritz"><b>Renz</b> Mauritz</a>, <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../brie_renz_noum_stra.2023.MAF/">Monolithic AM Façade:<br/>Multi-Objective Parametric Design-Optimization of Additively Manufactured Insulating Wall Elements</a></li>
-      <li>None</li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../hech_kran_gehl.2023.NNMfAMoCM/">Near‐Nozzle Mixing for Additive Manufacturing of Cementitious Mortar:<br/>A Homogeneity Study</a></li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../kuzm_fera_bave_rous.2020.EIo6ARAf3CP/">Environmental Impacts of 6-Axis Robotic Arm for 3D Concrete Printing</a></li>

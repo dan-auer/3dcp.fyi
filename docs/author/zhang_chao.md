@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
@@ -22,5 +22,5 @@ search:
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
   <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
-  <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+  <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
 </ol>

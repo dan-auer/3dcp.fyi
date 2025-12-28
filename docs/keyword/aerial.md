@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#aerial
+# #aerial
 
 <ol reversed>
   <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a>, <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ball_dams_shep_chen.2025.EAAMwCMUAD/">Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones</a></li>

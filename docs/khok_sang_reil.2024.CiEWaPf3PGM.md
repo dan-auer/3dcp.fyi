@@ -11,7 +11,6 @@ tags:
  - mortar
  - printability
  - workability
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/reilly_matthew"><b>o' Reilly</b> Matthew</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#challenge`](keyword/challenge)

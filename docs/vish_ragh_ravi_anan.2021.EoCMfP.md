@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/anand_b_k"><b>Anand</b> K.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Structural Engineering and Construction Management, pp. 611-623
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

@@ -17,8 +17,6 @@ tags:
  - print
  - self
  - steam
- - on
- - self
 
 ---
 
@@ -97,7 +95,6 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../souz_ribe_sten_nema.2024.3PSLCMfCoASHiB/">3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>Potential, Challenges, and Research Needs</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a></li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/du_liangfen"><b>Du</b> Liangfen</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_du_liu_li.2024.3CCPwPRCR/">3D Cementitious Composites Printing with Pretreated Recycled Crumb-Rubber:<br/>Mechanical and Acoustic Insulation Properties</a></li>
       <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../wang_xiao_sun_zhan.2023.MPo3PMCbC/">Mechanical Properties of 3D Printed Mortar Cured by CO2</a></li>

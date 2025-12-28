@@ -16,7 +16,6 @@ tags:
  - robot
  - structuration
  - vision
- - in
 
 ---
 

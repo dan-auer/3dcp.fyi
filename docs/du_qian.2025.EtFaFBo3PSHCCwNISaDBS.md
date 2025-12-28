@@ -19,7 +19,6 @@ tags:
  - single
  - strain
  - structure
- - double
 
 ---
 

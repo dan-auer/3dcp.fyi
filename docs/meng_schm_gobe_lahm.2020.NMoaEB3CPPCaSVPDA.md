@@ -17,7 +17,6 @@ tags:
  - pseudo
  - space
  - variation
- - a
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 323-332
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)
@@ -84,7 +84,6 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vant_boel_cort_stee.2019.CSBaMPTOf3PCS/">Compliance, Stress-Based and Multi-Physics Topology-Optimization for 3D Printed Concrete Structures</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
@@ -102,6 +101,6 @@ tags:
       <li><a href="../../../author/krenzer_knut"><b>Krenzer</b> Knut</a>, <a href="../../../author/palzer_ulrich"><b>Palzer</b> Ulrich</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kren_palz_mull_mech.2022.So3CPUDEM/">Simulation of 3D Concrete Printing Using Discrete Element Method</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/mengesha_meron"><b>Mengesha</b> Meron</a>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b> Albrecht</a>, <a href="../../../author/gobel_luise"><b>Göbel</b> Luise</a>, <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../meng_schm_gobe_lahm.2021.NSf3PWSdtPoPcU/">Numerical Simulation for 3D Printed Wall Structure during the Process of Printing considering Uncertainty</a></li>
+      <li><a href="../../../author/mengesha_meron"><b>Mengesha</b> Meron</a>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b> Albrecht</a>, <a href="../../../author/gobel_luise"><b>Göbel</b> Luise</a>, <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../meng_schm_gobe_lahm.2021.NSf3PWSDtPoPCU/">Numerical Simulation for 3D Printed Wall Structure During the Process of Printing Considering Uncertainty</a></li>
     </ol>
 </div>

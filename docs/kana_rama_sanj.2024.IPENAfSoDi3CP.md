@@ -11,8 +11,6 @@ tags:
  - investigation
  - print
  - setting
- - in
- - on
 
 ---
 
@@ -79,7 +77,6 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../moha_rahu_titt_schu.2020.EtIoACoPo3PC/">Evaluating the Influence of Aggregate Content on Pumpability of 3D Printable Concrete</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../muth_rama_sanj.2022.ILAoGSfC3P/">In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>

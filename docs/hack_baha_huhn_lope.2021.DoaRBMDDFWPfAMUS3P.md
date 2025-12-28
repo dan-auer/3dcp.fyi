@@ -17,8 +17,6 @@ tags:
  - process
  - robot
  - shotcrete
- - a
- - multi
 
 ---
 
@@ -81,13 +79,9 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
-      <li>None</li>
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
-      <li>None</li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
@@ -95,8 +89,6 @@ tags:
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

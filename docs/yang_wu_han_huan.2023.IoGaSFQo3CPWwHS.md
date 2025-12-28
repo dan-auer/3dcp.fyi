@@ -15,7 +15,6 @@ tags:
  - section
  - surface
  - wall
- - on
 
 ---
 

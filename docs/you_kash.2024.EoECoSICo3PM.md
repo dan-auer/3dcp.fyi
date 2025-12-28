@@ -13,7 +13,6 @@ tags:
  - mortar
  - print
  - shrinkage
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#condition`](keyword/condition)

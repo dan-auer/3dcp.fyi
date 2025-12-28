@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/schwab_martin"><b>Schwab</b> Martin</a> <a href="https://orcid.org/0000-0002-3428-4668" title="ORCID: 0000-0002-3428-4668" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Architecture and Design for Industry 4.0, pp. 453-469
 
 :aca-blank:{ .lg .middle}
     [`#control`](keyword/control)

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="https://orcid.org/0000-0002-4130-1032" title="ORCID: 0000-0002-4130-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)
@@ -67,7 +68,6 @@ tags:
     <ol>
       <li><a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fenandez_f"><b>Fenàndez</b> F.</a>, <a href="../../../author/cabello_z"><b>Cabello</b> Z.</a>, <a href="../../../author/alvarez_o"><b>Álvarez</b> O.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asen_fena_cabe_alva.2024.LCEMUBAf3P/">Low-Clinker ECC Materials Using Biomass Ash for 3D Printing</a></li>
       <li><a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a>, <a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../fern_jara_asen_guer.2023.NDTtEtSHCfa3PEM/">Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
     </ol>
 ???+ quote "Citations"

@@ -16,7 +16,6 @@ tags:
  - print
  - tension
  - validation
- - post
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/pajak_karolina"><b>Pajak</b> Karolina</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2025 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -79,8 +79,6 @@ tags:
     <ol>
       <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../miri_baaj_pola.2025.3PCB/">3D-Printed Concrete Bridges:<br/>Material, Design, Construction, and Reinforcement</a></li>
       <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/widmann_robert"><b>Widmann</b> Robert</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../raza_mans_sakh_widm.2025.LTBo3PCFfRSUEAL/">Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

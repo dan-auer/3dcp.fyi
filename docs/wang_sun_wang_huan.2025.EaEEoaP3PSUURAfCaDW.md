@@ -18,8 +18,6 @@ tags:
  - structure
  - unit
  - waste
- - a
- - in
 
 ---
 
@@ -90,7 +88,6 @@ tags:
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
-      <li>None</li>
       <li><a href="../../../author/krimi_imane"><b>Krimi</b> Imane</a>, <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b> Laure</a> <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../krim_lafh_duco.2017.PSotIoAMtBI/">Prospective Study on the Integration of Additive Manufacturing to Building Industry:<br/>Case of a French Construction Company</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>
@@ -109,7 +106,6 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../ye_zhua_teng_yu.2024.CEAo3CPwECC/">Comparative Environmental-Assessment of 3D Concrete Printing with Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
 ???+ quote "Citations"

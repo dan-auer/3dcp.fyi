@@ -10,7 +10,6 @@ tags:
  - constraint
  - limitation
  - print
- - in
 
 ---
 
@@ -64,7 +63,6 @@ tags:
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>

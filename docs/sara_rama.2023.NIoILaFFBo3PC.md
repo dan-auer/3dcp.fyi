@@ -14,8 +14,6 @@ tags:
  - layer
  - numeric
  - print
- - inter
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="https://orcid.org/0000-0003-0391-8952" title="ORCID: 0000-0003-0391-8952" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)
@@ -70,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../he_chow_li.2020.EoILNaSSoILSo3PCP/">Effects of Inter-Layer Notch and Shear Stress on Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>

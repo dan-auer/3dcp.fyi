@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/paksoy_o_halime"><b>Paksoy</b> Halime</a> <a href="https://orcid.org/0000-0003-3200-8595" title="ORCID: 0000-0003-3200-8595" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 64-72
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

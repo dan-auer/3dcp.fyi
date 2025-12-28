@@ -12,9 +12,6 @@ tags:
  - linear
  - model
  - print
- - a
- - non
- - on
 
 ---
 
@@ -73,7 +70,7 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
 ???+ quote "Citations"

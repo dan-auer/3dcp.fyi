@@ -12,7 +12,6 @@ tags:
  - material
  - mechanics
  - property
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/ramli_jeffri"><b>Ramli</b> Jeffri</a> <a href="https://orcid.org/0000-0002-2814-831X" title="ORCID: 0000-0002-2814-831X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 516-526
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -76,8 +76,6 @@ tags:
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>

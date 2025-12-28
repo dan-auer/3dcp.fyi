@@ -20,7 +20,6 @@ tags:
  - property
  - time
  - waste
- - on
 
 ---
 
@@ -99,7 +98,6 @@ tags:
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../khan_ilca_amin_sahi.2023.BAoEoSDi3CP/">Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_zhihui"><b>Wang</b> Zhihui</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../liu_wang_wu_liu.2023.3PCwRS/">3D Printing Concrete with Recycled Sand:<br/>The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_zhan_liu_he.2022.AotMPaDMf3PCBoPS/">Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/lin_qian"><b>Lin</b> Qian</a>, <a href="../../../author/xu_wei"><b>Xu</b> Wei</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../luo_lin_xu_wang.2023.EoITaIAotMCoUHTCCU3PT/">Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology</a></li>

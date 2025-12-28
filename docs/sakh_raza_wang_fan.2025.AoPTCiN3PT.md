@@ -15,8 +15,6 @@ tags:
  - tension
  - test
  - topology
- - in
- - post
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> <a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

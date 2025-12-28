@@ -13,7 +13,6 @@ tags:
  - modular
  - print
  - scale
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/smater_michal"><b>Smater</b> Michał</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Automation, Robotics and Measurement Techniques, pp. 119-125
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

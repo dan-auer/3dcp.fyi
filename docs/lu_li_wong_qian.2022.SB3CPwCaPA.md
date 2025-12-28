@@ -12,7 +12,6 @@ tags:
  - polymer
  - print
  - spray
- - a
 
 ---
 

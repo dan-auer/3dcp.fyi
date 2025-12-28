@@ -18,8 +18,6 @@ tags:
  - surface
  - volume
  - yield
- - on
- - up
 
 ---
 
@@ -82,11 +80,9 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>
 ???+ quote "Citations"

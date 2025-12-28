@@ -13,7 +13,6 @@ tags:
  - process
  - system
  - technology
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/santos_coelho_francielle"><b>dos Santos</b> Francielle</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Civil, Structural and Transportation Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

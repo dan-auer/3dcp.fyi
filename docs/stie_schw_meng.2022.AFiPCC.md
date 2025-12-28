@@ -18,8 +18,6 @@ tags:
  - formwork
  - method
  - modular
- - in
- - pre
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> <a href="https://orcid.org/0000-0001-9055-4039" title="ORCID: 0000-0001-9055-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia, pp. 81-90
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -77,7 +76,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
     </ol>

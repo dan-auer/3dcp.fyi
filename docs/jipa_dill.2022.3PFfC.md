@@ -99,9 +99,7 @@ tags:
       <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../nabo_bres.2020.HRAFfBSCP/">High-Resolution Additive Formwork for Building-Scale Concrete Panels</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

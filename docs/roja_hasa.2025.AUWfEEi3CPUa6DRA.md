@@ -14,8 +14,6 @@ tags:
  - robot
  - uniform
  - workflow
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="https://orcid.org/0000-0001-6214-3443" title="ORCID: 0000-0001-6214-3443" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Computing in Civil Engineering, pp. 733-742
 
 :aca-blank:{ .lg .middle}
     [`#arm`](keyword/arm)
@@ -72,7 +71,7 @@ tags:
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/chen_hao"><b>Chen</b> Hao</a>, <a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/chen_peng"><b>Chen</b> Peng</a>, <a href="../../../author/li_ning"><b>Li</b> Ning</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_chen_li.2023.ARotESDfLSEB3CP/">A Review of the Extruder System Design for Large-Scale Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
-      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPbBEa3CP/">Development of Communication Protocols between BIM Elements and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/he_rui"><b>He</b> Rui</a>, <a href="../../../author/li_mingkai"><b>Li</b> Mingkai</a>, <a href="../../../author/gan_jl_vincent"><b>Gan</b> Vincent</a>, <a href="../../../author/ma_jun"><b>Ma</b> Jun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../he_li_gan_ma.2021.BECDaDFoIB/">BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings:<br/>A Case Study</a></li>

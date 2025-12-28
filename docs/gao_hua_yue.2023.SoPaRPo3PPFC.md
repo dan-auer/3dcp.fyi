@@ -10,8 +10,6 @@ tags:
  - print
  - property
  - rheology
- - on
- - pre
 
 ---
 
@@ -69,7 +67,6 @@ tags:
       <li><a href="../../../author/dai_shuo"><b>Dai</b> Shuo</a>, <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a>, <a href="../../../author/zhai_munan"><b>Zhai</b> Munan</a>, <a href="../../../author/wu_qisheng"><b>Wu</b> Qisheng</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../dai_zhu_zhai_wu.2021.SoSSaFAaIAi3PM/">Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../lim_pand_pham.2018.IFCo3PGCwIPSCR/">Improving Flexural Characteristics of 3D Printed Geopolymer Composites with In-Process Steel-Cable-Reinforcement</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_chen_xion_jia.2022.IoHMaSFoBo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Buildability of 3D Printing Foam-Concrete:<br/>From Water State and Flocculation Point of View</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>

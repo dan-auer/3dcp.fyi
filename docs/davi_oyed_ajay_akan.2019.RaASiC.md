@@ -12,7 +12,6 @@ tags:
  - industry
  - robot
  - system
- - in
 
 ---
 
@@ -69,8 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>, <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../davi_oyed_ajay_akan.2019.RaASiC/">Robotics and Automated Systems in Construction:<br/>Understanding Industry-Specific Challenges for Adoption</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>

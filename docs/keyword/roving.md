@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#roving
+# #roving
 
 <ol reversed>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/backes_gerta_jana"><b>Backes</b> Jana</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_kalt_mull_back.2023.EoHYSCRCwMIR/">Extrusion of High Yield Strength Carbon-Reinforced Concrete with Mineral Impregnated Rovings</a></li>

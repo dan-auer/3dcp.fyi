@@ -15,7 +15,6 @@ tags:
  - scale
  - significance
  - test
- - in
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 144-169
 
 :aca-blank:{ .lg .middle}
     [`#approval`](keyword/approval)
@@ -106,7 +106,7 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
 ???+ quote "Citations"

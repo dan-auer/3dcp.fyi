@@ -11,7 +11,6 @@ tags:
  - print
  - slicing
  - stress
- - non
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="https://orcid.org/0000-0001-7128-4635" title="ORCID: 0000-0001-7128-4635" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2025 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -14,8 +14,6 @@ tags:
  - print
  - structure
  - without
- - on
- - up
 
 ---
 
@@ -73,7 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>

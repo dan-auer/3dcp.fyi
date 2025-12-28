@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/ludwig_horst-michael"><b>Ludwig</b> Horst-Michael</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 18th International Conference on Computing in Civil and Building Engineering, pp. 992-1002
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

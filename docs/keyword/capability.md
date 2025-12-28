@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#capability
+# #capability
 
 <ol reversed>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>

@@ -8,7 +8,6 @@ tags:
  - concrete
  - print
  - reinforcement
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/kota_dhruv"><b>Kota</b> Dhruv</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advanced Materials, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -58,7 +58,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>

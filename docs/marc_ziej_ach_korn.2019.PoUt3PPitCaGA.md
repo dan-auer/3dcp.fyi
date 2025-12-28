@@ -10,7 +10,6 @@ tags:
  - geopolymer
  - print
  - process
- - in
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../pand_unlu_tan.2019.EaRCoGNUi3P/">Extrusion and Rheology Characterization of Geopolymer Nanocomposites Used in 3D Printing</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>

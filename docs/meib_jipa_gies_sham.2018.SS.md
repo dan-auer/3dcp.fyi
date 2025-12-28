@@ -13,7 +13,6 @@ tags:
  - light
  - slab
  - smart
- - a
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), pp. 434-443
 
 :aca-blank:{ .lg .middle}
     [`#computer`](keyword/computer)
@@ -102,7 +102,7 @@ tags:
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/williams_ella"><b>Williams</b> Ella</a>, <a href="../../../author/bennett_michael"><b>Bennett</b> Michael</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../nich_ross_will_benn.2020.IRTMRSaMLfCR3PiA/">Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_mai_broh_gant.2020.I3CPI/">Injection 3D Concrete Printing (I3DCP):<br/>Basic Principles and Case Studies</a></li>
       <li><a href="../../../author/adilenidou_yota"><b>Adilenidou</b> Yota</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/colletti_marjan"><b>Colletti</b> Marjan</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../adil_ahme_bos_coll.2019.UF/">Unprintable Forms</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>

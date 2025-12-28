@@ -15,7 +15,6 @@ tags:
  - print
  - property
  - rheology
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> <a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 206-215
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)
@@ -72,9 +72,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_amzi.2019.3PiC/">3D Printing in Concrete:<br/>General Considerations and Technologies</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
     </ol>

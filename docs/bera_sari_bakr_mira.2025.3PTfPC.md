@@ -11,7 +11,6 @@ tags:
  - print
  - process
  - technology
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/susilowati_indah_suci"><b>Susilowati</b> Suci</a> <a href="https://orcid.org/0000-0002-4956-9762" title="ORCID: 0000-0002-4956-9762" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Smart and Sustainable Built Environment, pp. 1-12
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -72,9 +72,7 @@ tags:
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b> Astiti</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../okta_bera.2022.Io3CPTiPCCMPI/">Implementation of 3D Concrete Printing Technology in Pre-Cast Concrete Mass Production Industry</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>

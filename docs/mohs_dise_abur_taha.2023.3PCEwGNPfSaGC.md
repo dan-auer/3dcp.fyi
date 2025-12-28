@@ -12,8 +12,6 @@ tags:
  - green
  - print
  - sustainability
- - nano
- - nano
 
 ---
 

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Multi-Functional Concrete with Recycled Aggregates, pp. 307-344
 
 :aca-blank:{ .lg .middle}
     [`#adoption`](keyword/adoption)
@@ -75,7 +76,7 @@ tags:
 ???+ quote "Citations"
     <ol reversed>
       <li><a href="../../../author/hermida_luis_jose"><b>Hermida</b> José</a>, <a href="../../../author/saavedra_ruth"><b>Saavedra</b> Ruth</a>, <a href="../../../author/hidalgo-astudillo_samantha"><b>Hidalgo-Astudillo</b> Samantha</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../herm_saav_hida_tosi.2025.IoFRAotPo3PC/">Influence of Fine Recycled Aggregates on the Properties of 3D Printing Concrete</a></li>
-      <li><a href="../../../author/shoaei_parham"><b>Shoaei</b> Parham</a>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b> Harrison</a>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b> Victor</a>, <a href="../../../author/pamies_ramon"><b>Pamies</b> Ramón</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shoa_gall_mart_pami.2024.CAo3PoPCMwHMaMfCaVMA/">Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-fibrillated Cellulose as Viscosity-Modifying-Agents</a></li>
+      <li><a href="../../../author/shoaei_parham"><b>Shoaei</b> Parham</a>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b> Harrison</a>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b> Victor</a>, <a href="../../../author/pamies_ramon"><b>Pamies</b> Ramón</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shoa_gall_mart_pami.2024.CAo3PoPCMwHMaMFCaVMA/">Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
     </ol>
 </div>

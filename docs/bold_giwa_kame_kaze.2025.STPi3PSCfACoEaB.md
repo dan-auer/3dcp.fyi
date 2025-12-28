@@ -12,8 +12,6 @@ tags:
  - prediction
  - print
  - temperature
- - in
- - on
 
 ---
 
@@ -67,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/herbert_marc"><b>Herbert</b> Marc</a>, <a href="../../../author/lamendola_joseph"><b>Lamendola</b> Joseph</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../giwa_herb_lame_fisk.2024.PRCULS3PwSC/">Planetary Robotic Construction Using Large-Scale 3D Printing with Sulfur-Concrete</a></li>

@@ -14,7 +14,6 @@ tags:
  - solid
  - stability
  - water
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 165-173
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

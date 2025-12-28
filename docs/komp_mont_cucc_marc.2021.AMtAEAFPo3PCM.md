@@ -14,7 +14,6 @@ tags:
  - mixing
  - performance
  - printability
- - a
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 27-34
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Construction, Energy, Environment and Sustainability, pp. 247-259
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

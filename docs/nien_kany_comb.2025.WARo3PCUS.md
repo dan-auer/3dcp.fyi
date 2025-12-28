@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Concrete Repair, Rehabilitation and Retrofitting, pp. 465-474
 
 :aca-blank:{ .lg .middle}
     [`#absorbent`](keyword/absorbent)

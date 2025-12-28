@@ -14,7 +14,6 @@ tags:
  - print
  - process
  - smooth
- - in
 
 ---
 
@@ -91,7 +90,6 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../rein_gudz_mesc.2023.CMoFOD3CP/">Computational Modeling of Fiber Orientation During 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sunt_gath_upas_pool.2021.FPoI3PCCWP/">Fire Performance of Innovative 3D Printed Concrete Composite Wall Panels:<br/>A Numerical Study</a></li>

@@ -13,7 +13,6 @@ tags:
  - framework
  - print
  - technology
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> <a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1582-1589
 
 :aca-blank:{ .lg .middle}
     [`#alignment`](keyword/alignment)

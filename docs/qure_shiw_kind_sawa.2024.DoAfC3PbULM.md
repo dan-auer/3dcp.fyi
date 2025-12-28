@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/balushi_usman_yousuf"><b>al Balushi</b> Yousuf</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Civil Engineering and Architecture Conference, pp. 81-89
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#scan
+# #scan
 
 <ol reversed>
   <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>

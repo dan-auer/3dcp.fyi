@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#screw
+# #screw
 
 <ol reversed>
   <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhi_wu_bai.2024.DtEoGaDPoSoFODF3PBoDES/">Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation</a></li>

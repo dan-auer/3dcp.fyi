@@ -17,7 +17,6 @@ tags:
  - performance
  - print
  - strain
- - in
 
 ---
 
@@ -81,7 +80,6 @@ tags:
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li>None</li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/moghayedi_alireza"><b>Moghayedi</b> Alireza</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/lediga_refilwe"><b>Lediga</b> Refilwe</a>, <a href="../../../author/mosiea_tshepang"><b>Mosiea</b> Tshepang</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mogh_maha_ledi_mosi.2024.RAHiA/">Revolutionizing Affordable Housing in Africa:<br/>A Comprehensive Technical and Sustainability Study of 3D Printing Technology</a></li>

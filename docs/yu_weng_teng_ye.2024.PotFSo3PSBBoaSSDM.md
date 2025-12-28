@@ -15,8 +15,6 @@ tags:
  - size
  - statistics
  - strength
- - a
- - on
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/yu_jiantao"><b>Yu</b> Jiantao</a> <a href="https://orcid.org/0000-0003-4883-7398" title="ORCID: 0000-0003-4883-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -75,7 +74,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pi_lu_li_zhou.2023.CPaFMo3PECC3EUBL/">Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC/">Development of 3D Printable Engineered Cementitious Composites with Incineration-Bottom-Ash for Sustainable and Digital Construction</a></li>

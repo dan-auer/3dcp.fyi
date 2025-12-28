@@ -12,8 +12,6 @@ tags:
  - reinforcement
  - scale
  - self
- - a
- - self
 
 ---
 

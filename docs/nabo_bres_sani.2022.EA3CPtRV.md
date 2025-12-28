@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 409 - 418
 
 :aca-blank:{ .lg .middle}
     [`#aware`](keyword/aware)
@@ -67,9 +68,7 @@ tags:
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../bres_nabo.2022.ATP/">Adaptive Tool-Path:<br/>Enhanced Design and Process-Control for Robotic 3DCP</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
-      <li>None</li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
     </ol>
 ???+ quote "Citations"

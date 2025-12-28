@@ -12,7 +12,6 @@ tags:
  - progress
  - technology
  - trend
- - on
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/ghasemi_alireza"><b>Ghasemi</b> Alireza</a>, <a href="../../../author/naser_z_mohannad"><b>Naser</b> Mohannad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../ghas_nase.2023.T3PCTEAI/">Tailoring 3D Printed Concrete Through Explainable Artificial Intelligence</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>

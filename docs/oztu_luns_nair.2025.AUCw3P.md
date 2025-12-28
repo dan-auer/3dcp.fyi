@@ -11,8 +11,6 @@ tags:
  - print
  - stage
  - underwater
- - a
- - two
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

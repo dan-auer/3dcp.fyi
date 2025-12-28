@@ -14,9 +14,6 @@ tags:
  - print
  - ray
  - tomography
- - in
- - micro
- - micro
 
 ---
 

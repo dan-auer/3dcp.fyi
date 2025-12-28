@@ -14,9 +14,6 @@ tags:
  - print
  - site
  - sustainability
- - a
- - off
- - on
 
 ---
 
@@ -31,6 +28,7 @@ tags:
 ,     <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 407-418
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

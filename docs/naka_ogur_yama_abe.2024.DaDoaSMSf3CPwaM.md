@@ -13,7 +13,6 @@ tags:
  - print
  - shape
  - system
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/kikuchi_ryu"><b>Kikuchi</b> Ryu</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 20th International Conference on Automation Science and Engineering, pp. 2684-2688
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -68,7 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/leusnik_sander"><b>Leusnik</b> Sander</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chri_leus_koss.2023.MA3PoBBCCiC/">Multi-Axial 3D Printing of Biopolymer-Based Concrete Composites in Construction</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>

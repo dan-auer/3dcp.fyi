@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/lim_mook_yun"><b>Lim</b> Yun</a> <a href="https://orcid.org/0000-0001-7169-196X" title="ORCID: 0000-0001-7169-196X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 9th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

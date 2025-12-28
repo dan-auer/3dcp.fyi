@@ -13,7 +13,6 @@ tags:
  - print
  - reef
  - selective
- - in
 
 ---
 
@@ -95,7 +94,7 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/ly_oceane"><b>Ly</b> Océane</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../ly_yori_seba_blan.2021.Oo3PCfAR/">Optimization of 3D Printed Concrete for Artificial Reefs:<br/>Biofouling and Mechanical Analysis</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/lizasoain-arteaga_esther"><b>Lizasoain-Arteaga</b> Esther</a>, <a href="../../../author/slebi-acevedo_j_carlos"><b>Slebi-Acevedo</b> Carlos</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG/">Life-Cycle-Assessment and Multi-Criteria Decision-Making-Analysis to Determine the Performance of 3D Printed Cement Mortars and Geopolymers</a></li>
     </ol>
 ???+ quote "Citations"

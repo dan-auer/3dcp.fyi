@@ -11,7 +11,6 @@ tags:
  - prefabrication
  - print
  - strategy
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/suchorzewski_jan"><b>Suchorzewski</b> Jan</a> <a href="https://orcid.org/0000-0003-1358-2364" title="ORCID: 0000-0003-1358-2364" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

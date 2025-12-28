@@ -9,7 +9,6 @@ tags:
  - concrete
  - review
  - system
- - a
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
@@ -91,8 +89,6 @@ tags:
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/luckey_daniel"><b>Luckey</b> Daniel</a>, <a href="../../../author/heine_sebastian"><b>Heine</b> Sebastian</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../smar_pera_luck_hein.2021.BBCP/">BIM-Based Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>

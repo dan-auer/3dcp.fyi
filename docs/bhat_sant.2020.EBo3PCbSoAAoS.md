@@ -13,7 +13,6 @@ tags:
  - printability
  - spray
  - surface
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="https://orcid.org/0000-0002-2358-1261" title="ORCID: 0000-0002-2358-1261" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 13-22
 
 :aca-blank:{ .lg .middle}
     [`#accelerator`](keyword/accelerator)
@@ -79,7 +79,6 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -17,7 +17,6 @@ tags:
  - print
  - regulations
  - rheology
- - inter
 
 ---
 
@@ -93,10 +92,7 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
-      <li>None</li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../over_savi_bos_schl.2023.3PSHCC3S/">3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC):<br/>Tailoring Fresh and Hardened State Properties</a></li>

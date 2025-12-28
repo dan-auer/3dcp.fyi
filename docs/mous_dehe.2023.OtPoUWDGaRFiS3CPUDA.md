@@ -13,8 +13,6 @@ tags:
  - recycling
  - sustainability
  - waste
- - in
- - on
 
 ---
 
@@ -75,7 +73,6 @@ tags:
       <li><a href="../../../author/gislason_styrmir"><b>Gislason</b> Styrmir</a>, <a href="../../../author/bruhn_simon"><b>Bruhn</b> Simon</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sen_burak"><b>Sen</b> Burak</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gisl_bruh_bres_sen.2022.P3PCBSaEP/">Porous 3D Printed Concrete Beams Show an Environmental Promise:<br/>A Cradle-to-Grave Comparative Life Cycle Assessment</a></li>
       <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mous_dehe.2022.IoLaVDGaRFi3PSM/">Influence of Latex and Vinyl Disposable Gloves as Recycled Fibers in 3D Printing Sustainable Mortars</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
-      <li>None</li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
     </ol>

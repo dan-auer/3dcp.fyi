@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 665-672
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

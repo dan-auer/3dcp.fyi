@@ -8,7 +8,6 @@ tags:
  - construction
  - print
  - sustainability
- - a
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/tripathi_m_v"><b>Tripathi</b> V.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 2024 9th International Conference on Smart and Sustainable Technologies (SpliTech), pp. 1-10
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -64,7 +64,6 @@ tags:
       <li><a href="../../../author/gangotra_ankita"><b>Gangotra</b> Ankita</a>, <a href="../../../author/gado_emanuela"><b>Gado</b> Emanuela</a>, <a href="../../../author/lewis_i_joanna"><b>Lewis</b> Joanna</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../gang_gado_lewi.2023.3PHUPfCMitCS/">3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>

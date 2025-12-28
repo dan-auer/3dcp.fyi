@@ -14,8 +14,6 @@ tags:
  - printability
  - steel
  - variation
- - in
- - out
 
 ---
 
@@ -89,10 +87,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schmeier_tobias"><b>Schmeier</b> Tobias</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mech_mich_lieb_schm.2020.EBAMwCRC/">Extrusion-Based Additive Manufacturing with Carbon Reinforced Concrete:<br/>Concept and Feasibility Study</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
     </ol>

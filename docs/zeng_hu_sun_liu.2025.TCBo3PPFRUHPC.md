@@ -14,8 +14,6 @@ tags:
  - performance
  - print
  - reinforcement
- - ultra
- - ultra
 
 ---
 

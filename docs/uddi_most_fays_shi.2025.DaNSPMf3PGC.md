@@ -14,7 +14,6 @@ tags:
  - prediction
  - printability
  - strength
- - a
 
 ---
 

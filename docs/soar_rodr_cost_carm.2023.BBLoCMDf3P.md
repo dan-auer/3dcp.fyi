@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/julio_eduardo"><b>Júlio</b> Eduardo</a> <a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 638-647
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)
@@ -64,7 +65,6 @@ tags:
     <ol>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>

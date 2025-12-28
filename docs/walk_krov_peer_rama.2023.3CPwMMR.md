@@ -9,10 +9,6 @@ tags:
  - micro
  - print
  - robot
- - macro
- - micro
- - macro
- - micro
 
 ---
 
@@ -31,6 +27,7 @@ tags:
 ,     <a href="../../../author/srivastava_manu"><b>Srivastava</b> Manu</a> <a href="https://orcid.org/0009-0005-4771-7847" title="ORCID: 0009-0005-4771-7847" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Future Technologies Conference, pp. 493-498
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

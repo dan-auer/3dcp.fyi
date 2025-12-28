@@ -16,8 +16,6 @@ tags:
  - print
  - quantity
  - tomography
- - micro
- - micro
 
 ---
 
@@ -77,7 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>

@@ -6,7 +6,6 @@ title: Klaas Rycke, Meriem Bourriche, Tim Daffner
 description:
 tags:
  - construction
- - in
 
 ---
 
@@ -21,6 +20,7 @@ tags:
 ,     <a href="../../../author/daffner_tim"><b>Daffner</b> Tim</a> <a href="https://orcid.org/0009-0005-3600-5318" title="ORCID: 0009-0005-3600-5318" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

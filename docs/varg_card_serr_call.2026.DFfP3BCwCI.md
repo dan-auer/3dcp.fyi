@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 229-238
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

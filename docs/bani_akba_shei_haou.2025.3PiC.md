@@ -11,7 +11,6 @@ tags:
  - print
  - sustainability
  - technology
- - in
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/leusnik_sander"><b>Leusnik</b> Sander</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chri_leus_koss.2023.MA3PoBBCCiC/">Multi-Axial 3D Printing of Biopolymer-Based Concrete Composites in Construction</a></li>
       <li><a href="../../../author/freire_tiago"><b>Freire</b> Tiago</a>, <a href="../../../author/brun_francis"><b>Brun</b> Francis</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../frei_brun_mate_gasp.2021.3PTitCI/">3D Printing Technology in the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a>, <a href="../../../author/ma_hongyan"><b>Ma</b> Hongyan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gu_zhen_ma_long.2024.EoAKoSPoPaILBo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>

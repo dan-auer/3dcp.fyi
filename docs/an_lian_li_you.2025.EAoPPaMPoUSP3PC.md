@@ -14,8 +14,6 @@ tags:
  - property
  - self
  - underwater
- - on
- - self
 
 ---
 
@@ -96,9 +94,7 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/woo_seong-jin"><b>Woo</b> Seong-Jin</a>, <a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../woo_yang_lee_kwon.2021.CoPo3PMiAvU/">Comparison of Properties of 3D Printed Mortar in Air vs. Underwater</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -12,7 +12,6 @@ tags:
  - composite
  - fiber
  - strength
- - on
 
 ---
 

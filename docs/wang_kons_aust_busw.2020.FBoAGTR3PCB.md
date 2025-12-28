@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/cecinia_domenico"><b>Cecinia</b> Domenico</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 728-737
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

@@ -14,8 +14,6 @@ tags:
  - robot
  - thin
  - waste
- - ultra
- - ultra
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 99-106
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)

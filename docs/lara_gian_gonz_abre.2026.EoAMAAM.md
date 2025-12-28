@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/abreu_ana"><b>Abreu</b> Ana</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 191-198
 
 :aca-blank:{ .lg .middle}
     [`#absorbent`](keyword/absorbent)

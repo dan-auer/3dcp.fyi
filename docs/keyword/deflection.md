@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#deflection
+# #deflection
 
 <ol reversed>
   <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lori_mehr.2024.MPaCDMi3PPGwCS/">Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures</a></li>

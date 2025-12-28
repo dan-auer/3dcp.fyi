@@ -12,7 +12,6 @@ tags:
  - print
  - shrinkage
  - surface
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 263-269
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

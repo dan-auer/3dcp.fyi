@@ -17,7 +17,6 @@ tags:
  - property
  - reinforcement
  - rheology
- - a
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/masoud_laith"><b>Masoud</b> Laith</a>, <a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../maso_hamm_mort_masa.2024.RMaMPoPFRGCfAM/">Rheological, Mechanical, and Microscopic Properties of Polypropylene-Fiber-Reinforced Geopolymer Concrete for Additive Manufacturing</a></li>
       <li><a href="../../../author/murcia_heras"><b>Murcia</b> Heras</a>, <a href="../../../author/abdellatef_mohammed"><b>Abdellatef</b> Mohammed</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../murc_abde_gene_taha.2021.RCoTDPPC/">Rheological Characterization of Three-Dimensional-Printed Polymer Concrete</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>

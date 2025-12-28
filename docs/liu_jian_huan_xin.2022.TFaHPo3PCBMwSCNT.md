@@ -14,9 +14,6 @@ tags:
  - print
  - property
  - self
- - nano
- - self
- - nano
 
 ---
 
@@ -82,7 +79,6 @@ tags:
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
-      <li>None</li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/huang_mojia"><b>Huang</b> Mojia</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_jian_huan_xin.2022.MEoAPDfCB3M/">Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials:<br/>Printability and Mechanical Performance Tests</a></li>

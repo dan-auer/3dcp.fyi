@@ -12,8 +12,6 @@ tags:
  - scale
  - simulation
  - site
- - down
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/itani_anas"><b>Itani</b> Anas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 468-476
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Tagungsband des 3. Kongresses Montage Handhabung Industrieroboter, pp. 83-91
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

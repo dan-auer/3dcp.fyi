@@ -10,7 +10,6 @@ tags:
  - production
  - review
  - system
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th Creative Construction Conference, pp. 300-308
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/castro_raul"><b>Castro</b> Raul</a> <a href="https://orcid.org/0000-0001-8010-5010" title="ORCID: 0000-0001-8010-5010" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXXIth Conference on Electrical and Electronic Engineering, pp. 9
 
 :aca-blank:{ .lg .middle}
     [`#algorithm`](keyword/algorithm)

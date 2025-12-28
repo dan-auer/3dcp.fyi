@@ -16,8 +16,6 @@ tags:
  - stiffness
  - structure
  - test
- - in
- - up
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 113-123
 
 :aca-blank:{ .lg .middle}
     [`#accelerator`](keyword/accelerator)

@@ -11,7 +11,6 @@ tags:
  - print
  - reinforcement
  - steel
- - in
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ding_qin_xiao_chen.2022.ESotBBBSBa3PC/">Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

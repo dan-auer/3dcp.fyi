@@ -15,7 +15,6 @@ tags:
  - investigation
  - printability
  - property
- - on
 
 ---
 
@@ -94,7 +93,6 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

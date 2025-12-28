@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> <a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 404-410
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)
@@ -68,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../gebh_espo_menn_mata.2022.ILSotIo3CPSUotBBoVR/">Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements</a></li>
       <li><a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>, <a href="../../../author/murata_satoshi"><b>Murata</b> Satoshi</a>, <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>, <a href="../../../author/obi_hirotoshi"><b>Obi</b> Hirotoshi</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../kino_mura_yama_obi.2020.Ao3PSDbTOAtaPSPSPB/">Application of 3D Printed Segments Designed by Topology-Optimization-Analysis to a Practical-Scale Pre-Stressed Pedestrian Bridge</a></li>
       <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../past_menn_aspr.2022.BBBRKGAtAPCitTOoCS/">Bézier-Based Biased Random-Key Genetic Algorithm to Address Printability-Constraints in the Topology-Optimization of Concrete Structures</a></li>

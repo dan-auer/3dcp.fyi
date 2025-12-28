@@ -12,7 +12,6 @@ tags:
  - print
  - property
  - rheology
- - on
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../mark_mech.2023.QoPSaPSCot3PCU2DIC/">Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>

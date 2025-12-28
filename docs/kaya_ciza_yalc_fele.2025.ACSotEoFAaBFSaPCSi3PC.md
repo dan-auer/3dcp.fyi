@@ -15,9 +15,6 @@ tags:
  - printability
  - slag
  - substitution
- - a
- - in
- - on
 
 ---
 
@@ -78,7 +75,6 @@ tags:
     <ol>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cham_yalc.2024.NAoTBEi3PFCW/">Numerical Assessment of Thermal Bridging Effects in 3D Printed Foam-Concrete Walls</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
@@ -106,7 +102,6 @@ tags:
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>

@@ -18,7 +18,6 @@ tags:
  - shrinkage
  - technique
  - util
- - in
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../han_yan_liu_huo.2022.ESoLS3PCWUAC/">Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>

@@ -18,6 +18,7 @@ tags:
 ,     <a href="../../../author/melendez_frank"><b>Melendez</b> Frank</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIII Conference of the Ibero-American Society of Digital Graphics, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

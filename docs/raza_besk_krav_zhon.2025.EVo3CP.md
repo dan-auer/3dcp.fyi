@@ -12,7 +12,6 @@ tags:
  - method
  - print
  - tradition
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 797-804
 
 :aca-blank:{ .lg .middle}
     [`#comparision`](keyword/comparision)

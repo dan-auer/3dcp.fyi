@@ -13,8 +13,6 @@ tags:
  - print
  - review
  - state
- - a
- - in
 
 ---
 
@@ -79,7 +77,6 @@ tags:
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b> Sharanabasava</a>, <a href="../../../author/patil_b_veerabhadragouda"><b>Patil</b> Veerabhadragouda</a>, <a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../shil_gana_pati_bhoj.2023.ARo3PoGCfSaFA/">A Review of 3D Printing of Geopolymer Composites for Structural and Functional Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a>, <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../silv_ribe_nava.2024.AiLCECf3P/">Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>A State-of-the-Art Review</a></li>
       <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wang_chen_zhan_zhan.2024.HPaMo3PECCBoLCCC/">Hardening Properties and Microstructure of 3D Printed Engineered Cementitious Composites Based on Limestone-Calcined-Clay-Cement</a></li>

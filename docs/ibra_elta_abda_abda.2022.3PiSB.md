@@ -12,7 +12,6 @@ tags:
  - sustainability
  - system
  - unit
- - in
 
 ---
 
@@ -66,15 +65,12 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b> Paul</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../mark_schr_blan_mech.2021.TDPWSCaSMf3CP/">Three-Dimensional-Printed Wood-Starch Composite as Support Material for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
-      <li>None</li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>

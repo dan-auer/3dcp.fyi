@@ -12,9 +12,6 @@ tags:
  - printability
  - recycling
  - system
- - a
- - in
- - on
 
 ---
 
@@ -113,10 +110,8 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

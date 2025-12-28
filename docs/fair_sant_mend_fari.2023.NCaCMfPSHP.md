@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/flores_q_alfredo"><b>Flores</b> Alfredo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 840-850
 
 :aca-blank:{ .lg .middle}
     [`#concept`](keyword/concept)

@@ -69,9 +69,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/herrmann_michael"><b>Herrmann</b> Michael</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../herr_sobe.2015.FGC/">Functionally Graded Concrete:<br/>Numerical Design Methods and Experimental Studies on Mass Minimized Components</a></li>
-      <li>None</li>
       <li><a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../schm_sobe.2018.G/">Gradientenbeton</a></li>
       <li><a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sobe_schm.2023.GC2G/">Graded Concrete (2. Generation):<br/>The Combination of Hollow-Core Construction with Trajectory-Based Reinforcement</a></li>
     </ol>

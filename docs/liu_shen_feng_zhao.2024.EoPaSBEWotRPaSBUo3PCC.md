@@ -15,8 +15,6 @@ tags:
  - rheology
  - structure
  - water
- - on
- - up
 
 ---
 
@@ -78,7 +76,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_haisheng"><b>Li</b> Haisheng</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../chen_li_yang_wang.2022.RaSSCo3PCSCCCPMS/">Rheology and Shape-Stability-Control of 3D Printed Calcium-Sulphoaluminate-Cement Composites Containing Paper-Milling-Sludge</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>

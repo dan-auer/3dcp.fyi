@@ -16,8 +16,6 @@ tags:
  - micro
  - ray
  - tomography
- - micro
- - micro
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 176-189
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -77,7 +76,6 @@ tags:
     <ol>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
     </ol>
 ???+ quote "Citations"

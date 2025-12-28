@@ -13,8 +13,6 @@ tags:
  - shape
  - strategy
  - structure
- - a
- - on
 
 ---
 

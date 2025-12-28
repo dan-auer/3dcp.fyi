@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#vision
+# #vision
 
 <ol reversed>
   <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>

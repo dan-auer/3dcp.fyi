@@ -9,8 +9,6 @@ tags:
  - delievery
  - house
  - print
- - a
- - in
 
 ---
 

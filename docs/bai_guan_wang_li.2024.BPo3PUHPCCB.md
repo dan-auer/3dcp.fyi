@@ -12,8 +12,6 @@ tags:
  - height
  - performance
  - print
- - ultra
- - ultra
 
 ---
 
@@ -101,7 +99,6 @@ tags:
       <li><a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wang_chen_xiao_ding.2023.ESoISBo3PRM/">Experimental Study on Interfacial Shear Behavior of 3D Printed Recycled Mortar</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>

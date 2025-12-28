@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#closed
+# #closed
 
 <ol reversed>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>

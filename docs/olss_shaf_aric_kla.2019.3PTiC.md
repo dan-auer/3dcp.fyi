@@ -10,8 +10,6 @@ tags:
  - result
  - survey
  - technology
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/okland_andreas"><b>Økland</b> Andreas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th Nordic Conference on Construction Economics and Organization, pp. 349-356
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

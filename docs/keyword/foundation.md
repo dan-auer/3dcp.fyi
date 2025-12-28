@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#foundation
+# #foundation
 
 <ol reversed>
   <li><a href="../../../author/jones_es_kathryn"><b>Jones</b> Kathryn</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../jone_li.2024.LCAoAMFfUWTT/">Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers</a></li>

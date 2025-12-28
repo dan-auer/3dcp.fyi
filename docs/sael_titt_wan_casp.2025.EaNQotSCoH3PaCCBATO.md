@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Life-Cycle Performance of Structures and Infrastructure Systems in Diverse Environments, pp. 1043-1050
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

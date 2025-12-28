@@ -21,7 +21,6 @@ tags:
  - slenderness
  - surface
  - technology
- - a
 
 ---
 
@@ -35,6 +34,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1128-1137
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -169,7 +169,7 @@ tags:
       <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ivan_mull_neef_mech.2022.SfIRI3CPatTD/">Strategies for Integrating Reinforcement Into 3D Concrete Printing at the TU Dresden</a></li>
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lach_dorr_klof_raat.2021.AS3P/">Automated Shotcrete 3D Printing:<br/>Printing Interruption for Extended Component Complexity</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../neef_mech.2022.SIoCMBCRIAMwC/">Simultaneous Integration of Continuous Mineral-Bonded Carbon Reinforcement Into Additive Manufacturing with Concrete</a></li>
-      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALbPAfS3PCC/">A Lean-based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
+      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALBPAfS3PCC/">A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../slep_vilg_borr.2021.FIM/">Fabrication Information Modeling:<br/>Closing the Gap between Building Information Modeling and Digital Fabrication</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>

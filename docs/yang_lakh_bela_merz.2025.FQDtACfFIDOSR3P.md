@@ -13,7 +13,6 @@ tags:
  - quality
  - robot
  - site
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

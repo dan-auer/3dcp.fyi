@@ -14,7 +14,6 @@ tags:
  - physics
  - print
  - test
- - on
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>

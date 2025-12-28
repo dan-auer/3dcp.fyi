@@ -15,8 +15,6 @@ tags:
  - strategy
  - structure
  - thin
- - ultra
- - ultra
 
 ---
 
@@ -89,7 +87,6 @@ tags:
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../mata_bisc_kauf.2019.EtPoDFfSaECS/">Exploiting the Potential of Digital Fabrication for Sustainable and Economic Concrete Structures</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>

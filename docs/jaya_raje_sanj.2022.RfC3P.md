@@ -11,7 +11,6 @@ tags:
  - print
  - review
  - rheology
- - a
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../jaya_sanj_raje.2021.CoRMTUi3CPA/">Comparison of Rheology Measurement Techniques Used in 3D Concrete Printing Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
@@ -120,8 +118,7 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../wang_scot_llor_flat.2019.RTDiCPoC/">Residence-Time-Distributions in Continuous Processing of Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
-      <li>None</li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/yang_pu"><b>Yang</b> Pu</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yang_nair_neit.2019.DESoRRoCBaAt3P/">Discrete Element Simulations of Rheological Response of Cementitious Binders as Applied to 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

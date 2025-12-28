@@ -13,7 +13,6 @@ tags:
  - line
  - slug
  - test
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 166-173
 
 :aca-blank:{ .lg .middle}
     [`#compression`](keyword/compression)
@@ -73,7 +73,7 @@ tags:
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -15,10 +15,6 @@ tags:
  - process
  - stage
  - system
- - a
- - in
- - re
- - two
 
 ---
 
@@ -117,7 +113,7 @@ tags:
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zhan_ren_dai_tao.2024.APARCAf3PCBM/">A Potential Active Rheology-Control Approach for 3D Printable Cement-Based Materials:<br/>Coupling of Temperature and Viscosity-Modifiers</a></li>
       <li><a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../sun_moha_tao_zhan.2024.ACDoTSAAM/">A Conceptual Design of Two-Stream Alkali-Activated Materials</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSODA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-On-Demand Applications</a></li>
+      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSoDA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tao_zhan_schu_titt.2024.IBo3PCwCRCfAR/">Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rahmani_hossein"><b>Rahmani</b> Hossein</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../chen_rahm_schl_copu.2024.AAtDSoD3PLCCBCMUCN/">An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate</a></li>

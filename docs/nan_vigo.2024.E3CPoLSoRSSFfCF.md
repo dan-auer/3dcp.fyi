@@ -16,7 +16,6 @@ tags:
  - sand
  - shape
  - structure
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/vigorito_alessio"><b>Vigorito</b> Alessio</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Creativity in the Age of Digital Reproduction, pp. 128-135
 
 :aca-blank:{ .lg .middle}
     [`#circular`](keyword/circular)

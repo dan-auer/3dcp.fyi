@@ -16,9 +16,6 @@ tags:
  - micro
  - mixture
  - print
- - micro
- - on
- - micro
 
 ---
 
@@ -86,7 +83,6 @@ tags:
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../moel_krug_comb.2022.MEACi3PCUFSPSRABCCaCM/">Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../rahu_moha_schu_titt.2022.3PCwNaRCA/">3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>Rheological, Mechanical and Shrinkage Behavior</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
@@ -94,7 +90,6 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/cu_th_yen"><b>Cu</b> Yen</a>, <a href="../../../author/le_vh_chau"><b>Le</b> Chau</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../tran_cu_le.2021.RaSoCUPFf3CP/">Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing</a></li>
       <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vlie_boeh_blaa_li.2023.BAoMwFRAf3P/">Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

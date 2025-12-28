@@ -58,8 +58,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../xu_savi.2019.DoSHCCSRw3PPR/">Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement:<br/>Mechanical Properties</a></li>
     </ol>

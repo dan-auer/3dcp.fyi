@@ -15,7 +15,6 @@ tags:
  - printability
  - recycling
  - util
- - in
 
 ---
 
@@ -90,7 +89,7 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

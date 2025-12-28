@@ -18,7 +18,6 @@ tags:
  - strength
  - technology
  - time
- - on
 
 ---
 

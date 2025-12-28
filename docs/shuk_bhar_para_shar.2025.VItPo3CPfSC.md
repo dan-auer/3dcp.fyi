@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/verma_shivam"><b>Verma</b> Shivam</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 225-239
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -91,7 +92,6 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>, <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chun_liar_loot.2021.TEoNSotFaHPo3PM/">The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars</a></li>

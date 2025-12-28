@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/sawodny_oliver"><b>Sawodny</b> Oliver</a> <a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society, pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -67,7 +68,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_lim_moha_paul.2017.AoRCPUFCS/">Automation of Robotic Concrete Printing Using Feedback-Control-System</a></li>
       <li><a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../schm_sobe.2018.G/">Gradientenbeton</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

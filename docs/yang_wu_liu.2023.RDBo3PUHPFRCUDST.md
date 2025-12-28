@@ -17,9 +17,6 @@ tags:
  - reinforcement
  - split
  - tension
- - ultra
- - under
- - ultra
 
 ---
 

@@ -16,7 +16,6 @@ tags:
  - review
  - structure
  - sustainability
- - a
 
 ---
 
@@ -100,7 +99,6 @@ tags:
       <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dai_lyu_zong_zhu.2024.EoWPFotPaMPo3PCM/">Effect of Waste-Plastic-Fibers on the Printability and Mechanical Properties of 3D Printed Cement Mortar</a></li>
       <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../dai_tao_titt_schu.2023.RaMPo3PAASMwAoNC/">Rheological and Mechanical Properties of 3D Printable Alkali-Activated Slag Mixtures with Addition of Nano Clay</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/song_yu"><b>Song</b> Yu</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../das_song_mant_wang.2020.IoPEotAVSo3PC/">Influence of Pumping-Extrusion on the Air-Void System of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a>, <a href="../../../author/hee_sheng_yu"><b>Hee</b> Yu</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP/">Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
       <li><a href="../../../author/huseien_fahim_ghasan"><b>Huseien</b> Ghasan</a>, <a href="../../../author/tan_qin_shea"><b>Tan</b> Shea</a>, <a href="../../../author/saleh_taha_ali"><b>Saleh</b> Ali</a>, <a href="../../../author/lim_hasanah-abdul-shukor_nor"><b>Lim</b> Nor</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huse_tan_sale_lim.2024.TPaMPoTDPCEDMP/">Test-Procedures and Mechanical Properties of Three-Dimensional Printable Concrete Enclosing Different Mix-Proportions:<br/>A Review and Bibliometric Analysis</a></li>

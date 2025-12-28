@@ -14,7 +14,6 @@ tags:
  - early
  - mechanics
  - property
- - in
 
 ---
 

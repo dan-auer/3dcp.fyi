@@ -12,7 +12,6 @@ tags:
  - print
  - scale
  - smart
- - small
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/kumara_gcw_w"><b>Kumara</b> W.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 International Research Conference on Smart Computing and Systems Engineering, pp. 1-7
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)
@@ -70,10 +70,8 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../abba_kora_moll_span.2023.NMoPCDi3CP/">Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../alba_swas_ghaf.2019.TDaDoaESf3PCM/">The Design and Development of an Extrusion-System for 3D Printing Cementitious Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/heifetz_alexander"><b>Heifetz</b> Alexander</a>, <a href="../../../author/shribak_dmitry"><b>Shribak</b> Dmitry</a>, <a href="../../../author/bakhtiari_sasan"><b>Bakhtiari</b> Sasan</a>, <a href="../../../author/aranson_s_igor"><b>Aranson</b> Igor</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../heif_shri_bakh_aran.2021.Qo3PMwECM/">Qualification of 3D Printed Mortar with Electrical Conductivity Measurements</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
@@ -83,7 +81,6 @@ tags:
       <li><a href="../../../author/uribe-pinzon_sebastian"><b>Uribe-Pinzon</b> Sebastian</a>, <a href="../../../author/mosquera_mariana"><b>Mosquera</b> Mariana</a>, <a href="../../../author/cardenas-pulido_jhon"><b>Cardenas-Pulido</b> Jhon</a>, <a href="../../../author/higuera_camilo"><b>Higuera</b> Camilo</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../urib_mosq_card_higu.2021.AaCTotUo3PCfBF/">Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication</a></li>
       <li><a href="../../../author/villacres_juan"><b>Villacrés</b> Juan</a>, <a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/menendez_oswaldo"><b>Menéndez</b> Oswaldo</a>, <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../vill_guam_mene_chee.2021.3PDEUAVSfSC/">3D Printing Deformation Estimation Using Artificial Vision-Strategies for Smart-Construction</a></li>
       <li><a href="../../../author/xu_zhen"><b>Xu</b> Zhen</a>, <a href="../../../author/song_tao"><b>Song</b> Tao</a>, <a href="../../../author/guo_shuai"><b>Guo</b> Shuai</a>, <a href="../../../author/peng_jiangtao"><b>Peng</b> Jiangtao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xu_song_guo_peng.2022.RTAf3PiC/">Robotics Technologies Aided for 3D Printing in Construction:<br/>A Review</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

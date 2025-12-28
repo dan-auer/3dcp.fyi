@@ -16,7 +16,6 @@ tags:
  - silica
  - strength
  - temperature
- - a
 
 ---
 
@@ -76,9 +75,7 @@ tags:
     <ol>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bodd_pand_gand.2022.RaPoPCBM/">Rheology and Printability of Portland-Cement-Based Materials:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../broo_he_farz_seyf.2022.IPETESi3PCC/">Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a></li>
       <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yang_haibin"><b>Yang</b> Haibin</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_yu_cao_yang.2022.EoPaTPo3PCMwPCM/">Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dey_pand.2023.AESoTPo3PCS/">An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs</a></li>

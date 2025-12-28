@@ -15,7 +15,6 @@ tags:
  - manufacturing
  - structure
  - tool
- - a
 
 ---
 

@@ -10,7 +10,6 @@ tags:
  - concrete
  - manipulator
  - print
- - on
 
 ---
 
@@ -67,7 +66,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>

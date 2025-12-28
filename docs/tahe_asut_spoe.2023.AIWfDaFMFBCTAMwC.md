@@ -16,7 +16,6 @@ tags:
  - manufacturing
  - multi
  - workflow
- - multi
 
 ---
 
@@ -73,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/abdallah_k_yomna"><b>Abdallah</b> Yomna</a>, <a href="../../../author/estevez_t_alberto"><b>Estévez</b> Alberto</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_este.2021.3PBCB/">3D Printed Biodigital Clay Bricks</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>

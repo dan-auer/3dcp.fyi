@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#tall
+# #tall
 
 <ol reversed>
   <li><a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../soto_gebh_anto_dill.2024.STCfa3mT3PCT/">Structural Testing Campaign for a 30 m Tall 3D Printed Concrete Tower</a></li>

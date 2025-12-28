@@ -12,8 +12,6 @@ tags:
  - print
  - strength
  - workability
- - nano
- - nano
 
 ---
 
@@ -81,8 +79,6 @@ tags:
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>

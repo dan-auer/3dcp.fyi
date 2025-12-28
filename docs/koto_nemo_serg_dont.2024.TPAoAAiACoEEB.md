@@ -14,7 +14,6 @@ tags:
  - energy
  - performance
  - temperature
- - in
 
 ---
 

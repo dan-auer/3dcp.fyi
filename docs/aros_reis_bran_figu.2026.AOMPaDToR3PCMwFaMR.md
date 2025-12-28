@@ -17,7 +17,6 @@ tags:
  - reinforcement
  - robot
  - twin
- - twin
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 565-573
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)
@@ -78,7 +78,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../alhu_duar_brow.2024.DaDDFSPMf3CP/">Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing</a></li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/pontikes_yiannis"><b>Pontikes</b> Yiannis</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beer_luca_pont.2020.AFRSBMf3P/">An Fe-Rich Slag-Based Mortar for 3D Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>

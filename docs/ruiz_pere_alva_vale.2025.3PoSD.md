@@ -10,7 +10,6 @@ tags:
  - fabrication
  - failure
  - print
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/lazo_martuffi_daniela"><b>Lazo</b> Daniela</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 1099-1110
 
 :aca-blank:{ .lg .middle}
     [`#constraint`](keyword/constraint)

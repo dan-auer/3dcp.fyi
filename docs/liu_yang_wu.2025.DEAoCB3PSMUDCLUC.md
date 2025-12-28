@@ -17,7 +17,6 @@ tags:
  - material
  - print
  - similarity
- - under
 
 ---
 

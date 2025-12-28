@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/iskhakov_tagir"><b>Iskhakov</b> Tagir</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 9-15
 
 :aca-blank:{ .lg .middle}
     [`#computer`](keyword/computer)

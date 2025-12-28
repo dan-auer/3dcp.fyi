@@ -12,7 +12,6 @@ tags:
  - strength
  - structure
  - tension
- - on
 
 ---
 

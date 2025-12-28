@@ -15,8 +15,6 @@ tags:
  - height
  - performance
  - print
- - ultra
- - ultra
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> <a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

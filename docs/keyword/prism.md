@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#prism
+# #prism
 
 <ol reversed>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../khan_das.2025.TPaaMfACPo3PSM/">Testing Prisms as a Method for Assessing Compressive Properties of 3D-Printed Structural Members:<br/>Experimental and Numerical Studies</a></li>

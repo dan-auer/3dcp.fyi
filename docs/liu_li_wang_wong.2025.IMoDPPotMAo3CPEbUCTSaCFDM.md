@@ -20,7 +20,6 @@ tags:
  - print
  - scan
  - tomography
- - on
 
 ---
 

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#adoption
+# #adoption
 
 <ol reversed>
   <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../baba_mcco_afsa.2025.CaOo3AfUWT/">Challenges and Opportunities of 3DCP Adoption for US Workforce Training</a></li>

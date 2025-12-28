@@ -12,7 +12,6 @@ tags:
  - printability
  - structure
  - theory
- - a
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../jiao_shi_schu.2022.MRCi3CP/">Magneto-Rheology-Control in 3D Concrete Printing:<br/>A Rheological Attempt</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>

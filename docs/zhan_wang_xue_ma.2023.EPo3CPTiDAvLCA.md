@@ -14,7 +14,6 @@ tags:
  - print
  - profile
  - technology
- - in
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
-      <li>None</li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>

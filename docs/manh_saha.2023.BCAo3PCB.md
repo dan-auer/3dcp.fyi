@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> <a href="https://orcid.org/0000-0001-7684-3395" title="ORCID: 0000-0001-7684-3395" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International Conference on Materials, Mechanics & Structures, pp. 381-392
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -80,7 +81,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

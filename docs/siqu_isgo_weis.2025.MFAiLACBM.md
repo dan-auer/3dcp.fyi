@@ -13,7 +13,6 @@ tags:
  - layer
  - material
  - model
- - in
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA/">Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis</a></li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>

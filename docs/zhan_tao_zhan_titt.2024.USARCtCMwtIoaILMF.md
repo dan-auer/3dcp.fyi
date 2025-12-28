@@ -14,8 +14,6 @@ tags:
  - mortar
  - rheology
  - scale
- - in
- - up
 
 ---
 
@@ -73,7 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schu_lesa.2018.ACoPoC/">Active Control of Properties of Concrete:<br/>A (P)Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>

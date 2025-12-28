@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#profile
+# #profile
 
 <ol reversed>
   <li><a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../imra_rash_khan_ilca.2023.BAoSPSi3CP/">Buildability-Analysis on Squared Profile Structure in 3D Concrete Printing</a></li>

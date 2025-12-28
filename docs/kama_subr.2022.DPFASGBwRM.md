@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 93-98
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)

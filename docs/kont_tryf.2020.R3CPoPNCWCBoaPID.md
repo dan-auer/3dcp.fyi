@@ -16,9 +16,6 @@ tags:
  - print
  - robot
  - wall
- - a
- - non
- - on
 
 ---
 
@@ -98,7 +95,6 @@ tags:
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
-      <li>None</li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>

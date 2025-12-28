@@ -54,12 +54,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/hoogeveen_j_maartje"><b>Hoogeveen</b> Maartje</a>, <a href="../../../author/bruurs_j-a-m_marijn"><b>Bruurs</b> Marijn</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../putt_hoog_bruu_laag.2022.3S/">3DCP Structures:<br/>The Roadmap to Standardization</a></li>
       <li><a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../taub_mech.2022.MDfa3PCwCAaCoS/">Mix-Design for a 3D Printable Concrete with Coarse Aggregates and Consideration of Standardisation</a></li>

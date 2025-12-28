@@ -15,7 +15,6 @@ tags:
  - review
  - scale
  - workability
- - a
 
 ---
 
@@ -70,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/gibbons_john_gregory"><b>Gibbons</b> Gregory</a>, <a href="../../../author/williams_reuben"><b>Williams</b> Reuben</a>, <a href="../../../author/purnell_phil"><b>Purnell</b> Phil</a>, <a href="../../../author/farahi_elham"><b>Farahi</b> Elham</a> <a href="../../../date/2013/07">(2013-07)</a><br><a href="../../../gibb_will_purn_fara.2010.3PoCC/">3D Printing of Cement Composites</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
@@ -83,7 +81,6 @@ tags:
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

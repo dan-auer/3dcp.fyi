@@ -24,8 +24,6 @@ tags:
  - technology
  - twin
  - vision
- - in
- - twin
 
 ---
 

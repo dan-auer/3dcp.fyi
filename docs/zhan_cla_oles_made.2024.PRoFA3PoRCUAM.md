@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="https://orcid.org/0000-0002-6976-4530" title="ORCID: 0000-0002-6976-4530" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

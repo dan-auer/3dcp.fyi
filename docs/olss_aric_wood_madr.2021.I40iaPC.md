@@ -9,8 +9,6 @@ tags:
  - industry
  - print
  - projection
- - a
- - in
 
 ---
 

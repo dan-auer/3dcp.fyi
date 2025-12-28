@@ -15,7 +15,6 @@ tags:
  - property
  - pva
  - volume
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction, pp. 2013-2024
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -75,7 +75,6 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

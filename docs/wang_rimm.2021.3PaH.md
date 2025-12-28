@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/rimmer_matthew"><b>Rimmer</b> Matthew</a> <a href="https://orcid.org/0000-0002-2869-9971" title="ORCID: 0000-0002-2869-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Automating Cities, pp. 113-140
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -64,9 +65,7 @@ tags:
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li>None</li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>

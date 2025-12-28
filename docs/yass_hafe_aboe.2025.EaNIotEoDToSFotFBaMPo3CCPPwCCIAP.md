@@ -20,8 +20,6 @@ tags:
  - property
  - synthesis
  - type
- - a
- - on
 
 ---
 
@@ -82,7 +80,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/antoni_antoni"><b>Antoni</b> Antoni</a>, <a href="../../../author/agraputra_a"><b>Agraputra</b> A.</a>, <a href="../../../author/teopilus_d"><b>Teopilus</b> D.</a>, <a href="../../../author/sunaryo_h_a"><b>Sunaryo</b> A.</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../anto_agra_teop_suna.2021.IotMMaFAf3CP/">Investigation of the Material-Mixtures and Fiber-Addition for 3D Concrete Printing</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a>, <a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../aram_cald_puen_cast.2024.Eo3PotTSSoCS/">Effects of 3D Printing on the Tensile Splitting Strength of Concrete Structures</a></li>
       <li><a href="../../../author/arif_muhammad"><b>Arif</b> Muhammad</a>, <a href="../../../author/jan_faizullah"><b>Jan</b> Faizullah</a>, <a href="../../../author/rezzoug_aissa"><b>Rezzoug</b> Aïssa</a>, <a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../arif_jan_rezz_afri.2024.DDMfPCSo3PFRCUIMLA/">Data-Driven Models for Predicting Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Interpretable Machine Learning Algorithms</a></li>

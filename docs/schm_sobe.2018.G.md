@@ -18,6 +18,7 @@ tags:
 ,     <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Beton Kalender 2019, pp. 455-476
 
 :aca-blank:{ .lg .middle}
 
@@ -49,9 +50,7 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/worner_mark"><b>Wörner</b> Mark</a>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/schuler_benjamin"><b>Schuler</b> Benjamin</a>, <a href="../../../author/pfinder_julian"><b>Pfinder</b> Julian</a> et al. <a href="../../../date/2016/12">(2016-12)</a><br><a href="../../../worn_schm_schu_pfin.2016.TToGC/">The Technology of Graded Concrete:<br/>From the Development of Concrete Mixtures and the Conceptual Design to the Automatized Manufacturing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

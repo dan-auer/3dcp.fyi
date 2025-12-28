@@ -13,7 +13,6 @@ tags:
  - robot
  - scale
  - system
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 33rd International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)

@@ -10,7 +10,6 @@ tags:
  - review
  - sustainability
  - system
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> <a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable and Digital Building, pp. 103-113
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

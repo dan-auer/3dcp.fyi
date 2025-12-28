@@ -15,7 +15,6 @@ tags:
  - print
  - reinforcement
  - strength
- - in
 
 ---
 
@@ -75,7 +74,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a>, <a href="../../../author/fawad_muhammad"><b>Fawad</b> Muhammad</a>, <a href="../../../author/nawahz_r"><b>Nawahz</b> R.</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../alya_khan_fawa_nawa.2023.PMfCSo3PFRCUMLA/">Predictive Modeling for Compressive Strength of 3D Printed Fiber-Reinforced Concrete Using Machine Learning Algorithms</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>

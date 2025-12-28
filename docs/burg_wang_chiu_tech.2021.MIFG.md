@@ -17,7 +17,6 @@ tags:
  - section
  - strength
  - variation
- - on
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 39th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cross`](keyword/cross)
@@ -83,7 +83,6 @@ tags:
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../llor_scot_gram_kohl.2019.CoRSPwSDC/">Challenges of Real-Scale Production with Smart Dynamic Casting</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
-      <li>None</li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
     </ol>
 ???+ quote "Citations"

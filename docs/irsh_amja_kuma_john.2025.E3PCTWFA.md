@@ -16,7 +16,6 @@ tags:
  - print
  - sustainability
  - waste
- - a
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/john_john"><b>John</b> John</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering, pp. 291-301
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

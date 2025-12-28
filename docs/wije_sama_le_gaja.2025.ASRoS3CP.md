@@ -12,8 +12,6 @@ tags:
  - review
  - sustainability
  - system
- - a
- - on
 
 ---
 
@@ -68,9 +66,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
-      <li>None</li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/avrutis_daniel"><b>Avrutis</b> Daniel</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../avru_naza_sanj.2019.IAo3CPitAM/">Industrial Adoption of 3D Concrete Printing in the Australian Market</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>
@@ -89,7 +85,6 @@ tags:
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
       <li><a href="../../../author/salandin_andrea"><b>Salandin</b> Andrea</a>, <a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b> Alberto</a>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b> Vicente</a>, <a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b> Ignacio</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sala_quin_gome_guil.2022.TF3PBiS/">The First 3D Printed Building in Spain:<br/>A Study on Its Acoustic, Thermal and Environmental Performance</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
-      <li>None</li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>

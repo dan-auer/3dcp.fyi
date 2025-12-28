@@ -18,7 +18,6 @@ tags:
  - print
  - recycling
  - strength
- - in
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>

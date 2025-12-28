@@ -9,7 +9,6 @@ tags:
  - automation
  - construction
  - manufacturing
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
       <a href="../../../author/iuorio_ornella"><b>Iuorio</b> Ornella</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - From Mass Prefab to Mass Customization, pp. 17-34
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -56,7 +56,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
       <li><a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a>, <a href="../../../author/tayoun_yara"><b>Tayoun</b> Yara</a>, <a href="../../../author/carrasco_oriol"><b>Carrasco</b> Oriol</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../dubo_caba_tayo_carr.2024.3PEA/">3D Printed Earth Architecture:<br/>Design Approach for a Performative Habitat</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>

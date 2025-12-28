@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th Annual Conference of the Association of Computer Aided Design in Architecture, pp. 236-241
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)

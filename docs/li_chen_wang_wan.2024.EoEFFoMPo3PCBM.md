@@ -15,7 +15,6 @@ tags:
  - mechanics
  - print
  - property
- - on
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/ma_fenghai"><b>Ma</b> Fenghai</a> <a href="https://orcid.org/0009-0006-1665-9346" title="ORCID: 0009-0006-1665-9346" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2023 International Conference on Green Building, Civil Engineering and Smart City, pp. 439-446
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

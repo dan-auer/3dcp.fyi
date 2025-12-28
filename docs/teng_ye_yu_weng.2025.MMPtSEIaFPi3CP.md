@@ -13,8 +13,6 @@ tags:
  - multi
  - performance
  - print
- - in
- - multi
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

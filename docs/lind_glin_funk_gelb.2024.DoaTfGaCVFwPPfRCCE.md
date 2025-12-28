@@ -16,7 +16,6 @@ tags:
  - robot
  - tool
  - volume
- - a
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

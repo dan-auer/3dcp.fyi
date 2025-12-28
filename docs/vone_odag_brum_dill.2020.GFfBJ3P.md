@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 153-161
 
 :aca-blank:{ .lg .middle}
     [`#binder`](keyword/binder)
@@ -64,7 +65,6 @@ tags:
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../jipa_bern_meib_dill.2016.3PSiPFfTOCS/">3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

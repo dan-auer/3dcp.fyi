@@ -15,7 +15,6 @@ tags:
  - path
  - print
  - reinforcement
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering, pp. 1039-1051
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -71,10 +71,7 @@ tags:
     <ol>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../abba_kora_moll_span.2022.CMoMEaPPSatCf3CP/">CFD Modelling of Mortar-Extrusion and Path-Planning-Strategy at the Corner for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/ma_zongfang"><b>Ma</b> Zongfang</a>, <a href="../../../author/wan_weipeng"><b>Wan</b> Weipeng</a>, <a href="../../../author/song_lin"><b>Song</b> Lin</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ma_wan_song_liu.2022.AAoPOAf3CPBoGT/">An Approach of Path-Optimization Algorithm for 3D Concrete Printing Based on Graph-Theory</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhu_cerv_ren.2024.BoC3PCGUP/">Buildability of Complex 3D Printed Concrete Geometries Using Peridynamics</a></li>
     </ol>
 ???+ quote "Citations"

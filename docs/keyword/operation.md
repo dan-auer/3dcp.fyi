@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#operation
+# #operation
 
 <ol reversed>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>

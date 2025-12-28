@@ -14,8 +14,6 @@ tags:
  - seal
  - thin
  - three
- - ultra
- - ultra
 
 ---
 
@@ -91,7 +89,6 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
-      <li>None</li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../marc_sanj.2021.RMf3CPUPCBP/">Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations</a></li>
       <li><a href="../../../author/mazhoud_brahim"><b>Mazhoud</b> Brahim</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../mazh_perr_pica_rang.2019.U3PoCBM/">Underwater 3D Printing of Cement-Based Mortar</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>

@@ -15,7 +15,6 @@ tags:
  - steel
  - stress
  - tension
- - a
 
 ---
 

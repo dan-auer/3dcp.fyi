@@ -11,7 +11,6 @@ tags:
  - print
  - standard
  - theory
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 43rd International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

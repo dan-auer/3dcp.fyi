@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#quantification
+# #quantification
 
 <ol reversed>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO/">Experimental and Numerical Quantification of the Structural Capacity of Hybrid 3D Printed and Cast Concrete Beams After Topology Optimization</a></li>

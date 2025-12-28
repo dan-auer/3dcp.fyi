@@ -10,7 +10,6 @@ tags:
  - print
  - robot
  - scale
- - a
 
 ---
 
@@ -87,8 +86,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>

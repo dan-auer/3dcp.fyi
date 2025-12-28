@@ -13,7 +13,6 @@ tags:
  - parameter
  - print
  - property
- - on
 
 ---
 
@@ -82,7 +81,6 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>

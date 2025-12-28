@@ -14,7 +14,6 @@ tags:
  - print
  - robot
  - volume
- - a
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/hutter_marco"><b>Hutter</b> Marco</a> <a href="https://orcid.org/0000-0002-4285-4990" title="ORCID: 0000-0002-4285-4990" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Built Environment Additive Manufacturing, pp. 86-93
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

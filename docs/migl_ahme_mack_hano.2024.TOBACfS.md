@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -63,8 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
     </ol>
 ???+ quote "Citations"

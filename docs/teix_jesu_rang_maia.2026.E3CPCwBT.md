@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 199-207
 
 :aca-blank:{ .lg .middle}
     [`#biomimetics`](keyword/biomimetics)

@@ -11,8 +11,6 @@ tags:
  - construction
  - structure
  - use
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/perez-rivera_anthony"><b>Perez-Rivera</b> Anthony</a> <a href="https://orcid.org/0000-0003-0161-7136" title="ORCID: 0000-0003-0161-7136" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -65,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../bell_mema.2023.ASaTCRo3PWS/">A Structural and Thermal Comparative Review of 3D Printed Wall Shapes</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bong_nema_mech_li.2023.3PESHGCaPFfCoRCB/">3D Printed Engineered, Strain-Hardening Geopolymer Composite as Permanent Formwork for Construction of Reinforced Concrete Beam</a></li>

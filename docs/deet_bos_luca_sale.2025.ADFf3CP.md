@@ -9,7 +9,6 @@ tags:
  - database
  - framework
  - print
- - a
 
 ---
 
@@ -63,7 +62,6 @@ tags:
     <ol>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/brunschot_caj_maikel"><b>Brunschot</b> Maikel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ahme_bos_brun_sale.2020.ODAMoFGC/">On-Demand Additive Manufacturing of Functionally Graded Concrete</a></li>
       <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../alhu_duar_brow.2024.DaDDFSPMf3CP/">Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../bos_wolf.2023.AQCFfDFwC/">A Quality-Control Framework for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>

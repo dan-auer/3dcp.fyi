@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -70,7 +71,6 @@ tags:
       <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/back_daniel"><b>Back</b> Daniel</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../matt_back_wege_kran.2020.EoCTaLPCoEoLC/">Effect of Cement-Type and Limestone-Powder-Content on Extrudability of Lightweight Concrete</a></li>
       <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/carvalho_santos_luis"><b>Carvalho</b> Luis</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../matt_wege_kran_carv.2019.EoLC/">Extrusion of Lightweight Concrete:<br/>Rheological Investigations</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
 ???+ quote "Citations"

@@ -12,9 +12,6 @@ tags:
  - extrusion
  - manufacturing
  - mono
- - bi
- - in
- - mono
 
 ---
 
@@ -78,9 +75,7 @@ tags:
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>, <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../mart_math_bos_coen.2017.O3PCSUTO/">Optimizing 3D Printed Concrete Structures Using Topology Optimization</a></li>
       <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>

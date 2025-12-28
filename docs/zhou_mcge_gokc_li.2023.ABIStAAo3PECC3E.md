@@ -16,7 +16,6 @@ tags:
  - knit
  - print
  - solution
- - a
 
 ---
 
@@ -74,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>

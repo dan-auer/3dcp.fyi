@@ -12,8 +12,6 @@ tags:
  - origin
  - print
  - structure
- - in
- - on
 
 ---
 
@@ -68,7 +66,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b> Sébastien</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arch_mait_demo_char.2021.StSoaHMSaGCSbAM/">Strategy to Shape, on a Half-Meter Scale, a Geopolymer Composite Structure by Additive Manufacturing</a></li>
-      <li>None</li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
@@ -79,7 +76,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>

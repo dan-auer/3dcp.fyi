@@ -15,7 +15,6 @@ tags:
  - green
  - performance
  - print
- - on
 
 ---
 

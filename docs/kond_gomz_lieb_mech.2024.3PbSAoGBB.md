@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)
@@ -69,7 +70,6 @@ tags:
       <li><a href="../../../author/moraes_julia-bassan_maria"><b>Moraes</b> Maria</a>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../mora_naga_dura_ross.2024.AAMAi3PC/">Alkali-Activated Materials Applied in 3D Printing Construction:<br/>A Review</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM/">Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials</a></li>
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../vone_odag_brum_dill.2021.FCt3PG/">From Casting to 3D Printing Geopolymers:<br/>A Proof of Concept</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

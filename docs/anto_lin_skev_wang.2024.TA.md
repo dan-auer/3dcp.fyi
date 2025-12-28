@@ -7,7 +7,6 @@ description:
 tags:
  - concrete
  - print
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2024, pp. 252-259
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -56,8 +56,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The enthusiasm of the participants captured in the historical video footage of the first 3D-printed wall more than 80 years ago anticipated an innovative trajectory for formwork-free concrete construction (Urschel, 1941). The act of autonomously fabricating a building using a mechanical rotary device to deposit concrete layer by layer, with minimal on-site human intervention, highlights a fascination with this progressive construction method.
-Upon the reintroduction of 3D concrete printing (3DCP) with automated tools pioneered by Khoshnevis, a remarkable interest boosted research and industry developments (Khoshnevis, 2004; Wangler et al., 2019). 3DCP is a digital fabrication process based on extruding fresh concrete filament deposited layer by layer to construct a digital design, with on-site printing and prefabrication as possible implementations (Wangler et al., 2019). The former requires building an object vertically, in its final location, while the latter involves 3D printing several components that are subsequently assembled. In a broader context, this raised the question of how this novel fabrication method could change the building culture and what architectural language is best suited to 3DCP.
+    The enthusiasm of the participants captured in the historical video footage of the first 3D-printed wall more than 80 years ago anticipated an innovative trajectory for formwork-free concrete construction (Urschel, 1941). The act of autonomously fabricating a building using a mechanical rotary device to deposit concrete layer by layer, with minimal on-site human intervention, highlights a fascination with this progressive construction method. Upon the reintroduction of 3D concrete printing (3DCP) with automated tools pioneered by Khoshnevis, a remarkable interest boosted research and industry developments (Khoshnevis, 2004; Wangler et al., 2019). 3DCP is a digital fabrication process based on extruding fresh concrete filament deposited layer by layer to construct a digital design, with on-site printing and prefabrication as possible implementations (Wangler et al., 2019). The former requires building an object vertically, in its final location, while the latter involves 3D printing several components that are subsequently assembled. In a broader context, this raised the question of how this novel fabrication method could change the building culture and what architectural language is best suited to 3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

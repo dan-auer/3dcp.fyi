@@ -13,7 +13,6 @@ tags:
  - geopolymer
  - mortar
  - print
- - a
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kaze_yuan_meie_khos.2019.PBToPCCfCS3P/">Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing</a></li>
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a></li>
       <li><a href="../../../author/moraes_julia-bassan_maria"><b>Moraes</b> Maria</a>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../mora_naga_dura_ross.2024.AAMAi3PC/">Alkali-Activated Materials Applied in 3D Printing Construction:<br/>A Review</a></li>
@@ -76,7 +74,6 @@ tags:
       <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a></li>
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
-      <li>None</li>
       <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/bednarz_sebastian"><b>Bednarz</b> Sebastian</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ziej_marc_korn_bedn.2022.3PoCGH/">3D Printing of Concrete-Geopolymer Hybrids</a></li>
     </ol>
 ???+ quote "Citations"

@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/colorado_a_henry"><b>Colorado</b> Henry</a> <a href="https://orcid.org/0000-0003-4948-0482" title="ORCID: 0000-0003-4948-0482" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 149th Annual Meeting & Exhibition, pp. 217-226
 
 :aca-blank:{ .lg .middle}
     [`#carbonation`](keyword/carbonation)

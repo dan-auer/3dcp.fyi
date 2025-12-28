@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/lee_yoon-si"><b>Lee</b> Yoon-Si</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Earth and Space 2022, pp. 846-857
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -12,7 +12,6 @@ tags:
  - property
  - pump
  - strength
- - in
 
 ---
 

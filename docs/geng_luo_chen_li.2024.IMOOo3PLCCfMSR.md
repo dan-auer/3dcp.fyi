@@ -14,7 +14,6 @@ tags:
  - optimization
  - print
  - requirement
- - multi
 
 ---
 
@@ -82,7 +81,6 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P/">Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../liu_xion_chen_jia.2022.EoSCoFaHPo3PFC/">Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../moei_hoss_yahi.2020.EotRMtEtBUoCMUf3P/">Effectiveness of the Rheometric Methods to Evaluate the Build-Up of Cementitious Mortars Used for 3D Printing</a></li>

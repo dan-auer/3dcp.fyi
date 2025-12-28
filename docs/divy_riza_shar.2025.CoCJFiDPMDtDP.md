@@ -15,8 +15,6 @@ tags:
  - phase
  - print
  - time
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/shariff_m_najeeb"><b>Shariff</b> Najeeb</a> <a href="https://orcid.org/0000-0001-7452-2969" title="ORCID: 0000-0001-7452-2969" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

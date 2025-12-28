@@ -12,7 +12,6 @@ tags:
  - manufacturing
  - rapid
  - scale
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 29th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 201-208
 
 :aca-blank:{ .lg .middle}
     [`#design`](keyword/design)

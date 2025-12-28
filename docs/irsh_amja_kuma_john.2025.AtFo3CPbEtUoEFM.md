@@ -12,7 +12,6 @@ tags:
  - mortar
  - print
  - use
- - eco
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering, pp. 302-310
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

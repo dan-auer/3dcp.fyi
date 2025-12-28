@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/campello_de-morais-barreto_eduardo"><b>Campello</b> Eduardo</a> <a href="https://orcid.org/0000-0002-6770-9634" title="ORCID: 0000-0002-6770-9634" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Joint XLV Ibero-Latin-American Congress on Computational Methods in Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

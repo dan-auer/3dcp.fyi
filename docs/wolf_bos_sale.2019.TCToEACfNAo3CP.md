@@ -14,7 +14,6 @@ tags:
  - numeric
  - print
  - test
- - on
 
 ---
 
@@ -274,6 +273,6 @@ tags:
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 </div>

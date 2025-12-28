@@ -13,7 +13,6 @@ tags:
  - shear
  - strength
  - wall
- - inter
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/plizzari_a_giovanni"><b>Plizzari</b> Giovanni</a> <a href="https://orcid.org/0000-0003-2897-4969" title="ORCID: 0000-0003-2897-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 817-823
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

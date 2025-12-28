@@ -15,7 +15,6 @@ tags:
  - print
  - range
  - strain
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/awada_zeinab"><b>Awada</b> Zeinab</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Numerical Modeling-Strategies for Sustainable Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

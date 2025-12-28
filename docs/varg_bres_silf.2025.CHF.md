@@ -15,7 +15,6 @@ tags:
  - response
  - skin
  - temperature
- - on
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 1135-1146
 
 :aca-blank:{ .lg .middle}
     [`#circular`](keyword/circular)
@@ -68,7 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/sass_lawrence"><b>Sass</b> Lawrence</a>, <a href="../../../author/norford_leslie"><b>Norford</b> Leslie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../curt_alva_sass_norf.2024.AE/">Additive Energy:<br/>3D Printing Thermally Performative Building Elements with Low-Carbon Earthen Materials</a></li>
       <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/jaugstetter_fabian"><b>Jaugstetter</b> Fabian</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../diel_brie_jaug_henk.2021.AMoTELCWEwCCS/">Additive Manufacturing of Thermally Enhanced Lightweight Concrete Wall Elements with Closed Cellular Structures</a></li>

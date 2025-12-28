@@ -8,7 +8,6 @@ tags:
  - concrete
  - digital
  - print
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a> <a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -61,7 +61,6 @@ tags:
       <li><a href="../../../author/hage_ali"><b>Hage</b> Ali</a>, <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a>, <a href="../../../author/neu_thibault"><b>Neu</b> Thibault</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hage_paqu_lekl_neu.2024.NtDCiC3P/">Navigating the Digital Chain in Concrete 3D Printing</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>

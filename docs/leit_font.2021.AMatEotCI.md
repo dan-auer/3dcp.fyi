@@ -12,7 +12,6 @@ tags:
  - manufacturing
  - review
  - system
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b> Marcele</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - International Conference on Decision Aid Sciences and Application, pp. 294-298
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

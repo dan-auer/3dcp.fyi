@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 1285-1292
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -65,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dringenberg_steffen"><b>Dringenberg</b> Steffen</a>, <a href="../../../author/jitton_velasco_joaquin"><b>Jitton</b> Joaquin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ditt_sche_drin_jitt.2022.DCPwVTR/">Digital Concrete Production with Vertical Textile Reinforcement</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mech_mich_lieb_schn.2020.MICFCaNRfCC/">Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>Material and Automation Perspectives</a></li>

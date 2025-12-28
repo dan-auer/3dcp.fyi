@@ -14,7 +14,6 @@ tags:
  - process
  - selective
  - technology
- - in
 
 ---
 
@@ -72,12 +71,10 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
-      <li>None</li>
       <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#character
+# #character
 
 <ol reversed>
   <li><a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a>, <a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../scho_husk_koch_stra.2025.AFfCtRIoa3CM/">A Framework for Characterising the Reflection Intensity of a 3D-CP Mortar</a></li>

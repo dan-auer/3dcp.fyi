@@ -12,7 +12,6 @@ tags:
  - performance
  - print
  - variation
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 3-32
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -88,7 +88,6 @@ tags:
       <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mcge_ng_yu_li.2020.ENSfI3oECCES/">Extrusion Nozzle Shaping for Improved 3DP of Engineered Cementitious Composites (ECC-SHCC)</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
-      <li>None</li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../nair_pand_trip_neit.2021.RPVaECo3PCB/">Relating Print-Velocity and Extrusion-Characteristics of 3D Printable Cementitious Binders:<br/>Implications Towards Testing Methods</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../nema_bong_xia_sanj.2020.DFoJAWG/">Digital Fabrication of ‘Just-Add-Water’ Geopolymers:<br/>Effects of Curing Condition and Print-Time Interval</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
@@ -101,7 +100,6 @@ tags:
       <li><a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b> Ariane</a>, <a href="../../../author/quintanilha_carvalho_lucas"><b>Quintanilha</b> Lucas</a>, <a href="../../../author/repette_longuini_wellington"><b>Repette</b> Wellington</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../rubi_quin_repe.2023.IoSRwHAAotPaMPoCf3P/">Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sahi_mard.2023.HDRBAtILBSo3M/">How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?</a></li>
-      <li>None</li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../serg_ouel.2022.FFDtSAUf3CPA/">Fractional Factorial Design to Study Admixtures Used for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../shah_ghol_kash_ngo.2021.SBoC3PM/">Shrinkage Behavior of Cementitious 3D Printing Materials:<br/>Effect of Temperature and Relative Humidity</a></li>

@@ -18,7 +18,6 @@ tags:
  - reinforcement
  - reliability
  - strength
- - a
 
 ---
 
@@ -96,7 +95,6 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../putt_rahu_schu_titt.2021.Do3PCCwtIoPF/">Development of 3D Printable Cementitious Composites with the Incorporation of Polypropylene Fibers</a></li>
       <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/vo_vy-khanh_tran"><b>Vo</b> Tran</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../quah_vo_tay_tan.2023.RTAoSCIwPS/">Real-Time-Assessment of Smart Concrete Inspection with Piezoelectric Sensors</a></li>
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
-      <li>None</li>
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../uddi_ye_deng_li.2023.IMLfPtSo3PFRC/">Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../ye_cui_yu_yu.2021.FaAMPo3PUHDCwCR/">Fresh and Anisotropic-Mechanical Properties of 3D Printable Ultra-High-Ductile Concrete with Crumb-Rubber</a></li>

@@ -15,8 +15,6 @@ tags:
  - polymer
  - rheology
  - silica
- - nano
- - nano
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/palomar_irene"><b>Palomar</b> Irene</a> <a href="https://orcid.org/0000-0003-2743-3618" title="ORCID: 0000-0003-2743-3618" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 144-152
 
 :aca-blank:{ .lg .middle}
     [`#admixture`](keyword/admixture)
@@ -74,7 +73,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
-      <li>None</li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

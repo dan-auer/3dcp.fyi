@@ -17,10 +17,6 @@ tags:
  - static
  - structure
  - wall
- - micro
- - quasi
- - under
- - micro
 
 ---
 

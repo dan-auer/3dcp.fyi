@@ -13,9 +13,6 @@ tags:
  - performance
  - print
  - scale
- - in
- - ultra
- - ultra
 
 ---
 

@@ -10,8 +10,6 @@ tags:
  - industry
  - print
  - state
- - a
- - in
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/kumar_gireesh_pala"><b>Kumar</b> Pala</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 385-396
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

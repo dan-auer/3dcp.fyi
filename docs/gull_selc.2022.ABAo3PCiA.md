@@ -10,9 +10,6 @@ tags:
  - bibliometry
  - concrete
  - print
- - a
- - in
- - on
 
 ---
 
@@ -26,6 +23,7 @@ tags:
 ,     <a href="../../../author/selcuk_arslan_semra"><b>Selçuk</b> Semra</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainability for 3D Printing, pp. 77-104
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../szab_reit_llor_gram.2019.ASDCtTFG/">Adapting Smart Dynamic Casting to Thin-Folded Geometries</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>

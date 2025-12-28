@@ -14,8 +14,6 @@ tags:
  - performance
  - print
  - strength
- - ultra
- - ultra
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/guadagnini_maurizio"><b>Guadagnini</b> Maurizio</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

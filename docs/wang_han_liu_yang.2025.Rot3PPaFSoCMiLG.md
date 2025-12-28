@@ -13,8 +13,6 @@ tags:
  - print
  - process
  - shape
- - in
- - on
 
 ---
 
@@ -102,7 +100,6 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -14,7 +14,6 @@ tags:
  - progress
  - quality
  - vision
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 186-191
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -83,7 +83,7 @@ tags:
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sent_raph.2024.BAo3PCETCV/">Buildability-Assessment of 3D Printed Concrete Elements Through Computer-Vision</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b> Kamal</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../yang_lakh_bela_youc.2023.AEaDoFWDd3RPoCM/">Adaptive Estimation and Detection of Filament-Width-Deviation during 3D Robotic Printing of Construction Materials</a></li>
+      <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/youcef-toumi_kamal"><b>Youcef-Toumi</b> Kamal</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../yang_lakh_bela_youc.2023.AEaDoFWDD3RPoCM/">Adaptive Estimation and Detection of Filament-Width-Deviation During 3D Robotic Printing of Construction Materials</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/tan_yanke"><b>Tan</b> Yanke</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zheng_shipeng"><b>Zheng</b> Shipeng</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM/">Intelligent Real-Time Quality-Control for 3D Printed Concrete with Near-Nozzle Secondary-Mixing</a></li>

@@ -9,7 +9,6 @@ tags:
  - digital
  - process
  - review
- - a
 
 ---
 
@@ -22,6 +21,7 @@ tags:
       <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on 3D Construction Printing, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

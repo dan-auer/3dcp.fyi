@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

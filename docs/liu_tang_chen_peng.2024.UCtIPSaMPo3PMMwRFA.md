@@ -102,7 +102,6 @@ tags:
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM/">Effects of Printing Paths and Recycled Fines on Drying Shrinkage of 3D Printed Mortar</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

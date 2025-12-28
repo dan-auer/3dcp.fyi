@@ -17,7 +17,6 @@ tags:
  - recycling
  - state
  - use
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/ozbakan_nesil"><b>Ozbakan</b> Nesil</a> <a href="https://orcid.org/0000-0003-4060-6712" title="ORCID: 0000-0003-4060-6712" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th World Congress on Civil, Structural, and Environmental Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

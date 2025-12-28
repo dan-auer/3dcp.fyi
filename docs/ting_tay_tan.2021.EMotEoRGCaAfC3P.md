@@ -13,7 +13,6 @@ tags:
  - measurement
  - print
  - recycling
- - on
 
 ---
 
@@ -85,7 +84,6 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ting_tay_tan.2021.EMotEoRGCaAfC3P/">Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing</a></li>

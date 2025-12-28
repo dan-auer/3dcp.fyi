@@ -14,7 +14,6 @@ tags:
  - parameter
  - print
  - process
- - a
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jaya_sanj_raje.2020.CEf3CPUDES/">Characterizing Extrudability for 3D Concrete Printing Using Discrete Element Simulations</a></li>
-      <li>None</li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../nguy_pand_zhan_nguy.2021.DDCaMf3CP/">Digital Design Computing and Modelling for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../pand_tay_paul_tan.2018.CCaFPo3CP/">Current Challenges and Future Potential of 3D Concrete Printing</a></li>
@@ -81,7 +79,7 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

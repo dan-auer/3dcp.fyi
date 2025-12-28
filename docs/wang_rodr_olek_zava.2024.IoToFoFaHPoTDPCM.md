@@ -16,7 +16,6 @@ tags:
  - property
  - three
  - type
- - on
 
 ---
 
@@ -101,7 +100,7 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
 ???+ quote "Citations"

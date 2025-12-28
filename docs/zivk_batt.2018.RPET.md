@@ -15,8 +15,6 @@ tags:
  - process
  - structure
  - tool
- - post
- - sub
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), pp. 302-311
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -12,7 +12,6 @@ tags:
  - print
  - residual
  - sustainability
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 53-61
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -67,7 +67,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
-      <li>None</li>
       <li><a href="../../../author/samrani_phebe"><b>Samrani</b> Phebe</a>, <a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>, <a href="../../../author/fimbres-weihs_gustavo"><b>Fimbres-Weihs</b> Gustavo</a>, <a href="../../../author/sanjaya_eric"><b>Sanjaya</b> Eric</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../samr_cao_fimb_sanj.2024.EoFAaGWGaCRiC3PfSC/">Effect of Fly-Ash and Ground Waste Glass as Cement Replacement in Concrete 3D Printing for Sustainable Construction</a></li>
     </ol>
 ???+ quote "Citations"

@@ -13,7 +13,6 @@ tags:
  - model
  - porosity
  - structure
- - in
 
 ---
 
@@ -71,11 +70,7 @@ tags:
       <li><a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b> Zofia</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../fara_rybk_zaki_kala.2022.IoR3PPPoILBS/">Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength</a></li>
       <li><a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gurs.2018.FCtUi3PwC/">From Control to Uncertainty in 3D Printing with Clay</a></li>
       <li><a href="../../../author/im_claire_hyeonji"><b>Im</b> Hyeonji</a>, <a href="../../../author/othman_sulaiman"><b>Othman</b> Sulaiman</a>, <a href="../../../author/castillo_luis-garcia_jose"><b>Castillo</b> Jose</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../im_othm_cast.2018.RSP/">Responsive Spatial Print:<br/>Clay 3D Printing of Spatial Lattices Using Real-Time Model-Recalibration</a></li>
-      <li>None</li>
       <li><a href="../../../author/ming_coralie"><b>Ming</b> Coralie</a>, <a href="../../../author/mirjan_ammar"><b>Mirjan</b> Ammar</a>, <a href="../../../author/medina-ibanez_jesus"><b>Medina Ibáñez</b> Jesús</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ming_mirj_medi_gram.2022.IP/">Impact Printing</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -62,14 +62,10 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/ameri_shaghayegh"><b>Ameri</b> Shaghayegh</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bagh_ledd_amer_klof.2023.EaNAoNCDCCPoRCMT/">Experimental and Numerical Assessments of New Concrete Dry Connections Concerning Potentials of Robotic CNC Manufacturing Technique</a></li>
       <li><a href="../../../author/lanwer_jan-paul"><b>Lanwer</b> Jan-Paul</a>, <a href="../../../author/weigel_hendrik"><b>Weigel</b> Hendrik</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../lanw_weig_bagh_empe.2022.JPiA/">Jointing Principles in AMC:<br/>Design and Preparation of Dry Joints</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../mech_nere.2018.3PwC/">3D Printing with Concrete:<br/>State-of-the-Art, Trends, Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

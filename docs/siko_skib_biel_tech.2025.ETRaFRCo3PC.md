@@ -16,7 +16,6 @@ tags:
  - scale
  - temperature
  - wall
- - small
 
 ---
 
@@ -77,7 +76,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>

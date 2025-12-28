@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="https://orcid.org/0000-0001-7753-9176" title="ORCID: 0000-0001-7753-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 23rd European Conference on Fracture, pp. 336-342
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

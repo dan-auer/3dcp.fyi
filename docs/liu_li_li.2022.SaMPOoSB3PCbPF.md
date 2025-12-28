@@ -70,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>

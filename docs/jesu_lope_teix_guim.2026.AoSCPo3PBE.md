@@ -12,8 +12,6 @@ tags:
  - experiment
  - print
  - self
- - on
- - self
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/faria_l_joaquim"><b>Faria</b> Joaquim</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 365-374
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

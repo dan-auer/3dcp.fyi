@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/lagaros_d_nikos"><b>Lagaros</b> Nikos</a> <a href="https://orcid.org/0000-0001-6114-9632" title="ORCID: 0000-0001-6114-9632" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering 2024, pp. 34-45
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

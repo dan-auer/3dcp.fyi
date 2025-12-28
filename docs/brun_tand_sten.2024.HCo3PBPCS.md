@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)
@@ -63,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/kustermann_andrea"><b>Kustermann</b> Andrea</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../brun_sten_kust.2024.3PBPUDCBaRS/">3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand</a></li>
       <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/tandon_kai"><b>Tandon</b> Kai</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../brun_tand_sten.2024.HCo3PBPCS/">Hydration Characteristics of 3D Particle-Bed Printed Cementitious Specimens</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>

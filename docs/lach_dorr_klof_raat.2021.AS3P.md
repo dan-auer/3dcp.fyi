@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

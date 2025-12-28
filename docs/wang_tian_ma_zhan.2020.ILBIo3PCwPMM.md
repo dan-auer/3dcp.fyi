@@ -16,7 +16,6 @@ tags:
  - mortar
  - polymer
  - print
- - inter
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>

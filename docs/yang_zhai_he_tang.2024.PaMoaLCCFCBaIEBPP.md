@@ -16,7 +16,6 @@ tags:
  - performance
  - print
  - property
- - a
 
 ---
 
@@ -84,7 +83,6 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhu_weiping"><b>Zhu</b> Weiping</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lu_zhu_weng_liu.2020.SoMASaaCMfSSB3P/">Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>

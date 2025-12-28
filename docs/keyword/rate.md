@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#rate
+# #rate
 
 <ol reversed>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM/">Investigation of Waste Steel Fiber Usage Rate and Length Change on Some Fresh State Properties of 3D Printable Concrete Mixtures</a></li>

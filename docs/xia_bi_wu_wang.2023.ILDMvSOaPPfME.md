@@ -76,20 +76,6 @@ tags:
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../cars.2020.TOwNSRfMETAM/">Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

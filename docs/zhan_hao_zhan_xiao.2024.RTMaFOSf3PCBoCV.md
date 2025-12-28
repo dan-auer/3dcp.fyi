@@ -16,7 +16,6 @@ tags:
  - system
  - time
  - vision
- - on
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

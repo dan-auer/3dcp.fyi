@@ -12,7 +12,6 @@ tags:
  - property
  - structure
  - temperature
- - on
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lee_kim_moon_kim.2019.EotMPoa3PM/">Evaluation of the Mechanical Properties of a 3D Printed Mortar</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>

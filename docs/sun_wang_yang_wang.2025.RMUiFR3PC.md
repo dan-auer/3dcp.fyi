@@ -14,7 +14,6 @@ tags:
  - property
  - reinforcement
  - util
- - in
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/ren_chuangnan"><b>Ren</b> Chuangnan</a>, <a href="../../../author/hua_dongliang"><b>Hua</b> Dongliang</a>, <a href="../../../author/bai_yonghui"><b>Bai</b> Yonghui</a>, <a href="../../../author/wu_shuang"><b>Wu</b> Shuang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ren_hua_bai_wu.2022.Pa3PBAoSCMUISW/">Preparation and 3D Printing Building Application of Sulfoaluminate-Cementitious-Material Using Industrial Solid-Waste</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sing_wang_zhou_sun.2023.UoATiFR3PC/">Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete:<br/>A Sustainable Approach for Construction Materials</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../skib_fede_hoff_chou.2024.PoR3PC3FRAaaSTDCCi3/">Potential of Reusing 3D Printed Concrete (3DPC) Fine Recycled Aggregates as a Strategy Towards Decreasing Cement Content in 3DPC</a></li>

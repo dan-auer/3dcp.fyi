@@ -9,7 +9,6 @@ tags:
  - buildability
  - construction
  - technology
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/pencik_jan"><b>Pěnčík</b> Jan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -70,7 +70,6 @@ tags:
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../khan_ilca_amin_sahi.2023.BAoEoSDi3CP/">Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../khan_koc.2022.NMaSfEB3CP/">Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing:<br/>The Underlying Physics, Potential, and Challenges</a></li>

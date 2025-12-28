@@ -14,7 +14,6 @@ tags:
  - print
  - uniform
  - wall
- - under
 
 ---
 
@@ -71,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../jira_pras_sngu_tana.2020.LCCaFMo3PMWPUACL/">Load Carrying Capacity and Failure Mode of 3D Printing Mortar Wall Panel Under Axial Compression Loading</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>

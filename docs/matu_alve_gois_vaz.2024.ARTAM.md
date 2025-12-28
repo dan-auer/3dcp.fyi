@@ -15,7 +15,6 @@ tags:
  - process
  - reef
  - review
- - a
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b> Mohammad</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../alba_chou_khee_swas.2020.EEB3PSDfCBM/">Effective Extrusion-Based 3D Printing System Design for Cementitious-Based Materials</a></li>
       <li><a href="../../../author/albalawi_i_hamed"><b>Albalawi</b> Hamed</a>, <a href="../../../author/khan_n_zainab"><b>Khan</b> Zainab</a>, <a href="../../../author/valle-perez_uriel_alexander"><b>Valle-Pérez</b> Alexander</a>, <a href="../../../author/kahin_m_kowther"><b>Kahin</b> Kowther</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../alba_khan_vall_kahi.2021.SaEFCRT3PaF/">Sustainable and Eco-Friendly Coral Restoration Through 3D Printing and Fabrication</a></li>
-      <li>None</li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
       <li><a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P/">On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing:<br/>Long-Term Interactions of Cementitious Materials in the Marine Environment</a></li>

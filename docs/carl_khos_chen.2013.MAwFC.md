@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/chen_yong"><b>Chen</b> Yong</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ASME International Mechanical Engineering Congress and Exposition, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

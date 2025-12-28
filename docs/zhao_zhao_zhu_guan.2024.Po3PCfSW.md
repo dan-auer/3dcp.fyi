@@ -15,7 +15,6 @@ tags:
  - solid
  - steel
  - waste
- - in
 
 ---
 
@@ -82,7 +81,6 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_tan.2019.RBoHVFAMCMSfDCA/">Rheological Behavior of High-Volume Fly-Ash Mixtures Containing Micro-Silica for Digital Construction Application</a></li>
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM/">Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>

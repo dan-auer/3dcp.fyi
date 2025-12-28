@@ -14,8 +14,6 @@ tags:
  - print
  - robot
  - scale
- - a
- - small
 
 ---
 

@@ -10,7 +10,6 @@ tags:
  - emergent
  - print
  - sustainability
- - in
 
 ---
 

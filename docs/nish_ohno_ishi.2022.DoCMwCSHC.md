@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 139-144
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -61,7 +62,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_motohiro"><b>Ohno</b> Motohiro</a>, <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../nish_ohno_ishi.2019.QEoBi3CPBoSVT/">Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test</a></li>
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../xu_zhan_schl_luko.2020.CCCwAB/">Cementitious Cellular Composites with Auxetic Behavior</a></li>

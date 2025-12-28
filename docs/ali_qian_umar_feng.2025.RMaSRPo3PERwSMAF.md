@@ -14,7 +14,6 @@ tags:
  - rheology
  - self
  - shape
- - self
 
 ---
 
@@ -90,7 +89,6 @@ tags:
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
-      <li>None</li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a></li>
       <li><a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/ijaz_nauman"><b>Ijaz</b> Nauman</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../salm_ma_ijaz_wang.2021.IaPoCMaDiEB3CP/">Importance and Potential of Cellulosic Materials and Derivatives in Extrusion-Based 3D Concrete Printing:<br/>Prospects and Challenges</a></li>

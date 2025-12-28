@@ -10,7 +10,6 @@ tags:
  - human
  - integration
  - print
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/jensen_brath_mads"><b>Jensen</b> Mads</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 741-750
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

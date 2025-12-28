@@ -20,9 +20,6 @@ tags:
  - shape
  - time
  - volume
- - in
- - on
- - small
 
 ---
 
@@ -87,12 +84,7 @@ tags:
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ashr_duar_naza_meis.2019.EtRBDaLQiLSAMoC/">Evaluating the Relationship Between Deposition and Layer-Quality in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
       <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../duar_naza_ashr.2018.DSf3P/">Designing Shelters for 3D Printing:<br/>A Studio Experiment</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
@@ -112,7 +104,7 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
 ???+ quote "Citations"

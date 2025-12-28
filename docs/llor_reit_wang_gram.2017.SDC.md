@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th High-Performance Concrete & 2nd Concrete Innovation Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)
@@ -64,7 +65,6 @@ tags:
     <ol>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
     </ol>

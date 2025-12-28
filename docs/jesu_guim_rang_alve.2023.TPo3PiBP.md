@@ -8,7 +8,6 @@ tags:
  - buildability
  - potential
  - print
- - in
 
 ---
 
@@ -73,11 +72,8 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/leong_fai_kah"><b>Leong</b> Kah</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../lu_li_qian_leon.2018.DCMIFACfSB3P/">Develop Cementitious Materials Incoporating Fly-Ash-Cenophere for Spray-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>

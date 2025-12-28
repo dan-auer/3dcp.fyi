@@ -19,9 +19,6 @@ tags:
  - reinforcement
  - scale
  - short
- - a
- - multi
- - on
 
 ---
 
@@ -89,7 +86,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lauf_fisc.2019.EUHPCwITOR/">Efficient Ultra-High Performance Concrete with Innovative Trajectory-Oriented "Reinforcement"</a></li>
-      <li>None</li>
       <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/niedermeier_roland"><b>Niedermeier</b> Roland</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../rutz_lauf_nied_fisc.2021.IoFAoPaMCiaCCFCM/">Influence of Fiber-Alignment on Pseudoductility and Micro-Cracking in a Cementitious Carbon-Fiber Composite Material</a></li>
     </ol>
 ???+ quote "Citations"

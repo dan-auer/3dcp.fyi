@@ -10,7 +10,6 @@ tags:
  - factor
  - print
  - technology
- - in
 
 ---
 
@@ -77,10 +76,8 @@ tags:
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>

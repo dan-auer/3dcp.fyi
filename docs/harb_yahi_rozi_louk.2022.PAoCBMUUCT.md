@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 318-323
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

@@ -18,7 +18,6 @@ tags:
  - shape
  - steel
  - strength
- - on
 
 ---
 

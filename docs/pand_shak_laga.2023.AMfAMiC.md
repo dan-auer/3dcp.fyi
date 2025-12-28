@@ -10,7 +10,6 @@ tags:
  - construction
  - manufacturing
  - model
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/lagaros_d_nikos"><b>Lagaros</b> Nikos</a> <a href="https://orcid.org/0000-0001-6114-9632" title="ORCID: 0000-0001-6114-9632" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Additive Manufacturing for Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

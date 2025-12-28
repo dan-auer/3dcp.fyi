@@ -15,9 +15,6 @@ tags:
  - shell
  - structure
  - water
- - a
- - on
- - post
 
 ---
 
@@ -76,7 +73,6 @@ tags:
     <ol>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
@@ -89,7 +85,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../mech_taub_mull_will.2022.AMoMSRCWUCRM/">Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../reit_anto_wang_dill.2022.A3PPfRPSCC/">A 3D Printing Platform for Reinforced Printed-Sprayed Concrete Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
     </ol>

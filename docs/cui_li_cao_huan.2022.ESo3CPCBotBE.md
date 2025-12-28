@@ -11,7 +11,6 @@ tags:
  - evaluation
  - experiment
  - print
- - on
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>

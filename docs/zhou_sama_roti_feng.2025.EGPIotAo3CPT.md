@@ -12,8 +12,6 @@ tags:
  - influence
  - print
  - technology
- - a
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="https://orcid.org/0000-0001-7513-8942" title="ORCID: 0000-0001-7513-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Smart and Sustainable Built Environment, pp. 763-772
 
 :aca-blank:{ .lg .middle}
     [`#adoption`](keyword/adoption)
@@ -60,9 +59,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The global construction industry is under increasing pressure to innovate as it grapples with environmental pollution challenges. Historically, the industry had to make similar innovations through appropriate policies to increase productivity by adopting Building Information Technology (BIM) tools. New innovative technology adoption needs robust policies to facilitate multiple resources working together towards specific deliverables. Since 3D concrete printing (3DCP) is in its early stages in the construction industry, transformative policies regarding 3DCP technology adoption must be shifted from profit-oriented to eco-innovative and socio-environmental-driven. Additionally, more significant studies on policies governing 3D printing adoptions are needed to address technology, standards, and sustainability issues. Therefore, this paper examines the existing 3DCP policies from various jurisdictions and tailors the highlighted implementation strategies of those best practices in New Zealand’s context.
-The data for this study was obtained from 30 scientific papers through the systematic review of global literature on 3DCP technologies and the analysis of associated policies and guideline documents. The study employed the qualitative analysis method, which used the NVivo software to manage, explore, uncover, and analyse underlying themes from the information gathered.
-The study found that the policy roadmap for adopting 3DCP in New Zealand should involve establishing a 3DCP industry committee, publishing standards, implementing financial support policies, setting sustainability assessment approval processes, allocating funds for R&D, developing Kainga Ora housing strategies, and integrating 3DCP practices nationwide. The findings indicate that policies regarding 3DCP adoptions should have more support in reform, R&D, and sustainability policies with lower or without commercial purpose.
+    The global construction industry is under increasing pressure to innovate as it grapples with environmental pollution challenges. Historically, the industry had to make similar innovations through appropriate policies to increase productivity by adopting Building Information Technology (BIM) tools. New innovative technology adoption needs robust policies to facilitate multiple resources working together towards specific deliverables. Since 3D concrete printing (3DCP) is in its early stages in the construction industry, transformative policies regarding 3DCP technology adoption must be shifted from profit-oriented to eco-innovative and socio-environmental-driven. Additionally, more significant studies on policies governing 3D printing adoptions are needed to address technology, standards, and sustainability issues. Therefore, this paper examines the existing 3DCP policies from various jurisdictions and tailors the highlighted implementation strategies of those best practices in New Zealand’s context. The data for this study was obtained from 30 scientific papers through the systematic review of global literature on 3DCP technologies and the analysis of associated policies and guideline documents. The study employed the qualitative analysis method, which used the NVivo software to manage, explore, uncover, and analyse underlying themes from the information gathered. The study found that the policy roadmap for adopting 3DCP in New Zealand should involve establishing a 3DCP industry committee, publishing standards, implementing financial support policies, setting sustainability assessment approval processes, allocating funds for R&D, developing Kainga Ora housing strategies, and integrating 3DCP practices nationwide. The findings indicate that policies regarding 3DCP adoptions should have more support in reform, R&D, and sustainability policies with lower or without commercial purpose.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
@@ -71,7 +68,6 @@ The study found that the policy roadmap for adopting 3DCP in New Zealand should 
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/dringenberg_steffen"><b>Dringenberg</b> Steffen</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ditt_drin_grie.2023.TTtR3CP/">Through Textile to Reinforced 3D Concrete Printing</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
-      <li>None</li>
       <li><a href="../../../author/gradeci_klodian"><b>Gradeci</b> Klodian</a>, <a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../grad_labo.2019.OtPoIBIMftAMoCS/">On the Potential of Integrating Building Information Modelling for the Additive Manufacturing of Concrete Structures</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
       <li><a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../orte_madr_olss_teno.2020.TAo3PTitMoCBCPaEBotAoSP/">The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products</a></li>

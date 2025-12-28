@@ -10,7 +10,6 @@ tags:
  - insights
  - practice
  - pump
- - in
 
 ---
 
@@ -74,7 +73,6 @@ tags:
     <ol>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../feys_schu_fata_mart.2022.PoC/">Pumping of Concrete:<br/>Understanding a Common Placement Method with Lots of Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
@@ -83,7 +81,6 @@ tags:
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/cotardo_dario"><b>Cotardo</b> Dario</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b> Ludger</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../secr_cota_mech_loha.2018.CiCPDPaFoLMUP/">Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure</a></li>
       <li><a href="../../../author/tavangar_tooran"><b>Tavangar</b> Tooran</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tava_hoss_yahi_khay.2021.CIoCPF/">Computational Investigation of Concrete-Pipe-Flow:<br/>Critical Review</a></li>
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

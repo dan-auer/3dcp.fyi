@@ -13,7 +13,6 @@ tags:
  - material
  - stress
  - yield
- - on
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/wille_kay"><b>Wille</b> Kay</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vand_bess_will_rous.2019.EPCTbHSM/">Enhancing Printable Concrete Thixotropy by High-Shear Mixing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

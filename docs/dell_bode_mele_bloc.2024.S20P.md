@@ -37,6 +37,7 @@ tags:
 ,     <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2024, pp. 90-97
 
 :aca-blank:{ .lg .middle}
     [`#circular`](keyword/circular)
@@ -74,7 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/megens_johannes"><b>Megens</b> Johannes</a>, <a href="../../../author/casucci_tommaso"><b>Casucci</b> Tommaso</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC/">Print-Path Design for Inclined-Plane Robotic 3D Printing of Unreinforced Concrete</a></li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../bhoo_dell_rana_mele.2024.UCMfCC/">Unreinforced Concrete Masonry for Circular Construction</a></li>

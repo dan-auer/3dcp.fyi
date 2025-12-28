@@ -13,8 +13,6 @@ tags:
  - multi
  - print
  - sensitivity
- - multi
- - on
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Earth and Space 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -69,7 +68,6 @@ tags:
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../ashr_naza_meis_duar.2022.AGBAfTPG/">A Grammar-Based Algorithm for Tool-Path-Generation:<br/>Compensating for Material-Deformation in the Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

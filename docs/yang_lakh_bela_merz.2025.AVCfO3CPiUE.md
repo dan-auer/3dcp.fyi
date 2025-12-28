@@ -12,7 +12,6 @@ tags:
  - optimization
  - print
  - velocity
- - in
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bouarroudj_elkarim_mohamed"><b>Bouarroudj</b> Mohamed</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../thib_bela_boua_bult.2023.AMfD3PMBoRS/">A Methodology for Designing 3D Printable Mortar Based on Recycled Sand</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yang_lakh_bela_merz.2023.ADaIoFWDD3PoRCM/">Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -12,7 +12,6 @@ tags:
  - nozzle
  - print
  - short
- - near
 
 ---
 
@@ -81,8 +80,6 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>

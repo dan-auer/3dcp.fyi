@@ -10,7 +10,6 @@ tags:
  - future
  - historical
  - rheology
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 432-439
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -12,7 +12,6 @@ tags:
  - material
  - review
  - use
- - a
 
 ---
 
@@ -69,7 +68,6 @@ tags:
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/zhang_lizhi"><b>Zhang</b> Lizhi</a>, <a href="../../../author/wu_zhiwen"><b>Wu</b> Zhiwen</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../geng_zhan_wu_tay.2024.MPaAMoAALRiALE/">Mechanical Properties and Additive Manufacturing of Alkali-Activated Lunar Regolith in Artificial Lunar Environments</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../liu_cai_ma_hou.2024.SB3CPPDM/">Spray-Based 3D Concrete Printing-Parameter Design-Model:<br/>Actionable Insight for High Printing Quality</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

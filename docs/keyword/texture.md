@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#texture
+# #texture
 
 <ol reversed>
   <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sent_raph.2025.PBUtSTo3PCE/">Predicting Buildability Using the Surface Texture of 3D Printed Concrete Elements</a></li>

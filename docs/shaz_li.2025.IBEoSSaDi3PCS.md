@@ -17,9 +17,6 @@ tags:
  - shear
  - strength
  - structure
- - a
- - in
- - on
 
 ---
 
@@ -96,7 +93,7 @@ tags:
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/ye_boxing"><b>Ye</b> Boxing</a>, <a href="../../../author/lin_kangjian"><b>Lin</b> Kangjian</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sun_ye_lin_wang.2022.SPo3PCRwFoRMBoDST/">Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test</a></li>
       <li><a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB/">Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
-      <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shao_jianwen"><b>Shao</b> Jianwen</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/zou_daoqin"><b>Zou</b> Daoqin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wang_shao_zhan_zou.2022.BSPaCMoIbVaHFo3PC/">Bond Shear Performances and Constitutive Model of Interfaces between Vertical and Horizontal Filaments of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shao_jianwen"><b>Shao</b> Jianwen</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/zou_daoqin"><b>Zou</b> Daoqin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wang_shao_zhan_zou.2022.BSPaCMoIBVaHFo3PC/">Bond Shear Performances and Constitutive Model of Interfaces Between Vertical and Horizontal Filaments of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../wu_yang_kong_zhi.2021.UQftRVEoGMC3PC/">Uncertainty Quantification for the Representative Volume Element of Geometrically Mono-Clinic 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>

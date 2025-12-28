@@ -12,8 +12,6 @@ tags:
  - optimization
  - parameter
  - topology
- - a
- - on
 
 ---
 
@@ -67,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../kont_tryf_geor.2020.RAMRwCUTOPfTPP/">Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning:<br/>The Example of a Building Element</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>

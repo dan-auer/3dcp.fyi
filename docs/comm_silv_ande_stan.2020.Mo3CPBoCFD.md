@@ -12,7 +12,6 @@ tags:
  - fluid
  - model
  - print
- - on
 
 ---
 
@@ -79,14 +78,12 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
-      <li>None</li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../serd_comm_pede_span.2019.NSotMFiMEAM/">Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

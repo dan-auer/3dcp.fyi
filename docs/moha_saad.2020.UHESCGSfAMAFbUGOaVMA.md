@@ -19,8 +19,6 @@ tags:
  - strength
  - suitability
  - viscosity
- - ultra
- - ultra
 
 ---
 
@@ -79,8 +77,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a>, <a href="../../../author/han_sun-jin"><b>Han</b> Sun-Jin</a>, <a href="../../../author/choi_seung-ho"><b>Choi</b> Seung-Ho</a>, <a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../jeon_han_choi_lee.2019.RPCfB3PC/">Rheological Property Criteria for Buildable 3D Printing Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>

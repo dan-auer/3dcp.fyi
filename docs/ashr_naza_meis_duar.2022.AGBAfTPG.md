@@ -16,8 +16,6 @@ tags:
  - material
  - path
  - tool
- - a
- - in
 
 ---
 
@@ -79,9 +77,6 @@ tags:
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../ashr_naza_meis_duar.2021.EPoMDiLSAMoC/">Experimental Prediction of Material-Deformation in Large-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -18,8 +18,6 @@ tags:
  - scale
  - sensor
  - site
- - a
- - on
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2014, pp. 99-110
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#silica
+# #silica
 
 <ol reversed>
   <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>

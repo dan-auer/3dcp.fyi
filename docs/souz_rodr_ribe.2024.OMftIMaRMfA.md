@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a> <a href="https://orcid.org/0000-0002-4072-6557" title="ORCID: 0000-0002-4072-6557" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 414-421
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)
@@ -73,7 +74,7 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
 ???+ quote "Citations"

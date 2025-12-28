@@ -14,7 +14,6 @@ tags:
  - reduction
  - single
  - wall
- - in
 
 ---
 

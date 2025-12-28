@@ -21,6 +21,7 @@ tags:
 ,     <a href="../../../author/ayoub_sara"><b>Ayoub</b> Sara</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference of the Arab Society for Computation in Architecture, Art and Design, pp. 247-260
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

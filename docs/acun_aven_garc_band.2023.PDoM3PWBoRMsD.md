@@ -10,7 +10,6 @@ tags:
  - parameter
  - print
  - wall
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a> <a href="https://orcid.org/0000-0003-3225-0234" title="ORCID: 0000-0003-3225-0234" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIIth SIGraDi Conference, pp. 481-492
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

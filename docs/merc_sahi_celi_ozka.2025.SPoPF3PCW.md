@@ -17,7 +17,6 @@ tags:
  - structure
  - type
  - wall
- - pre
 
 ---
 
@@ -108,7 +107,6 @@ tags:
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>

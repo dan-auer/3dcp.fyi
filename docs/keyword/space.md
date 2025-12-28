@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#space
+# #space
 
 <ol reversed>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>

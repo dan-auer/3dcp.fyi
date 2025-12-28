@@ -12,7 +12,6 @@ tags:
  - environment
  - print
  - strategy
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

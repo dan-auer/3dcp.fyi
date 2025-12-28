@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1147-1163
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

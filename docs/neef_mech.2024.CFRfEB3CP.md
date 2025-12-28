@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 802-809
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

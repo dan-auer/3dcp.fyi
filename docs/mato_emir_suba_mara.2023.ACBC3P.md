@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> <a href="https://orcid.org/0000-0002-1026-4523" title="ORCID: 0000-0002-1026-4523" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing for Construction with Alternative Materials, pp. 67-89
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

@@ -16,8 +16,6 @@ tags:
  - resistance
  - water
  - wind
- - a
- - multi
 
 ---
 
@@ -79,10 +77,8 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
-      <li>None</li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
       <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/seshadri_bharath"><b>Seshadri</b> Bharath</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lesc_chei_picc_sesh.2023.3PF/">3D Printing Facades:<br/>Design, Fabrication, and Assessment Methods</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

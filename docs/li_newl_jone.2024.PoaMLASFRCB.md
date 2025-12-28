@@ -16,8 +16,6 @@ tags:
  - print
  - reinforcement
  - steel
- - a
- - multi
 
 ---
 

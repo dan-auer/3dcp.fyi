@@ -11,7 +11,6 @@ tags:
  - fire
  - print
  - structure
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/merwe_e_johann"><b>van der Merwe</b> Johann</a> <a href="https://orcid.org/0000-0003-1748-0461" title="ORCID: 0000-0003-1748-0461" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - The Young Concrete Researchers, Engineers and Technologist Symposium, pp. 120-127
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

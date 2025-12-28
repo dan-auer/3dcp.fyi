@@ -14,7 +14,6 @@ tags:
  - reduction
  - use
  - waste
- - in
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing for Construction with Alternative Materials, pp. 127-153
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)
@@ -87,7 +87,6 @@ tags:
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>

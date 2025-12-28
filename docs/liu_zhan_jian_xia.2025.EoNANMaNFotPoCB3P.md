@@ -11,10 +11,6 @@ tags:
  - effect
  - print
  - property
- - a
- - nano
- - on
- - nano
 
 ---
 
@@ -76,7 +72,6 @@ tags:
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/yu_rang"><b>Yu</b> Rang</a>, <a href="../../../author/rong_yao"><b>Rong</b> Yao</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_jian_yu_rong.2024.E3PCaHTPM/">Extrusion 3D Printing Circular and Horseshoe Tunnel Physical Models:<br/>A Comparative Study of Deformation and Brittle Failure</a></li>
       <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhou_zhenhua"><b>Zhou</b> Zhenhua</a>, <a href="../../../author/xin_jie"><b>Xin</b> Jie</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../liu_jian_zhou_xin.2023.TPaHPoNCCwMPFfCB3P/">The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../pott_step.2021.PTaaFMtDYSaSBUf3PoCM/">Penetration-Test as a Fast Method to Determine Yield-Stress and Structural Build-Up for 3D Printing of Cementitious Materials</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/liard_maxime"><b>Liard</b> Maxime</a>, <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chun_liar_loot.2021.TEoNSotFaHPo3PM/">The Effects of Nano-Silica on the Fresh and Hardened Properties of 3D Printable Mortars</a></li>
     </ol>

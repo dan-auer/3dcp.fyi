@@ -12,8 +12,6 @@ tags:
  - inter
  - layer
  - print
- - inter
- - on
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 537-546
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

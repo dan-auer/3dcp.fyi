@@ -13,7 +13,6 @@ tags:
  - development
  - printability
  - waste
- - a
 
 ---
 
@@ -35,6 +34,7 @@ tags:
 ,     <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 3-10
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)
@@ -79,7 +79,6 @@ tags:
       <li><a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a>, <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a>, <a href="../../../author/felekoglu_tosun_kamile"><b>Felekoğlu</b> Kamile</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../saru_kesk_fele_fele.2022.EoFRoEaBoMAMPCM/">Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars:<br/>A Rheometer-Based Simulation-Analysis</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO/">Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

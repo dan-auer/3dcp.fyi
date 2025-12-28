@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/mohamed_eid_basem"><b>Mohamed</b> Basem</a> <a href="https://orcid.org/0000-0002-1537-7893" title="ORCID: 0000-0002-1537-7893" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Architecture and Design for Industry 4.0, pp. 387-409
 
 :aca-blank:{ .lg .middle}
     [`#analog`](keyword/analog)

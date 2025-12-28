@@ -20,7 +20,6 @@ tags:
  - self
  - sensor
  - transform
- - self
 
 ---
 

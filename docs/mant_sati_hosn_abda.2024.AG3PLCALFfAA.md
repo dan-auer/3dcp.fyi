@@ -11,7 +11,6 @@ tags:
  - framework
  - life
  - print
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/dabous_saleh"><b>abu Dabous</b> Saleh</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -70,7 +70,6 @@ tags:
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/gaballa_aya"><b>Gaballa</b> Aya</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../cabi_gaba_fadl_irsh.2023.AGAfUCR3PftAEaCI/">A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../long_lin_tao_ye.2021.PaPPo3PLCCCC/">Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>

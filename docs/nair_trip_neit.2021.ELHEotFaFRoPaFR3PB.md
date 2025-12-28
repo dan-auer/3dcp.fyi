@@ -17,7 +17,6 @@ tags:
  - print
  - reinforcement
  - response
- - on
 
 ---
 
@@ -101,7 +100,6 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/arora_aashay"><b>Arora</b> Aashay</a>, <a href="../../../author/mehdipour_iman"><b>Mehdipour</b> Iman</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../nair_algh_aror_mehd.2019.LFPMRaECoCBf3P/">Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../nair_pand_sant_sant.2020.ACEotIoMCaEGo3PoCB/">A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

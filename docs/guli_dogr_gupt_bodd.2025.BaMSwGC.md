@@ -8,7 +8,6 @@ tags:
  - buildability
  - curve
  - slab
- - a
 
 ---
 

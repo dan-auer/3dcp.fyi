@@ -15,8 +15,6 @@ tags:
  - self
  - sensor
  - smart
- - in
- - self
 
 ---
 

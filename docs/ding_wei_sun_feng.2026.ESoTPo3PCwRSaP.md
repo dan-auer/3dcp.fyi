@@ -13,7 +13,6 @@ tags:
  - recycling
  - sand
  - temperature
- - on
 
 ---
 
@@ -107,7 +106,6 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/li_yucen"><b>Li</b> Yucen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zand_shen_sorg_li.2024.PtFLaUL3PCC/">Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

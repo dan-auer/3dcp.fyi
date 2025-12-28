@@ -12,8 +12,6 @@ tags:
  - multi
  - print
  - scale
- - in
- - multi
 
 ---
 
@@ -80,7 +78,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/dodd_elise"><b>Dodd</b> Elise</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../marc_xia_dodd_sanj.2017.EoDTotMPoEB3PC/">Effect of Delay-Time on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

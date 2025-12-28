@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#transform
+# #transform
 
 <ol reversed>
   <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abed_wari_alaw_jabr.2025.TLC3PI/">Transformative Low-Carbon 3D-Printed Infrastructure:<br/>Machine Learning-Driven Self-Sensing and Self-Heating Limestone Calcined Clay Cement (LC3) Composites</a></li>

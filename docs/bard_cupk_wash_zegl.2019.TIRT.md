@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="https://orcid.org/0000-0002-6680-4787" title="ORCID: 0000-0002-6680-4787" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 113-125
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

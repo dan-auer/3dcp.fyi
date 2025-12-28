@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/balachowski_lech"><b>Bałachowski</b> Lech</a> <a href="https://orcid.org/0000-0002-3240-8313" title="ORCID: 0000-0002-3240-8313" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Green Infrastructure and Construction for Sustainable Future, pp. 107-113
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -64,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>

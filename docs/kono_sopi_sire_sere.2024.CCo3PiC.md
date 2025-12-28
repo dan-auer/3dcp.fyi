@@ -12,7 +12,6 @@ tags:
  - mixture
  - print
  - reinforcement
- - in
 
 ---
 
@@ -74,7 +73,6 @@ tags:
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
 ???+ quote "Citations"

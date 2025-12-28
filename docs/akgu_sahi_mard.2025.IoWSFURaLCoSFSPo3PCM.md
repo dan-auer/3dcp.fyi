@@ -19,7 +19,6 @@ tags:
  - steel
  - use
  - waste
- - on
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
-      <li>None</li>
       <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhou_mengting"><b>Zhou</b> Mengting</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jia_zhou_chen_wang.2024.EoSFSaCoPMaMPo3PHSCM/">Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials</a></li>
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>

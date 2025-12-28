@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#effectors
+# #effectors
 
 <ol reversed>
   <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../davi_drod.2024.RGEEfaAFoCFFS/">Robot-Guided End Effector for an Automated Finishing of Concrete Free-Form Surfaces</a></li>

@@ -12,8 +12,6 @@ tags:
  - large
  - print
  - scale
- - a
- - in
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/garatly_eyad"><b>Garatly</b> Eyad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

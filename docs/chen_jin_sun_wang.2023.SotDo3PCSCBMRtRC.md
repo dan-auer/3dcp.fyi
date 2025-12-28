@@ -13,7 +13,6 @@ tags:
  - print
  - relation
  - rheology
- - on
 
 ---
 
@@ -74,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>

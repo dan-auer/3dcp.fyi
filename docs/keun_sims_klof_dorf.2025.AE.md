@@ -10,7 +10,6 @@ tags:
  - design
  - learn
  - manufacturing
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 24th Interaction Design and Children, pp. 565-574
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

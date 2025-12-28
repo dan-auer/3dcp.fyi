@@ -13,8 +13,6 @@ tags:
  - performance
  - print
  - property
- - ultra
- - ultra
 
 ---
 
@@ -83,7 +81,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_chen_xion_jia.2022.IoHMaSFoBo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Buildability of 3D Printing Foam-Concrete:<br/>From Water State and Flocculation Point of View</a></li>

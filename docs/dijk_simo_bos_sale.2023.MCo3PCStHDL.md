@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/dodson_m_t"><b>Dodson</b> T.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Protective Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

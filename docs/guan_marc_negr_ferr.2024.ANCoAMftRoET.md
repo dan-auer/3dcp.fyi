@@ -10,7 +10,6 @@ tags:
  - existence
  - manufacturing
  - tunnel
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/chiaia_bernardino"><b>Chiaia</b> Bernardino</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of Italian Concrete Conference 2022, pp. 116-124
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

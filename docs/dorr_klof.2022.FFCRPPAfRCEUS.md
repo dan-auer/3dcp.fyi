@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 370-375
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

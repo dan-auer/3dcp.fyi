@@ -23,7 +23,6 @@ tags:
  - stress
  - test
  - yield
- - on
 
 ---
 
@@ -38,6 +37,7 @@ tags:
 ,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

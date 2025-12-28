@@ -14,7 +14,6 @@ tags:
  - material
  - strength
  - structure
- - up
 
 ---
 

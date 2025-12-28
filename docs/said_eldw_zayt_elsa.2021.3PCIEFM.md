@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/zeid_m"><b>abou Zeid</b> M.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Canadian Society of Civil Engineering Annual Conference 2021, pp. 627-639
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

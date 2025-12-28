@@ -15,8 +15,6 @@ tags:
  - reinforcement
  - strength
  - structure
- - micro
- - micro
 
 ---
 
@@ -108,7 +106,6 @@ tags:
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

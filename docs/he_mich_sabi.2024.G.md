@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/sabin_jenny"><b>Sabin</b> Jenny</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings, pp. 133-146
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)
@@ -59,8 +60,6 @@ tags:
     <ol>
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

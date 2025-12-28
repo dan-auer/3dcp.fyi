@@ -16,7 +16,6 @@ tags:
  - print
  - spray
  - three
- - in
 
 ---
 
@@ -105,7 +104,6 @@ tags:
       <li><a href="../../../author/mir_namra"><b>Mir</b> Namra</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM/">Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

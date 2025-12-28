@@ -77,7 +77,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>

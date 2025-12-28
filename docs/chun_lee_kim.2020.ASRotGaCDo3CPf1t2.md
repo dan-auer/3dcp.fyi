@@ -11,7 +11,6 @@ tags:
  - print
  - review
  - system
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 37th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#chronology`](keyword/chronology)
@@ -69,7 +69,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>

@@ -18,7 +18,6 @@ tags:
  - self
  - sensor
  - water
- - self
 
 ---
 

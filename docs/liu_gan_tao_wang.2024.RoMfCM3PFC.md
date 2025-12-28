@@ -11,7 +11,6 @@ tags:
  - material
  - mortar
  - print
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/wang_jie"><b>Wang</b> Jie</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Novel Technology and Whole-Process Management in Prefabricated Building, pp. 263-270
 
 :aca-blank:{ .lg .middle}
     [`#component`](keyword/component)

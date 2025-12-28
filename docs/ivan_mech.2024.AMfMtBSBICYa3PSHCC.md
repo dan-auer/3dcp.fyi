@@ -17,7 +17,6 @@ tags:
  - strain
  - strength
  - yarn
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 459-466
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)
@@ -67,13 +67,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Recently, extrusion-based 3D Concrete Printing technology has seen significant development. It is utilized to create individual modules in factories and to print entire structures on construction sites. Strain Hardening Cementitious Composites (SHCC) have been demonstrated by various research groups as a suitable printing material. This material, reinforced with short fibers, addresses the brittleness issue inherent in conventional concrete, which negatively impacts both the strength and durability of concrete structures. Using SHCC to print the external contour of individual modules can prevent damage during transportation or assembly.
-
-To create continuous reinforcement in the printed structure, conventional steel reinforcement can be used. However, its application has limitations, such as the complexity of automating reinforcement integration and the need for a sufficient protective layer. These limitations can be overcome by using freshly impregnated carbon yarns for reinforcement. The initial flexibility of these yarns allows for the automation of the reinforcement process, while the cementitious impregnation enhances its bond with the material of the reinforced structure.
-
-Measuring the bond strength of printed SHCC with carbon yarn reinforcement placed between the printed layers is challenging. Fabricating specimens directly from the printed structure is complicated due to the presence of fibers in SHCC and the high probability of damaging the textile yarn. Creating samples by casting does not account for the layering inherent in 3D printing, leading to an inaccurate assessment of the actual bond strength.
-
-This publication presents a method for measuring the bond strength of printed SHCC with carbon yarn reinforcement directly on 3D printed samples. This approach allows for more accurate measurements by considering the layered structure of the printed material. The publication provides a detailed description of the method and test results for the obtained samples.
+    Recently, extrusion-based 3D Concrete Printing technology has seen significant development. It is utilized to create individual modules in factories and to print entire structures on construction sites. Strain Hardening Cementitious Composites (SHCC) have been demonstrated by various research groups as a suitable printing material. This material, reinforced with short fibers, addresses the brittleness issue inherent in conventional concrete, which negatively impacts both the strength and durability of concrete structures. Using SHCC to print the external contour of individual modules can prevent damage during transportation or assembly. To create continuous reinforcement in the printed structure, conventional steel reinforcement can be used. However, its application has limitations, such as the complexity of automating reinforcement integration and the need for a sufficient protective layer. These limitations can be overcome by using freshly impregnated carbon yarns for reinforcement. The initial flexibility of these yarns allows for the automation of the reinforcement process, while the cementitious impregnation enhances its bond with the material of the reinforced structure. Measuring the bond strength of printed SHCC with carbon yarn reinforcement placed between the printed layers is challenging. Fabricating specimens directly from the printed structure is complicated due to the presence of fibers in SHCC and the high probability of damaging the textile yarn. Creating samples by casting does not account for the layering inherent in 3D printing, leading to an inaccurate assessment of the actual bond strength. This publication presents a method for measuring the bond strength of printed SHCC with carbon yarn reinforcement directly on 3D printed samples. This approach allows for more accurate measurements by considering the layered structure of the printed material. The publication provides a detailed description of the method and test results for the obtained samples.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

@@ -14,7 +14,6 @@ tags:
  - resistance
  - sensor
  - temperature
- - in
 
 ---
 
@@ -82,7 +81,6 @@ tags:
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b> Abdulla</a>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../mans_bina_alja_alha.2022.TMotCHTitLACot3CPW/">Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/wolde_gezachew_japi"><b>Wolde</b> Japi</a>, <a href="../../../author/joda_akram"><b>Joda</b> Akram</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mans_wold_joda.2025.TPoSaaSIf3CPBW/">The Potential of Sand as a Sustainable Infill for 3D Concrete Printed Building Walls</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
-      <li>None</li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tami_hass_rodr_alha.2023.TPo3CPW/">Thermal Performance of 3D Concrete Printed Walls:<br/>Calculated and In-Situ Measured U-Values</a></li>
     </ol>
 ???+ quote "Citations"

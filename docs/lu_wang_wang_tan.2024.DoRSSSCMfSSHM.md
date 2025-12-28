@@ -15,7 +15,6 @@ tags:
  - smart
  - spray
  - structure
- - self
 
 ---
 

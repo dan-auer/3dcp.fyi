@@ -15,7 +15,6 @@ tags:
  - formwork
  - production
  - slab
- - a
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#benefit`](keyword/benefit)

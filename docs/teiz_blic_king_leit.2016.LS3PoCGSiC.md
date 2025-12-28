@@ -12,7 +12,6 @@ tags:
  - print
  - scale
  - shape
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/guenther_daniel"><b>Guenther</b> Daniel</a> <a href="https://orcid.org/0000-0002-3360-6469" title="ORCID: 0000-0002-3360-6469" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 33rd International Symposium on Automation and Robotics in Construction, pp. 948-956
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)

@@ -13,8 +13,6 @@ tags:
  - projection
  - review
  - system
- - a
- - on
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the the 1st International Online Conference on Buildings, pp. 54
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/kothman_ivo"><b>Kothman</b> Ivo</a>, <a href="../../../author/faber_niels"><b>Faber</b> Niels</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../koth_fabe.2016.H3PTCtRotG/">How 3D Printing Technology Changes the Rules of the Game:<br/>Insights from the Construction Sector</a></li>
-      <li>None</li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>

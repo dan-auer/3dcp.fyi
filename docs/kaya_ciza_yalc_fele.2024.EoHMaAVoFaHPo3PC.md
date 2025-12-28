@@ -13,7 +13,6 @@ tags:
  - printability
  - property
  - volume
- - on
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>

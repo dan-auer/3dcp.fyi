@@ -10,7 +10,6 @@ tags:
  - digital
  - fabrication
  - foam
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/juhart_joachim"><b>Juhart</b> Joachim</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 22-28
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)
@@ -65,7 +65,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

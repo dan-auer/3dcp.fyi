@@ -13,8 +13,6 @@ tags:
  - review
  - system
  - use
- - a
- - in
 
 ---
 
@@ -110,7 +108,7 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
       <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sing_wang_zhou_sun.2023.UoATiFR3PC/">Utilization of Antimony-Tailings in Fiber-Reinforced 3D Printed Concrete:<br/>A Sustainable Approach for Construction Materials</a></li>
       <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../souz_ribe_sten_nema.2024.3PSLCMfCoASHiB/">3D Printed Sustainable Low-Cost Materials for Construction of Affordable Social Housing in Brazil:<br/>Potential, Challenges, and Research Needs</a></li>
-      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../suik.2022.EoACaLDoSFdEB3P/">Effect of Accelerated Curing and Layer Deformations on Structural Failure during Extrusion-Based 3D Printing</a></li>
+      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../suik.2022.EoACaLDoSFDEB3P/">Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
       <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ulub.2022.LSCI/">Lunar Shelter Construction Issues:<br/>The State of the Art Towards 3D Printing Technologies</a></li>

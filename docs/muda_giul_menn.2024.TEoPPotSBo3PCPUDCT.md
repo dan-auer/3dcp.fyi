@@ -13,8 +13,6 @@ tags:
  - print
  - shear
  - test
- - on
- - under
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)
@@ -67,13 +66,11 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a>, <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/zu_kun"><b>Zu</b> Kun</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_taka_jian_zu.2023.MPo3PCC/">Mechanical Properties of 3D Printed Concrete Components:<br/>A Review</a></li>
       <li><a href="../../../author/pan_zuanfeng"><b>Pan</b> Zuanfeng</a>, <a href="../../../author/si_doudou"><b>Si</b> Doudou</a>, <a href="../../../author/tao_jinghong"><b>Tao</b> Jinghong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pan_si_tao_xiao.2023.CBo3PCwDPPaCA/">Compressive Behavior of 3D Printed Concrete with Different Printing Paths and Concrete Ages</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
 ???+ quote "Citations"

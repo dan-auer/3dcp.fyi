@@ -19,8 +19,6 @@ tags:
  - strain
  - stress
  - use
- - a
- - bi
 
 ---
 
@@ -94,7 +92,6 @@ tags:
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/arora_aashay"><b>Arora</b> Aashay</a>, <a href="../../../author/mehdipour_iman"><b>Mehdipour</b> Iman</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../nair_algh_aror_mehd.2019.LFPMRaECoCBf3P/">Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
@@ -107,7 +104,7 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

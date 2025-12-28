@@ -16,7 +16,6 @@ tags:
  - scale
  - sustainability
  - temporary
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/stavric_milena"><b>Stavric</b> Milena</a> <a href="https://orcid.org/0000-0002-8682-2026" title="ORCID: 0000-0002-8682-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference of the Arab Society for Computation in Architecture, Art and Design, pp. 5-18
 
 :aca-blank:{ .lg .middle}
     [`#adobe`](keyword/adobe)

@@ -12,7 +12,6 @@ tags:
  - material
  - process
  - selective
- - a
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
-      <li>None</li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../shak_chu_puza_dini.2022.RoBJ3PitCI/">Review of Binder-Jetting 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>

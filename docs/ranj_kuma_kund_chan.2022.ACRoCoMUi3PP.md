@@ -12,9 +12,6 @@ tags:
  - process
  - review
  - use
- - a
- - in
- - on
 
 ---
 

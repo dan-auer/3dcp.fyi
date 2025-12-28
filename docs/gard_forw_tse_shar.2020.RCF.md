@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/sharma_karan"><b>Sharma</b> Karan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 883-894
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)
@@ -74,7 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/craipeau_typhanie"><b>Craipeau</b> Typhanie</a>, <a href="../../../author/lecompte_thibault"><b>Lecompte</b> Thibault</a>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../crai_leco_tous_perr.2019.EoCFIiSP/">Evolution of Concrete-Formwork Interface in Slipforming Process</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>
       <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a>, <a href="../../../author/george_l_william"><b>George</b> William</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../jone_bent_mart_geor.2019.RCo3PCPaMb/">Rheological Control of 3D Printable Cement-Paste and Mortars</a></li>

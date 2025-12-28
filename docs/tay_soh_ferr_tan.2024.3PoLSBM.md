@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 139-148
 
 :aca-blank:{ .lg .middle}
     [`#large`](keyword/large)
@@ -58,7 +59,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
     </ol>
 ???+ quote "Citations"

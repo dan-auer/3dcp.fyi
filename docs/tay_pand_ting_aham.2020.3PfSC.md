@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/chua_kai_chee"><b>Chua</b> Chee</a> <a href="https://orcid.org/0000-0003-4536-6199" title="ORCID: 0000-0003-4536-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Industry 4.0, pp. 119-123
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -60,7 +61,6 @@ tags:
     <ol>
       <li><a href="../../../author/kothman_ivo"><b>Kothman</b> Ivo</a>, <a href="../../../author/faber_niels"><b>Faber</b> Niels</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../koth_fabe.2016.H3PTCtRotG/">How 3D Printing Technology Changes the Rules of the Game:<br/>Insights from the Construction Sector</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
-      <li>None</li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
     </ol>
 ???+ quote "Citations"

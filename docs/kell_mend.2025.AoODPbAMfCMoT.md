@@ -13,7 +13,6 @@ tags:
  - mixture
  - print
  - time
- - over
 
 ---
 
@@ -72,9 +71,7 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
       <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/fu_junen"><b>Fu</b> Junen</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../geng_long_luo_fu.2023.IPoDYSi3PCBoML/">Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning</a></li>
-      <li>None</li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../mawa_mabo_gerk.2023.FEi3PoSWfTLSD/">Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data</a></li>
@@ -91,8 +88,6 @@ tags:
       <li><a href="../../../author/vojir_martin"><b>Vojir</b> Martin</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../voji_mysl_petr_brou.2021.ANWtDSfIA/">A New Way to Design Software for Industrial Automation:<br/>3D Printer Cement Mixtures</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/strien_c-f_emiel"><b>Strien</b> Emiel</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../wolf_bos_stri_sale.2017.ARTHMaFSf3CP/">A Real-Time Height Measurement and Feedback System for 3D Concrete Printing</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

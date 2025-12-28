@@ -14,8 +14,6 @@ tags:
  - print
  - property
  - reinforcement
- - micro
- - micro
 
 ---
 
@@ -88,7 +86,6 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

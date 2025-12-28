@@ -16,8 +16,6 @@ tags:
  - print
  - sustainability
  - tradition
- - a
- - on
 
 ---
 

@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Machines, Mechanisms, Materials and Design, pp. 615-630
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

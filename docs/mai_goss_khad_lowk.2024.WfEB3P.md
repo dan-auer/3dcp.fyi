@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 71-80
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

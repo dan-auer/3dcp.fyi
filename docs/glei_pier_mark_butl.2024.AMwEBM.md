@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 12-21
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -69,7 +70,6 @@ tags:
     <ol>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
 ???+ quote "Citations"

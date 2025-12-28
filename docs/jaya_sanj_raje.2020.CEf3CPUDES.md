@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 290-300
 
 :aca-blank:{ .lg .middle}
     [`#character`](keyword/character)

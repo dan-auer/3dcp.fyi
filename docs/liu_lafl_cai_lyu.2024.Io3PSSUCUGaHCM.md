@@ -13,7 +13,6 @@ tags:
  - print
  - self
  - sensor
- - self
 
 ---
 

@@ -17,8 +17,6 @@ tags:
  - shape
  - shell
  - thin
- - ultra
- - ultra
 
 ---
 

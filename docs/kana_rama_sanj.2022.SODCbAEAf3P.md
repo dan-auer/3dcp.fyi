@@ -11,7 +11,6 @@ tags:
  - demand
  - print
  - setting
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 305-310
 
 :aca-blank:{ .lg .middle}
     [`#accelerator`](keyword/accelerator)
@@ -65,7 +65,6 @@ tags:
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../rama_muth_sanj_pasu.2021.C3PoLEUHCEoF/">Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>

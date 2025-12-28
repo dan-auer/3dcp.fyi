@@ -17,7 +17,6 @@ tags:
  - steel
  - sustainability
  - synergy
- - multi
 
 ---
 

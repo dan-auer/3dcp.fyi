@@ -21,6 +21,7 @@ tags:
 ,     <a href="../../../author/hendricks_berry"><b>Hendricks</b> Berry</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2015 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

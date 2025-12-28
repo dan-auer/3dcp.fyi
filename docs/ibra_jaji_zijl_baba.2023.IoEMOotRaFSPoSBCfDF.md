@@ -16,9 +16,6 @@ tags:
  - property
  - rheology
  - state
- - micro
- - on
- - micro
 
 ---
 
@@ -77,7 +74,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/kearsley_elsabe"><b>Kearsley</b> Elsabe</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cho_rooy_kear_zijl.2022.FSo3PFC/">Foam Stability of 3D Printable Foamed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../li_wang_ma.2018.MftEoBaBRo3PTM/">Method for the Enhancement of Buildability and Bending-Resistance of 3D Printable Tailing Mortar</a></li>

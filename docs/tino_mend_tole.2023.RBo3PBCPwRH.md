@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 1288-1296
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

@@ -10,8 +10,6 @@ tags:
  - model
  - print
  - system
- - a
- - in
 
 ---
 
@@ -25,6 +23,7 @@ tags:
 ,     <a href="../../../author/soto_garcia_borja"><b>de Soto</b> Borja</a> <a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 37th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -60,7 +59,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
       <li><a href="../../../author/pekuss_raitis"><b>Pekuss</b> Raitis</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../peku_soto.2020.PPAoCPCa3PPTfCCwSG/">Preliminary Productivity-Analysis of Conventional, Pre-Cast and 3D Printing Production-Techniques for Concrete Columns with Simple Geometry</a></li>
     </ol>

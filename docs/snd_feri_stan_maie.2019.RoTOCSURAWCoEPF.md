@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/maier_dana"><b>Maier</b> Dana</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 473-488
 
 :aca-blank:{ .lg .middle}
     [`#abrasion`](keyword/abrasion)
@@ -76,7 +77,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

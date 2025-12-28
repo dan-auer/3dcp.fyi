@@ -40,6 +40,7 @@ tags:
 ,     <a href="../../../author/guinda-salsamendi_x"><b>Guinda-Salsamendi</b> X.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Coasts, Marine Structures and Breakwaters 2023, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#enhancement`](keyword/enhancement)
@@ -70,9 +71,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Coastal infrastructure is increasing worldwide due to the impacts of climate change and growing populations. There is currently a global drive to create “blue/green” infrastructure in which multifunctional structures are designed to perform their primary function and also provide suitable habitat for marine life. 3D printing technology is an innovative way to produce more complex reef units which can be incorporated into coastal structures to create hybrid multifunctional structures.
-
-The Interreg Atlantic project 3DPARE has designed and printed 3D-printed concrete reef units which test a variety of different habitat features (different sizes of holes, tunnels and overhangs) to determine their attractiveness for marine life. Eight uniquely designed concrete reef units were deployed in the UK, France, Spain and Portugal in Spring/Summer 2020 and have subsequently been monitored to determine their bio-receptivity. After 6 months the reef units have significantly increased the local biodiversity of the sites and there are clear differences recorded between the habitat features. This pilot study can help inform engineers on the specific features to be incorporated into future subtidal infrastructure to create suitable habitat for marine life and shows that 3D printing provides a convenient method to incorporate these specific features in engineering projects.
+    Coastal infrastructure is increasing worldwide due to the impacts of climate change and growing populations. There is currently a global drive to create “blue/green” infrastructure in which multifunctional structures are designed to perform their primary function and also provide suitable habitat for marine life. 3D printing technology is an innovative way to produce more complex reef units which can be incorporated into coastal structures to create hybrid multifunctional structures. The Interreg Atlantic project 3DPARE has designed and printed 3D-printed concrete reef units which test a variety of different habitat features (different sizes of holes, tunnels and overhangs) to determine their attractiveness for marine life. Eight uniquely designed concrete reef units were deployed in the UK, France, Spain and Portugal in Spring/Summer 2020 and have subsequently been monitored to determine their bio-receptivity. After 6 months the reef units have significantly increased the local biodiversity of the sites and there are clear differences recorded between the habitat features. This pilot study can help inform engineers on the specific features to be incorporated into future subtidal infrastructure to create suitable habitat for marine life and shows that 3D printing provides a convenient method to incorporate these specific features in engineering projects.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

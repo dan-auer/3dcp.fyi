@@ -24,8 +24,6 @@ tags:
  - size
  - surface
  - without
- - in
- - on
 
 ---
 
@@ -100,7 +98,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a>, <a href="../../../author/rasouli_habib"><b>Rasouli</b> Habib</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../shak_gowr_raso.2021.EaNAo3PCMSUI3/">Experimental and Numerical Analysis of 3D Printed Cement Mortar Specimens Using Inkjet 3DP</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../shak_neja_gowr.2020.EoHCaEGFRAoPB3CM/">Effect of Heat-Curing and E6-Glass Fiber-Reinforcement Addition on Powder-Based 3DP Cement Mortar</a></li>

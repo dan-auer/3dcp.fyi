@@ -16,7 +16,6 @@ tags:
  - print
  - solution
  - technology
- - on
 
 ---
 

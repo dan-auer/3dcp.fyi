@@ -14,7 +14,6 @@ tags:
  - material
  - practice
  - printability
- - a
 
 ---
 
@@ -103,7 +102,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>

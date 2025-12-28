@@ -14,7 +14,6 @@ tags:
  - print
  - shape
  - stability
- - a
 
 ---
 
@@ -74,7 +73,6 @@ tags:
       <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../akhr_oulk_jai_riha.2025.EBM3PEaBNI/">Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../chen_yang_zhen_li.2021.RBaSBUo3PPaPAFRCSCC/">Rheological Behaviors and Structure Build-Up of 3D Printed Polypropylene- and Polyvinyl-Alcohol-Fiber-Reinforced Calcium-Sulphoaluminate-Cement Composites</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
-      <li>None</li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../han_yan_chen_tang.2023.PSo3PCUDSWoUL/">Plastic Shrinkage of 3D Printed Concrete Under Different Self-Weight of Upper Layers</a></li>
       <li><a href="../../../author/kothman_ivo"><b>Kothman</b> Ivo</a>, <a href="../../../author/faber_niels"><b>Faber</b> Niels</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../koth_fabe.2016.H3PTCtRotG/">How 3D Printing Technology Changes the Rules of the Game:<br/>Insights from the Construction Sector</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>

@@ -11,7 +11,6 @@ tags:
  - print
  - three
  - trend
- - in
 
 ---
 

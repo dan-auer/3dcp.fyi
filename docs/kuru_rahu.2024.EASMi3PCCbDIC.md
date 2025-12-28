@@ -15,7 +15,6 @@ tags:
  - print
  - shrinkage
  - spray
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> <a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

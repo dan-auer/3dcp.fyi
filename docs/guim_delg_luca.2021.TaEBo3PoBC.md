@@ -11,7 +11,6 @@ tags:
  - environment
  - print
  - temperature
- - on
 
 ---
 

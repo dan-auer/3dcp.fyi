@@ -12,8 +12,6 @@ tags:
  - process
  - setting
  - solution
- - in
- - on
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 440-447
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../szab_reit_llor_gram.2019.ASDCtTFG/">Adapting Smart Dynamic Casting to Thin-Folded Geometries</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../wang.2018.DCP/">Digital Concrete Processing:<br/>A Review</a></li>

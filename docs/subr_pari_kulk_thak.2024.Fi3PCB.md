@@ -14,7 +14,6 @@ tags:
  - layer
  - penetration
  - print
- - in
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../nair_trip_neit.2021.ELHEotFaFRoPaFR3PB/">Examining Layer-Height Effects on the Flexural and Fracture Response of Plain and Fiber-Reinforced 3D Printed Beams</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../over_savi_bos_schl.2023.Eo3CPPotMPoPSHCC/">Effects of 3D Concrete Printing Phases on the Mechanical Performance of Printable Strain-Hardening Cementitious Composites</a></li>

@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> <a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 472-479
 
 :aca-blank:{ .lg .middle}
     [`#mortar`](keyword/mortar)

@@ -14,9 +14,6 @@ tags:
  - print
  - section
  - stress
- - a
- - in
- - on
 
 ---
 

@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 98-109
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -59,7 +60,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../bhoo_mele_bloc.2018.EASDfCP/">Equilibrium-Aware Shape Design for Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

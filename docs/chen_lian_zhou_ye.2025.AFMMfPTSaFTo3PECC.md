@@ -16,7 +16,6 @@ tags:
  - strength
  - tension
  - toughness
- - a
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../du_qian.2024.EoPPaLDoFBo3PSHCC/">Effects of Printing-Patterns and Loading-Directions on Fracture Behavior of 3D Printed Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_sun_qian.2024.FPoNI3PSHCCwBS/">Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_nguy_tran.2023.DDaPSo3CPoNPS/">Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces</a></li>

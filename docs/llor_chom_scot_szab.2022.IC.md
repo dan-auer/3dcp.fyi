@@ -6,7 +6,6 @@ title: Ena Lloret-Fritschi, Joseph Choma, Fabio Scotto, Anna Szabó, Fabio Grama
 description:
 tags:
  - concrete
- - in
 
 ---
 
@@ -64,7 +63,6 @@ tags:
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jenn_llor_gram_kohl.2020.CPtCMRFOS/">Crafting Plaster through Continuous Mobile Robotic Fabrication On-Site</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
-      <li>None</li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../llor_quad_scot_fuhr.2022.ADC/">Additive Digital Casting:<br/>From Lab to Industry</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../llor_scot_gram_kohl.2019.CoRSPwSDC/">Challenges of Real-Scale Production with Smart Dynamic Casting</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>

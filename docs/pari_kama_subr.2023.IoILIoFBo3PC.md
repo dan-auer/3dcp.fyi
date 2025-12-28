@@ -13,8 +13,6 @@ tags:
  - interface
  - layer
  - print
- - inter
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

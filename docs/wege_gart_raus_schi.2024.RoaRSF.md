@@ -13,7 +13,6 @@ tags:
  - property
  - real
  - reinforcement
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/gallmetzer_andreas"><b>Gallmetzer</b> Andreas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)
@@ -74,7 +74,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/hondt_melody"><b>Hondt</b> Mélody</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../putt_nere_mech_hond.2022.PaToPCBMiHS/">Properties and Testing of Printed Cement-Based Materials in Hardened State</a></li>
-      <li>None</li>
       <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../stra_matt_wege_kran.2022.SPI/">Selective Paste-Intrusion:<br/>Stability of Cement-Paste Mixtures Towards Changing Ambient Temperature</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gartner_benjamin"><b>Gartner</b> Benjamin</a>, <a href="../../../author/rausch_anne"><b>Rausch</b> Anne</a>, <a href="../../../author/schiessl-pecka_angelika"><b>Schießl-Pecka</b> Angelika</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wege_gart_raus_schi.2024.RoaRSF/">Realization of a Reinforced SPI Façade:<br/>Direction-Dependent Material-Properties and Durability-Assessment</a></li>

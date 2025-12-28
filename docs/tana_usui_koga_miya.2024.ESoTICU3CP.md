@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 273-280
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -13,7 +13,6 @@ tags:
  - material
  - print
  - structure
- - in
 
 ---
 
@@ -100,7 +99,6 @@ tags:
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/nam_jun_young"><b>Nam</b> Young</a>, <a href="../../../author/hwang_kwang_young"><b>Hwang</b> Young</a>, <a href="../../../author/park_woon_ji"><b>Park</b> Ji</a>, <a href="../../../author/lim_mook_yun"><b>Lim</b> Yun</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nam_hwan_park_lim.2019.FRCCDwCDaOoFUTDPT/">Fiber-Reinforced Cementitious Composite Design with Controlled Distribution and Orientation of Fibers Using Three-Dimensional Printing Technology</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/choudhry_kumar_niranjan"><b>Choudhry</b> Niranjan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../nguy_chou_pand_nguy.2022.PoCBRw3PBIPSStTPB/">Performance of Concrete Beam Reinforced with 3D Printed Bio-Inspired Primitive Scaffold Subjected to Three-Point Bending</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>

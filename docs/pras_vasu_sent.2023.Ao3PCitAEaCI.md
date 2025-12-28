@@ -13,8 +13,6 @@ tags:
  - industry
  - print
  - review
- - a
- - in
 
 ---
 

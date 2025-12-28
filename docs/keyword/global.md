@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#global
+# #global
 
 <ol reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko.2025.GF3PCDWTiBP/">Globally First 3D‐Printed Concrete Drinking Water Tank in Barczewko, Poland</a></li>

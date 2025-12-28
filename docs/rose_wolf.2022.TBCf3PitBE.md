@@ -9,7 +9,6 @@ tags:
  - case
  - environment
  - print
- - in
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a> <a href="https://orcid.org/0000-0003-4114-4951" title="ORCID: 0000-0003-4114-4951" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 254-259
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -58,7 +58,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
-      <li>None</li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a></li>

@@ -12,8 +12,6 @@ tags:
  - construction
  - multi
  - print
- - in
- - multi
 
 ---
 
@@ -66,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/brun_francis"><b>Brun</b> Francis</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../brun_gasp_mate_vito.2020.ESo3PoCwO/">Experimental Study on 3D Printing of Concrete with Overhangs</a></li>
@@ -82,7 +79,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
       <li><a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/jungwirth_jorg"><b>Jungwirth</b> Jörg</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../rich_jung.2023.3CP/">3D Concrete Printing:<br/>From Mechanical Properties to Structural Analysis</a></li>

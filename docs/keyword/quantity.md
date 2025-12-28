@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#quantity
+# #quantity
 
 <ol reversed>
   <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xing_li.2025.QtHATPoEB3PS/">Quantifying the Heterogeneous Anisotropic Thermal Performance of Extrusion-Based 3D Printed Structures:<br/>A Multiscale Computational Approach</a></li>

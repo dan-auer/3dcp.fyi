@@ -11,8 +11,6 @@ tags:
  - investigation
  - printability
  - structure
- - on
- - up
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 301-311
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -70,14 +69,12 @@ tags:
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

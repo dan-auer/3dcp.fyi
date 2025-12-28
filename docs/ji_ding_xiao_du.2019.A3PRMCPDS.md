@@ -13,7 +13,6 @@ tags:
  - print
  - ready
  - technology
- - a
 
 ---
 

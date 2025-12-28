@@ -12,9 +12,6 @@ tags:
  - mixing
  - setting
  - time
- - a
- - on
- - two
 
 ---
 

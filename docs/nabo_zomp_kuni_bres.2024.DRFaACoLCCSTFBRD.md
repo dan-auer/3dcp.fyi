@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Architecture and Design for Industry 4.0, pp. 471-484
 
 :aca-blank:{ .lg .middle}
     [`#augmentation`](keyword/augmentation)
@@ -77,10 +78,7 @@ tags:
       <li><a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../bisc_mata_kauf.2022.FIaSMMCUDFwC/">Fostering Innovative and Sustainable Mass-Market Construction Using Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../mata_bisc_kauf.2019.EtPoDFfSaECS/">Exploiting the Potential of Digital Fabrication for Sustainable and Economic Concrete Structures</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

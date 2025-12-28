@@ -16,7 +16,6 @@ tags:
  - reinforcement
  - robot
  - system
- - a
 
 ---
 

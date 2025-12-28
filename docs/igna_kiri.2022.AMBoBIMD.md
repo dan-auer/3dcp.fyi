@@ -12,7 +12,6 @@ tags:
  - information
  - manufacturing
  - model
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/kirichek_pavel"><b>Kirichek</b> Pavel</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Building Life-Cycle Management, pp. 77-85
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -63,10 +63,9 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a></li>
-      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPbBEa3CP/">Development of Communication Protocols between BIM Elements and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../krau_otto.2019.DPMfC3P/">Digital Process Model for Concrete 3D Printing</a></li>
       <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>

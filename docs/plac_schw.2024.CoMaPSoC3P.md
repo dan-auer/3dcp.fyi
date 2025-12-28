@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Creative Construction Conference 2024, pp. 
 
 :aca-blank:{ .lg .middle}
     [`#comparison`](keyword/comparison)

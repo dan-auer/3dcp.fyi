@@ -14,7 +14,6 @@ tags:
  - powder
  - print
  - printability
- - on
 
 ---
 
@@ -73,8 +72,6 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../pand_tay_paul_tan.2018.CCaFPo3CP/">Current Challenges and Future Potential of 3D Concrete Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../yu_sanj_du.2022.EoCMCoAB3CP/">Effects of Cement Mortar Characteristics on Aggregate-Bed 3D Concrete Printing</a></li>
     </ol>

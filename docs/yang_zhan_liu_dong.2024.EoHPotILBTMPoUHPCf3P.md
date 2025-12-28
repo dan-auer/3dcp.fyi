@@ -18,10 +18,6 @@ tags:
  - process
  - property
  - tension
- - inter
- - on
- - ultra
- - ultra
 
 ---
 
@@ -117,7 +113,6 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 370-378
 
 :aca-blank:{ .lg .middle}
     [`#admixture`](keyword/admixture)

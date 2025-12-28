@@ -15,7 +15,6 @@ tags:
  - print
  - property
  - test
- - non
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Building Materials, pp. 265-275
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -76,7 +76,7 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
-      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CbPCaTBSoAMMUXRCT/">Correlation between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
+      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CBPCaTBSoAMMUXRCT/">Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../naka_hash_sugi_kono.2024.IoPPoMPaFPo3PC/">Influence of Print Paths on Mechanical Properties and Fracture Propagation of 3D Printed Concrete</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1067-1077
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

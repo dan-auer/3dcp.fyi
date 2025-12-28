@@ -13,7 +13,6 @@ tags:
  - limestone
  - performance
  - print
- - in
 
 ---
 
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bong_nema_arun_xia.2020.EoWMFAoPo3PJAWG/">Effect of Wollastonite Micro-Fiber Addition on Properties of 3D Printable ‘Just-Add-Water’ Geopolymers</a></li>
-      <li>None</li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>

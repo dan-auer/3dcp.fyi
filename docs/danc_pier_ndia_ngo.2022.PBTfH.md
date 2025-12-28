@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/ngo_tung_tien"><b>Ngo</b> Tien</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 277-282
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)

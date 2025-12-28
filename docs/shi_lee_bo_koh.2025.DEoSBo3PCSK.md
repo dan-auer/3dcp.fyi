@@ -11,7 +11,6 @@ tags:
  - effect
  - print
  - shear
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="https://orcid.org/0000-0002-3773-7503" title="ORCID: 0000-0002-3773-7503" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Engineering Structures, pp. 557-566
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

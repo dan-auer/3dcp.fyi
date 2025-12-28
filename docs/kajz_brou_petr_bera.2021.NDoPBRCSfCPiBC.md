@@ -15,7 +15,6 @@ tags:
  - print
  - robot
  - system
- - in
 
 ---
 
@@ -84,8 +83,7 @@ tags:
       <li><a href="../../../author/vojir_martin"><b>Vojir</b> Martin</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../voji_mysl_petr_brou.2021.ANWtDSfIA/">A New Way to Design Software for Industrial Automation:<br/>3D Printer Cement Mixtures</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
-      <li>None</li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
 ???+ quote "Citations"

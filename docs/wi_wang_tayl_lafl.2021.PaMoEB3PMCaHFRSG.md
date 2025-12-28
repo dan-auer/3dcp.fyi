@@ -16,7 +16,6 @@ tags:
  - property
  - rapid
  - setting
- - a
 
 ---
 
@@ -113,7 +112,7 @@ tags:
     </ol>
 ???+ quote "Citations"
     <ol reversed>
-      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PCPMaS/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage</a></li>
+      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/rahman_m-arifur_s"><b>Rahman</b> S.</a>, <a href="../../../author/khair_sanjida"><b>Khair</b> Sanjida</a>, <a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rahm_khai_shai_sark.2025.D3PCILSaPF/">Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber:<br/>Buildability, Mechanical, and Microstructural Insights</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>
       <li><a href="../../../author/kaur_zinnia"><b>Kaur</b> Zinnia</a>, <a href="../../../author/goyal_shweta"><b>Goyal</b> Shweta</a>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b> Naveen</a>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB/">Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders</a></li>

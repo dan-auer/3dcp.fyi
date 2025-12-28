@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
@@ -20,5 +20,5 @@ search:
   <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../chen_jia_liu_zhan.2022.MAEo3PAAMwDGFC/">Mechanical Anisotropy Evolution of 3D Printed Alkali-Activated Materials with Different GGBFS-FA Combinations</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../liu_xion_chen_jia.2022.EoSCoFaHPo3PFC/">Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
-  <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+  <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
 </ol>

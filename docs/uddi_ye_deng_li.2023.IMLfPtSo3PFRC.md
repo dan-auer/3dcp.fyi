@@ -68,7 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>

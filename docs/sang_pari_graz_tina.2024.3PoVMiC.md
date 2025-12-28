@@ -12,8 +12,6 @@ tags:
  - print
  - structure
  - viscosity
- - in
- - small
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Architecture and Design for Industry 4.0, pp. 521-537
 
 :aca-blank:{ .lg .middle}
     [`#component`](keyword/component)
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/pacillo_arcangelo_gerardo"><b>Pacillo</b> Gerardo</a>, <a href="../../../author/ranocchiai_giovanna"><b>Ranocchiai</b> Giovanna</a>, <a href="../../../author/loccarini_federica"><b>Loccarini</b> Federica</a>, <a href="../../../author/fagone_mario"><b>Fagone</b> Mario</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../paci_rano_locc_fago.2021.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Technologies, Processes, Materials, and Their Applications of 3D and 4D Printing</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
-      <li>None</li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
     </ol>
 ???+ quote "Citations"

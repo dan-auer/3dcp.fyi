@@ -12,7 +12,6 @@ tags:
  - method
  - process
  - survey
- - in
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>
@@ -84,7 +82,7 @@ tags:
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/jantzen_carsten"><b>Jantzen</b> Carsten</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hack_jant_broh_gerk.2022.ACLWfQIaIPPo3PCE/">A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mawa_mabo_gerk.2022.AGIiDF/">Automatic Geometric Inspection in Digital Fabrication</a></li>
       <li><a href="../../../author/lanwer_jan-paul"><b>Lanwer</b> Jan-Paul</a>, <a href="../../../author/weigel_hendrik"><b>Weigel</b> Hendrik</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../lanw_weig_bagh_empe.2022.JPiA/">Jointing Principles in AMC:<br/>Design and Preparation of Dry Joints</a></li>
-      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALbPAfS3PCC/">A Lean-based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
+      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALBPAfS3PCC/">A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../plac_schw.2020.DoIAfC3PitCPBoFoAM/">Derivation of Integration Approaches for "Concrete 3D Printing" in the Construction Process Based on Features of Additive Manufacturing</a></li>
     </ol>
 </div>

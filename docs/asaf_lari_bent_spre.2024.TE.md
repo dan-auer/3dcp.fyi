@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 35-44
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -68,7 +69,6 @@ tags:
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../josh_poul_crav_bart.2023.EaaCMfS3P/">Earth as a Construction-Material for Sustainable 3D Printing:<br/>Rheological Aspect</a></li>
       <li><a href="../../../author/ming_coralie"><b>Ming</b> Coralie</a>, <a href="../../../author/mirjan_ammar"><b>Mirjan</b> Ammar</a>, <a href="../../../author/medina-ibanez_jesus"><b>Medina Ibáñez</b> Jesús</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ming_mirj_medi_gram.2022.IP/">Impact Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
     </ol>

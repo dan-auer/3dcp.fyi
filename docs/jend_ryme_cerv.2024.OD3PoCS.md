@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a> <a href="https://orcid.org/0000-0003-4945-1163" title="ORCID: 0000-0003-4945-1163" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 59-72
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -63,7 +64,6 @@ tags:
       <li><a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/vaitova_michaela"><b>Vaitová</b> Michaela</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../jend_cerv_vait.2019.FMoDPCSU3E/">FEM Modelling of Digitally Printed Concrete Structures Using 3D-Extrusion</a></li>
       <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../komp_marc_mont_levi.2024.FBoTDPCMiVEAaHS/">Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
 ???+ quote "Citations"

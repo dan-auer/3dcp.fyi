@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/palani_subbaiya"><b>Palani</b> Subbaiya</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Nanotechnology‐Based Additive Manufacturing, pp. 579-599
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

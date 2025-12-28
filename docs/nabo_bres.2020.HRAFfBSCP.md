@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 936-945
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -65,7 +66,6 @@ tags:
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/lydon_gearoid"><b>Lydon</b> Gearóid</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jipa_lydo_yoo_chou.2024.H/">HiRes:<br/>3D Printed Formwork for an Integrated Slab</a></li>
       <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lesc_dill.2020.STS3PFfC/">Sustainable Thin-Shell 3D Printed Formwork for Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../nabo_bres.2020.HRAFfBSCP/">High-Resolution Additive Formwork for Building-Scale Concrete Panels</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

@@ -12,7 +12,6 @@ tags:
  - potential
  - robot
  - site
- - on
 
 ---
 

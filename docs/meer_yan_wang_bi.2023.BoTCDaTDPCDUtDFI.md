@@ -12,7 +12,6 @@ tags:
  - print
  - three
  - tradition
- - under
 
 ---
 

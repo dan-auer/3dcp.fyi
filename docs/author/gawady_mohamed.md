@@ -1,12 +1,12 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
 
-# El Gawady Mohamed 
+# el Gawady Mohamed 
 
 <ol reversed>
   <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../abud_goma_ghen_feys.2025.EoFPoHCCFABAA3PM/">Evaluation of Fresh Properties of High Calcium Content Fly Ash-Based Alkali-Activated 3D-Printed Mortar</a></li>

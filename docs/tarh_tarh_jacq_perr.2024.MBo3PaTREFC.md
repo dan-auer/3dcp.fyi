@@ -11,7 +11,6 @@ tags:
  - print
  - reinforcement
  - textile
- - eco
 
 ---
 

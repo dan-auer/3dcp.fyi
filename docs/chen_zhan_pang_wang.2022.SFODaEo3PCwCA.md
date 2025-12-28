@@ -14,7 +14,6 @@ tags:
  - orientation
  - print
  - steel
- - on
 
 ---
 

@@ -15,7 +15,6 @@ tags:
  - shotcrete
  - structure
  - technology
- - a
 
 ---
 
@@ -35,6 +34,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 287-298
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -75,7 +75,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b> Alexander</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ibra_olbr_lind_gerb.2018.AAMoCSwF/">Automated Additive Manufacturing of Concrete Structures without Formwork:<br/>Concept for Path-Planning</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
@@ -143,7 +143,7 @@ tags:
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lach_dorr_klof_raat.2021.AS3P/">Automated Shotcrete 3D Printing:<br/>Printing Interruption for Extended Component Complexity</a></li>
       <li><a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ledd_bagh_klof.2022.MAoMFaSfRU/">Magnetic Alignment of Microsteel-Fibers as Strategy for Reinforcing UHPFRC</a></li>
-      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALbPAfS3PCC/">A Lean-based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
+      <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALBPAfS3PCC/">A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../dobr_busw_cava_kinn.2022.MaCB3PMiIGSUaBNC/">Milling a Cement-Based 3D Printable Mortar in Its Green State Using a Ball-Nosed Cutter</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>

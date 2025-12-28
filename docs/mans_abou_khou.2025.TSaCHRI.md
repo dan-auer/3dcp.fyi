@@ -14,8 +14,6 @@ tags:
  - robot
  - simulation
  - space
- - a
- - in
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/khoury_hiam"><b>Khoury</b> Hiam</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th Creative Construction Conference, pp. 750-755
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

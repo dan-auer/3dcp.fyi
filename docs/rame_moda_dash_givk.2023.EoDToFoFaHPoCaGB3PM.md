@@ -18,8 +18,6 @@ tags:
  - property
  - review
  - type
- - a
- - on
 
 ---
 
@@ -112,7 +110,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../nguy_pand_zhan_nguy.2021.DDCaMf3CP/">Digital Design Computing and Modelling for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_lim_moha_paul.2017.AoRCPUFCS/">Automation of Robotic Concrete Printing Using Feedback-Control-System</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>

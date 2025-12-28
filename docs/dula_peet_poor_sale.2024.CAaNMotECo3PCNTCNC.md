@@ -16,8 +16,6 @@ tags:
  - numeric
  - print
  - tube
- - nano
- - nano
 
 ---
 

@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/reiterman_pavel"><b>Reiterman</b> Pavel</a> <a href="https://orcid.org/0000-0002-3918-3647" title="ORCID: 0000-0002-3918-3647" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 24th Topical Conference on Radio-Frequency Power in Plasmas, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

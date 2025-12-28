@@ -15,8 +15,6 @@ tags:
  - print
  - printability
  - property
- - ultra
- - ultra
 
 ---
 
@@ -100,7 +98,7 @@ tags:
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -9,7 +9,6 @@ tags:
  - buildability
  - construction
  - manufacturing
- - on
 
 ---
 

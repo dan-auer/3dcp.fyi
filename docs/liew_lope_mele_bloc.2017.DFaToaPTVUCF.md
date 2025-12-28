@@ -13,7 +13,6 @@ tags:
  - test
  - thin
  - vault
- - a
 
 ---
 

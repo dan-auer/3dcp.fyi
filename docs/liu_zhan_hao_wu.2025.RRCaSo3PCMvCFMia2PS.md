@@ -16,8 +16,6 @@ tags:
  - rheology
  - stiffness
  - system
- - a
- - in
 
 ---
 

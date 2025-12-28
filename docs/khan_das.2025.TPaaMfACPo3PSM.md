@@ -15,7 +15,6 @@ tags:
  - property
  - structure
  - test
- - a
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/weinhold_joachim"><b>Weinhold</b> Joachim</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../cuev_wein_step_kim.2023.EoPPoPRMCaPoMf3CPUISaESIT/">Effect of Printing-Patterns on Pore-Related Microstructural Characteristics and Properties of Materials for 3D Concrete Printing Using In-Situ and Ex-Situ Imaging-Techniques</a></li>
       <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../han_yan_liu_huo.2022.ESoLS3PCWUAC/">Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/kothman_ivo"><b>Kothman</b> Ivo</a>, <a href="../../../author/faber_niels"><b>Faber</b> Niels</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../koth_fabe.2016.H3PTCtRotG/">How 3D Printing Technology Changes the Rules of the Game:<br/>Insights from the Construction Sector</a></li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>

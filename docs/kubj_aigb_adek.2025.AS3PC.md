@@ -12,8 +12,6 @@ tags:
  - house
  - print
  - sustainability
- - a
- - on
 
 ---
 

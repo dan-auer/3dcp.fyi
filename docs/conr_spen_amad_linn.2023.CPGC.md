@@ -15,7 +15,6 @@ tags:
  - sand
  - structure
  - support
- - a
 
 ---
 
@@ -34,6 +33,7 @@ tags:
 ,     <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 641-650
 
 :aca-blank:{ .lg .middle}
     [`#column`](keyword/column)

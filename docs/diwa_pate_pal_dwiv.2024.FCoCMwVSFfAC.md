@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/agrawal_ramakant"><b>Agrawal</b> Ramakant</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings from the International Conference on Recent Advances in Civil Engineering, pp. 191-201
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

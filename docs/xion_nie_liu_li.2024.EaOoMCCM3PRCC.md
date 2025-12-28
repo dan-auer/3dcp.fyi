@@ -13,8 +13,6 @@ tags:
  - optimization
  - print
  - rubber
- - micro
- - micro
 
 ---
 
@@ -78,7 +76,6 @@ tags:
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_tran.2022.ESo3PCMCSMRCR/">Experimental Study on 3D-Printed Cementitious Materials Containing Surface-Modified Recycled Crumb-Rubber</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../nere_krau_mech.2020.DPTfBo3PCCEV/">Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../sanj_jaya_raje.2021.VIARCf3CP/">Vibration-Induced Active Rheology-Control for 3D Concrete Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>

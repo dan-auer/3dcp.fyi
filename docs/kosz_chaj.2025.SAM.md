@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> <a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 265-272
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

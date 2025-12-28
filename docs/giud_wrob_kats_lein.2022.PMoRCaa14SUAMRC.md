@@ -13,7 +13,6 @@ tags:
  - physics
  - reinforcement
  - scale
- - a
 
 ---
 

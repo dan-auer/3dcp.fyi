@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 873-882
 
 :aca-blank:{ .lg .middle}
     [`#deposition`](keyword/deposition)
@@ -65,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../duba_bave_dirr.2019.STMWwRME/">Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../duco_carn_mesn_demo.2020.TST/">The Slug-Test:<br/>In-Line-Assessment of Yield-Stress for Extrusion-Based Additive Manufacturing</a></li>

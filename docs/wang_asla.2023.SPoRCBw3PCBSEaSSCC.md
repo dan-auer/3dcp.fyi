@@ -17,7 +17,6 @@ tags:
  - self
  - sensor
  - structure
- - self
 
 ---
 

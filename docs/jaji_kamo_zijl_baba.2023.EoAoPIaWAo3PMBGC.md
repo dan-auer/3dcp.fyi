@@ -14,7 +14,6 @@ tags:
  - permeability
  - print
  - water
- - on
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../jaji_zijl_baba.2022.FPaSEoSMFRMBGCf3CPA/">Fresh Properties and Strength Evolution of Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer Composite for 3D Concrete Printing Application</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>

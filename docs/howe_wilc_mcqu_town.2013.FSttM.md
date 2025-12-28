@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/leichty_john"><b>Leichty</b> John</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of AIAA SPACE 2013 Conference and Exposition, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -13,7 +13,6 @@ tags:
  - exploration
  - potential
  - print
- - a
 
 ---
 
@@ -80,10 +79,8 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a></li>
-      <li>None</li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
-      <li>None</li>
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../hass_bos_sale.2022.CtBPoAPHRi3PC/">Characterizing the Bond Properties of Automatically Placed Helical Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../marc_sanj.2020.BPoRBPi3CP/">Bond Properties of Reinforcing Bar Penetrations in 3D Concrete Printing</a></li>

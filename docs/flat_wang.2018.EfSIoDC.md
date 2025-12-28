@@ -7,7 +7,6 @@ description:
 tags:
  - concrete
  - digital
- - on
 
 ---
 

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#critical
+# #critical
 
 <ol reversed>
   <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>

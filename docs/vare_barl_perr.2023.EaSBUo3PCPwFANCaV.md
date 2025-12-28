@@ -13,9 +13,6 @@ tags:
  - paste
  - print
  - structure
- - nano
- - up
- - nano
 
 ---
 
@@ -89,12 +86,11 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>
-      <li>None</li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../reit_wang_rous_flat.2022.SPfCCfDF/">Slow Penetration for Characterizing Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

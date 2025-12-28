@@ -69,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dias_bran_figu_cruz.2024.TPoNFRi3PC/">The Potential of Natural Fiber-Reinforcement in 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/kladovasilakis_nikolaos"><b>Kladovasilakis</b> Nikolaos</a>, <a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a>, <a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../klad_pema_pech.2024.CADo3PCBCMRwBILS/">Computer-Aided Design of 3D Printed Clay-Based Composite Mortars Reinforced with Bio-Inspired Lattice Structures</a></li>

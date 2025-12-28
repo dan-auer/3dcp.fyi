@@ -14,7 +14,6 @@ tags:
  - print
  - simulation
  - wall
- - on
 
 ---
 

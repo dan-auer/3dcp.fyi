@@ -21,8 +21,6 @@ tags:
  - reinforcement
  - response
  - surface
- - a
- - on
 
 ---
 

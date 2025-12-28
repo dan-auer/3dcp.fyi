@@ -11,8 +11,6 @@ tags:
  - print
  - reduction
  - stair
- - a
- - in
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="https://orcid.org/0000-0002-0092-468X" title="ORCID: 0000-0002-0092-468X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 55-64
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

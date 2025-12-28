@@ -12,7 +12,6 @@ tags:
  - magnetism
  - robot
  - thin
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
     <ol>
       <li><a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ledd_bagh_klof.2022.MAoMFaSfRU/">Magnetic Alignment of Microsteel-Fibers as Strategy for Reinforcing UHPFRC</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

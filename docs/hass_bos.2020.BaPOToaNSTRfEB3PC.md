@@ -14,9 +14,6 @@ tags:
  - screw
  - test
  - type
- - a
- - on
- - out
 
 ---
 
@@ -30,6 +27,7 @@ tags:
 ,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 632-645
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

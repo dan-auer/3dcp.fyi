@@ -17,8 +17,6 @@ tags:
  - strength
  - structuration
  - yield
- - ultra
- - ultra
 
 ---
 
@@ -80,7 +78,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/boscaro_federica"><b>Boscaro</b> Federica</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../bosc_quad_wang_mant.2022.EFSoDDC/">Eco-Friendly, Set-on-Demand Digital Concrete</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
       <li><a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kana_rama_sanj.2022.SODCbAEAf3P/">Set-On Demand Concrete by Activating Encapsulated Accelerator for 3D Printing</a></li>

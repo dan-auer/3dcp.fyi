@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/yang_yuguang"><b>Yang</b> Yuguang</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 27th International Acoustic Emission Symposium and the 11th International Conference on Acoustic Emission, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

@@ -17,7 +17,6 @@ tags:
  - speed
  - structure
  - validation
- - on
 
 ---
 

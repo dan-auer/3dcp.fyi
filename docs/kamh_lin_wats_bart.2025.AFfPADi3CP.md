@@ -11,8 +11,6 @@ tags:
  - framework
  - print
  - process
- - a
- - in
 
 ---
 
@@ -83,7 +81,6 @@ tags:
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mawa_mabo_gerk.2022.AGIiDF/">Automatic Geometric Inspection in Digital Fabrication</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../mawa_mabo_gerk.2023.FEi3PoSWfTLSD/">Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data</a></li>

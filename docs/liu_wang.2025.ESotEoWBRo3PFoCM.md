@@ -14,7 +14,6 @@ tags:
  - print
  - ratio
  - water
- - on
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/wang_jie"><b>Wang</b> Jie</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Civil, Architecture and Disaster Prevention and Control, pp. 36-45
 
 :aca-blank:{ .lg .middle}
     [`#binder`](keyword/binder)

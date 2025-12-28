@@ -17,7 +17,6 @@ tags:
  - sand
  - shape
  - tool
- - in
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 17-24
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)
@@ -75,7 +75,7 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/iseman_k_emily"><b>Iseman</b> Emily</a>, <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../capu_isem_gurs.2023.MitLF/">Material in the Loop Fabrication:<br/>A Vision-Based Adaptive Clay 3D Printing Workflow on Indeterminate Sand Surfaces</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/verl_alexander"><b>Verl</b> Alexander</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kova_nist_verl_blan.2022.ZWPoLCSwWSSF/">Zero-Waste Production of Lightweight Concrete Structures with Water-Soluble Sand Formwork</a></li>
       <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>, <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>, <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../moza_bruc_clun_xie.2023.DDaFoCFfCC/">Digital Design and Fabrication of Clay Formwork for Concrete Casting</a></li>
       <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../nabo_bres.2022.AF/">Additive Formwork:<br/>Examining Design, Fabrication Space and Resolution for Bespoke Concrete Elements</a></li>

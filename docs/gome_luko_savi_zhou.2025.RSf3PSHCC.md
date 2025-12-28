@@ -14,7 +14,6 @@ tags:
  - review
  - sand
  - strain
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="https://orcid.org/0000-0003-2344-7895" title="ORCID: 0000-0003-2344-7895" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -97,7 +97,6 @@ tags:
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhou_mcge_gokc_li.2023.ABIStAAo3PECC3E/">A Bio-Inspired Solution to Alleviate Anisotropy of 3D Printed Engineered Cementitious Composites (3DP-ECC):<br/>Knitting/Tilting Filaments</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

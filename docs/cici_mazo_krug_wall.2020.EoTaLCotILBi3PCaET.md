@@ -17,9 +17,6 @@ tags:
  - print
  - temperature
  - transversal
- - in
- - inter
- - on
 
 ---
 
@@ -37,6 +34,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference on Structures in Fire, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
-      <li>None</li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>

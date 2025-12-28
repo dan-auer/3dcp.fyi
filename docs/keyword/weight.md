@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#weight
+# #weight
 
 <ol reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>

@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/andreasen_schousboe_casper"><b>Andreasen</b> Casper</a> <a href="https://orcid.org/0000-0002-9949-9782" title="ORCID: 0000-0002-9949-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceeding of International Heat-Transfer Conference 17, pp. 10
 
 :aca-blank:{ .lg .middle}
     [`#design`](keyword/design)

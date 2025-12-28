@@ -13,7 +13,6 @@ tags:
  - printability
  - recycling
  - rheology
- - on
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_tan.2019.RBoHVFAMCMSfDCA/">Rheological Behavior of High-Volume Fly-Ash Mixtures Containing Micro-Silica for Digital Construction Application</a></li>
-      <li>None</li>
       <li><a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../qian_hua_yue_feng.2022.UoRCPi3CPMtPPO/">Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../rahu_moha_schu_titt.2022.3PCwNaRCA/">3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>Rheological, Mechanical and Shrinkage Behavior</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
@@ -95,7 +93,6 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/luo_zhe"><b>Luo</b> Zhe</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF/">Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

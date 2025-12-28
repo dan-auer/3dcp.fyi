@@ -16,7 +16,6 @@ tags:
  - recommendation
  - review
  - state
- - in
 
 ---
 
@@ -88,11 +87,8 @@ tags:
       <li><a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>, <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../mart_math_bos_coen.2017.O3PCSUTO/">Optimizing 3D Printed Concrete Structures Using Topology Optimization</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_l"><b>Quispe</b> L.</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a>, <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../silv_quis_kim_naka.2019.DoaSNFRECfCAU3P/">Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
 ???+ quote "Citations"

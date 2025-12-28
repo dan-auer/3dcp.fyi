@@ -13,8 +13,6 @@ tags:
  - multi
  - print
  - reinforcement
- - in
- - multi
 
 ---
 
@@ -81,7 +79,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../jaya_raje_sanj.2022.RfC3P/">Rheometry for Concrete 3D Printing:<br/>A Review and an Experimental Comparison</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>

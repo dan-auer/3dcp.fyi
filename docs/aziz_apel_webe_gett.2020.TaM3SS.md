@@ -8,7 +8,6 @@ tags:
  - 3dcp
  - slab
  - system
- - a
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/gengnagel_christoph"><b>Gengnagel</b> Christoph</a> <a href="https://orcid.org/0000-0003-4118-3803" title="ORCID: 0000-0003-4118-3803" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2020 & 2021 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)
@@ -61,7 +61,6 @@ tags:
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/lydon_gearoid"><b>Lydon</b> Gearóid</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jipa_lydo_yoo_chou.2024.H/">HiRes:<br/>3D Printed Formwork for an Integrated Slab</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

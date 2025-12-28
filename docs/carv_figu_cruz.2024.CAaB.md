@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 96-120
 
 :aca-blank:{ .lg .middle}
     [`#ceramic`](keyword/ceramic)

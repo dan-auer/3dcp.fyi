@@ -16,9 +16,6 @@ tags:
  - point
  - print
  - three
- - inter
- - trans
- - under
 
 ---
 

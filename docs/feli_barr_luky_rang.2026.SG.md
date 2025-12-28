@@ -15,8 +15,6 @@ tags:
  - temperature
  - topology
  - wall
- - a
- - in
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Construction, Energy, Environment and Sustainability, pp. 551-559
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

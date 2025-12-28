@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/kim_sunkuk"><b>Kim</b> Sunkuk</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 5th World Congress on Civil, Structural, and Environmental Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

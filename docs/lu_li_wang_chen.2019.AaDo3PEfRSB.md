@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/chen_hongwei"><b>Chen</b> Hongwei</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 2019 Chinese Control And Decision Conference (CCDC), pp. 1889-1892
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

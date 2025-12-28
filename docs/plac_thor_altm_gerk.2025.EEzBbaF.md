@@ -19,6 +19,7 @@ tags:
 ,     <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Tagungsband zum 34. BBB Assistent*innen-Tagung, pp. 238–253
 
 :aca-blank:{ .lg .middle}
 

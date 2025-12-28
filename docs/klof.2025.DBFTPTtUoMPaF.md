@@ -14,7 +14,6 @@ tags:
  - practice
  - process
  - reflection
- - a
 
 ---
 
@@ -74,7 +73,6 @@ tags:
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/lehmberg_sven"><b>Lehmberg</b> Sven</a>, <a href="../../../author/budelmann_harald"><b>Budelmann</b> Harald</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../ledd_lehm_bude_klof.2019.RAMAoMFiTWUC/">Robot-Assisted, Magnetic Alignment of Microsteel Fibers in Thin-Walled UHPFRC Components</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

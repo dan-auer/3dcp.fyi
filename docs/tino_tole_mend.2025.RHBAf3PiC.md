@@ -12,7 +12,6 @@ tags:
  - hardened
  - print
  - property
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 3-12
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)
@@ -72,7 +72,7 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/gouvea_lucas"><b>Gouvêa</b> Lucas</a>, <a href="../../../author/cassia-magalhaes-martins_karenn"><b>Cássia Magalhães Martins</b> Karenn</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS/">The Use of Rice Husk Particles to Adjust the Rheological Properties of 3D Printable Cementitious Composites Through Water Sorption</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../vare_tino_mend_tole.2024.3PCBCRwSF/">3D Printable Cement-Based Composites Reinforced with Sisal-Fibers:<br/>Rheology, Printability and Hardened Properties</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

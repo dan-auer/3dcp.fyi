@@ -12,8 +12,6 @@ tags:
  - print
  - ratio
  - superplasticizer
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - International Conference on Civil Engineering Innovative Development in Engineering Advances, pp. 477-484
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

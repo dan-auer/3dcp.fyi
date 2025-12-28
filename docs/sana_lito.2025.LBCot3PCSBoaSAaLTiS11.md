@@ -16,9 +16,6 @@ tags:
  - static
  - structure
  - test
- - a
- - in
- - on
 
 ---
 
@@ -97,7 +94,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ma_li_wang_zhan.2020.RTQoFaHMPf3PMbIwPT/">Real-Time Quantification of Fresh and Hardened Mechanical Property for 3D Printing Material by Intellectualization with Piezoelectric Transducers</a></li>
       <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/vidovic_milica"><b>Vidović</b> Milica</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a>, <a href="../../../author/dragas_jelena"><b>Dragaš</b> Jelena</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mitr_vido_ignj_drag.2024.ETo3PCTG/">Experimental Testing of 3D Printed Concrete Truss-Girder</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.AGSo3PB/">A Global Snapshot of 3D Printed Buildings:<br/>Uncovering Robotic-Oriented Fabrication-Strategies</a></li>
@@ -107,7 +103,6 @@ tags:
       <li><a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../shah_ghol_kash_ngo.2021.SBoC3PM/">Shrinkage Behavior of Cementitious 3D Printing Materials:<br/>Effect of Temperature and Relative Humidity</a></li>
       <li><a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>, <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_wagn_khan_das.2024.SPoLS3PWStACL/">Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>

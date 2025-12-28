@@ -14,7 +14,6 @@ tags:
  - mortar
  - print
  - wall
- - under
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> <a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 646-657
 
 :aca-blank:{ .lg .middle}
     [`#axis`](keyword/axis)

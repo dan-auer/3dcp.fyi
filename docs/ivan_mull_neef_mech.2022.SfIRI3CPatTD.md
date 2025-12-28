@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 23-34
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -95,7 +96,6 @@ tags:
       <li><a href="../../../author/wang_weiqiang"><b>Wang</b> Weiqiang</a>, <a href="../../../author/konstantinidis_nikolaos"><b>Konstantinidis</b> Nikolaos</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wang_kons_aust_busw.2020.FBoAGTR3PCB/">Flexural Behavior of AR-Glass-Textile-Reinforced 3D Printed Concrete Beams</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 111-119
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -69,7 +70,6 @@ tags:
     <ol>
       <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a>, <a href="../../../author/bullard_w_jeffrey"><b>Bullard</b> Jeffrey</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../bier_bull_sant_bant.2017.Cit2C/">Cements in the 21st Century:<br/>Challenges, Perspectives, and Opportunities</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
-      <li>None</li>
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hoja_sedg_li_mema.2024.FSo3PCB/">Flexural Strength of 3D Printed Concrete Beams:<br/>Exploring Barbed-Wire Reinforcement and Cross-Sectional Geometry</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../wats_meis_bile_duar.2019.LSAMoCUaSARAfAHC/">Large-Scale Additive Manufacturing of Concrete Using a Six-Axis Robotic Arm for Autonomous Habitat Construction</a></li>

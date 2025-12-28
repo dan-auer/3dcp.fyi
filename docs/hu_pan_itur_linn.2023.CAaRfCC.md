@@ -12,7 +12,6 @@ tags:
  - development
  - innovation
  - robot
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/bock_thomas"><b>Bock</b> Thomas</a> <a href="https://orcid.org/0000-0002-1278-7440" title="ORCID: 0000-0002-1278-7440" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

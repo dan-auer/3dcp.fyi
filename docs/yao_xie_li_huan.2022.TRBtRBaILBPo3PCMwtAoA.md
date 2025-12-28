@@ -16,7 +16,6 @@ tags:
  - property
  - relation
  - rheology
- - inter
 
 ---
 
@@ -90,7 +89,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/he_hui"><b>He</b> Hui</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../pan_jian_he_wang.2021.EoSBUoILBSo3PCM/">Effect of Structural Build-Up on Inter-Layer Bond Strength of 3D Printed Cement Mortars</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../qian_schu.2018.EToFCPwNCiPoPESP/">Enhancing Thixotropy of Fresh Cement-Pastes with Nano-Clay in Presence of Polycarboxylate-Ether Superplasticizer (PCE)</a></li>

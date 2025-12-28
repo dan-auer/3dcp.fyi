@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b> Saad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking, pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#algorithm`](keyword/algorithm)

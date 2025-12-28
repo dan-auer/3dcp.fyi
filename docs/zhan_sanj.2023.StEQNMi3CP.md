@@ -11,7 +11,6 @@ tags:
  - nozzle
  - print
  - quick
- - in
 
 ---
 
@@ -79,8 +78,6 @@ tags:
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../marc_sanj.2021.RMf3CPUPCBP/">Reinforcement Method for 3D Concrete Printing Using Paste-Coated Bar Penetrations</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>

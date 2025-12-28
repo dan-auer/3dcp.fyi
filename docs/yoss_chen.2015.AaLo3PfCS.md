@@ -20,6 +20,7 @@ tags:
 ,     <a href="../../../author/chen_an"><b>Chen</b> An</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2015 Conference on Autonomous and Robotic Construction of Infrastructure, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

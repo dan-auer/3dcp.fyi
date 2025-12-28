@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing Technology, pp. 281-306
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

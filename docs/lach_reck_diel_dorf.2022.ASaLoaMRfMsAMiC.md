@@ -14,13 +14,10 @@ tags:
  - robot
  - sensor
  - step
- - a
- - in
- - multi
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2022/453/2022/isprs-archives-XLIII-B1-2022-453-2022.pdf) Autonomous Sensing and Localization of a Mobile Robot for Multi-step Additive Manufacturing in Construction ([2022-05](date/2022/05))
+#[:aca-openaccess:{ .xgreen }](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2022/453/2022/isprs-archives-XLIII-B1-2022-453-2022.pdf) Autonomous Sensing and Localization of a Mobile Robot for Multi-Step Additive Manufacturing in Construction ([2022-05](date/2022/05))
 <a href="https://doi.org/10.5194/isprs-archives-xliii-b1-2022-453-2022" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.5194/isprs-archives-xliii-b1-2022-453-2022</a>
 
 -------------------------
@@ -49,7 +46,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Autonomous%20Sensing%20and%20Localization%20of%20a%20Mobile%20Robot%20for%20Multi-step%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Autonomous%20Sensing%20and%20Localization%20of%20a%20Mobile%20Robot%20for%20Multi-Step%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131948592&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000855582700061" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5194/isprs-archives-xliii-b1-2022-453-2022" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

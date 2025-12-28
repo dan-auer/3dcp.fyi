@@ -17,9 +17,6 @@ tags:
  - print
  - property
  - structure
- - on
- - ultra
- - ultra
 
 ---
 
@@ -84,7 +81,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../arun_nema_rana_khay.2022.DFoEFUHPFRC/">Digital Fabrication of Eco-Friendly Ultra-High-Performance Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bai_wang_wang_ma.2022.APSiaD3PSfUHPCIPRCC/">Assessing Printing Synergism in a Dual 3D Printing System for Ultra-High-Performance Concrete In-Process Reinforced Cementitious Composite</a></li>

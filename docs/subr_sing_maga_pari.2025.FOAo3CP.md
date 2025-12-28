@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

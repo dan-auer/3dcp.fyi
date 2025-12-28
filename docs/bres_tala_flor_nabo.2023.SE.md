@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 539-548
 
 :aca-blank:{ .lg .middle}
     [`#camera`](keyword/camera)

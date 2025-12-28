@@ -16,8 +16,6 @@ tags:
  - print
  - production
  - unit
- - a
- - pre
 
 ---
 
@@ -87,12 +85,11 @@ tags:
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
-      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PCPMaS/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage</a></li>
+      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP/">Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing:<br/>A Meta-Analysis Approach</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xue_wang_lee_huan.2025.EtMSTMaMABo3PCRwCSWaMF/">Examining the Multi-Scale Toughening Mechanisms and Mechanical Anisotropic Behavior of 3D Printed Concrete Reinforced with Calcium Sulfate Whiskers and Mixed Fibers</a></li>

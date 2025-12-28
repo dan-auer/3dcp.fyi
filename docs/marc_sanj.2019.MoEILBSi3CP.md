@@ -13,8 +13,6 @@ tags:
  - method
  - print
  - strength
- - in
- - inter
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 148-156
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)

@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/pakhomova_ekaterina"><b>Pakhomova</b> Ekaterina</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -19,7 +19,6 @@ tags:
  - selective
  - temperature
  - wire
- - on
 
 ---
 
@@ -85,7 +84,6 @@ tags:
       <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/kofler_nadine"><b>Kofler</b> Nadine</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../matt_kofl_kran_wege.2020.ILRCwFRfELME/">Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/riegger_felix"><b>Riegger</b> Felix</a>, <a href="../../../author/zah_f_michael"><b>Zäh</b> Michael</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../rieg_zah.2022.AMoSR/">Additive Manufacturing of Steel-Reinforcements:<br/>Integration of WAAM Reinforcements in Particle-Bed 3D Printing with Selective Cement-Paste-Intrusion</a></li>
-      <li>None</li>
       <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../stra_wege_matt_kran.2022.CWaAAMaSPIfAMSC/">Combining Wire and Arc Additive Manufacturing and Selective Paste-Intrusion for Additively Manufactured Structural Concrete</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a></li>
     </ol>

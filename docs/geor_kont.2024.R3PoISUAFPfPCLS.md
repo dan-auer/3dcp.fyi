@@ -14,7 +14,6 @@ tags:
  - robot
  - structure
  - surface
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

@@ -9,7 +9,6 @@ tags:
  - post
  - print
  - tension
- - post
 
 ---
 
@@ -35,6 +34,7 @@ tags:
 ,     <a href="../../../author/waligun_blaise"><b>Waligun</b> Blaise</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2024, pp. 292-301
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

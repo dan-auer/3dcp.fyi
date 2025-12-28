@@ -12,9 +12,6 @@ tags:
  - material
  - print
  - property
- - a
- - in
- - on
 
 ---
 
@@ -29,6 +26,7 @@ tags:
 ,     <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Additive Manufacturing, pp. 133-147
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#pultrusion
+# #pultrusion
 
 <ol reversed>
   <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bono_demo_duco_mesn.2024.LS3PoaSSRbtFBPP/">Large-Scale 3D Printing of a Shell Structure Reinforced by the Flow-Based Pultrusion Process</a></li>

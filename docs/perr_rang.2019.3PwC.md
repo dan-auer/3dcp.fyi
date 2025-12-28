@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing of Concrete, pp. 125-144
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -62,7 +63,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
-      <li>None</li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../duba_bave_dirr.2018.DoSTBIWfRFiC/">Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>

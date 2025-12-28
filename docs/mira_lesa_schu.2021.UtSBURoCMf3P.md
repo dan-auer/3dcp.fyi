@@ -11,7 +11,6 @@ tags:
  - print
  - rate
  - structure
- - up
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 75th RILEM Annual Week 2021, pp. 415-424
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -67,7 +67,6 @@ tags:
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
       <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/duda_pedro"><b>Duda</b> Pedro</a>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b> Emílio</a>, <a href="../../../author/paiva_dm_maria"><b>Paiva</b> Maria</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../mend_duda_silv_paiv.2019.NPaSBAf3PwPCP/">Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes</a></li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../moei_hoss_yahi.2020.EotRMtEtBUoCMUf3P/">Effectiveness of the Rheometric Methods to Evaluate the Build-Up of Cementitious Mortars Used for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nere_beig_fata_mech.2019.SBAfMSBUoCPitCoDC/">Strain-Based Approach for Measuring Structural Build-Up of Cement-Pastes in the Context of Digital Construction</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/he_hui"><b>He</b> Hui</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../pan_jian_he_wang.2021.EoSBUoILBSo3PCM/">Effect of Structural Build-Up on Inter-Layer Bond Strength of 3D Printed Cement Mortars</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>

@@ -14,7 +14,6 @@ tags:
  - material
  - printability
  - setting
- - on
 
 ---
 

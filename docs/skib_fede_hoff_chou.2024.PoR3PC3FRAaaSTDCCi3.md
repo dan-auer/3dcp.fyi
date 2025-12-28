@@ -15,8 +15,6 @@ tags:
  - print
  - recycling
  - strategy
- - a
- - in
 
 ---
 
@@ -79,7 +77,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>

@@ -14,7 +14,6 @@ tags:
  - print
  - selective
  - structure
- - multi
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../aram_cald_puen.2023.WJPo3PCBSUFL/">Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading</a></li>
       <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/ameri_shaghayegh"><b>Ameri</b> Shaghayegh</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bagh_ledd_amer_klof.2023.EaNAoNCDCCPoRCMT/">Experimental and Numerical Assessments of New Concrete Dry Connections Concerning Potentials of Robotic CNC Manufacturing Technique</a></li>
-      <li>None</li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>

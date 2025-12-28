@@ -15,7 +15,6 @@ tags:
  - spray
  - strength
  - ternary
- - inter
 
 ---
 
@@ -90,7 +89,6 @@ tags:
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ma_zhan_jia_liu.2022.EoDEoMPIRaPSo3PC/">Effect of Drying Environment on Mechanical Properties, Internal RH and Pore-Structure of 3D Printed Concrete</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>

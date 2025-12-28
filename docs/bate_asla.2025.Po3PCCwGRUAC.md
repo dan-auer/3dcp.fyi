@@ -12,7 +12,6 @@ tags:
  - performance
  - print
  - rebar
- - under
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
 ???+ quote "Citations"

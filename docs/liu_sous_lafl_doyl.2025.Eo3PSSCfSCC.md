@@ -12,7 +12,6 @@ tags:
  - self
  - sensor
  - smart
- - self
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/zeng_biqing"><b>Zeng</b> Biqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../he_li_chow_zeng.2022.ItILSo3PCwTLI/">Increasing the Inter-Layer Strength of 3D Printed Concrete with Tooth-Like Interface:<br/>An Experimental and Theoretical Investigation</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/seylabi_elnaz"><b>Seylabi</b> Elnaz</a>, <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kaze_seyl_eken.2022.C3P/">Concrete 3D Printing:<br/>Challenges and Opportunities for the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/ko_chien-ho"><b>Ko</b> Chien-Ho</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../ko.2022.CaLoC3PiA/">Constraints and Limitations of Concrete 3D Printing in Architecture</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_lafl_ales_uber.2024.3PSSCCUGaCMF/">3D Printed Self-Sensing Cementitious Composites Using Graphite and Carbon-Micro-Fibers</a></li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/cai_bin"><b>Cai</b> Bin</a>, <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_lafl_cai_lyu.2024.Io3PSSUCUGaHCM/">Investigation of 3D Printed Self-Sensing UHPC Composites Using Graphite and Hybrid Carbon Microfibers</a></li>

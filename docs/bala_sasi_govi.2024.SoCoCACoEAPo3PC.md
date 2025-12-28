@@ -14,7 +14,6 @@ tags:
  - early
  - printability
  - property
- - on
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a></li>
       <li><a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b> M.</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sasi_bala_sent_govi.2023.EoCACotRaBPo3PC/">Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
     </ol>
 ???+ quote "Citations"

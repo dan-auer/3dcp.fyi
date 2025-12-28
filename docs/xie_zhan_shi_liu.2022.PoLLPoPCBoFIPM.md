@@ -16,7 +16,6 @@ tags:
  - prediction
  - property
  - pump
- - on
 
 ---
 
@@ -93,7 +92,7 @@ tags:
       <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/ding_faxing"><b>Ding</b> Faxing</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../xie_liu_ding_zhan.2023.CaMotPMSttSFoCFUP/">Characteristics and Mechanism of the Particle-Migration Subject to the Shear Flow of Concrete Flow Under Pressure</a></li>
       <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a></li>
       <li><a href="../../../author/cui_dong"><b>Cui</b> Dong</a>, <a href="../../../author/wu_yingxuan"><b>Wu</b> Yingxuan</a>, <a href="../../../author/xie_xiaoying"><b>Xie</b> Xiaoying</a>, <a href="../../../author/tian_guanfei"><b>Tian</b> Guanfei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../cui_wu_xie_tian.2023.IotMSoa3PMTaNLST/">Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography</a></li>
-      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDbMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
     </ol>
 </div>

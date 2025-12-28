@@ -21,6 +21,7 @@ tags:
       <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Women in 3D Printing, pp. 71-85
 
 :aca-blank:{ .lg .middle}
     [`#big`](keyword/big)

@@ -14,7 +14,6 @@ tags:
  - quality
  - real
  - time
- - a
 
 ---
 
@@ -34,6 +33,7 @@ tags:
 ,     <a href="../../../author/pereira_fernandes_pedro"><b>Pereira</b> Pedro</a> <a href="https://orcid.org/0000-0003-3456-0068" title="ORCID: 0000-0003-3456-0068" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 223-231
 
 :aca-blank:{ .lg .middle}
     [`#case`](keyword/case)

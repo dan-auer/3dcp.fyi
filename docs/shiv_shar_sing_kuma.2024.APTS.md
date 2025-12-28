@@ -11,8 +11,6 @@ tags:
  - investigation
  - path
  - print
- - a
- - in
 
 ---
 
@@ -68,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahi_ogulcan"><b>Ahi</b> Oğulcan</a>, <a href="../../../author/ertunc_ozgur"><b>Ertunç</b> Özgür</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ahi_ertu_bund_bebe.2024.AFRCoEf3CPIRP/">Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters</a></li>
@@ -102,7 +99,7 @@ tags:
       <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../khan_koc.2022.NMaSfEB3CP/">Numerical Modelling and Simulation for Extrusion-Based 3D Concrete Printing:<br/>The Underlying Physics, Potential, and Challenges</a></li>
-      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CbTBaBf3CP/">Correlation between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
       <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../li_hao_li_xiao.2023.DoCI3PC/">Development of CO2-Integrated 3D Printing Concrete</a></li>
       <li><a href="../../../author/li_zihan"><b>Li</b> Zihan</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/cheng_xiang"><b>Cheng</b> Xiang</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_liu_nie_chen.2024.MPoCRwHPMPf3CP/">Mechanical Properties of Concrete Reinforced with High-Performance Micro-Particles for 3D Concrete Printing</a></li>

@@ -1,12 +1,12 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
 
-# Al Jassmi Hamad 
+# al Jassmi Hamad 
 
 <ol reversed>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_jass_liu_wang.2024.AIBMRi3PC/">Artificial Intelligence-Based Microcracks Research in 3D Printing Concrete</a></li>

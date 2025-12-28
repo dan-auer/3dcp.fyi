@@ -8,7 +8,6 @@ tags:
  - advance
  - engineered
  - manufacturing
- - in
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/lee_sang-min"><b>Lee</b> Sang-Min</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rehm_lee_kim.2020.UoMSWIAi3PC/">Use of Municipal Solid-Waste Incineration-Ash in 3D Printable Concrete</a></li>

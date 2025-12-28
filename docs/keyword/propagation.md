@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#propagation
+# #propagation
 
 <ol reversed>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>

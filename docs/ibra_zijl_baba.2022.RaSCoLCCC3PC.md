@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 1626-1629
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

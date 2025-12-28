@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#control`](keyword/control)

@@ -11,7 +11,6 @@ tags:
  - printability
  - sustainability
  - waste
- - on
 
 ---
 
@@ -24,6 +23,7 @@ tags:
       <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Implications of Industry 5.0 on Environmental Sustainability, pp. 156-191
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

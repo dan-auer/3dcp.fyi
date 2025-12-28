@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="https://orcid.org/0000-0001-9326-802X" title="ORCID: 0000-0001-9326-802X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 3-11
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -66,7 +67,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
-      <li>None</li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/kothman_ivo"><b>Kothman</b> Ivo</a>, <a href="../../../author/faber_niels"><b>Faber</b> Niels</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../koth_fabe.2016.H3PTCtRotG/">How 3D Printing Technology Changes the Rules of the Game:<br/>Insights from the Construction Sector</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>

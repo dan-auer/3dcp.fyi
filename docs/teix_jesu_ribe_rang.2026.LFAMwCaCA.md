@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Large Format Additive Manufacturing, pp. 245-268
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -68,11 +69,9 @@ tags:
     <ol>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/seshadri_bharath"><b>Seshadri</b> Bharath</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lesc_chei_picc_sesh.2023.3PF/">3D Printing Facades:<br/>Design, Fabrication, and Assessment Methods</a></li>
       <li><a href="../../../author/ozalp_fatih"><b>Özalp</b> Fatih</a>, <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b> Halit</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ozal_ylm.2020.FaHPo3HSPCaIRA/">Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>

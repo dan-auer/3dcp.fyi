@@ -9,8 +9,6 @@ tags:
  - digital
  - micro
  - print
- - micro
- - micro
 
 ---
 
@@ -24,6 +22,7 @@ tags:
 ,     <a href="../../../author/asta_c_j"><b>dall Asta</b> J.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 1405-1412
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

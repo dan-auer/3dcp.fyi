@@ -12,7 +12,6 @@ tags:
  - grade
  - model
  - print
- - in
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

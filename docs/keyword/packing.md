@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#packing
+# #packing
 
 <ol reversed>
   <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pari_sing_kama_subr.2024.AoPoCBoPoA/">Assessment of Printability of Concrete Based on Packing of Aggregates</a></li>

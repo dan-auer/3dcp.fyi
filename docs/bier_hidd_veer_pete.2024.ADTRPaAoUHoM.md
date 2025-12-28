@@ -12,11 +12,10 @@ tags:
  - mars
  - production
  - robot
- - on
 
 ---
 
-#:aca-closedaccess:{ .xred '} Advancing Design-To-Robotic-Production and Assembly of Underground Habitats on Mars ([2024-04](date/2024/04))
+#:aca-closedaccess:{ .xred '} Advancing Design-to-Robotic-Production and Assembly of Underground Habitats on Mars ([2024-04](date/2024/04))
 <a href="https://doi.org/10.1007/978-3-031-50081-7_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1007/978-3-031-50081-7_2</a>
 
 -------------------------
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/verma_maneesh"><b>Verma</b> Maneesh</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Adaptive On- and Off-Earth Environments, pp. 21-38
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -44,7 +44,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Design-To-Robotic-Production%20and%20Assembly%20of%20Underground%20Habitats%20on%20Mars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Design-to-Robotic-Production%20and%20Assembly%20of%20Underground%20Habitats%20on%20Mars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-50081-7_2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

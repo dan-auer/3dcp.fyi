@@ -15,7 +15,6 @@ tags:
  - structure
  - technology
  - without
- - a
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
@@ -18,7 +18,7 @@ search:
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../plac_schw.2022.APSotIoRSoC3PitCI/">A Preliminary Study of the Impact of Robotic Systems on Concrete 3D Printing in the Construction Industry</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/bahrens_meike"><b>Bährens</b> Meike</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../klof_dorf_bahr_diel.2022.TRIotST2A/">The Research Infrastructure of the SFB TRR 277 AMC:<br/>Additive Manufacturing in Construction</a></li>
-  <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALbPAfS3PCC/">A Lean-based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
+  <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALBPAfS3PCC/">A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../plac_schw.2020.DoIAfC3PitCPBoFoAM/">Derivation of Integration Approaches for "Concrete 3D Printing" in the Construction Process Based on Features of Additive Manufacturing</a></li>
   <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../mabo_gerk_hack_broh.2020.CSMftIoAMitCP/">Current Surveying Methods for the Integration of Additive Manufacturing in the Construction Process</a></li>
 </ol>

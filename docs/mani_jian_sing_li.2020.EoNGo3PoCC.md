@@ -16,7 +16,6 @@ tags:
  - print
  - property
  - quantity
- - on
 
 ---
 
@@ -75,20 +74,15 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/masia_lorenzo"><b>Masia</b> Lorenzo</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../lao_li_masi_tan.2017.AREi3PfBaCbEIoND/">Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
 ???+ quote "Citations"

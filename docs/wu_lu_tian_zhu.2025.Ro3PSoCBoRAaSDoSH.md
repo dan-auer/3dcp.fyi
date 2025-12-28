@@ -14,7 +14,6 @@ tags:
  - robot
  - section
  - structure
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/an_haibo"><b>An</b> Haibo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Research and Application of High-Performance Concrete, pp. 393-402
 
 :aca-blank:{ .lg .middle}
     [`#arm`](keyword/arm)

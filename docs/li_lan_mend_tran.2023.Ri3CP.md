@@ -10,7 +10,6 @@ tags:
  - print
  - progress
  - robot
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Automation in Construction Toward Resilience, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#challenge`](keyword/challenge)

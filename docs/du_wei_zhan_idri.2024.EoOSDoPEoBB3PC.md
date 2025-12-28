@@ -14,7 +14,6 @@ tags:
  - performance
  - print
  - shell
- - on
 
 ---
 

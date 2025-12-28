@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#content
+# #content
 
 <ol reversed>
   <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
@@ -38,5 +38,5 @@ search:
   <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
   <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/back_daniel"><b>Back</b> Daniel</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../matt_back_wege_kran.2020.EoCTaLPCoEoLC/">Effect of Cement-Type and Limestone-Powder-Content on Extrudability of Lightweight Concrete</a></li>
   <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../moha_rahu_titt_schu.2020.EtIoACoPo3PC/">Evaluating the Influence of Aggregate Content on Pumpability of 3D Printable Concrete</a></li>
-  <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+  <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
 </ol>

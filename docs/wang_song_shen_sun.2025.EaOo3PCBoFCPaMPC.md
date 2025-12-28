@@ -15,9 +15,6 @@ tags:
  - porosity
  - print
  - printability
- - micro
- - on
- - micro
 
 ---
 
@@ -101,11 +98,10 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wu_liu_bai_liu.2024.EoTIotILAo3PCwRS/">Effect of Time Interval on the Inter-Layer Adhesion of 3D Printed Concrete with Recycled Sand:<br/>Multi-Factor Influencing Mechanisms and Superabsorbent Polymer Enhancement</a></li>
       <li><a href="../../../author/zaid_osama"><b>Zaid</b> Osama</a>, <a href="../../../author/ouni_hechmi_mohamed"><b>Ouni</b> Mohamed</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../zaid_ouni.2024.Ai3PoCM/">Advancements in 3D Printing of Cementitious Materials:<br/>A Review of Mineral Additives, Properties, and Systematic Developments</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -9,7 +9,6 @@ tags:
  - implication
  - print
  - supply
- - on
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/soto_garcia_borja"><b>de Soto</b> Borja</a> <a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1051-1063
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

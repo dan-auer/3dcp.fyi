@@ -14,8 +14,6 @@ tags:
  - performance
  - print
  - temperature
- - ultra
- - ultra
 
 ---
 
@@ -131,6 +129,6 @@ tags:
       <li><a href="../../../author/sun_houchao"><b>Sun</b> Houchao</a>, <a href="../../../author/li_furong"><b>Li</b> Furong</a>, <a href="../../../author/shi_feiting"><b>Shi</b> Feiting</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sun_li_shi.2023.ESoDMPo3PCBMUSTAHT/">Experimental Study on Dynamic Mechanical Properties of 3D Printed Cement-Based Materials Under Splitting Tension After High Temperature</a></li>
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a></li>
-      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDbMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
     </ol>
 </div>

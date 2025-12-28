@@ -18,7 +18,6 @@ tags:
  - property
  - recycling
  - temperature
- - on
 
 ---
 

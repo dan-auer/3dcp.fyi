@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#consumption
+# #consumption
 
 <ol reversed>
   <li><a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_du_teng_weng.2025.ECMfaRAi3CP/">Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing</a></li>

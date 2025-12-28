@@ -19,7 +19,6 @@ tags:
  - reduction
  - structure
  - temperature
- - on
 
 ---
 

@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> <a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2023 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -67,7 +68,6 @@ tags:
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duar_duar_brow_mema.2024.DfEASPo3PCS/">Design for Early-Age Structural Performance of 3D Printed Concrete Structures:<br/>A Parametric Numerical Modeling Approach</a></li>
-      <li>None</li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wan_wang_ma.2022.CaAPPBoTMf3CP/">Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>

@@ -15,7 +15,6 @@ tags:
  - quality
  - relation
  - scale
- - in
 
 ---
 

@@ -13,7 +13,6 @@ tags:
  - pattern
  - print
  - structure
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/sun_xiao"><b>Sun</b> Xiao</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 26-31
 
 :aca-blank:{ .lg .middle}
     [`#bearing`](keyword/bearing)

@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/agee_philip"><b>Agee</b> Philip</a> <a href="https://orcid.org/0000-0001-6299-3042" title="ORCID: 0000-0001-6299-3042" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century, pp. 310-324
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -72,7 +73,6 @@ tags:
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b> Birru</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../rehm_mele_kim.2023.SoD3CPCaPOoSAoIHP/">Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>
     </ol>

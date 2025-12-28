@@ -12,7 +12,6 @@ tags:
  - physics
  - print
  - property
- - on
 
 ---
 

@@ -14,7 +14,6 @@ tags:
  - potential
  - print
  - rheology
- - in
 
 ---
 
@@ -63,8 +62,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    This research presents a rheological characterization approach to assess the suitability for pastes of alkaline-activated cements of metakaolin and limestone for its potential application in 3D printing. This evaluation was based on the influence of the chemical composition; therefore, an experimental design was used in which the factors were the ratios of silica to alumina (levels: 3.0, 3.3, 3.5, 3.9, 4.1), sodium oxide to alumina (level: 0.9) and water to binder (level: 0.23), while, flow, extrudability, flow time and buildability were the response variables. The results showed that a sigmoidal trend was observed ­(R2 > 92.5%) in which the lowest level of the silica-to-alumina ratio of 3.0 was associated with a low flow value of 58%, short flow time of 9 min, poor extrudability and no buildability; however, the opposite trend was observed as the silica-to-alumina ratio increased. Consequently, a cementitious paste related to the ratios of silica to alumina of 4.1, sodium to oxide of 0.94 and water to binder of 0.23 was determined as an optimum mixture in order to stablish a starting point for the design of mixture for 3D printing applications. The contributions of this study on rheological behavior promote the advancement of sustainable construction technologies and materials.
-Graphic abstract
+    This research presents a rheological characterization approach to assess the suitability for pastes of alkaline-activated cements of metakaolin and limestone for its potential application in 3D printing. This evaluation was based on the influence of the chemical composition; therefore, an experimental design was used in which the factors were the ratios of silica to alumina (levels: 3.0, 3.3, 3.5, 3.9, 4.1), sodium oxide to alumina (level: 0.9) and water to binder (level: 0.23), while, flow, extrudability, flow time and buildability were the response variables. The results showed that a sigmoidal trend was observed ­(R2 > 92.5%) in which the lowest level of the silica-to-alumina ratio of 3.0 was associated with a low flow value of 58%, short flow time of 9 min, poor extrudability and no buildability; however, the opposite trend was observed as the silica-to-alumina ratio increased. Consequently, a cementitious paste related to the ratios of silica to alumina of 4.1, sodium to oxide of 0.94 and water to binder of 0.23 was determined as an optimum mixture in order to stablish a starting point for the design of mixture for 3D printing applications. The contributions of this study on rheological behavior promote the advancement of sustainable construction technologies and materials.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
@@ -74,7 +72,6 @@ Graphic abstract
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>
       <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
 ???+ quote "Citations"

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/hunka_petr"><b>Hunka</b> Petr</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 IABSE Symposium, pp. 2116-2123
 
 :aca-blank:{ .lg .middle}
     [`#bridge`](keyword/bridge)

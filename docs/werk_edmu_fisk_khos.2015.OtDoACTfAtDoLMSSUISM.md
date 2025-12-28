@@ -15,8 +15,6 @@ tags:
  - structure
  - surface
  - technology
- - in
- - on
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of AIAA SPACE 2015 Conference and Exposition, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -66,8 +65,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    For long-duration missions on other planetary bodies, the use of in-situ materials will become increasingly critical. As human presence on these bodies expands, so must the breadth of the structures required to accommodate them including habitats, laboratories, berms, radiation shielding for natural radiation and surface reactors, garages, solar storm shelters, greenhouses, etc. Planetary surface structure manufacturing and assembly technologies that incorporate in-situ resources provide options for autonomous, affordable, pre-positioned environments with radiation shielding features and protection from micrometeorites, exhaust plume debris, and other hazards. The ability to use in-situ materials to construct these structures will provide a benefit in the reduction of upmass that would otherwise make long-term Moon or Mars structures cost prohibitive. The ability to fabricate structures in situ brings with it the ability to repair these structures, which allows for the self-sufficiency and sustainability necessary for long-duration habitation.
-Previously, under the auspices of the MSFC In-Situ Fabrication and Repair (ISFR) project and more recently, under the jointly-managed MSFC/KSC Additive Construction with Mobile Emplacement (ACME) project, the MSFC Surface Structures Group has been developing materials and construction technologies to support future planetary habitats with in-situ resources. One such additive construction technology is known as Contour Crafting. This paper presents the results to date of these efforts, including development of novel nozzle concepts for advanced layer deposition using this process. Conceived initially for rapid development of cementitious structures on Earth, it also lends itself exceptionally well to the automated fabrication of planetary surface structures using minimally processed regolith as aggregate and binders developed from in-situ materials as well. This process has been used successfully in the fabrication of construction elements using lunar regolith simulant and Mars regolith simulant, both with various binder materials. Future planned activities will be discussed as well.
+    For long-duration missions on other planetary bodies, the use of in-situ materials will become increasingly critical. As human presence on these bodies expands, so must the breadth of the structures required to accommodate them including habitats, laboratories, berms, radiation shielding for natural radiation and surface reactors, garages, solar storm shelters, greenhouses, etc. Planetary surface structure manufacturing and assembly technologies that incorporate in-situ resources provide options for autonomous, affordable, pre-positioned environments with radiation shielding features and protection from micrometeorites, exhaust plume debris, and other hazards. The ability to use in-situ materials to construct these structures will provide a benefit in the reduction of upmass that would otherwise make long-term Moon or Mars structures cost prohibitive. The ability to fabricate structures in situ brings with it the ability to repair these structures, which allows for the self-sufficiency and sustainability necessary for long-duration habitation. Previously, under the auspices of the MSFC In-Situ Fabrication and Repair (ISFR) project and more recently, under the jointly-managed MSFC/KSC Additive Construction with Mobile Emplacement (ACME) project, the MSFC Surface Structures Group has been developing materials and construction technologies to support future planetary habitats with in-situ resources. One such additive construction technology is known as Contour Crafting. This paper presents the results to date of these efforts, including development of novel nozzle concepts for advanced layer deposition using this process. Conceived initially for rapid development of cementitious structures on Earth, it also lends itself exceptionally well to the automated fabrication of planetary surface structures using minimally processed regolith as aggregate and binders developed from in-situ materials as well. This process has been used successfully in the fabrication of construction elements using lunar regolith simulant and Mars regolith simulant, both with various binder materials. Future planned activities will be discussed as well.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

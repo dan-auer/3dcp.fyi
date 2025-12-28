@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/shyshko_sergiy"><b>Shyshko</b> Sergiy</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Simulation of Fresh Concrete Flow, pp. 65-98
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -15,7 +15,6 @@ tags:
  - numeric
  - print
  - time
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 18th East Asia-Pacific Conference on Structural Engineering and Construction, pp. 180-188
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

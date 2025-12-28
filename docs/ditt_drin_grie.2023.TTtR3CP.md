@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 1094-1103
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -59,7 +60,6 @@ tags:
     <ol>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../cla_cla_shar.2020.CoaRW3PMfRCA/">Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)</a></li>
       <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dringenberg_steffen"><b>Dringenberg</b> Steffen</a>, <a href="../../../author/jitton_velasco_joaquin"><b>Jitton</b> Joaquin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ditt_sche_drin_jitt.2022.DCPwVTR/">Digital Concrete Production with Vertical Textile Reinforcement</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

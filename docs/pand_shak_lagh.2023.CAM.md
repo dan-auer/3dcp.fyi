@@ -20,6 +20,7 @@ tags:
 ,     <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Additive Manufacturing for Construction, pp. 1-26
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

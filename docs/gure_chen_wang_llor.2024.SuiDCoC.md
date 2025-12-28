@@ -11,8 +11,6 @@ tags:
  - industry
  - integration
  - scale
- - in
- - up
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 381-388
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)
@@ -59,8 +58,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    In recent years, there has been notable progress in implementing digital manufacturing technologies in the construction industry. Digital concrete fabrication, which eliminates the requirement for traditional formwork, offers increased design flexibility as one of its key benefits. The innovative concept of Digital Casting Systems (DCS) introduces a different approach to digital concrete, allowing the use of traditional and thin formworks alongside precise reinforcement placement. The key to DCS lies in utilizing self-compacting concrete (SCC). The rheology of the SCC is controlled in real time during production by adding admixtures into an inline mixing system during the buildability phase. This effectively reduces formwork pressure and substantially accelerates building rates. However, the inclusion of inline mixing imposes challenges in the scale-up process. These include finding viable methods to increase aggregate content and use coarse aggregates, achieving fast construction rates, and extending processing time. This study seeks to transition DCS from the laboratory to the industry scale by overcoming the challenges addressed by inline mixing.
-The scaling-up strategy in DCS involves identifying optimal values for comprehensive system parameters, including processing and material characteristics, while carefully considering specific system requirements. This research underlines the advantages of DCS in industrial applications while delving into the optimal parameters for upscaling such automated digital casting systems.
+    In recent years, there has been notable progress in implementing digital manufacturing technologies in the construction industry. Digital concrete fabrication, which eliminates the requirement for traditional formwork, offers increased design flexibility as one of its key benefits. The innovative concept of Digital Casting Systems (DCS) introduces a different approach to digital concrete, allowing the use of traditional and thin formworks alongside precise reinforcement placement. The key to DCS lies in utilizing self-compacting concrete (SCC). The rheology of the SCC is controlled in real time during production by adding admixtures into an inline mixing system during the buildability phase. This effectively reduces formwork pressure and substantially accelerates building rates. However, the inclusion of inline mixing imposes challenges in the scale-up process. These include finding viable methods to increase aggregate content and use coarse aggregates, achieving fast construction rates, and extending processing time. This study seeks to transition DCS from the laboratory to the industry scale by overcoming the challenges addressed by inline mixing. The scaling-up strategy in DCS involves identifying optimal values for comprehensive system parameters, including processing and material characteristics, while carefully considering specific system requirements. This research underlines the advantages of DCS in industrial applications while delving into the optimal parameters for upscaling such automated digital casting systems.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

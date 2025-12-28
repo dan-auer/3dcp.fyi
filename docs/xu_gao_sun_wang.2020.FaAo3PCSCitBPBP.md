@@ -13,7 +13,6 @@ tags:
  - print
  - projection
  - structure
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2020, pp. 140-147
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -61,8 +61,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Since the introduction of 3D concrete printing technology about two decades ago (Khoshnevis et al., 1998), it has received increasing attention from people in both academia and the construction industry. This growing attention coincided with the advent of digital design and intelligent construction in the building construction industry; the latter was developed to address the challenges of labour shortage, increased structural complexity, low efficiency, and sustainability in building construction. However, at present, 3D printing technology is primarily used for the fabrication of decorative building components or prototypes in the laboratory only. This is because some technological improvements are still required before 3D-printed concrete can be widely used for fabrication of primary load-bearing building structures (Bos et al., 2016). One notable example of the use of 3D-printed concrete structures in practice is the bridge in the Netherlands which was built by researchers at the Eindhoven University of Technology (TU/e) in 2017. For the construction of the bridge, they used cable reinforced concrete and the whole structure was enhanced with steel tendons. The bridge proves the feasibility and safety of 3D-printed concrete structures for public use (Salet et al., 2018); however, the use of 3D-printed concrete as the sole structural material in large-scale building projects still poses questions in regard to efficacy and safety of such buildings.
-The objective of our present research is to study the use of 3D-printed concrete in real-world projects, including those involving large-scale structural components and building systems. Accordingly, a pedestrian arch bridge was built using only 3D-printed concrete components, including structural units, handrails, and decorative deck panels; the bridge is composed of 44 units of 3D-printed concrete voussoirs, which was the result of a synthetic solution of material, design and an original-designed printing system.
+    Since the introduction of 3D concrete printing technology about two decades ago (Khoshnevis et al., 1998), it has received increasing attention from people in both academia and the construction industry. This growing attention coincided with the advent of digital design and intelligent construction in the building construction industry; the latter was developed to address the challenges of labour shortage, increased structural complexity, low efficiency, and sustainability in building construction. However, at present, 3D printing technology is primarily used for the fabrication of decorative building components or prototypes in the laboratory only. This is because some technological improvements are still required before 3D-printed concrete can be widely used for fabrication of primary load-bearing building structures (Bos et al., 2016). One notable example of the use of 3D-printed concrete structures in practice is the bridge in the Netherlands which was built by researchers at the Eindhoven University of Technology (TU/e) in 2017. For the construction of the bridge, they used cable reinforced concrete and the whole structure was enhanced with steel tendons. The bridge proves the feasibility and safety of 3D-printed concrete structures for public use (Salet et al., 2018); however, the use of 3D-printed concrete as the sole structural material in large-scale building projects still poses questions in regard to efficacy and safety of such buildings. The objective of our present research is to study the use of 3D-printed concrete in real-world projects, including those involving large-scale structural components and building systems. Accordingly, a pedestrian arch bridge was built using only 3D-printed concrete components, including structural units, handrails, and decorative deck panels; the bridge is composed of 44 units of 3D-printed concrete voussoirs, which was the result of a synthetic solution of material, design and an original-designed printing system.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

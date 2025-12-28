@@ -14,7 +14,6 @@ tags:
  - printability
  - recycling
  - rheology
- - on
 
 ---
 
@@ -93,7 +92,6 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wu_liu_liu_bai.2024.MotIoMSPSotTMPo3PCwRS/">Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/yang_hongxiong"><b>Yang</b> Hongxiong</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a>, <a href="../../../author/chen_yuhong"><b>Chen</b> Yuhong</a>, <a href="../../../author/li_yijia"><b>Li</b> Yijia</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../yang_chun_chen_li.2018.TCCMoC3PAwIoT/">The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

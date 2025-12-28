@@ -11,7 +11,6 @@ tags:
  - manufacturing
  - sand
  - structure
- - on
 
 ---
 
@@ -66,8 +65,6 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/qin_hao"><b>Qin</b> Hao</a>, <a href="../../../author/zhang_xiwen"><b>Zhang</b> Xiwen</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../qin_zhan.2020.IotDoSSAM/">Improvements on the Design of Sand-Structure Additive Manufacturing</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

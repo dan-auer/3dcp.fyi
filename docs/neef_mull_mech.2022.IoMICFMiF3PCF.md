@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 397-403
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)
@@ -72,7 +73,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mech_mich_lieb_schn.2020.MICFCaNRfCC/">Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>Material and Automation Perspectives</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../neef_mull_mech.2020.3PwCC/">3D Printing with Carbon Concrete:<br/>Technology and the First Test Results</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
     </ol>
 ???+ quote "Citations"

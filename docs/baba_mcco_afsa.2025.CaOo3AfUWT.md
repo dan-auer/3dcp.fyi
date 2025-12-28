@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - HACBAC2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

@@ -13,7 +13,6 @@ tags:
  - feasibility
  - low
  - print
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 269-276
 
 :aca-blank:{ .lg .middle}
     [`#alternative`](keyword/alternative)

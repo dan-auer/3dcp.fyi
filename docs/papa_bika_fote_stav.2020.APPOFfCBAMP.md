@@ -13,7 +13,6 @@ tags:
  - optimization
  - path
  - process
- - a
 
 ---
 
@@ -70,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a>, <a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>, <a href="../../../author/komineas_george"><b>Komineas</b> George</a>, <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../fote_esna_komi_papa.2020.CBAM/">Cement-Based Additive Manufacturing:<br/>Experimental Investigation of Process Quality</a></li>
       <li><a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a>, <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a>, <a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b> Panagiotis</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../fote_papa_stav.2019.BBAHPAftEoCSAM/">Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>

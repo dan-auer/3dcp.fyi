@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/rishko_lyudmyla"><b>Rishko</b> Lyudmyla</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Modern Building Materials, Structures and Techniques, pp. 479-489
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -75,7 +76,7 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
 ???+ quote "Citations"

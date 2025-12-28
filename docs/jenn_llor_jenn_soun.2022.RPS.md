@@ -74,7 +74,6 @@ tags:
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jenn_llor_gram_kohl.2020.CPtCMRFOS/">Crafting Plaster through Continuous Mobile Robotic Fabrication On-Site</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

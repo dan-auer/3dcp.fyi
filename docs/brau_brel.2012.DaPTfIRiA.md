@@ -13,7 +13,6 @@ tags:
  - physics
  - robot
  - tool
- - in
 
 ---
 

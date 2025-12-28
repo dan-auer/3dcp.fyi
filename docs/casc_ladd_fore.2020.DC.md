@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/forestiero_federico"><b>Forestiero</b> Federico</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 804-813
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

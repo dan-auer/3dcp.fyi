@@ -10,8 +10,6 @@ tags:
  - life
  - print
  - review
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings, pp. 378-389
 
 :aca-blank:{ .lg .middle}
     [`#cost`](keyword/cost)
@@ -74,7 +73,6 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a></li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>

@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/saha_sunirmal"><b>Saha</b> Sunirmal</a> <a href="https://orcid.org/0000-0001-5302-5197" title="ORCID: 0000-0001-5302-5197" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Practical Implementations of Additive Manufacturing Technologies, pp. 309-323
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -57,7 +58,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>

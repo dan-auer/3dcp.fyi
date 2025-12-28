@@ -10,7 +10,6 @@ tags:
  - extrusion
  - print
  - technique
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing of Concrete, pp. 41-72
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)
@@ -67,7 +67,6 @@ tags:
       <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
       <li><a href="../../../author/leach_neil"><b>Leach</b> Neil</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../leac_carl_khos_than.2012.RCbCC/">Robotic Construction by Contour Crafting:<br/>The Case of Lunar Construction</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/micaelli_francesca"><b>Micaelli</b> Francesca</a> et al. <a href="../../../date/2012/06">(2012-06)</a><br><a href="../../../perr_meli_rang_mica.2012.UoREaaCRTtStBoHYSFaLSR/">Use of Ram Extruder as a Combined Rheo-Tribometer to Study the Behavior of High-Yield-Stress Fluids at Low Strain-Rate</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>

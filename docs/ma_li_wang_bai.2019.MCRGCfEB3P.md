@@ -13,8 +13,6 @@ tags:
  - micro
  - print
  - reinforcement
- - micro
- - micro
 
 ---
 
@@ -71,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

@@ -11,7 +11,6 @@ tags:
  - contour
  - craf
  - earth
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/bekey_george"><b>Bekey</b> George</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC), pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

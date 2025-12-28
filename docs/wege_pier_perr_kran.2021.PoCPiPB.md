@@ -12,7 +12,6 @@ tags:
  - particle
  - paste
  - penetration
- - a
 
 ---
 

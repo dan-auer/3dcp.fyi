@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics, pp. 191-200
 
 :aca-blank:{ .lg .middle}
     [`#digital`](keyword/digital)
@@ -58,7 +59,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../szab_reit_llor_gram.2019.ASDCtTFG/">Adapting Smart Dynamic Casting to Thin-Folded Geometries</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../szab_reit_llor_gram.2019.PoSoDSfDFiA/">Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture</a></li>

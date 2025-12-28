@@ -10,7 +10,6 @@ tags:
  - fresh
  - material
  - physics
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/gram_annika"><b>Gram</b> Annika</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Simulation of Fresh Concrete Flow, pp. 1-24
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

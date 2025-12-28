@@ -9,7 +9,6 @@ tags:
  - experiment
  - overhang
  - print
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/diz_francisco"><b>Diz</b> Francisco</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 778-789
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

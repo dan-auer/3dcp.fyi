@@ -14,7 +14,6 @@ tags:
  - material
  - print
  - technology
- - in
 
 ---
 
@@ -71,9 +70,7 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
-      <li>None</li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
-      <li>None</li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../keit_perr.2023.PoEBM/">Processing of Earth-Based Materials:<br/>Current Situation and Challenges Ahead</a></li>
       <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a>, <a href="../../../author/huang_qiqi"><b>Huang</b> Qiqi</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../maie_armi_miko_huan.2024.Ra3PoABSEC/">Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete</a></li>

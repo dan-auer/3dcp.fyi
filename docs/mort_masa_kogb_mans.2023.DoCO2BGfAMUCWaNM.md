@@ -13,8 +13,6 @@ tags:
  - manufacturing
  - material
  - waste
- - nano
- - nano
 
 ---
 
@@ -79,7 +77,6 @@ tags:
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a>, <a href="../../../author/grasley_zachary"><b>Grasley</b> Zachary</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mort_moha_mans_gras.2022.DoTMtEtPoCMfAM/">Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing</a></li>
-      <li>None</li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../vale_samb_chou_ghaf.2023.CAAMwWTRDfAM/">Composite Alkali-Activated Materials with Waste-Tire-Rubber Designed for Additive Manufacturing:<br/>An Eco-Sustainable and Energy Saving Approach</a></li>
     </ol>
 ???+ quote "Citations"

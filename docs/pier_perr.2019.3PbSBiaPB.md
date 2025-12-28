@@ -11,8 +11,6 @@ tags:
  - particle
  - print
  - selective
- - a
- - in
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing of Concrete, pp. 73-99
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)
@@ -70,7 +69,6 @@ tags:
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
       <li><a href="../../../author/richardson_victoria"><b>Richardson</b> Victoria</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../rich.2017.3PBC/">3D Printing Becomes Concrete:<br/>Exploring the Structural Potential of Concrete 3D Printing</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

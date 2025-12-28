@@ -18,8 +18,6 @@ tags:
  - soil
  - structure
  - water
- - in
- - on
 
 ---
 
@@ -39,6 +37,7 @@ tags:
 ,     <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> <a href="https://orcid.org/0000-0003-0099-8707" title="ORCID: 0000-0003-0099-8707" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 22-31
 
 :aca-blank:{ .lg .middle}
     [`#composite`](keyword/composite)
@@ -82,8 +81,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>

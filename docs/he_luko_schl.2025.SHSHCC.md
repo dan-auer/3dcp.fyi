@@ -10,7 +10,6 @@ tags:
  - hardened
  - self
  - strain
- - self
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

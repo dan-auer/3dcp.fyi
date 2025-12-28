@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Bio-Based Building Materials, pp. 333-352
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

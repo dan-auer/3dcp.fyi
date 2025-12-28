@@ -12,7 +12,6 @@ tags:
  - progress
  - review
  - smart
- - a
 
 ---
 

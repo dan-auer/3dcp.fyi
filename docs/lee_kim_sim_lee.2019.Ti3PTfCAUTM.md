@@ -10,7 +10,6 @@ tags:
  - print
  - technology
  - trend
- - in
 
 ---
 
@@ -65,7 +64,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../agus_habe.2016.AEPoDFiAaC/">An Environmental Perspective on Digital Fabrication in Architecture and Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>

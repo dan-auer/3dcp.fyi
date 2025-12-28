@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/kustermann_andrea"><b>Kustermann</b> Andrea</a> <a href="https://orcid.org/0000-0002-8582-3799" title="ORCID: 0000-0002-8582-3799" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 398-405
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)

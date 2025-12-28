@@ -15,8 +15,6 @@ tags:
  - structure
  - theory
  - three
- - on
- - up
 
 ---
 
@@ -77,8 +75,6 @@ tags:
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../giri_prem_kuma.2023.DoCMf3PUSTaT/">Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques</a></li>
       <li><a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../huan_huan_yuan_zhou.2019.TDoSBUaIRwHKoCP/">Temperature-Dependence of Structural Build-Up and Its Relation with Hydration Kinetics of Cement-Paste</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>

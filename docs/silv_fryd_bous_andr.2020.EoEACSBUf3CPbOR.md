@@ -14,7 +14,6 @@ tags:
  - print
  - rheology
  - structure
- - up
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping, pp. 35-47
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

@@ -10,7 +10,6 @@ tags:
  - intelligence
  - print
  - review
- - eco
 
 ---
 
@@ -74,9 +73,7 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
-      <li>None</li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/pan_yifan"><b>Pan</b> Yifan</a>, <a href="../../../author/zhang_yulu"><b>Zhang</b> Yulu</a>, <a href="../../../author/zhang_dakang"><b>Zhang</b> Dakang</a>, <a href="../../../author/song_yuying"><b>Song</b> Yuying</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../pan_zhan_zhan_song.2021.3PiC/">3D Printing in Construction:<br/>State of the Art and Applications</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a></li>

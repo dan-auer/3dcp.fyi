@@ -16,9 +16,6 @@ tags:
  - manufacturing
  - material
  - vibration
- - a
- - in
- - on
 
 ---
 

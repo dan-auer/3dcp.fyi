@@ -16,7 +16,6 @@ tags:
  - scale
  - site
  - temperature
- - on
 
 ---
 

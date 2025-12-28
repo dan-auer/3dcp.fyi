@@ -13,7 +13,6 @@ tags:
  - moist
  - mortar
  - property
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Civil, Structural and Transportation Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

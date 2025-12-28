@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#safety
+# #safety
 
 <ol reversed>
   <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../khan_koc.2024.AiAMSM/">Advancements in Additively Manufactured Safety Materials:<br/>Energy-Efficient 3D Printing Solutions for Critical Infrastructure</a></li>

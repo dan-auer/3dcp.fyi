@@ -10,7 +10,6 @@ tags:
  - print
  - supplement
  - waste
- - a
 
 ---
 
@@ -71,8 +70,6 @@ tags:
     <ol>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../chen_li_figu_copu.2019.LaCCBSCMf3CP/">Limestone and Calcined-Clay-Based Sustainable Cementitious Materials for 3D Concrete Printing:<br/>A Fundamental Study of Extrudability and Early-Age Strength Development</a></li>
       <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../das_reit_mant_flat.2022.EARaHCoTBf3PA/">Early-Age Rheology and Hydration-Control of Ternary Binders for 3D Printing Applications</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/prigol_hellen"><b>Prigol</b> Hellen</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/silva-nazario_samara"><b>Silva Nazário</b> Samara</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mato_prig_scha_silv.2024.QCToF3PCBM/">Quality-Control-Tests of Fresh 3D Printable Cement-Based Materials</a></li>
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/lima_moraes_marcelo"><b>Lima</b> Marcelo</a>, <a href="../../../author/neto_silva-andrade_jose"><b>Neto</b> José</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mato_zat_lima_neto.2023.EotSATotFPo3PLCCCLC/">Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete</a></li>
@@ -80,7 +77,6 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../souz_ferr_mora_senf.2022.RoCAo3PPC/">Role of Chemical Admixtures on 3D Printed Portland Cement:<br/>Assessing Rheology and Buildability</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

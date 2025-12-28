@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#clinker
+# #clinker
 
 <ol reversed>
   <li><a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wei_khay.2025.EoCAoPoLC3PM/">Effect of Chemical Additives on Performance of Low-Clinker 3D Printing Mortar</a></li>

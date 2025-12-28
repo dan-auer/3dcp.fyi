@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> <a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#earth`](keyword/earth)
@@ -58,7 +59,6 @@ tags:
     <ol>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
-      <li>None</li>
       <li><a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a>, <a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../frat_rael.2020.IMfLSAM/">Innovating Materials for Large-Scale Additive Manufacturing:<br/>Salt, Soil, Cement and Chardonnay</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>

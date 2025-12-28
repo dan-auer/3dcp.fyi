@@ -16,8 +16,6 @@ tags:
  - print
  - suspension
  - test
- - a
- - in
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 768-777
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -79,7 +78,6 @@ tags:
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_mai_broh_gant.2020.I3CPI/">Injection 3D Concrete Printing (I3DCP):<br/>Basic Principles and Case Studies</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pier_wege_perr_lowk.2020.2NMoPB3PbSPI/">2D Numerical Modelling of Particle-Bed 3D Printing by Selective Paste-Intrusion</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>

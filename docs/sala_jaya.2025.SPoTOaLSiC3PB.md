@@ -14,7 +14,6 @@ tags:
  - structure
  - synergy
  - topology
- - in
 
 ---
 

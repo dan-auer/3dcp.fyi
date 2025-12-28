@@ -14,7 +14,6 @@ tags:
  - mixture
  - print
  - temperature
- - on
 
 ---
 
@@ -71,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../arun_sanj.2023.ETEo3PUHPC/">Elevated Temperature Effects on 3D Printed Ultra-High-Performance Concrete</a></li>

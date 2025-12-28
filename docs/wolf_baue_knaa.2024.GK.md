@@ -11,9 +11,6 @@ tags:
  - masonry
  - shell
  - strategy
- - a
- - double
- - in
 
 ---
 
@@ -28,6 +25,7 @@ tags:
 ,     <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#double`](keyword/double)

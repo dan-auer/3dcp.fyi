@@ -17,7 +17,6 @@ tags:
  - reinforcement
  - seal
  - self
- - self
 
 ---
 
@@ -78,7 +77,6 @@ tags:
     <ol>
       <li><a href="../../../author/choi_se-jin"><b>Choi</b> Se-Jin</a>, <a href="../../../author/kim_ji-hwan"><b>Kim</b> Ji-Hwan</a>, <a href="../../../author/jeong_hyojin"><b>Jeong</b> Hyojin</a>, <a href="../../../author/lee_ja-sung"><b>Lee</b> Ja-Sung</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../choi_kim_jeon_lee.2021.SaEIotMPaSo3PCfSHCC/">Simulated and Experimental Investigation of the Mechanical Properties and Solubility of 3D Printed Capsules for Self-Healing Cement Composites</a></li>
       <li><a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a>, <a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../fern_jara_asen_guer.2023.NDTtEtSHCfa3PEM/">Non-Destructive Tests to Evaluate the Self-Healing Capacity for a 3D Printing ECC Material</a></li>
-      <li>None</li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>

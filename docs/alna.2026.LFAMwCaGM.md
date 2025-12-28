@@ -24,6 +24,7 @@ tags:
       <a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b> Mohammed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Large Format Additive Manufacturing, pp. 227-244
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

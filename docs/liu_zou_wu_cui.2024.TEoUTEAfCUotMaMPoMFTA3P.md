@@ -16,7 +16,6 @@ tags:
  - print
  - property
  - type
- - on
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/zuo_xiaobao"><b>Zuo</b> Xiaobao</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 233-249
 
 :aca-blank:{ .lg .middle}
     [`#agent`](keyword/agent)
@@ -85,7 +85,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
 ???+ quote "Citations"

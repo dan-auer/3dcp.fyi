@@ -13,7 +13,6 @@ tags:
  - development
  - indicator
  - print
- - a
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>

@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium, pp. 188-197
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -79,7 +80,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
       <li><a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../rana_mele_bloc.2021.ALCFCFS/">A Low-Carbon, Funicular Concrete Floor System:<br/>Design and Engineering of the HiLo Floor</a></li>
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../west_varg.2020.KC/">Knitting Concrete</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

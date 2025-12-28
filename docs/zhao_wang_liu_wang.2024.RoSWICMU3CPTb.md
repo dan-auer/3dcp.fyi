@@ -14,7 +14,6 @@ tags:
  - solid
  - technology
  - waste
- - on
 
 ---
 
@@ -68,8 +67,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The authors regret the published article contains an error in the affiliation section. The first author should be affiliated with ‘East China Jiao Tong University’ which was missed inadvertently.
-The authors would like to apologise for any inconvenience caused.
+    The authors regret the published article contains an error in the affiliation section. The first author should be affiliated with ‘East China Jiao Tong University’ which was missed inadvertently. The authors would like to apologise for any inconvenience caused.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

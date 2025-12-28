@@ -19,7 +19,6 @@ tags:
  - model
  - physics
  - twin
- - in
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Information Technology in Civil and Building Engineering, pp. 459-478
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

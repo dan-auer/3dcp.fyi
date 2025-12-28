@@ -13,8 +13,6 @@ tags:
  - large
  - print
  - scale
- - a
- - in
 
 ---
 
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
 ???+ quote "Citations"

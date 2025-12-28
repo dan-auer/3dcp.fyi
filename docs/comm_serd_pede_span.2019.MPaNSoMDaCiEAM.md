@@ -14,7 +14,6 @@ tags:
  - motion
  - numeric
  - simulation
- - in
 
 ---
 
@@ -70,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../serd_comm_pede_span.2019.NSotMFiMEAM/">Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing</a></li>
     </ol>
 ???+ quote "Citations"

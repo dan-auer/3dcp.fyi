@@ -9,7 +9,6 @@ tags:
  - mortar
  - printability
  - sand
- - a
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/zhang_yimeng"><b>Zhang</b> Yimeng</a> <a href="https://orcid.org/0009-0002-7271-0143" title="ORCID: 0009-0002-7271-0143" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 29th International Conference of the Association for Computer- Aided Architectural Design Research in Asia, pp. 161-170
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)
@@ -63,9 +63,7 @@ tags:
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

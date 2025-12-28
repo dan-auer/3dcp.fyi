@@ -16,8 +16,6 @@ tags:
  - shear
  - structure
  - workflow
- - small
- - up
 
 ---
 
@@ -68,10 +66,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Additive manufacturing with cementitious materials is rapidly advancing, yet critical challenges remain – most notably, the accurate prediction of structural stability. Current stability models often rely on numerical simulations driven by rheological properties, typically derived from shear tests linked to plasticity criteria or pseudo-elastic assumptions. However, these methods frequently lead to overestimations of critical failure heights due to an imprecise characterization of time-dependent material behavior.
-This study introduces a novel approach to stability prediction by directly measuring extensional viscoelastic properties using Small Amplitude Oscillatory Extensional (SAOE) testing. These tests capture the purely reversible behavior of fresh printable materials under load, enhancing the accuracy of structural response characterization during layer deposition. From this methodology, a two-parameter structuration model was developed to predict the time-dependent evolution of the extensional storage modulus in cement-based printable materials.
-To bridge the gap between shear and extensional viscoelastic properties, a comparative analysis was conducted using the Trouton's ratio, providing a potential pathway for approximating extensional properties from shear measurements. The study also proposes two stability criteria tailored to “infinite brick” and “layer-pressing" strategies, evaluated through case studies to underline their practical relevance.
-By refining the methodologies for measuring and modeling viscoelastic properties, this research addresses critical limitations in stability prediction, offering novel insights for buildability assessments and advancing the field of 3D concrete printing.
+    Additive manufacturing with cementitious materials is rapidly advancing, yet critical challenges remain – most notably, the accurate prediction of structural stability. Current stability models often rely on numerical simulations driven by rheological properties, typically derived from shear tests linked to plasticity criteria or pseudo-elastic assumptions. However, these methods frequently lead to overestimations of critical failure heights due to an imprecise characterization of time-dependent material behavior. This study introduces a novel approach to stability prediction by directly measuring extensional viscoelastic properties using Small Amplitude Oscillatory Extensional (SAOE) testing. These tests capture the purely reversible behavior of fresh printable materials under load, enhancing the accuracy of structural response characterization during layer deposition. From this methodology, a two-parameter structuration model was developed to predict the time-dependent evolution of the extensional storage modulus in cement-based printable materials. To bridge the gap between shear and extensional viscoelastic properties, a comparative analysis was conducted using the Trouton's ratio, providing a potential pathway for approximating extensional properties from shear measurements. The study also proposes two stability criteria tailored to “infinite brick” and “layer-pressing" strategies, evaluated through case studies to underline their practical relevance. By refining the methodologies for measuring and modeling viscoelastic properties, this research addresses critical limitations in stability prediction, offering novel insights for buildability assessments and advancing the field of 3D concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

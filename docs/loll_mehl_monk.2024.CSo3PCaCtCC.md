@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> <a href="https://orcid.org/0000-0003-1295-3776" title="ORCID: 0000-0003-1295-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 390-397
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

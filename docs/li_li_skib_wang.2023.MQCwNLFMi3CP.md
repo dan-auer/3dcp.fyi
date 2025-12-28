@@ -13,8 +13,6 @@ tags:
  - mould
  - print
  - quality
- - in
- - non
 
 ---
 
@@ -85,7 +83,6 @@ tags:
       <li><a href="../../../author/hahlbrock_david"><b>Hahlbrock</b> David</a>, <a href="../../../author/braun_michael"><b>Braun</b> Michael</a>, <a href="../../../author/heidel_robin"><b>Heidel</b> Robin</a>, <a href="../../../author/lemmen_patrik"><b>Lemmen</b> Patrik</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../hahl_brau_heid_lemm.2022.CR3P/">Cable Robotic 3D Printing:<br/>Additive Manufacturing on the Construction Site</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>

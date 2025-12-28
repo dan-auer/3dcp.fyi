@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/moretti_massimo"><b>Moretti</b> Massimo</a> <a href="https://orcid.org/0000-0003-4920-7128" title="ORCID: 0000-0003-4920-7128" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - A Circular Built Environment in the Digital Age, pp. 111-128
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

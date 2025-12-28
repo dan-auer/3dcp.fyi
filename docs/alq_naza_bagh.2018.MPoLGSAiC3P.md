@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - structure
- - in
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

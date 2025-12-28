@@ -8,7 +8,6 @@ tags:
  - bim
  - construction
  - print
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/konig_markus"><b>König</b> Markus</a> <a href="https://orcid.org/0000-0002-2729-7743" title="ORCID: 0000-0002-2729-7743" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Building Information Modeling, pp. 421-446
 
 :aca-blank:{ .lg .middle}
     [`#bim`](keyword/bim)
@@ -79,7 +79,7 @@ tags:
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a></li>
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
       <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b> Shoaib</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ali_issa_sheh_sarf.2022.ACRo3PaDMiCE/">A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering</a></li>
-      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPbBEa3CP/">Development of Communication Protocols between BIM Elements and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
       <li><a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>, <a href="../../../author/francis_ann"><b>Francis</b> Ann</a>, <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../maha_fran_thom.2020.ASBIoSAo3PS/">A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures</a></li>
       <li><a href="../../../author/gradeci_klodian"><b>Gradeci</b> Klodian</a>, <a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../grad_labo.2019.OtPoIBIMftAMoCS/">On the Potential of Integrating Building Information Modelling for the Additive Manufacturing of Concrete Structures</a></li>

@@ -65,7 +65,6 @@ tags:
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/marijnissen_pam_marjolein"><b>Marijnissen</b> Marjolein</a>, <a href="../../../author/zee_aant"><b>Zee</b> Aant</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../mari_zee.2017.3CPiA/">3D Concrete Printing in Architecture:<br/>A Research on the Potential Benefits of 3D Concrete Printing in Architecture</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

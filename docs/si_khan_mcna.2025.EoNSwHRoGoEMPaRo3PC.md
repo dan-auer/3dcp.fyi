@@ -15,9 +15,6 @@ tags:
  - replacement
  - rheology
  - silica
- - nano
- - on
- - nano
 
 ---
 
@@ -73,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../aram_cald_puen.2022.3PEotCSoCS/">3D Printing Effect on the Compressive Strength of Concrete Structures</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/norval_chris"><b>Norval</b> Chris</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../baba_norv_kola_paul.2024.3PLCCCCIRPW/">3D Printed Limestone-Calcined-Clay-Cement Concrete Incorporating Recycled Plastic-Waste:<br/>RESIN8</a></li>
       <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../baya_kash.2023.AoRPaPoa3PMCSFHLaBFS/">Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag</a></li>
@@ -95,9 +91,7 @@ tags:
       <li><a href="../../../author/hu_hailong"><b>Hu</b> Hailong</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/manuka_mesfin"><b>Manuka</b> Mesfin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../hu_huan_wang_manu.2023.IoCSCoPaESDoaSB3PCM/">Impact of Calcium Sulfoaluminate Cement on Printability and Early Strength Development of a Slag-Based 3D Printing Cementitious Material</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
-      <li>None</li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
       <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/moo_sheng-james_guo"><b>Moo</b> Guo</a>, <a href="../../../author/kobayashi_hitoshi"><b>Kobayashi</b> Hitoshi</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../liu_li_moo_koba.2023.EoNSSAotEB3CPA/">Effect of Nano-Structured Silica-Additives on the Extrusion-Based 3D Concrete Printing Application</a></li>
       <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/duda_pedro"><b>Duda</b> Pedro</a>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b> Emílio</a>, <a href="../../../author/paiva_dm_maria"><b>Paiva</b> Maria</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../mend_duda_silv_paiv.2019.NPaSBAf3PwPCP/">Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes</a></li>

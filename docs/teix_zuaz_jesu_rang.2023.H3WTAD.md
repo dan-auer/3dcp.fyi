@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing for Construction with Alternative Materials, pp. 1-31
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -60,10 +61,8 @@ tags:
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
-      <li>None</li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

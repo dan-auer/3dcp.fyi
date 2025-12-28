@@ -15,8 +15,6 @@ tags:
  - printability
  - quality
  - strain
- - in
- - two
 
 ---
 
@@ -36,6 +34,7 @@ tags:
 ,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 824-838
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)
@@ -91,7 +90,7 @@ tags:
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
 ???+ quote "Citations"

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/tavares_vanessa"><b>Tavares</b> Vanessa</a> <a href="https://orcid.org/0000-0002-8111-6990" title="ORCID: 0000-0002-8111-6990" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 423-431
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -12,8 +12,6 @@ tags:
  - model
  - structure
  - temperature
- - on
- - up
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> <a href="https://orcid.org/0000-0002-0528-4079" title="ORCID: 0000-0002-0528-4079" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 330-336
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -70,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hermens_j_lex"><b>Hermens</b> Lex</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bos_wolf_ahme_herm.2019.TIoMTotIPSaSoa3PM/">The Influence of Material Temperature on the In-Print Strength and Stability of a 3D Print Mortar</a></li>
       <li><a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../huan_huan_yuan_zhou.2019.TDoSBUaIRwHKoCP/">Temperature-Dependence of Structural Build-Up and Its Relation with Hydration Kinetics of Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>

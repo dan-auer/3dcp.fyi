@@ -15,7 +15,6 @@ tags:
  - gypsum
  - mortar
  - print
- - on
 
 ---
 
@@ -72,9 +71,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
-      <li>None</li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>

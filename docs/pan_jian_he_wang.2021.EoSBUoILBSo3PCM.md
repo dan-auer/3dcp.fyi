@@ -15,9 +15,6 @@ tags:
  - print
  - strength
  - structure
- - inter
- - on
- - up
 
 ---
 

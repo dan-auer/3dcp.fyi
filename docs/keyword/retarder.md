@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#retarder
+# #retarder
 
 <ol reversed>
   <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../saho_gupt.2025.3PwGSEE/">3D Printing with Geopolymer-Stabilized Excavated Earth:<br/>Enhancement of Printability and Engineering-Performance Through Controlled Retardation</a></li>

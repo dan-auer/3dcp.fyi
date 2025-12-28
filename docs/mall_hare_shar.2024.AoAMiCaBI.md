@@ -11,7 +11,6 @@ tags:
  - construction
  - industry
  - manufacturing
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/sharath_c_p"><b>Sharath</b> P.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Practical Implementations of Additive Manufacturing Technologies, pp. 251-272
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -100,7 +100,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> <a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

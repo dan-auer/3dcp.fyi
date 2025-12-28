@@ -14,7 +14,6 @@ tags:
  - print
  - process
  - structure
- - in
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/martin-ramos_pablo"><b>Martín-Ramos</b> Pablo</a> <a href="https://orcid.org/0000-0003-2713-2786" title="ORCID: 0000-0003-2713-2786" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality, pp. 80-86
 
 :aca-blank:{ .lg .middle}
     [`#action`](keyword/action)

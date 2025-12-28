@@ -12,8 +12,6 @@ tags:
  - reinforcement
  - robot
  - system
- - a
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 263-271
 
 :aca-blank:{ .lg .middle}
     [`#bim`](keyword/bim)

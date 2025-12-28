@@ -13,8 +13,6 @@ tags:
  - platform
  - robot
  - software
- - a
- - on
 
 ---
 
@@ -131,7 +129,7 @@ tags:
       <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a></li>
       <li><a href="../../../author/zhang_jiale"><b>Zhang</b> Jiale</a>, <a href="../../../author/luo_hanbin"><b>Luo</b> Hanbin</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_luo_xu.2022.TFBEBAaR/">Towards Fully BIM-Enabled Building Automation and Robotics:<br/>A Perspective of Lifecycle Information Flow</a></li>
       <li><a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../rehm_sgla.2022.3PoPCCB/">3D Printing of Portland-Cement-Containing Bodies</a></li>
-      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPbBEa3CP/">Development of Communication Protocols between BIM Elements and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/anane_walid"><b>Anane</b> Walid</a>, <a href="../../../author/iordanova_ivanka"><b>Iordanova</b> Ivanka</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../anan_iord_ouel.2023.TUoBfR3CP/">The Use of BIM for Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/pan_yifan"><b>Pan</b> Yifan</a>, <a href="../../../author/zhang_yulu"><b>Zhang</b> Yulu</a>, <a href="../../../author/zhang_dakang"><b>Zhang</b> Dakang</a>, <a href="../../../author/song_yuying"><b>Song</b> Yuying</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../pan_zhan_zhan_song.2021.3PiC/">3D Printing in Construction:<br/>State of the Art and Applications</a></li>
       <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../tarh_sahi.2021.FaRPoAE3PM/">Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars</a></li>

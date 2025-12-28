@@ -17,8 +17,6 @@ tags:
  - property
  - rheology
  - sensor
- - multi
- - on
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a> <a href="https://orcid.org/0000-0003-2644-7284" title="ORCID: 0000-0003-2644-7284" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Selected Peer-Reviewed Full Text Papers from the 7th Non-Traditional Cement and Concrete, pp. 131-139
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

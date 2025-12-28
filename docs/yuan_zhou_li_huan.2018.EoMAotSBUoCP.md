@@ -12,8 +12,6 @@ tags:
  - mineral
  - paste
  - structure
- - on
- - up
 
 ---
 

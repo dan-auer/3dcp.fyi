@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#delay
+# #delay
 
 <ol reversed>
   <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../shak_neja_paul.2020.IitEoDBPLotMSoI3M/">Investigation into the Effect of Delays Between Printed Layers on the Mechanical Strength of Inkjet 3DP Mortar</a></li>

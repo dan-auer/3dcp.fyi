@@ -13,7 +13,6 @@ tags:
  - print
  - robot
  - validation
- - a
 
 ---
 

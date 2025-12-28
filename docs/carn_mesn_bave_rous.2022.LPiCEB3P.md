@@ -13,7 +13,6 @@ tags:
  - layer
  - pressing
  - print
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../liu_li_tay_weng.2020.RNaNSoMDaCi3CMP/">Rotation-Nozzle and Numerical Simulation of Mass-Distribution at Corners in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/muishout_e_chantal"><b>Muishout</b> Chantal</a>, <a href="../../../author/coggins_n_tom"><b>Coggins</b> Tom</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../muis_cogg_schi.2020.MTMtE/">More Than Meets the Eye?:<br/>Robotisation and Normativity in the Dutch Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>

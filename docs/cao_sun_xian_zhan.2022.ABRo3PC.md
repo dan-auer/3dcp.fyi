@@ -8,7 +8,6 @@ tags:
  - concrete
  - print
  - review
- - a
 
 ---
 
@@ -59,7 +58,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lin_chao_jia"><b>Lin</b> Jia</a>, <a href="../../../author/wu_xiong"><b>Wu</b> Xiong</a>, <a href="../../../author/yang_wen"><b>Yang</b> Wen</a>, <a href="../../../author/zhao_xu_ri"><b>Zhao</b> Ri</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../lin_wu_yang_zhao.2018.TIoFAot3PP/">The Influence of Fine Aggregates on the 3D Printing Performance</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>

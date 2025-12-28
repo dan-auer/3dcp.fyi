@@ -10,7 +10,6 @@ tags:
  - effect
  - print
  - scale
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of 8th Arab Society for Computer Aided Architectural Design Conference, pp. 115-124
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

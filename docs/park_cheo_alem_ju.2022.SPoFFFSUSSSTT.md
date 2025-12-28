@@ -12,7 +12,6 @@ tags:
  - structure
  - table
  - test
- - small
 
 ---
 

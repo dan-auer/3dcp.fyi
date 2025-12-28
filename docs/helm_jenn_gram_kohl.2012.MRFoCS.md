@@ -10,7 +10,6 @@ tags:
  - mobile
  - robot
  - site
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 4335-4341
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

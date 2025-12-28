@@ -12,8 +12,6 @@ tags:
  - mortar
  - performance
  - print
- - nano
- - nano
 
 ---
 

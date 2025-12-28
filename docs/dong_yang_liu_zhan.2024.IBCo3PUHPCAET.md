@@ -14,8 +14,6 @@ tags:
  - performance
  - print
  - temperature
- - ultra
- - ultra
 
 ---
 

@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 31-36
 
 :aca-blank:{ .lg .middle}
     [`#mesh`](keyword/mesh)
@@ -59,7 +60,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
     </ol>
 ???+ quote "Citations"

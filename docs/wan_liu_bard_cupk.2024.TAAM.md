@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture, pp. 482-492
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

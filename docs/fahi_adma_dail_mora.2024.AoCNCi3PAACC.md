@@ -13,9 +13,6 @@ tags:
  - composite
  - crystal
  - print
- - in
- - nano
- - nano
 
 ---
 

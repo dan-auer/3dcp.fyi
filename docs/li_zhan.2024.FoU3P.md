@@ -13,7 +13,6 @@ tags:
  - printability
  - strength
  - underwater
- - on
 
 ---
 
@@ -68,7 +67,6 @@ tags:
     <ol>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/cheng_cong-mi"><b>Cheng</b> Cong-Mi</a>, <a href="../../../author/xie_hui-zhu"><b>Xie</b> Hui-Zhu</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../li_xiao_chen_xie.2023.AGFt3PM/">Adding Glass-Fibers to 3D Printable Mortar:<br/>Effects on Printability and Material-Anisotropy</a></li>
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/woo_seong-jin"><b>Woo</b> Seong-Jin</a>, <a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../woo_yang_lee_kwon.2021.CoPo3PMiAvU/">Comparison of Properties of 3D Printed Mortar in Air vs. Underwater</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
 ???+ quote "Citations"

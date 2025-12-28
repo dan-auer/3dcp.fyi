@@ -24,6 +24,7 @@ tags:
       <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

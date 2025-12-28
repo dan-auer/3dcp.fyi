@@ -37,6 +37,7 @@ tags:
 ,     <a href="../../../author/hubert_julien"><b>Hubert</b> Julien</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - SP-362:, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)
@@ -95,7 +96,6 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

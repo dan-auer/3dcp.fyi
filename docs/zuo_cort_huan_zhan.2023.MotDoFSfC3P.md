@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/yuan_y"><b>Yuan</b> Y.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 17th International Conference on Civil, Structural and Environmental Engineering Computing, pp. 1-11
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

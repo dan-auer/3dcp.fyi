@@ -14,7 +14,6 @@ tags:
  - printability
  - property
  - sustainability
- - on
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../cho_krug_rooy_zijl.2021.RaAoBFCfDF/">Rheology and Application of Buoyant Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dey_srin_bodd_pand.2022.3PoTPCMCFAaL/">3D Printability of Ternary-Portland-Cement Mixes Containing Fly-Ash and Limestone</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/ly_oceane"><b>Ly</b> Océane</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../ly_yori_seba_blan.2021.Oo3PCfAR/">Optimization of 3D Printed Concrete for Artificial Reefs:<br/>Biofouling and Mechanical Analysis</a></li>
       <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sone_dede_abda_perr.2021.EoRMNCaNFoFaRPoTDCP/">Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing</a></li>

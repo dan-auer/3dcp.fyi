@@ -16,8 +16,6 @@ tags:
  - precast
  - print
  - technique
- - a
- - in
 
 ---
 
@@ -74,10 +72,8 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
-      <li>None</li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a>, <a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../asen_josa_mons_fuen.2023.3PCF/">3D‐Printed Concrete Footbridges:<br/>An Approach to Assess the Sustainability Performance</a></li>
-      <li>None</li>
       <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>

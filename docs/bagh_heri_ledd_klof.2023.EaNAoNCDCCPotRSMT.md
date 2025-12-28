@@ -73,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>

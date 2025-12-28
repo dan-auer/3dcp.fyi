@@ -13,7 +13,6 @@ tags:
  - light
  - print
  - rheology
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 246-254
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

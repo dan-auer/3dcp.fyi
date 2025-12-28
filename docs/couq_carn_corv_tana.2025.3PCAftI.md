@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/stavroskaja_natalia"><b>Stavroskaja</b> Natalia</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 IABSE Congress, pp. 2500-2509
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -64,10 +65,8 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../carn_mesn_duco_rous.2020.CotLPSfC3P/">Characterisation of the Layer-Pressing-Strategy for Concrete 3D Printing</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
 ???+ quote "Citations"

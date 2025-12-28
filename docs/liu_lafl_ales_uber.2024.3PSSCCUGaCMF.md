@@ -14,9 +14,6 @@ tags:
  - print
  - self
  - sensor
- - micro
- - self
- - micro
 
 ---
 

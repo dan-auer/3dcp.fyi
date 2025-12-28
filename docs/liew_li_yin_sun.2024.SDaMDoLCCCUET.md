@@ -13,7 +13,6 @@ tags:
  - mechanics
  - structure
  - temperature
- - under
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/kodur_kumar-r_venkatesh"><b>Kodur</b> Venkatesh</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 174-180
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

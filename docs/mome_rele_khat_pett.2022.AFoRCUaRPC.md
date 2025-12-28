@@ -12,7 +12,6 @@ tags:
  - production
  - reinforcement
  - robot
- - a
 
 ---
 
@@ -69,10 +68,9 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/martins_filipe_pedro"><b>Martins</b> Pedro</a>, <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="../../../date/2014/09">(2014-09)</a><br><a href="../../../mart_sous.2014.DFTiCA/">Digital Fabrication Technology in Concrete Architecture</a></li>
-      <li>None</li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
 ???+ quote "Citations"

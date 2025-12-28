@@ -16,7 +16,6 @@ tags:
  - rheology
  - slag
  - workability
- - on
 
 ---
 
@@ -76,7 +75,6 @@ tags:
     <ol>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
-      <li>None</li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>

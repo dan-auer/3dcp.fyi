@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - reinforcement
- - in
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dezaire_steven"><b>Dezaire</b> Steven</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hoekstra_anne"><b>Hoekstra</b> Anne</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bos_deza_ahme_hoek.2020.BoRCi3PC/">Bond of Reinforcement-Cable in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>

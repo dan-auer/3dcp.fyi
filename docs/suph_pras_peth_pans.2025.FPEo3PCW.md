@@ -17,7 +17,6 @@ tags:
  - print
  - scale
  - wall
- - a
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
-      <li>None</li>
       <li><a href="../../../author/friese_danny"><b>Friese</b> Danny</a>, <a href="../../../author/hahn_lars"><b>Hahn</b> Lars</a>, <a href="../../../author/le-xuan_hung"><b>Le Xuan</b> Hung</a>, <a href="../../../author/mersch_johannes"><b>Mersch</b> Johannes</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../frie_hahn_lex_mers.2023.RAMTf3NMRSitCA/">Robot-Assisted Manufacturing Technology for 3D Non-Metallic Reinforcement Structures in the Construction Applications</a></li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a>, <a href="../../../author/hee_sheng_yu"><b>Hee</b> Yu</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP/">Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>

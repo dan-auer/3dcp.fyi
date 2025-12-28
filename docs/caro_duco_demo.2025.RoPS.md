@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="https://orcid.org/0000-0002-5833-8683" title="ORCID: 0000-0002-5833-8683" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing, pp. 161-188
 
 :aca-blank:{ .lg .middle}
     [`#print`](keyword/print)

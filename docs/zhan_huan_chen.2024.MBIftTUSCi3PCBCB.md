@@ -15,7 +15,6 @@ tags:
  - mechanics
  - print
  - shear
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 222-230
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

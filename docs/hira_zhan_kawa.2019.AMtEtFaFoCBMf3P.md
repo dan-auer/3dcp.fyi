@@ -13,7 +13,6 @@ tags:
  - material
  - method
  - print
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/kawahara_yoshihiro"><b>Kawahara</b> Yoshihiro</a> <a href="https://orcid.org/0000-0002-0310-2577" title="ORCID: 0000-0002-0310-2577" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ACM Symposium on Computational Fabrication, pp. 1-10
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

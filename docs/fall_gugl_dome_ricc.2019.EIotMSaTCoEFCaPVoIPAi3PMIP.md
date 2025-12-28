@@ -18,8 +18,6 @@ tags:
  - print
  - strength
  - temperature
- - in
- - on
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> <a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 277-286
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

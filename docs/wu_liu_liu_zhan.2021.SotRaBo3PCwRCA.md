@@ -12,7 +12,6 @@ tags:
  - print
  - recycling
  - rheology
- - on
 
 ---
 
@@ -90,7 +89,7 @@ tags:
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_bos_sale.2019.TCToEACfNAo3CP/">Triaxial Compression Testing on Early-Age Concrete for Numerical Analysis of 3D Concrete Printing</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
     </ol>

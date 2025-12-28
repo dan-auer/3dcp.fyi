@@ -8,7 +8,6 @@ tags:
  - clay
  - control
  - print
- - in
 
 ---
 
@@ -21,6 +20,7 @@ tags:
       <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 36th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 21-30
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

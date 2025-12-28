@@ -20,6 +20,7 @@ tags:
       <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 3
 
 :aca-blank:{ .lg .middle}
     [`#compression`](keyword/compression)

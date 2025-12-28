@@ -10,7 +10,6 @@ tags:
  - print
  - prototype
  - translation
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 5th International Conference on Computational Design and Robotic Fabrication, pp. 515-525
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

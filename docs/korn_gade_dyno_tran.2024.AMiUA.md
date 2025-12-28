@@ -9,7 +9,6 @@ tags:
  - application
  - manufacturing
  - underwater
- - in
 
 ---
 
@@ -67,7 +66,6 @@ tags:
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/xiong_z"><b>Xiong</b> Z.</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../li_xiao_fang_xion.2021.FoGBFRSCSMf3P/">Feasibility of Glass-Basalt Fiber-Reinforced Seawater Coral Sand Mortar for 3D Printing</a></li>
       <li><a href="../../../author/ly_oceane"><b>Ly</b> Océane</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../ly_yori_seba_blan.2021.Oo3PCfAR/">Optimization of 3D Printed Concrete for Artificial Reefs:<br/>Biofouling and Mechanical Analysis</a></li>
       <li><a href="../../../author/mazhoud_brahim"><b>Mazhoud</b> Brahim</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../mazh_perr_pica_rang.2019.U3PoCBM/">Underwater 3D Printing of Cement-Based Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a>, <a href="../../../author/kim_sung-wook"><b>Kim</b> Sung-Wook</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../seo_kim_kim_kwon.2023.MPo3PCwCAaPFitAaUE/">Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment</a></li>
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/chen_song-gui"><b>Chen</b> Song-Gui</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../wang_qiu_chen_liu.2024.3CPiAaUW/">3D Concrete Printing in Air and Under Water:<br/>A Comparative Study on the Buildability and Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>, <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_qiu_hu_chen.2023.IFoMPaMCoU3PC/">Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete</a></li>

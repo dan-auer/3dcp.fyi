@@ -14,8 +14,6 @@ tags:
  - reinforcement
  - scale
  - structure
- - a
- - dual
 
 ---
 

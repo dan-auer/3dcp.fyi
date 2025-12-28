@@ -12,7 +12,6 @@ tags:
  - projection
  - segment
  - shell
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/herrmann_michael"><b>Herrmann</b> Michael</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 105-114
 
 :aca-blank:{ .lg .middle}
     [`#concept`](keyword/concept)
@@ -60,11 +60,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    This work presents and reflects the pedagogic DesignBuild approach of a computational developed and digital fabricated project. It examines the proactive role of these projects in contributing to scientific advancement by defining future research issues for the novel construction system. The approach, based on the integration of the entire digital process into architectural education and the collaborative, autonomous work with industrial partners, is analysed and viewed in perspective.
-Focusing on the topic of digital fabricated overhanging concrete structures, the developed construction system consists of discrete 3d printed segments. These are assembled into doubly curved shell structures in a stereotomic manner. The learning contents and outcomes in the digital design process as well as in the digital and rework fabrication processes are examined under considerations of possibilities and limitations. Consequently, the resulting future research issues for this construction system are discussed as the main findings. Its adaptability to other architectural applications and its productivity, quality and sustainability arguments serve for the conclusive evaluation of the impact and potential on in the building sector.
-
-This work presents and reflects the pedagogic DesignBuild approach of a computational developed and digital fabricated project. It examines the proactive role of these projects in contributing to scientific advancement by defining future research issues for the novel construction system. The approach, based on the integration of the entire digital process into architectural education and the collaborative, autonomous work with industrial partners, is analysed and viewed in perspective.
-Focusing on the topic of digital fabricated overhanging concrete structures, the developed construction system consists of discrete 3d printed segments. These are assembled into doubly curved shell structures in a stereotomic manner. The learning contents and outcomes in the digital design process as well as in the digital and rework fabrication processes are examined under considerations of possibilities and limitations. Consequently, the resulting future research issues for this construction system are discussed as the main findings. Its adaptability to other architectural applications and its productivity, quality and sustainability arguments serve for the conclusive evaluation of the impact and potential on in the building sector.
+    This work presents and reflects the pedagogic DesignBuild approach of a computational developed and digital fabricated project. It examines the proactive role of these projects in contributing to scientific advancement by defining future research issues for the novel construction system. The approach, based on the integration of the entire digital process into architectural education and the collaborative, autonomous work with industrial partners, is analysed and viewed in perspective. Focusing on the topic of digital fabricated overhanging concrete structures, the developed construction system consists of discrete 3d printed segments. These are assembled into doubly curved shell structures in a stereotomic manner. The learning contents and outcomes in the digital design process as well as in the digital and rework fabrication processes are examined under considerations of possibilities and limitations. Consequently, the resulting future research issues for this construction system are discussed as the main findings. Its adaptability to other architectural applications and its productivity, quality and sustainability arguments serve for the conclusive evaluation of the impact and potential on in the building sector.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

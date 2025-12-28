@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#result
+# #result
 
 <ol reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

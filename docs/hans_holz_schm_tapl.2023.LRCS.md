@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/trummer_andreas"><b>Trummer</b> Andreas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium, pp. 456-466
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

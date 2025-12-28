@@ -13,8 +13,6 @@ tags:
  - print
  - replacement
  - tailing
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
       <a href="../../../author/corfe_ian"><b>Corfe</b> Ian</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)

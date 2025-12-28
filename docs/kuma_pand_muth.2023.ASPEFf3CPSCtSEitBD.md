@@ -16,8 +16,6 @@ tags:
  - shear
  - simple
  - structure
- - a
- - in
 
 ---
 

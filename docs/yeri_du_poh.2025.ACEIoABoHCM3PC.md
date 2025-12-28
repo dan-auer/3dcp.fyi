@@ -14,8 +14,6 @@ tags:
  - investigation
  - minimum
  - print
- - a
- - on
 
 ---
 
@@ -70,9 +68,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../bong_nema_naza_xia.2019.MoOfATCSGf3PCA/">Method of Optimization for Ambient Temperature Cured Sustainable Geopolymers for 3D Printing Construction Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>

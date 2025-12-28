@@ -12,7 +12,6 @@ tags:
  - mixing
  - print
  - process
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd World Congress on Housing, pp. 1-15
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

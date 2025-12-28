@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

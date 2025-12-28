@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/wagner_eckhard"><b>Wagner</b> Eckhard</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)
@@ -69,7 +70,6 @@ tags:
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../han_yan_chen_tang.2023.PSo3PCUDSWoUL/">Plastic Shrinkage of 3D Printed Concrete Under Different Self-Weight of Upper Layers</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
       <li><a href="../../../author/palomba_martina"><b>Palomba</b> Martina</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/villani_chiara"><b>Villani</b> Chiara</a>, <a href="../../../author/wagner_eckhard"><b>Wagner</b> Eckhard</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../palo_espo_vill_wagn.2024.ECAtSBoLC3PM/">Environmental Conditions Affecting the Shrinkage Behavior of Low Clinker 3D Printable Mortar</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS/">Advanced Measurement Techniques for Plastic Shrinkage and Cracking in 3D Printed Concrete Utilising Distributed Optical Fiber Sensor</a></li>

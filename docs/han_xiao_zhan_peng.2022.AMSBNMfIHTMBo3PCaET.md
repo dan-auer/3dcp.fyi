@@ -17,9 +17,6 @@ tags:
  - print
  - scale
  - temperature
- - a
- - micro
- - micro
 
 ---
 
@@ -86,7 +83,7 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
-      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CbPCaTBSoAMMUXRCT/">Correlation between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
+      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CBPCaTBSoAMMUXRCT/">Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a></li>
       <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
@@ -96,7 +93,6 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_li_zhan_tan.2021.IoILAo3PCMftAoPP/">Investigation of Inter-Layer Adhesion of 3D Printable Cementitious Material from the Aspect of Printing-Process</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

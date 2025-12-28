@@ -11,7 +11,6 @@ tags:
  - economic
  - print
  - sustainability
- - a
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/meier_ryan"><b>Meier</b> Ryan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kaze_yuan_meie_khos.2019.PBToPCCfCS3P/">Performance-Based Testing of Portland Cement Concrete for Construction-Scale 3D Printing</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>

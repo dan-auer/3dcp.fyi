@@ -13,7 +13,6 @@ tags:
  - robot
  - spray
  - system
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/sablotny_tino"><b>Sablotny</b> Tino</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 967-977
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

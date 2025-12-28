@@ -16,8 +16,6 @@ tags:
  - review
  - structure
  - sustainability
- - a
- - in
 
 ---
 
@@ -89,7 +87,6 @@ tags:
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../khan_ilca_amin_sahi.2023.BAoEoSDi3CP/">Buildability-Analysis on Effect of Structural Design in 3D Concrete Printing:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/imram_ramsha"><b>Imram</b> Ramsha</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../khan_ilca_imra_amin.2024.TIoNDaPSoGB3PCS/">The Impact of Nozzle-Diameter and Printing Speed on Geopolymer-Based 3D Printed Concrete Structures:<br/>Numerical Modeling and Experimental Validation</a></li>
       <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a></li>
-      <li>None</li>
       <li><a href="../../../author/mir_namra"><b>Mir</b> Namra</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM/">Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../noai_chou_alba_skib.2023.RBAiOPAAM/">Recycled Brick-Aggregates in One-Part Alkali-Activated Materials:<br/>Impact on 3D Printing Performance and Material-Properties</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>

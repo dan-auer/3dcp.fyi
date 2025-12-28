@@ -13,8 +13,6 @@ tags:
  - quantity
  - shear
  - test
- - in
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction, pp. 1891-1901
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

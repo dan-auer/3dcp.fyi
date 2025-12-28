@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - review
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/prasanthni_p"><b>Prasanthni</b> P.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Innovations in Electronic Materials, pp. 93-103
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -86,7 +86,6 @@ tags:
       <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mark_ivan_fata_rei.2020.IoSBUo3PFC/">Investigation on Structural Build-Up of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>

@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/singh_parth"><b>Singh</b> Parth</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Innovative Processes and Materials in Additive Manufacturing, pp. 177-190
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

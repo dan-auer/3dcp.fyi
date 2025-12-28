@@ -12,9 +12,6 @@ tags:
  - performance
  - print
  - temperature
- - a
- - in
- - on
 
 ---
 
@@ -73,7 +70,6 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/paquet_elodie"><b>Paquet</b> Elodie</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>, <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../poul_paqu_garn_fure.2018.OSDo3PftBC/">On-Site Deployment of 3D Printing for the Building Construction:<br/>The Case of YhnovaTM</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>

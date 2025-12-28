@@ -13,8 +13,6 @@ tags:
  - print
  - scale
  - twin
- - in
- - twin
 
 ---
 
@@ -89,7 +87,6 @@ tags:
       <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC/">Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
       <li><a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan.2020.MSfC3P/">Mix Suitable for Concrete 3D Printing:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>

@@ -12,7 +12,6 @@ tags:
  - mortar
  - print
  - sustainability
- - on
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a>, <a href="../../../author/han_sun-jin"><b>Han</b> Sun-Jin</a>, <a href="../../../author/choi_seung-ho"><b>Choi</b> Seung-Ho</a>, <a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../jeon_han_choi_lee.2019.RPCfB3PC/">Rheological Property Criteria for Buildable 3D Printing Concrete</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a>, <a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a>, <a href="../../../author/brozovsky_jiri"><b>Brožovský</b> Jiří</a>, <a href="../../../author/meszarosova_lenka"><b>Mészárosová</b> Lenka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../meli_zizk_broz_mesz.2022.SotIoCBMf3PwFAaSP/">Study of the Interaction of Cement-Based Materials for 3D Printing with Fly-Ash and Superabsorbent Polymers</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>

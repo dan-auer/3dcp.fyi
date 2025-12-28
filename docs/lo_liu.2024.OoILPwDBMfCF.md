@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/liu_bosheng"><b>Liu</b> Bosheng</a> <a href="https://orcid.org/0000-0001-7288-9230" title="ORCID: 0000-0001-7288-9230" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

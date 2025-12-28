@@ -10,7 +10,6 @@ tags:
  - mechanics
  - print
  - property
- - on
 
 ---
 
@@ -64,7 +63,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>

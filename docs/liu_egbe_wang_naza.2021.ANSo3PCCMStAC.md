@@ -12,8 +12,6 @@ tags:
  - mixing
  - numeric
  - print
- - a
- - on
 
 ---
 
@@ -75,9 +73,7 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>
       <li><a href="../../../author/torelli_giacomo"><b>Torelli</b> Giacomo</a>, <a href="../../../author/fernandez_gimenez_mar"><b>Fernández</b> Mar</a>, <a href="../../../author/lees_m_janet"><b>Lees</b> Janet</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../tore_fern_lees.2020.FGC/">Functionally Graded Concrete:<br/>Design Objectives, Production Techniques and Analysis Methods for Layered and Continuously Graded Elements</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>

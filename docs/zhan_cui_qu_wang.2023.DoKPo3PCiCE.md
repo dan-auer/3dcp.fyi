@@ -10,8 +10,6 @@ tags:
  - environment
  - print
  - problem
- - in
- - on
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/yu_qi"><b>Yu</b> Qi</a> <a href="https://orcid.org/0000-0003-3936-7910" title="ORCID: 0000-0003-3936-7910" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 679-688
 
 :aca-blank:{ .lg .middle}
     [`#coast`](keyword/coast)
@@ -63,11 +62,9 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/guo_xiangyang"><b>Guo</b> Xiangyang</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chen_guo_zhen_li.2018.EoTAotPRaMPo3PSCP/">Effect of Tartaric Acid on the Printable, Rheological and Mechanical Properties of 3D Printing Sulphoaluminate Cement-Paste</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_veer_copu_schl.2019.FoULCCAiEB3CP/">Feasibility of Using Low CO2 Concrete Alternatives in Extrusion-Based 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a></li>

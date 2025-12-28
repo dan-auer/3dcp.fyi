@@ -14,8 +14,6 @@ tags:
  - method
  - robot
  - surface
- - a
- - in
 
 ---
 

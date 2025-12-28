@@ -16,7 +16,6 @@ tags:
  - real
  - time
  - vision
- - in
 
 ---
 
@@ -82,7 +81,6 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
-      <li>None</li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
     </ol>
 ???+ quote "Citations"

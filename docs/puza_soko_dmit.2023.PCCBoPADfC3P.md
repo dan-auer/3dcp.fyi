@@ -12,7 +12,6 @@ tags:
  - dispersion
  - polymer
  - print
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="https://orcid.org/0000-0002-9593-8653" title="ORCID: 0000-0002-9593-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Construction, Architecture and Technosphere Safety, pp. 108-117
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -66,12 +66,9 @@ tags:
     <ol>
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
-      <li>None</li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>

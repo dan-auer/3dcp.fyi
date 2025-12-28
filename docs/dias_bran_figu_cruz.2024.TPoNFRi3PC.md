@@ -12,8 +12,6 @@ tags:
  - print
  - reinforcement
  - review
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

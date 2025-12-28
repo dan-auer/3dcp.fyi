@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="https://orcid.org/0000-0002-1885-2338" title="ORCID: 0000-0002-1885-2338" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 601-611
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

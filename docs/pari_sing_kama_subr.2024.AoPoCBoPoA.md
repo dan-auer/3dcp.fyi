@@ -11,7 +11,6 @@ tags:
  - concrete
  - packing
  - printability
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)
@@ -70,7 +70,7 @@ tags:
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pari_sing_kama_subr.2024.AoPoCBoPoA/">Assessment of Printability of Concrete Based on Packing of Aggregates</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

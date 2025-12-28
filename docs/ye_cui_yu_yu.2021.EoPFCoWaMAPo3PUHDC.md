@@ -16,9 +16,6 @@ tags:
  - print
  - property
  - workability
- - on
- - ultra
- - ultra
 
 ---
 

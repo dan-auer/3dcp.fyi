@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> <a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 57-64
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)
@@ -64,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a>, <a href="../../../author/washburn_newell"><b>Washburn</b> Newell</a>, <a href="../../../author/zeglin_garth"><b>Zeglin</b> Garth</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../bard_cupk_wash_zegl.2018.RCSF/">Robotic Concrete Surface Finishing:<br/>A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
@@ -75,8 +75,6 @@ tags:
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../plac_schw.2023.FPtS/">From Process to System:<br/>A Review on the Implications of Concrete 3D Printing on Project Delivery</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>
 ???+ quote "Citations"

@@ -57,8 +57,6 @@ tags:
       <li><a href="../../../author/cohen_zach"><b>Cohen</b> Zach</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../cohe.2019.HU/">Hold Up:<br/>Machine Delay in Architectural Design</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
 ???+ quote "Citations"

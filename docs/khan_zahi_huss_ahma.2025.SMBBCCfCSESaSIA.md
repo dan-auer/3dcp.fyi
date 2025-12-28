@@ -17,7 +17,6 @@ tags:
  - smart
  - storage
  - sustainability
- - a
 
 ---
 

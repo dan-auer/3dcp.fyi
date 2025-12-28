@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 771-778
 
 :aca-blank:{ .lg .middle}
     [`#assistance`](keyword/assistance)

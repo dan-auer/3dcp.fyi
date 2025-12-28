@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/zakeri_mahriz"><b>Zakeri</b> Mahriz</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Design Transactions, pp. 158-165
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

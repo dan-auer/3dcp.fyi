@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - review
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/sorensen_j_taylor"><b>Sorensen</b> Taylor</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 2024 Intermountain Engineering, Technology and Computing (IETC), pp. 285-290
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

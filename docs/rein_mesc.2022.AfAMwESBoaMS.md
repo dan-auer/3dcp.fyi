@@ -12,8 +12,6 @@ tags:
  - material
  - split
  - stiffness
- - a
- - on
 
 ---
 
@@ -68,11 +66,10 @@ tags:
       <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../espo_casa_menn_aspr.2021.EACBo3PM/">Early-Age Creep Behavior of 3D Printable Mortars:<br/>Experimental Characterisation and Analytical Modelling</a></li>
       <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../nedj.2021.OaGNLIFftMo3CP/">On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing</a></li>
       <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../nedj.2022.IVaFSftMo3CP/">Incremental Viscoelasticity at Finite Strains for the Modelling of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

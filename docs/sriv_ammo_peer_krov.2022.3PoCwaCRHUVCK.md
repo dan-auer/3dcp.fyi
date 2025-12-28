@@ -13,7 +13,6 @@ tags:
  - print
  - robot
  - variation
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/walker_d_ian"><b>Walker</b> Ian</a> <a href="https://orcid.org/0000-0002-9465-2960" title="ORCID: 0000-0002-9465-2960" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 2022 International Conference on Robotics and Automation (ICRA), pp. 3216-3222
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

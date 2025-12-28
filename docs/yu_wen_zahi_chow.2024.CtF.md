@@ -10,7 +10,6 @@ tags:
  - digital
  - fabrication
  - future
- - in
 
 ---
 

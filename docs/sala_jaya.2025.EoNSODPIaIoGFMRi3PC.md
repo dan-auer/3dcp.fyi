@@ -16,8 +16,6 @@ tags:
  - nozzle
  - print
  - reinforcement
- - in
- - off
 
 ---
 
@@ -97,7 +95,6 @@ tags:
       <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sala_jaya.2023.EoPPoIFVBaGDiC3PS/">Effect of Printing Parameters on Inter-Filament Voids, Bonding, and Geometrical Deviation in Concrete 3D Printed Structures</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
-      <li>None</li>
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../tay_lim_li_tan.2022.CFGCMwV3PP/">Creating Functionally Graded Concrete Materials with Varying 3D Printing Parameters</a></li>

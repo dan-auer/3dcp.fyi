@@ -11,7 +11,6 @@ tags:
  - print
  - reinforcement
  - steel
- - a
 
 ---
 
@@ -80,7 +79,6 @@ tags:
       <li><a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b> Charbel</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../sakk_assa_hamz_nakh.2019.TaIBSoPMPM/">Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/yassin_abdallah"><b>Yassin</b> Abdallah</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../yass_hamz_sakk.2020.ABMtOWoRSaC3P/">Agent-Based Modeling to Optimize Workflow of Robotic Steel and Concrete 3D Printers</a></li>
     </ol>
 ???+ quote "Citations"

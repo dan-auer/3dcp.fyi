@@ -14,7 +14,6 @@ tags:
  - load
  - print
  - structure
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="https://orcid.org/0000-0002-2815-3602" title="ORCID: 0000-0002-2815-3602" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Computational and Experimental Simulations in Engineering, pp. 366-375
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

@@ -13,9 +13,6 @@ tags:
  - print
  - self
  - test
- - a
- - non
- - self
 
 ---
 

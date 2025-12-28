@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="https://orcid.org/0000-0003-1626-2067" title="ORCID: 0000-0003-1626-2067" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Industry 4.0 and Advanced Manufacturing, pp. 283-291
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -66,7 +67,6 @@ tags:
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>
-      <li>None</li>
       <li><a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b> José</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../orte_madr_olss_teno.2020.TAo3PTitMoCBCPaEBotAoSP/">The Application of 3D Printing Techniques in the Manufacturing of Cement-Based Construction Products and Experiences Based on the Assessment of Such Products</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../perr_rang_nere_mech.2018.EoCBM/">Extrusion of Cement-Based Materials:<br/>An Overview</a></li>

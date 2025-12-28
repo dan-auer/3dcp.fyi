@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/jin_zihao"><b>Jin</b> Zihao</a> <a href="https://orcid.org/0009-0003-1709-8569" title="ORCID: 0009-0003-1709-8569" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 29th International Conference of the Association for Computer- Aided Architectural Design Research in Asia, pp. 319-328
 
 :aca-blank:{ .lg .middle}
     [`#block`](keyword/block)

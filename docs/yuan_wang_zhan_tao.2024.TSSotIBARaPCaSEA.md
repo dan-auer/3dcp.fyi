@@ -13,7 +13,6 @@ tags:
  - print
  - shear
  - strength
- - super
 
 ---
 

@@ -12,7 +12,6 @@ tags:
  - house
  - print
  - scale
- - a
 
 ---
 
@@ -70,7 +69,6 @@ tags:
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kasz_olcz_tech_skib.2019.THPo3PW/">Thermal-Humidity Parameters of 3D Printed Wall</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>

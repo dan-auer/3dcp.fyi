@@ -14,8 +14,6 @@ tags:
  - print
  - structure
  - test
- - a
- - up
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 190-197
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -72,7 +71,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/nugraha_agung_joshua"><b>Nugraha</b> Joshua</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bash_nugr_rehm_choi.2024.SaYSCoHAACCfUR3CP/">Structuration and Yield Strength Characterization of Hybrid Alkali-Activated Cement Composites for Ultra-Rapid 3D Construction Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/birru_melesse_bizu"><b>Birru</b> Bizu</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../birr_rehm_kim.2024.CAoSBUiOCSaTCSASoDMf3CP/">Comparative Analysis of Structural Build-Up in One-Component Stiff and Two-Component Shotcrete-Accelerated Set-on-Demand Mixtures for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC/">Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction</a></li>

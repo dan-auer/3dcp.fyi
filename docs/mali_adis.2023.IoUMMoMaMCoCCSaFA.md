@@ -12,9 +12,6 @@ tags:
  - method
  - mixing
  - slag
- - macro
- - on
- - macro
 
 ---
 

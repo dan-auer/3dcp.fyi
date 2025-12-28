@@ -15,8 +15,6 @@ tags:
  - manufacturing
  - tall
  - wind
- - ultra
- - ultra
 
 ---
 

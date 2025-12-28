@@ -15,7 +15,6 @@ tags:
  - quantity
  - structure
  - temperature
- - a
 
 ---
 
@@ -92,7 +91,6 @@ tags:
       <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/poussard_valentin"><b>Poussard</b> Valentin</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../mesn_pous_sab_caro.2023.OtGOotAiEB3PS/">On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
-      <li>None</li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>
       <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.IoPPotTPo3PCS/">Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>

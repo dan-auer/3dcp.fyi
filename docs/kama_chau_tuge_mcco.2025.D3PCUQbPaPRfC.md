@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> <a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

@@ -13,7 +13,6 @@ tags:
  - print
  - propagation
  - quality
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/oomori_hiroto"><b>Oomori</b> Hiroto</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

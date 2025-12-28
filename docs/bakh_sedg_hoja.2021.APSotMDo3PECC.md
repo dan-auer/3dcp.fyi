@@ -11,8 +11,6 @@ tags:
  - engineered
  - mixing
  - printability
- - a
- - on
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Tran-SET 2021, pp. 199-211
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>

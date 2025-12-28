@@ -14,7 +14,6 @@ tags:
  - print
  - rheology
  - supplement
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/shrestha_ajad"><b>Shrestha</b> Ajad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Structural Engineering, pp. 209-218
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

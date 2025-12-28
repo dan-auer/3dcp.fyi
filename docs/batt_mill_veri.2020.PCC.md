@@ -16,7 +16,6 @@ tags:
  - print
  - robot
  - sand
- - in
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a> <a href="https://orcid.org/0000-0002-1318-7439" title="ORCID: 0000-0002-1318-7439" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 757-767
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -79,7 +79,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b> Scott</a>, <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>, <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../veri_kowa_carl_brig.2020.Po3PMwtDoa3CPDS/">Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System</a></li>
-      <li>None</li>
       <li><a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>, <a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../zivk_batt.2018.RPET/">Rough-Pass-Extrusion-Tooling:<br/>CNC Post-Processing of 3D Printed Sub-Additive Concrete Lattice-Structures</a></li>
     </ol>
 ???+ quote "Citations"

@@ -10,7 +10,6 @@ tags:
  - layer
  - print
  - strength
- - inter
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="https://orcid.org/0000-0001-5502-6548" title="ORCID: 0000-0001-5502-6548" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing Technology, pp. 241-264
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -70,7 +70,6 @@ tags:
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2011/10">(2011-10)</a><br><a href="../../../rael_frat.2011.DCPBCf3P/">Developing Concrete Polymer Building Components for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
@@ -135,7 +134,7 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../marc_sanj.2022.LJRf3CP/">Lap Joint Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/eugenin_claudia"><b>Eugenin</b> Claudia</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a>, <a href="../../../author/brevis_wernher"><b>Brevis</b> Wernher</a>, <a href="../../../author/lopez_mauricio"><b>Lopez</b> Mauricio</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../euge_nava_brev_lope.2022.ABaaAfPC/">Air-Bubbles as an Admixture for Printable Concrete:<br/>A Review of the Rheological Effect of Entrained Air</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/olczyk_norbert"><b>Olczyk</b> Norbert</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../skib_tech_fede_olcz.2021.ESoHYsMf3PM/">Experimental Study of Hardened Young's Modulus for 3D Printed Mortar</a></li>
-      <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shao_jianwen"><b>Shao</b> Jianwen</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/zou_daoqin"><b>Zou</b> Daoqin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wang_shao_zhan_zou.2022.BSPaCMoIbVaHFo3PC/">Bond Shear Performances and Constitutive Model of Interfaces between Vertical and Horizontal Filaments of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shao_jianwen"><b>Shao</b> Jianwen</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/zou_daoqin"><b>Zou</b> Daoqin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wang_shao_zhan_zou.2022.BSPaCMoIBVaHFo3PC/">Bond Shear Performances and Constitutive Model of Interfaces Between Vertical and Horizontal Filaments of 3D Printed Concrete</a></li>
       <li><a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../pras.2022.3CPTCPaFP/">3D Concrete Printing Technology Current Progress and Future Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/woo_seong-jin"><b>Woo</b> Seong-Jin</a>, <a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../woo_yang_lee_kwon.2021.CoPo3PMiAvU/">Comparison of Properties of 3D Printed Mortar in Air vs. Underwater</a></li>
       <li><a href="../../../author/uribe-pinzon_sebastian"><b>Uribe-Pinzon</b> Sebastian</a>, <a href="../../../author/mosquera_mariana"><b>Mosquera</b> Mariana</a>, <a href="../../../author/cardenas-pulido_jhon"><b>Cardenas-Pulido</b> Jhon</a>, <a href="../../../author/higuera_camilo"><b>Higuera</b> Camilo</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../urib_mosq_card_higu.2021.AaCTotUo3PCfBF/">Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication</a></li>

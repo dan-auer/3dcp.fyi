@@ -7,7 +7,6 @@ description:
 tags:
  - buildability
  - environment
- - in
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="https://orcid.org/0000-0002-3649-8213" title="ORCID: 0000-0002-3649-8213" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Creative Construction Conference 2017, pp. 228-235
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

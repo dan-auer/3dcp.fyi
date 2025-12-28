@@ -11,8 +11,6 @@ tags:
  - extrusion
  - pavilion
  - print
- - a
- - in
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/ballard_jason"><b>Ballard</b> Jason</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cantilever`](keyword/cantilever)

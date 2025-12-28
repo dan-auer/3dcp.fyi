@@ -16,7 +16,6 @@ tags:
  - response
  - thaw
  - three
- - on
 
 ---
 
@@ -108,7 +107,6 @@ tags:
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_agui_anto_dill.2022.TYEo3PCCiaHAE/">Two Year Exposure of 3D Printed Cementitious Columns in a High-Alpine Environment</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

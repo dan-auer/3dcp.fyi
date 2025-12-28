@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#collapse
+# #collapse
 
 <ol reversed>
   <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a></li>

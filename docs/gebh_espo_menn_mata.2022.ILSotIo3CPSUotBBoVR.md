@@ -15,8 +15,6 @@ tags:
  - reinforcement
  - setting
  - variation
- - inter
- - on
 
 ---
 
@@ -79,7 +77,6 @@ tags:
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dezaire_steven"><b>Dezaire</b> Steven</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hoekstra_anne"><b>Hoekstra</b> Anne</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bos_deza_ahme_hoek.2020.BoRCi3PC/">Bond of Reinforcement-Cable in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ding_qin_xiao_chen.2022.ESotBBBSBa3PC/">Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>

@@ -16,7 +16,6 @@ tags:
  - print
  - slump
  - strength
- - in
 
 ---
 
@@ -76,8 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>

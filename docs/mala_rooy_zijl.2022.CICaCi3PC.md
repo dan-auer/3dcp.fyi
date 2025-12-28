@@ -11,7 +11,6 @@ tags:
  - corrosion
  - induction
  - print
- - in
 
 ---
 
@@ -68,9 +67,7 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>
       <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/azima_m"><b>Azima</b> M.</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/mullem_t"><b>Mullem</b> T.</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../putt_azim_heed_mull.2020.NRtStWIvtILo3PCMfCL/">Neutron-Radiography to Study the Water-Ingress via the Inter-Layer of 3D Printed Cementitious Materials for Continuous Layering</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>

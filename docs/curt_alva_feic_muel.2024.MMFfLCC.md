@@ -16,8 +16,6 @@ tags:
  - multi
  - optimization
  - system
- - in
- - multi
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/ismail_mohamed"><b>Ismail</b> Mohamed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2024, pp. 214-221
 
 :aca-blank:{ .lg .middle}
     [`#affordability`](keyword/affordability)
@@ -70,9 +69,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    This work addresses the global need for affordable housing construction through a contextualised approach to materially efficient design and fabrication of building systems. Mexico is one of the most urbanised countries in the Global South, facing a rapidly increasing population and a considerable percentage of inadequate housing (URBANET 2019). In 2016, it was estimated that 40% of all private residences in Mexico were considered inadequate, according to UN-Habitat (2018), both in terms of living conditions and structural/seismic integrity. Informal housing comprises more than half of all housing construction in Mexico, disproportionately affecting the most vulnerable segments of the population. In collaboration with local partners in Mexico, a novel structural floor system was designed and fabricated to use approximately half the material of conventionally available building products, with the aim of substantially reducing the economic and environmental costs of affordable housing construction.
-
-This prototype combines widely available low-carbon earthen block technology (EcoBlock) with a materially efficient, code-compliant beam and block floor system fabricated entirely in Mexico. Shape-optimised, reinforced concrete beams are produced in reusable fibreglass moulds, while mass-customised spanning blocks are 3D-printed in a local architectural ceramic material. The floor system is then conventionally assembled using existing construction methods. The Sueños Con Tierra/ Concreto Pavilion, which, shortly after installation, survived a magnitude 6.8 earthquake, demonstrates how our hybrid digital fabrication method can provide adequate and safe housing without jeopardising the country’s commitment to sustainability.
+    This work addresses the global need for affordable housing construction through a contextualised approach to materially efficient design and fabrication of building systems. Mexico is one of the most urbanised countries in the Global South, facing a rapidly increasing population and a considerable percentage of inadequate housing (URBANET 2019). In 2016, it was estimated that 40% of all private residences in Mexico were considered inadequate, according to UN-Habitat (2018), both in terms of living conditions and structural/seismic integrity. Informal housing comprises more than half of all housing construction in Mexico, disproportionately affecting the most vulnerable segments of the population. In collaboration with local partners in Mexico, a novel structural floor system was designed and fabricated to use approximately half the material of conventionally available building products, with the aim of substantially reducing the economic and environmental costs of affordable housing construction. This prototype combines widely available low-carbon earthen block technology (EcoBlock) with a materially efficient, code-compliant beam and block floor system fabricated entirely in Mexico. Shape-optimised, reinforced concrete beams are produced in reusable fibreglass moulds, while mass-customised spanning blocks are 3D-printed in a local architectural ceramic material. The floor system is then conventionally assembled using existing construction methods. The Sueños Con Tierra/ Concreto Pavilion, which, shortly after installation, survived a magnitude 6.8 earthquake, demonstrates how our hybrid digital fabrication method can provide adequate and safe housing without jeopardising the country’s commitment to sustainability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

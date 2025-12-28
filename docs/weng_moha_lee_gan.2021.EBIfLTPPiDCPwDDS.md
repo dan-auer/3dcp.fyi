@@ -14,8 +14,6 @@ tags:
  - path
  - print
  - tool
- - a
- - in
 
 ---
 
@@ -119,7 +117,7 @@ tags:
       <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../meis_wats_bile_duar.2022.DaSCfCSCAMiREvRAD/">Design and System Considerations for Construction-Scale Concrete Additive Manufacturing in Remote Environments via Robotic-Arm-Deposition</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>
       <li><a href="../../../author/zhang_jiale"><b>Zhang</b> Jiale</a>, <a href="../../../author/luo_hanbin"><b>Luo</b> Hanbin</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_luo_xu.2022.TFBEBAaR/">Towards Fully BIM-Enabled Building Automation and Robotics:<br/>A Perspective of Lifecycle Information Flow</a></li>
-      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPbBEa3CP/">Development of Communication Protocols between BIM Elements and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/ning_xin"><b>Ning</b> Xin</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/wu_chunlin"><b>Wu</b> Chunlin</a>, <a href="../../../author/wang_chao"><b>Wang</b> Chao</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ning_liu_wu_wang.2021.3PiC/">3D Printing in Construction:<br/>Current Status, Implementation Hindrances, and Development Agenda</a></li>
     </ol>
 </div>

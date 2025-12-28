@@ -11,7 +11,6 @@ tags:
  - model
  - pipe
  - pump
- - a
 
 ---
 
@@ -67,7 +66,6 @@ tags:
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/mullett_paul"><b>Mullett</b> Paul</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ghaf_mull.2018.C/">Commentary:<br/>3D Printing Set to Transform the Construction Industry</a></li>
       <li><a href="../../../author/le_d_h"><b>Le</b> H.</a>, <a href="../../../author/kadri_hadj"><b>Kadri</b> Hadj</a>, <a href="../../../author/aggoun_salima"><b>Aggoun</b> Salima</a>, <a href="../../../author/vierendeels_jan"><b>Vierendeels</b> Jan</a> et al. <a href="../../../date/2015/01">(2015-01)</a><br><a href="../../../le_kadr_aggo_vier.2015.EoLLoVPoCiaPP/">Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe</a></li>
-      <li>None</li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/khodor_jad"><b>Khodor</b> Jad</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../secr_khod_schr_mech.2018.FoLLaFTDPoCBM/">Formation of Lubricating Layer and Flow Type During Pumping of Cement-Based Materials</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>

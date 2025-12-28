@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/wang_sining"><b>Wang</b> Sining</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 19-28
 
 :aca-blank:{ .lg .middle}
     [`#bio`](keyword/bio)

@@ -14,7 +14,6 @@ tags:
  - prefabrication
  - print
  - situ
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b> Ariane</a> <a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Blucher Engineering Proceedings, pp. 538-545
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

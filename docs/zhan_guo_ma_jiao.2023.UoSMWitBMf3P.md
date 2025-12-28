@@ -11,7 +11,6 @@ tags:
  - solid
  - util
  - waste
- - in
 
 ---
 
@@ -74,7 +73,6 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>

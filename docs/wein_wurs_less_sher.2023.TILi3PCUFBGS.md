@@ -12,7 +12,6 @@ tags:
  - printability
  - sensor
  - triangulation
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/mulligan_p"><b>Mulligan</b> P.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 16th Hypervelocity Impact Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bragg`](keyword/bragg)

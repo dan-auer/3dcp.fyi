@@ -9,7 +9,6 @@ tags:
  - general
  - print
  - technology
- - in
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing of Concrete, pp. 1-40
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -73,7 +73,6 @@ tags:
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../szab_reit_llor_gram.2019.ASDCtTFG/">Adapting Smart Dynamic Casting to Thin-Folded Geometries</a></li>
       <li><a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/wille_kay"><b>Wille</b> Kay</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vand_bess_will_rous.2019.EPCTbHSM/">Enhancing Printable Concrete Thixotropy by High-Shear Mixing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/gao_yuan"><b>Gao</b> Yuan</a>, <a href="../../../author/sun_chenwei"><b>Sun</b> Chenwei</a>, <a href="../../../author/wang_zhi"><b>Wang</b> Zhi</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xu_gao_sun_wang.2020.FaAo3PCSCitBPBP/">Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>

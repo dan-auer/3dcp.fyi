@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#quasi
+# #quasi
 
 <ol reversed>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>

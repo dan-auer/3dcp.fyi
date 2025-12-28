@@ -16,8 +16,6 @@ tags:
  - size
  - speed
  - wall
- - a
- - on
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="https://orcid.org/0000-0002-3979-9994" title="ORCID: 0000-0002-3979-9994" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

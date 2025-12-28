@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#comparision`](keyword/comparision)

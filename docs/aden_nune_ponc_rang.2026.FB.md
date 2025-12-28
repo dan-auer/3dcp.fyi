@@ -12,8 +12,6 @@ tags:
  - print
  - review
  - wall
- - a
- - on
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 605-612
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../han_yan_liu_huo.2022.ESoLS3PCWUAC/">Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a>, <a href="../../../author/takasu_koji"><b>Takasu</b> Koji</a>, <a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a>, <a href="../../../author/zu_kun"><b>Zu</b> Kun</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../liu_taka_jian_zu.2023.MPo3PCC/">Mechanical Properties of 3D Printed Concrete Components:<br/>A Review</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>

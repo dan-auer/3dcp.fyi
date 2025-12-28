@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/chowdhury_sudipta"><b>Chowdhury</b> Sudipta</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ASCE International Conference on Computing in Civil Engineering 2023, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

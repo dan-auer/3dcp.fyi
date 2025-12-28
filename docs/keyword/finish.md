@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#finish
+# #finish
 
 <ol reversed>
   <li><a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chad_vase_gram_kohl.2025.ART/">Adaptive Robotic Tamping:<br/>A Novel Robotic Method for Formative Surface Finishing in Earth-Based Additive Manufacturing</a></li>

@@ -16,7 +16,6 @@ tags:
  - time
  - ultrasonic
  - velocity
- - in
 
 ---
 

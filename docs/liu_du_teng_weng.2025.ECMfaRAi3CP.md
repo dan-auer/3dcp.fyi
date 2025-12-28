@@ -12,8 +12,6 @@ tags:
  - model
  - print
  - robot
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Civil and Building Engineering Informatics, pp. 524-517
 
 :aca-blank:{ .lg .middle}
     [`#arm`](keyword/arm)

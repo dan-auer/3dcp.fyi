@@ -13,7 +13,6 @@ tags:
  - shell
  - structure
  - use
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/chen_taole"><b>Chen</b> Taole</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 213-222
 
 :aca-blank:{ .lg .middle}
     [`#algorithm`](keyword/algorithm)
@@ -65,8 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/chu_jianfei"><b>Chu</b> Jianfei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bhoo_bhoo_dell_chu.2022.TSB/">The Striatus Bridge</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>

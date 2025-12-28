@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/leach_neil"><b>Leach</b> Neil</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the AIAA SPACE 2012 Conference & Exposition, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

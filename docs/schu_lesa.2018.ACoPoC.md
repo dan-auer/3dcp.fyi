@@ -10,7 +10,6 @@ tags:
  - control
  - property
  - review
- - a
 
 ---
 
@@ -60,7 +59,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
     </ol>
 ???+ quote "Citations"

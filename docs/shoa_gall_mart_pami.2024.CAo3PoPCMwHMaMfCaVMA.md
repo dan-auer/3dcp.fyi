@@ -16,12 +16,10 @@ tags:
  - mortar
  - print
  - viscosity
- - micro
- - micro
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2024.113124) Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-fibrillated Cellulose as Viscosity-Modifying-Agents ([2024-06](date/2024/06))
+#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.matdes.2024.113124) Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents ([2024-06](date/2024/06))
 <a href="https://doi.org/10.1016/j.matdes.2024.113124" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.matdes.2024.113124</a>
 
 -------------------------
@@ -53,7 +51,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%203D%20Printing%20of%20Portland%20Cement%20Mortars%20with%20Hydroxypropyl-Methylcellulose%20and%20Micro-fibrillated%20Cellulose%20as%20Viscosity-Modifying-Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%203D%20Printing%20of%20Portland%20Cement%20Mortars%20with%20Hydroxypropyl-Methylcellulose%20and%20Micro-Fibrillated%20Cellulose%20as%20Viscosity-Modifying-Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197363523&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001262557100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2024.113124" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -93,7 +91,6 @@ tags:
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
-      <li>None</li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC/">Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites</a></li>
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>

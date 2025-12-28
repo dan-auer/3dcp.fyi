@@ -74,7 +74,6 @@ tags:
     <ol>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> <a href="../../../date/2008/05">(2008-05)</a><br><a href="../../../busw_thor_soar_gibb.2008.DDaPIfMSRMMUfC/">Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction</a></li>
       <li><a href="../../../author/herrmann_michael"><b>Herrmann</b> Michael</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../herr_sobe.2015.FGC/">Functionally Graded Concrete:<br/>Numerical Design Methods and Experimental Studies on Mass Minimized Components</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

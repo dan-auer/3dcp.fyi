@@ -13,7 +13,6 @@ tags:
  - manufacturing
  - material
  - model
- - a
 
 ---
 
@@ -83,11 +82,9 @@ tags:
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
-      <li>None</li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/pedersen_bue_david"><b>Pedersen</b> David</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../serd_comm_pede_span.2019.NSotMFiMEAM/">Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing</a></li>
-      <li>None</li>
       <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../span_silv_comm_moll.2021.NSoML3CP/">Numerical Simulation of Multi-Layer 3D Concrete Printing</a></li>
     </ol>
 ???+ quote "Citations"

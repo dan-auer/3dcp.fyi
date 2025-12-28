@@ -12,8 +12,6 @@ tags:
  - print
  - reef
  - sand
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/ferngau_e"><b>Ferngau</b> E.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Coasts, Marine Structures and Breakwaters 2023, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#artificial`](keyword/artificial)

@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/almerbati_nehal"><b>Almerbati</b> Nehal</a> <a href="https://orcid.org/0000-0003-2855-3865" title="ORCID: 0000-0003-2855-3865" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ICSDI 2024 Volume 2, pp. 345-352
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)
@@ -62,7 +63,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/liu_siyu"><b>Liu</b> Siyu</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>, <a href="../../../author/pan_zehua"><b>Pan</b> Zehua</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lu_li_pan.2022.ACSoEPo3PaCCoCPwIW/">A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>

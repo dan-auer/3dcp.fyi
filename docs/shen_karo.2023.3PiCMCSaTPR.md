@@ -13,7 +13,6 @@ tags:
  - review
  - strength
  - temperature
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Industrial Engineering and Operations Management, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)
@@ -82,7 +82,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>, <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ma_a_xie_pan.2022.3PAIC/">3D Printable Aerogel-Incorporated Concrete:<br/>Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</a></li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a></li>

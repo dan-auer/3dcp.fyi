@@ -14,8 +14,6 @@ tags:
  - printability
  - property
  - rubber
- - ultra
- - ultra
 
 ---
 

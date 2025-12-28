@@ -72,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/allouzi_rawan"><b>Allouzi</b> Rawan</a>, <a href="../../../author/azhari_wael"><b>Azhari</b> Wael</a>, <a href="../../../author/allouzi_rabab"><b>Allouzi</b> Rabab</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../allo_azha_allo.2020.CCa3P/">Conventional Construction and 3D Printing:<br/>A Comparison Study on Material-Cost in Jordan</a></li>
       <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a></li>
       <li><a href="../../../author/bajpayee_aayushi"><b>Bajpayee</b> Aayushi</a>, <a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/pandey_aditi"><b>Pandey</b> Aditi</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../bajp_fara_zaki_pand.2020.ISRUaRoSiCMftAMoB/">In-Situ Resource Utilization and Reconfiguration of Soils into Construction Materials for the Additive Manufacturing of Buildings</a></li>

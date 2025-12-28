@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> <a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Strain-Hardening Cementitious Composites, pp. 79-88
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

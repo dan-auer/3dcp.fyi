@@ -16,7 +16,6 @@ tags:
  - optimization
  - parameter
  - wall
- - multi
 
 ---
 

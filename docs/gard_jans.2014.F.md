@@ -11,7 +11,6 @@ tags:
  - print
  - robot
  - scale
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2014, pp. 131-146
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

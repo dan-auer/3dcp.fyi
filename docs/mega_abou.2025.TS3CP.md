@@ -13,7 +13,6 @@ tags:
  - rheology
  - superplasticizer
  - sustainability
- - on
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/zhang_xiao"><b>Zhang</b> Xiao</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mani_wi_zhan_wang.2020.CCMfC3P/">Characterizing Cement Mixtures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a>, <a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/lima_moraes_marcelo"><b>Lima</b> Marcelo</a>, <a href="../../../author/neto_silva-andrade_jose"><b>Neto</b> José</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mato_zat_lima_neto.2023.EotSATotFPo3PLCCCLC/">Effect of the Superplasticizer-Addition Time on the Fresh Properties of 3D Printed Limestone-Calcined-Clay-Cement (LC³) Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../qian_schu.2018.DEoNaPSoADYSaToCP/">Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>

@@ -14,7 +14,6 @@ tags:
  - sand
  - util
  - waste
- - in
 
 ---
 
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P/">On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing:<br/>Long-Term Interactions of Cementitious Materials in the Marine Environment</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../hou_duan_ye_zou.2023.MPaPSo3PMwRP/">Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder</a></li>
-      <li>None</li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a>, <a href="../../../author/ma_chau-khun"><b>Ma</b> Chau-Khun</a>, <a href="../../../author/chin_chee-long"><b>Chin</b> Chee-Long</a>, <a href="../../../author/ibrahim_syahrizal_izni"><b>Ibrahim</b> Izni</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ler_ma_chin_ibra.2024.PaDTo3PC/">Porosity and Durability Tests on 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>

@@ -14,9 +14,6 @@ tags:
  - print
  - process
  - scale
- - a
- - on
- - sub
 
 ---
 
@@ -35,6 +32,7 @@ tags:
 ,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 5th Residential Building Design & Construction, pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

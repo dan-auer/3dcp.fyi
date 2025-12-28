@@ -14,7 +14,6 @@ tags:
  - print
  - rib
  - slab
- - under
 
 ---
 
@@ -73,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
       <li><a href="../../../author/coward_andy"><b>Coward</b> Andy</a>, <a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../cowa_sre.2023.3PCBaOLCSE/">3D Printed Concrete Beams as Optimised Load Carrying Structural Elements:<br/>The Minimass Beam</a></li>

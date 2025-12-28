@@ -17,9 +17,6 @@ tags:
  - multi
  - porosity
  - print
- - a
- - in
- - multi
 
 ---
 
@@ -84,7 +81,6 @@ tags:
       <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a>, <a href="../../../author/konigsberger_markus"><b>Königsberger</b> Markus</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jauk_gosc_vasa_koni.2023.FR3PoC/">Filament-Reinforced 3D Printing of Clay</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
-      <li>None</li>
       <li><a href="../../../author/yang_hui-qin"><b>Yang</b> Hui-Qin</a>, <a href="../../../author/klug_christina"><b>Klug</b> Christina</a>, <a href="../../../author/schmitz_h_thomas"><b>Schmitz</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_klug_schm.2023.FRC/">Fiber-Reinforced Clay:<br/>An Exploratory Study on Automated Thread Insertion for Enhanced Structural Integrity in LDM.</a></li>
     </ol>
 ???+ quote "Citations"

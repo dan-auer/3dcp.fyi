@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 75-98
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)

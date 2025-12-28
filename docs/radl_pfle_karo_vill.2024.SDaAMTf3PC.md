@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2024 IABSE Symposium, pp. 82
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

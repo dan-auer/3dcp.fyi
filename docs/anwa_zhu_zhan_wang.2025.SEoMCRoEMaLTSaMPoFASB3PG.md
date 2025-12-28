@@ -18,8 +18,6 @@ tags:
  - strength
  - synergy
  - term
- - mid
- - on
 
 ---
 

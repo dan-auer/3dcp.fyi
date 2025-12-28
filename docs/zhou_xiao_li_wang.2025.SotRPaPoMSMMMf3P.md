@@ -14,8 +14,6 @@ tags:
  - property
  - rheology
  - scale
- - multi
- - on
 
 ---
 
@@ -103,7 +101,7 @@ tags:
       <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xion_nie_liu_li.2024.EaOoMCCM3PRCC/">Evaluation and Optimization of Micro-Calcium-Carbonate-Modified 3D Printed Rubber-Crumb Concrete</a></li>
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../zare_khos.2018.EoMIoEoCiCC/">Effects of Mixture Ingredients on Extrudability of Concrete in Contour Crafting</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>

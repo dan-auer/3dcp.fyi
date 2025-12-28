@@ -12,7 +12,6 @@ tags:
  - print
  - silica
  - situ
- - in
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../moin.2023.PiAIM/">Perspectives in Architected Infrastructure Materials</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA/">Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../moin_olek_mage_zava.2019.AMaCoACBMvXRMCT/">Additive Manufacturing and Characterization of Architectured Cement-Based Materials via X-Ray Micro-Computed Tomography</a></li>
@@ -90,7 +88,6 @@ tags:
       <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rodr_olek_moin_zava.2021.LSCaFPoMtTTDPC/">Linking Solids Content and Flow Properties of Mortars to Their Three-Dimensional Printing Characteristics</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

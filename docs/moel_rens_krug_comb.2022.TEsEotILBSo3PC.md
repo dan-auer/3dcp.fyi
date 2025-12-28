@@ -13,8 +13,6 @@ tags:
  - layer
  - print
  - strength
- - inter
- - on
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 222-227
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)

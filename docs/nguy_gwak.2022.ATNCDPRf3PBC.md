@@ -16,8 +16,6 @@ tags:
  - print
  - robot
  - vibration
- - a
- - two
 
 ---
 

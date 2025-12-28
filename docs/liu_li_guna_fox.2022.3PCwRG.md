@@ -14,7 +14,6 @@ tags:
  - print
  - recycling
  - strength
- - on
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
       <li><a href="../../../author/luhar_salmabanu"><b>Luhar</b> Salmabanu</a>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/luhar_ismail"><b>Luhar</b> Ismail</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../luha_sunt_nava_luha.2020.SaRBBNFaIAf3PC/">Sustainable and Renewable Bio-Based Natural Fibers and Its Application for 3D Printed Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>

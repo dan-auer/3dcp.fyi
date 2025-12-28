@@ -11,7 +11,6 @@ tags:
  - path
  - print
  - strength
- - on
 
 ---
 
@@ -64,7 +63,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
@@ -83,7 +81,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
 ???+ quote "Citations"

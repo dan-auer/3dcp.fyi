@@ -12,7 +12,6 @@ tags:
  - manufacturing
  - robot
  - situ
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Up and Accelerating Cross-Fertilization Between Academic and Industrial Robotics Research in Europe, pp. 63-83
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -66,7 +66,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
-      <li>None</li>
       <li><a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../soar.2005.AMTftCI/">Additive Manufacturing Technologies for the Construction Industry</a></li>
     </ol>
 ???+ quote "Citations"

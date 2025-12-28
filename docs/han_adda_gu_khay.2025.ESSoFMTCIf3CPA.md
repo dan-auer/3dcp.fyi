@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

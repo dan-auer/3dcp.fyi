@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/fussel_uwe"><b>Füssel</b> Uwe</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 167-175
 
 :aca-blank:{ .lg .middle}
     [`#alternative`](keyword/alternative)

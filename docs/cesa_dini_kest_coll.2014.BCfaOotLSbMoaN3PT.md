@@ -10,8 +10,6 @@ tags:
  - print
  - soil
  - technology
- - a
- - on
 
 ---
 
@@ -148,7 +146,7 @@ tags:
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../raza_zhon.2022.ASRfAMUGiCI/">A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry</a></li>
       <li><a href="../../../author/boukhelf_fouad"><b>Boukhelf</b> Fouad</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/boutouil_mohamed"><b>Boutouil</b> Mohamed</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P/">On the Properties Evolution of Eco-Material Dedicated to Manufacturing Artificial Reef via 3D Printing:<br/>Long-Term Interactions of Cementitious Materials in the Marine Environment</a></li>
-      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CbTBaBf3CP/">Correlation between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../li_zhan_tay_ting.2022.TD3PfBaC/">Three-Dimensional (3D) Printing for Building and Construction</a></li>
       <li><a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../rose_wolf.2022.TBCf3PitBE/">The Business Case for 3D Printing in the Built Environment</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>

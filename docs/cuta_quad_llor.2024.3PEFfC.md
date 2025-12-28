@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 431-438
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)
@@ -69,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>, <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>, <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a>, <a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../bruc_clun_xie_moza.2021.C/">Cocoon:<br/>3D Printed Clay Formwork for Concrete Casting</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>

@@ -9,7 +9,6 @@ tags:
  - development
  - print
  - process
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 28th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -112,7 +112,7 @@ tags:
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../raza_zhon.2022.ASRfAMUGiCI/">A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/cheng_zhi"><b>Cheng</b> Zhi</a>, <a href="../../../author/zhao_zhiyi"><b>Zhao</b> Zhiyi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhan_liu_chen_zhao.2022.EoLMPoSo3PCCBM/">Effect of Layering Molding Process on Strength of 3D Printed Composite Cement-Based Materials</a></li>
-      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CbTBaBf3CP/">Correlation between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mawa_mabo_gerk.2022.AGIiDF/">Automatic Geometric Inspection in Digital Fabrication</a></li>
       <li><a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../wija_krei_masu.2022.AEIMaEBBCfLPwCM/">An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials</a></li>

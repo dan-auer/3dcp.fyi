@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#rib
+# #rib
 
 <ol reversed>
   <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>

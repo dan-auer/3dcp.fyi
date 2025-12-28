@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#cohesion
+# #cohesion
 
 <ol reversed>
   <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../miri_baaj_pola.2025.EIi3PCTCZM/">Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling</a></li>

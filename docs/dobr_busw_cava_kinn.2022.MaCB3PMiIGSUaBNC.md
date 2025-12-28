@@ -12,8 +12,6 @@ tags:
  - mortar
  - printability
  - state
- - a
- - in
 
 ---
 
@@ -75,7 +73,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>
-      <li>None</li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../jipa_bern_meib_dill.2016.3PSiPFfTOCS/">3D Printed Stay-in-Place Formwork for Topologically Optimized Concrete Slabs</a></li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>

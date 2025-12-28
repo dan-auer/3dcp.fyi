@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/cheein_auat_fernando"><b>Cheein</b> Fernando</a> <a href="https://orcid.org/0000-0002-6347-7696" title="ORCID: 0000-0002-6347-7696" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society, pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#artificial`](keyword/artificial)

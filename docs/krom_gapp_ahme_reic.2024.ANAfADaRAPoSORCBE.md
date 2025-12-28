@@ -17,7 +17,6 @@ tags:
  - reuse
  - robot
  - structure
- - a
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/reichenbach_sara"><b>Reichenbach</b> Sara</a> <a href="https://orcid.org/0000-0002-9052-577X" title="ORCID: 0000-0002-9052-577X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)
@@ -77,7 +77,6 @@ tags:
     <ol>
       <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a>, <a href="../../../author/ameri_shaghayegh"><b>Ameri</b> Shaghayegh</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bagh_ledd_amer_klof.2023.EaNAoNCDCCPoRCMT/">Experimental and Numerical Assessments of New Concrete Dry Connections Concerning Potentials of Robotic CNC Manufacturing Technique</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/gappmeier_peter"><b>Gappmeier</b> Peter</a>, <a href="../../../author/reichenbach_sara"><b>Reichenbach</b> Sara</a>, <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../gapp_reic_krom.2024.AiFASaMiCC/">Advances in Formwork Automation, Structure and Materials in Concrete Construction</a></li>
       <li><a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a>, <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pres_krom.2023.DSoSOCG/">Development-Stages of Structurally Optimized Concrete Girders:<br/>Design-Concepts, Material-Strategies and Experimental Investigation</a></li>
       <li><a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/ochlast_andreas"><b>Ochlast</b> Andreas</a>, <a href="../../../author/zimmert_florian"><b>Zimmert</b> Florian</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zoll_ochl_zimm_bram.2022.DoPftAPaPoIRCE/">Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements</a></li>

@@ -14,7 +14,6 @@ tags:
  - property
  - reinforcement
  - rheology
- - on
 
 ---
 
@@ -102,7 +101,6 @@ tags:
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moin_olek_zava_youn.2022.EABRPRiAMCPHC/">Early-Age Buildability-Rheological Properties Relationship in Additively Manufactured Cement-Paste Hollow Cylinders</a></li>
       <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moll_comm_serd_seta.2023.CAoYSBaSoDLiMEAM/">Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../nair_trip_neit.2021.ELHEotFaFRoPaFR3PB/">Examining Layer-Height Effects on the Flexural and Fracture Response of Plain and Fiber-Reinforced 3D Printed Beams</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>

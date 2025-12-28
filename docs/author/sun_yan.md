@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
@@ -14,7 +14,7 @@ search:
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_muda.2025.3PPoSHCCwDUFiCwR/">3D Printing Performance of Strain-Hardening Cementitious Composites with Different UHMWPE Fibers in Correlation with Rheology</a></li>
   <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../li_sun_qian_chen.2025.BIBAfEFPi3PSHCC3S/">Bio-Inspired Bouligand Architectures for Enhanced Flexural Performance in 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_du_deng_qian.2025.EoNTotMPo3PUHPSHCCUS/">Effects of Nozzle Thickness on the Mechanical Properties of 3D Printable Ultra-High Performance Strain-Hardening Cementitious Composites (UHP-SHCC)</a></li>
-  <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../du_sun_qian.2025.IPaOoPCPoBI3RSHCCLS/">In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3 Rinted Strain-Hardening Cementitious Composite Lattice Structures</a></li>
+  <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../du_sun_qian.2025.IPaOoPCPoBI3PSHCCLS/">In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures</a></li>
   <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_sun_qian.2025.NIAfEtFPo3PSHCC3S/">Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
   <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../qiu_sun_qian.2024.IoGaTPotBBB3PUSaCNC/">Impact of Groove-and-Tongue Parameters on the Bonding Behavior Between 3D Printed UHP-SHCC and Cast Normal Concrete</a></li>
   <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../du_sun_qian.2024.3PSHCC3SRSRIbtWS/">3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) Reticulated Shell Roof Inspired by the Water Spider</a></li>

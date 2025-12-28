@@ -14,8 +14,6 @@ tags:
  - fabrication
  - numeric
  - print
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th fib International Congress, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

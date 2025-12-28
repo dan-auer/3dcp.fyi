@@ -23,9 +23,6 @@ tags:
  - print
  - reinforcement
  - structure
- - a
- - multi
- - on
 
 ---
 
@@ -95,15 +92,9 @@ tags:
       <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a></li>
       <li><a href="../../../author/coward_andy"><b>Coward</b> Andy</a>, <a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../cowa_sre.2023.3PCBaOLCSE/">3D Printed Concrete Beams as Optimised Load Carrying Structural Elements:<br/>The Minimass Beam</a></li>
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
-      <li>None</li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS/">Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>A Case Study</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

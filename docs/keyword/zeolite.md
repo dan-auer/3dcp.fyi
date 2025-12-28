@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#zeolite
+# #zeolite
 
 <ol reversed>
   <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../flor_scot_cluc_lopo.2025.PaERo3PMULMZCCaMSP/">Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder):<br/>Aotearoa, New Zealand</a></li>

@@ -12,7 +12,6 @@ tags:
  - concrete
  - pavilion
  - print
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1116-1127
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

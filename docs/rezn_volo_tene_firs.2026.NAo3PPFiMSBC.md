@@ -13,8 +13,6 @@ tags:
  - numeric
  - permanent
  - print
- - in
- - multi
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/firsov_pavlo"><b>Firsov</b> Pavlo</a> <a href="https://orcid.org/0000-0001-9119-3968" title="ORCID: 0000-0001-9119-3968" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Smart Technologies in Urban Engineering, pp. 254-265
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -80,7 +79,6 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wang_yang_yao_ma.2022.IBPo3PPFwtPCC/">Interfacial Bonding Properties of 3D Printed Permanent Formwork with the Post-Casted Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

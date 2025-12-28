@@ -15,8 +15,6 @@ tags:
  - printability
  - rheology
  - twin
- - on
- - twin
 
 ---
 

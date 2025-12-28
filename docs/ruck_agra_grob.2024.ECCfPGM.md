@@ -13,7 +13,6 @@ tags:
  - mixing
  - printability
  - sand
- - a
 
 ---
 
@@ -70,8 +69,6 @@ tags:
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a>, <a href="../../../author/mandhari_othman"><b>Mandhari</b> Othman</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../noai_chou_khee_mand.2023.3PoLCCC/">3D Printing of Limestone-Calcined-Clay-Cement:<br/>A Review of Its Potential Implementation in the Construction-Industry</a></li>
       <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a>, <a href="../../../author/agranati_galit"><b>Agranati</b> Galit</a>, <a href="../../../author/grobman_jacob_yasha"><b>Grobman</b> Yasha</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ruck_agra_grob.2022.EBAM/">Earth-Based Additive Manufacturing:<br/>A Field-Oriented Methodology for Evaluating Material-Printability</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

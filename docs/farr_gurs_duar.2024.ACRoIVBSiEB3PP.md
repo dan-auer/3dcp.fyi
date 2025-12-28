@@ -17,9 +17,6 @@ tags:
  - review
  - sensor
  - vision
- - a
- - in
- - on
 
 ---
 
@@ -87,7 +84,6 @@ tags:
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/garcia_rill_rodrigo"><b>García</b> Rodrigo</a>, <a href="../../../author/dokladalova_eva"><b>Dokladalova</b> Eva</a>, <a href="../../../author/dokladal_petr"><b>Dokládal</b> Petr</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../garc_dokl_dokl_caro.2022.ILMo3CPUCV/">In-Line Monitoring of 3D Concrete Printing Using Computer-Vision</a></li>
       <li><a href="../../../author/im_claire_hyeonji"><b>Im</b> Hyeonji</a>, <a href="../../../author/othman_sulaiman"><b>Othman</b> Sulaiman</a>, <a href="../../../author/castillo_luis-garcia_jose"><b>Castillo</b> Jose</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../im_othm_cast.2018.RSP/">Responsive Spatial Print:<br/>Clay 3D Printing of Spatial Lattices Using Real-Time Model-Recalibration</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../kaze_khos.2021.RTEQMTfC3P/">Real-Time Extrusion-Quality-Monitoring-Techniques for Construction 3D Printing</a></li>

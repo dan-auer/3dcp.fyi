@@ -66,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>

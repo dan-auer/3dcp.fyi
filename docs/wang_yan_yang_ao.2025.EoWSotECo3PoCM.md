@@ -13,7 +13,6 @@ tags:
  - print
  - slip
  - wall
- - on
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b> Nickolas</a>, <a href="../../../author/sarris_e_ioannis"><b>Sarris</b> Ioannis</a>, <a href="../../../author/benos_lefteris"><b>Benos</b> Lefteris</a>, <a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b> John</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../poly_sarr_beno_vlac.2023.PDiCFiTDPoC/">Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete</a></li>
       <li><a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b> Nickolas</a>, <a href="../../../author/sarris_e_ioannis"><b>Sarris</b> Ioannis</a>, <a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b> John</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../poly_sarr_vlac.2024.FAoSEiTDCP/">Flow-Analysis of Screw-Extrusion in Three-Dimensional Concrete Printing</a></li>
       <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_ren_yan_ao.2024.BMAaODo3CPH/">Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head</a></li>
-      <li>None</li>
       <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b> Samad</a>, <a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b> Sara</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_sepa_shir_kash.2023.NCfEEBaILBi3PC/">Nozzle Criteria for Enhancing Extrudability, Buildability and Inter-Layer Bonding in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>

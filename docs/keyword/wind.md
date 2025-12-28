@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#wind
+# #wind
 
 <ol reversed>
   <li><a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lyu_wang_doyl_lafl.2025.G3PCCBaWWTBP/">Green 3D Printing Concrete Containing Biochar and Waste Wind Turbine Blade Powder</a></li>

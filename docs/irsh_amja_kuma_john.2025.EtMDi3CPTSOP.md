@@ -13,7 +13,6 @@ tags:
  - print
  - process
  - system
- - in
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering 2024, pp. 22-33
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

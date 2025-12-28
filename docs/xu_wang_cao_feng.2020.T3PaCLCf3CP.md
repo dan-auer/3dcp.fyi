@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/feng_chen"><b>Feng</b> Chen</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 37th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#closed`](keyword/closed)

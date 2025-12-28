@@ -15,7 +15,6 @@ tags:
  - mitigation
  - print
  - shrinkage
- - in
 
 ---
 

@@ -13,9 +13,6 @@ tags:
  - performance
  - print
  - reinforcement
- - ultra
- - under
- - ultra
 
 ---
 
@@ -81,7 +78,6 @@ tags:
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
       <li><a href="../../../author/liu_chenkang"><b>Liu</b> Chenkang</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhou_cong"><b>Zhou</b> Cong</a>, <a href="../../../author/sun_honglei"><b>Sun</b> Honglei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../liu_yue_zhou_sun.2021.AMPoEB3PLC/">Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete</a></li>
       <li><a href="../../../author/mo_yixin"><b>Mo</b> Yixin</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhou_qizhen"><b>Zhou</b> Qizhen</a>, <a href="../../../author/feng_bowei"><b>Feng</b> Bowei</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mo_yue_zhou_feng.2021.DPaFCo3PCMiST/">Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../nere_krau_mech.2020.DPTfBo3PCCEV/">Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>

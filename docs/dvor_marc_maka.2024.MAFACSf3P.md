@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/makarenko_ruslan"><b>Makarenko</b> Ruslan</a> <a href="https://orcid.org/0000-0003-4839-9623" title="ORCID: 0000-0003-4839-9623" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of EcoComfort 2024, pp. 98-108
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

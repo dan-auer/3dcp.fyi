@@ -13,8 +13,6 @@ tags:
  - height
  - performance
  - print
- - ultra
- - ultra
 
 ---
 
@@ -81,8 +79,6 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/mo_yixin"><b>Mo</b> Yixin</a>, <a href="../../../author/xing_jianchun"><b>Xing</b> Jianchun</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mo_xing_yue_zhan.2022.DPo3PCMBoSHPBT/">Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../sun_gao_wang.2021.BPBBBa3PC/">Bond-Performance Between BFRP-Bars and 3D Printed Concrete</a></li>

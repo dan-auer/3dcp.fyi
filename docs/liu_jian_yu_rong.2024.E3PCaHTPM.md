@@ -15,7 +15,6 @@ tags:
  - physics
  - print
  - tunnel
- - a
 
 ---
 

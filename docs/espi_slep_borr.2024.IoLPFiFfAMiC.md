@@ -12,7 +12,6 @@ tags:
  - laser
  - manufacturing
  - profiler
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -64,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/espinosa_simon"><b>Espinosa</b> Simon</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../espi_slep_borr.2024.IoLPFiFfAMiC/">Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/helou_jalal"><b>Helou</b> Jalal</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../slep_helo_borr.2023.RTDERCIfFIM/">Real-Time Data Exchange Robot-Control Integration for Fabrication Information Modeling</a></li>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../slep_vilg_borr.2022.FIM/">Fabrication Information Modeling:<br/>Interfacing Building Information Modeling with Digital Fabrication</a></li>

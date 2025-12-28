@@ -23,6 +23,7 @@ tags:
       <a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -59,8 +60,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../jacq_pica_rang_perr.2020.GIFtCRPoPCBM/">Gravity-Induced Flow to Characterize Rheological Properties of Printable Cement-Based Materials</a></li>

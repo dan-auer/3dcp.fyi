@@ -12,7 +12,6 @@ tags:
  - print
  - robot
  - site
- - on
 
 ---
 
@@ -75,8 +74,6 @@ tags:
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/willmann_jan"><b>Willmann</b> Jan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2013/11">(2013-11)</a><br><a href="../../../helm_will_gram_kohl.2014.ISRF/">In-Situ Robotic Fabrication:<br/>Advanced Digital Manufacturing Beyond the Laboratory</a></li>
       <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bekey_george"><b>Bekey</b> George</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../khos_beke.2002.ACUCC/">Automated Construction Using Contour Crafting:<br/>Applications on Earth and Beyond</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos.2018.3PCB/">3D Printed Concrete Bridge</a></li>
       <li><a href="../../../author/tho_phuoc_tuong"><b>Tho</b> Tuong</a>, <a href="../../../author/thinh_truong_nguyen"><b>Thinh</b> Nguyen</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../tho_thin.2021.UaCDPRwAi3CP/">Using a Cable-Driven Parallel Robot with Applications in 3D Concrete Printing</a></li>
     </ol>

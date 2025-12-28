@@ -66,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
@@ -92,8 +91,6 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

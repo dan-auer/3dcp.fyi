@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#insulation
+# #insulation
 
 <ol reversed>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_rusi_hage.2025.RMaLIAtMf3CP/">Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing</a></li>

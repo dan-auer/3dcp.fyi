@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 185-195
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

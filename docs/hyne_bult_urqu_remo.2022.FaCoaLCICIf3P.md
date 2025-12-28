@@ -11,7 +11,6 @@ tags:
  - formulas
  - low
  - print
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 99-104
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)

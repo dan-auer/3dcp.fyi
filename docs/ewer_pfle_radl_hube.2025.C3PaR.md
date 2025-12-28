@@ -12,7 +12,6 @@ tags:
  - reinforcement
  - strength
  - test
- - out
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/huber_patrick"><b>Huber</b> Patrick</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)
@@ -66,7 +66,6 @@ tags:
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/bischof_patrick"><b>Bischof</b> Patrick</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gebh_bisc_anto_mata.2022.PIRf3CP/">Pre-Installed Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../gebh_espo_menn_mata.2022.ILSotIo3CPSUotBBoVR/">Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements</a></li>
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hass_bos.2020.BaPOToaNSTRfEB3PC/">Bending and Pull-Out Tests on a Novel Screw Type Reinforcement for Extrusion-Based 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/geyer_sebastian"><b>Geyer</b> Sebastian</a>, <a href="../../../author/holzl_christian"><b>Hölzl</b> Christian</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pfle_geye_holz_vill.2023.ItItCFoTWCSb3PPE/">Investigations to Improve the Carbon Footprint of Thin Walled Concrete Structures by 3D Printing Prefabricated Elements</a></li>
     </ol>
 ???+ quote "Citations"

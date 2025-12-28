@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a> <a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 270-280
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -71,7 +72,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
-      <li>None</li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
     </ol>
 ???+ quote "Citations"

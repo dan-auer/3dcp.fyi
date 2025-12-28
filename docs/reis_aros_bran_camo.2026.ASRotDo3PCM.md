@@ -13,8 +13,6 @@ tags:
  - print
  - review
  - system
- - a
- - on
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 557-564
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)
@@ -84,7 +83,7 @@ tags:
       <li><a href="../../../author/malan_jean"><b>Malan</b> Jean</a>, <a href="../../../author/rooyen_steve_algurnon"><b>Rooyen</b> Algurnon</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../mala_rooy_zijl.2022.CICaCi3PC/">Chloride-Induced Corrosion and Carbonation in 3D Printed Concrete</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
-      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGbSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap between Successive Layers</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGBSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers</a></li>
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>

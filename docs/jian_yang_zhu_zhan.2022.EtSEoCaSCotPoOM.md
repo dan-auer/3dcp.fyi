@@ -11,7 +11,6 @@ tags:
  - mortar
  - printability
  - stiffness
- - on
 
 ---
 
@@ -65,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/carroll_william"><b>Carroll</b> William</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../afar_carr_garb_bier.2021.D3PCMwGFP/">Designing 3D Printable Cementitious Materials with Gel-Forming Polymers</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>

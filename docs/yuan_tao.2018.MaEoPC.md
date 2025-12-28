@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures, pp. 183-187
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

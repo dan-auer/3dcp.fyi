@@ -16,8 +16,6 @@ tags:
  - orientation
  - powder
  - print
- - in
- - on
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 36th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/renneberg_jarred"><b>Renneberg</b> Jarred</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../shak_renn_neja_paul.2017.OoDCMDf3PbU6IR/">Optimization of Different Concrete Mix Designs for 3D Printing by Utilizing 6DOF Industrial Robot</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

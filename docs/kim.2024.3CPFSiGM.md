@@ -11,7 +11,6 @@ tags:
  - medium
  - print
  - structure
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
       <a href="../../../author/kim_hwan_il"><b>Kim</b> Il</a> <a href="https://orcid.org/0009-0001-1207-6737" title="ORCID: 0009-0001-1207-6737" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 29th International Conference of the Association for Computer- Aided Architectural Design Research in Asia, pp. 253-260
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

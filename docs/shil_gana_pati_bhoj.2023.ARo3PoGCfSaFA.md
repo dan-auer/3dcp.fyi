@@ -12,7 +12,6 @@ tags:
  - print
  - review
  - structure
- - a
 
 ---
 
@@ -124,7 +123,6 @@ tags:
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>
       <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/vu_h_tran"><b>Vu</b> Tran</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../tran_vu_nguy.2023.SAfOP3PGCBoSaSFM/">Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements</a></li>
       <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ulub.2022.LSCI/">Lunar Shelter Construction Issues:<br/>The State of the Art Towards 3D Printing Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
       <li><a href="../../../author/xu_zhuoyue"><b>Xu</b> Zhuoyue</a>, <a href="../../../author/zhang_dawang"><b>Zhang</b> Dawang</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a>, <a href="../../../author/sun_xuemei"><b>Sun</b> Xuemei</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_zhan_li_sun.2022.EoFaGoCSRaPPoCB3PM/">Effect of FA and GGBFS on Compressive Strength, Rheology, and Printing Properties of Cement-Based 3D Printing Material</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a></li>

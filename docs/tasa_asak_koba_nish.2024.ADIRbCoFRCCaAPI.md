@@ -14,7 +14,6 @@ tags:
  - indepdendent
  - insertion
  - reinforcement
- - a
 
 ---
 
@@ -38,6 +37,7 @@ tags:
 ,     <a href="../../../author/kajita_hideyuki"><b>Kajita</b> Hideyuki</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 335-341
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Simulation of Fresh Concrete Flow, pp. 125-146
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -59,7 +60,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -72,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b> Bharat</a>, <a href="../../../author/jangra_parveen"><b>Jangra</b> Parveen</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../bhus_jang.2023.3PC/">3D Printed Concrete:<br/>A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/pugacheva_polina"><b>Pugacheva</b> Polina</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/weiss_ursula"><b>Weiss</b> Ursula</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lauf_puga_rutz_weis.2021.EotBoCSFRCCBoaMSEIaaNMSA/">Evaluation of the Behavior of Carbon-Short-Fiber-Reinforced Concrete (CSFRC) Based on a Multi-Sensory Experimental Investigation and a Numerical Multi-Scale Approach</a></li>

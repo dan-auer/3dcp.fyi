@@ -10,8 +10,6 @@ tags:
  - construction
  - print
  - waste
- - a
- - in
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b> Laure</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

@@ -10,8 +10,6 @@ tags:
  - examination
  - house
  - print
- - in
- - on
 
 ---
 

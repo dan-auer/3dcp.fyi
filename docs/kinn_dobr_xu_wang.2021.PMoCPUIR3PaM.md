@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> <a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 21st International Conference of the European Society for Precision Engineering and Nanotechnology, pp. 1-4
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

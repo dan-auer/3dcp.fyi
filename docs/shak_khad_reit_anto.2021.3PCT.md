@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> <a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 420-427
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

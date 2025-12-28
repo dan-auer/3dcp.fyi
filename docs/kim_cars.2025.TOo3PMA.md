@@ -13,7 +13,6 @@ tags:
  - test
  - toolpath
  - topology
- - in
 
 ---
 
@@ -67,11 +66,8 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../cars.2020.TOwNSRfMETAM/">Topology-Optimization with Nozzle-Size-Restrictions for Material-Extrusion-Type Additive Manufacturing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/jewett_l_jackson"><b>Jewett</b> Jackson</a>, <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jewe_cars.2023.TOfMEBAMPwWBB/">Topology-Optimization for Material-Extrusion-Based Additive Manufacturing-Processes with Weak Bead Bonding</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

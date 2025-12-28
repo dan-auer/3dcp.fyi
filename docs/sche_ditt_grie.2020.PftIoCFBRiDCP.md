@@ -14,7 +14,6 @@ tags:
  - potential
  - production
  - reinforcement
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 701-711
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -69,7 +69,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mech_mich_lieb_schn.2020.MICFCaNRfCC/">Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>Material and Automation Perspectives</a></li>
       <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../vasi.2020.AMiCC/">Additive Manufacturing in Concrete Construction:<br/>Current Status</a></li>

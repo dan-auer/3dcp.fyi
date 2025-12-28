@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

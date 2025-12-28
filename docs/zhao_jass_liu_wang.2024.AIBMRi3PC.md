@@ -10,7 +10,6 @@ tags:
  - concrete
  - intelligence
  - print
- - in
 
 ---
 

@@ -24,6 +24,7 @@ tags:
       <a href="../../../author/nan_cristina"><b>Nan</b> Cristina</a> <a href="https://orcid.org/0000-0001-5029-3567" title="ORCID: 0000-0001-5029-3567" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 55-64
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -62,8 +63,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../kova_nist_blan_sobe.2022.RSF/">Recyclable Sand Formwork:<br/>Towards Circular Production of Lightweight Concrete Structures</a></li>
       <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../madr_orte_goro_olss.2023.3C/">3D Claying:<br/>3D Printing and Recycling Clay</a></li>
       <li><a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a>, <a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../rael_frat.2017.CB/">Clay Bodies:<br/>Crafting the Future with 3D Printing</a></li>

@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/garcia_claudia"><b>Garcia</b> Claudia</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 953-964
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

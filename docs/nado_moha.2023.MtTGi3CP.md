@@ -10,7 +10,6 @@ tags:
  - model
  - print
  - temperature
- - in
 
 ---
 
@@ -63,7 +62,6 @@ tags:
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
       <li><a href="../../../author/mazhoud_brahim"><b>Mazhoud</b> Brahim</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../mazh_perr_pica_rang.2019.U3PoCBM/">Underwater 3D Printing of Cement-Based Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_bhag_unlu_tan.2019.SaCoOPGfEB3CP/">Synthesis and Characterization of One-Part Geopolymers for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>

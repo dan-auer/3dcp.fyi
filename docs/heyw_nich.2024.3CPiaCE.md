@@ -12,8 +12,6 @@ tags:
  - learn
  - print
  - slab
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 29th International Conference of the Association for Computer- Aided Architectural Design Research in Asia, pp. 261-270
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

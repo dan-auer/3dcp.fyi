@@ -12,7 +12,6 @@ tags:
  - fiber
  - progress
  - reinforcement
- - on
 
 ---
 
@@ -67,13 +66,10 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a>, <a href="../../../author/neumann_thomas"><b>Neumann</b> Thomas</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hamb_moll_neum_volk.2016.PCPwACFEEHFS1M/">Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa)</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
     </ol>
 ???+ quote "Citations"

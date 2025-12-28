@@ -11,7 +11,6 @@ tags:
  - industry
  - print
  - technology
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/zhang_zhonghua"><b>Zhang</b> Zhonghua</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2021 International Conference on Smart Technologies and Systems for Internet of Things, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

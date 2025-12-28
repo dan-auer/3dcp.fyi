@@ -20,7 +20,6 @@ tags:
  - type
  - wall
  - width
- - on
 
 ---
 

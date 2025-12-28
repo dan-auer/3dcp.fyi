@@ -14,8 +14,6 @@ tags:
  - rapid
  - response
  - system
- - a
- - in
 
 ---
 

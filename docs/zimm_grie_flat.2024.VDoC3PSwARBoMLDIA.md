@@ -17,7 +17,6 @@ tags:
  - real
  - structure
  - visualization
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 150-157
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -68,10 +68,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Irregularities and defects that often occur during the concrete 3D printing process decrease the reliability and limit wider-scale adoption for this emerging digital fabrication technique. In this project, an augmented reality visualization and machine learning driven approach is developed for inspection of concrete 3D printed structures. It aims to provide an inspector with easy access to data and analysis gathered during the manufacturing process and combined into a digital twin. Using this tool, an inspector has additional means to assess defects that may compromise structural stability and durability. Therefore, he/she can ensure the safety and longevity of a 3D printed structure, which would make the technology more reliable and increase trust.
-To obtain manufacturing-related data for the inspection we suggest a three-step procedure consisting of monitoring, processing and synthesizing data. The print procedure is first monitored using a camera mounted on the printing nozzle. The data is then processed using convolutional neural networks and other image analysis methods. This provides an understanding of the 3D printing process including whether a manufacturing defect has occurred and how significant it may be. Finally, the data is synthesized in a digital twin of the concrete structure which combines defect-specific data as well as other relevant sensory data. The introduced three-step procedure is demonstrated with filament tearing as the defect of concern.
-This paper presents initial experiments to support visual perception of an inspection procedure using Microsoft HoloLens 2 were conducted. A software application was developed to superimpose a digital twin upon a structural element. This digital twin highlights defects onto the physical structure and provides an overview of what an inspection procedure could look like.
-In summary, this paper introduces an AR application granting an inspector access to data and analysis collected during the manufacturing process of a 3D printed structure therefore gaining insights into previously hidden details of its past.
+    Irregularities and defects that often occur during the concrete 3D printing process decrease the reliability and limit wider-scale adoption for this emerging digital fabrication technique. In this project, an augmented reality visualization and machine learning driven approach is developed for inspection of concrete 3D printed structures. It aims to provide an inspector with easy access to data and analysis gathered during the manufacturing process and combined into a digital twin. Using this tool, an inspector has additional means to assess defects that may compromise structural stability and durability. Therefore, he/she can ensure the safety and longevity of a 3D printed structure, which would make the technology more reliable and increase trust. To obtain manufacturing-related data for the inspection we suggest a three-step procedure consisting of monitoring, processing and synthesizing data. The print procedure is first monitored using a camera mounted on the printing nozzle. The data is then processed using convolutional neural networks and other image analysis methods. This provides an understanding of the 3D printing process including whether a manufacturing defect has occurred and how significant it may be. Finally, the data is synthesized in a digital twin of the concrete structure which combines defect-specific data as well as other relevant sensory data. The introduced three-step procedure is demonstrated with filament tearing as the defect of concern. This paper presents initial experiments to support visual perception of an inspection procedure using Microsoft HoloLens 2 were conducted. A software application was developed to superimpose a digital twin upon a structural element. This digital twin highlights defects onto the physical structure and provides an overview of what an inspection procedure could look like. In summary, this paper introduces an AR application granting an inspector access to data and analysis collected during the manufacturing process of a 3D printed structure therefore gaining insights into previously hidden details of its past.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

@@ -8,7 +8,6 @@ tags:
  - architecture
  - print
  - property
- - on
 
 ---
 
@@ -21,6 +20,7 @@ tags:
 ,     <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 185-194
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

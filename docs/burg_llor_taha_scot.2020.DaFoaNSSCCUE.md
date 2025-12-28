@@ -15,10 +15,6 @@ tags:
  - standard
  - structure
  - thin
- - a
- - non
- - ultra
- - ultra
 
 ---
 
@@ -39,6 +35,7 @@ tags:
 ,     <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1104-1115
 
 :aca-blank:{ .lg .middle}
     [`#column`](keyword/column)
@@ -82,7 +79,6 @@ tags:
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../burg_llor_taha_scot.2020.DaFoaNSSCCUE/">Design and Fabrication of a Non-Standard, Structural Concrete Column Using Eggshell:<br/>Ultra-Thin, 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../jipa_bern_dill.2017.SF/">Submillimetre Formwork:<br/>3D Printed Plastic Formwork for Concrete Elements</a></li>
-      <li>None</li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2017/03">(2017-03)</a><br><a href="../../../llor_reit_wang_gram.2017.SDC/">Smart Dynamic Casting:<br/>Slipforming with Flexible Formwork</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../llor_scot_gram_kohl.2019.CoRSPwSDC/">Challenges of Real-Scale Production with Smart Dynamic Casting</a></li>
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>

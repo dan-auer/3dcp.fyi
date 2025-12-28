@@ -13,8 +13,6 @@ tags:
  - planar
  - print
  - stability
- - a
- - non
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/sysova_katerina"><b>Sysova</b> Katerina</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 167-174
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

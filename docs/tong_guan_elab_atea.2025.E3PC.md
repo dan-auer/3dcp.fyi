@@ -12,7 +12,6 @@ tags:
  - print
  - reinforcement
  - steel
- - on
 
 ---
 

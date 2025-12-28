@@ -15,7 +15,6 @@ tags:
  - print
  - shrinkage
  - three
- - on
 
 ---
 
@@ -72,7 +71,7 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../beka_titt_schu.2020.PCaFM/">Printed Concrete as Formwork-Material:<br/>A Preliminary Study</a></li>
-      <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics during Casting and Curing</a></li>
+      <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giacomarra_federico"><b>Giacomarra</b> Federico</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/chousou_georgia"><b>Chousou</b> Georgia</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../jipa_giac_gies_chou.2019.3PFfBCS/">3D Printed Formwork for Bespoke Concrete Stairs</a></li>

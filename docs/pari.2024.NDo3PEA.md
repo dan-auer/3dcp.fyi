@@ -21,6 +21,7 @@ tags:
       <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Shell and Spatial Structures, pp. 559-568
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

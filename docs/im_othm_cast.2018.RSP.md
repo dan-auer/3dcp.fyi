@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/castillo_luis-garcia_jose"><b>del Castillo</b> Jose</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), pp. 286-293
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

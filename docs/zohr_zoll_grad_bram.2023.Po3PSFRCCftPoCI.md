@@ -71,10 +71,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
-      <li>None</li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a></li>
       <li><a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b> Vahan</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/gradic_simon"><b>Gradic</b> Simon</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zohr_zoll_grad_bram.2023.Po3PSFRCCftPoCI/">Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure:<br/>Impact and Free-Fall Tests</a></li>
       <li><a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/ochlast_andreas"><b>Ochlast</b> Andreas</a>, <a href="../../../author/zimmert_florian"><b>Zimmert</b> Florian</a>, <a href="../../../author/braml_thomas"><b>Braml</b> Thomas</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zoll_ochl_zimm_bram.2022.DoPftAPaPoIRCE/">Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements</a></li>

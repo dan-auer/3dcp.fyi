@@ -10,7 +10,6 @@ tags:
  - hybrid
  - machine
  - manufacturing
- - a
 
 ---
 

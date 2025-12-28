@@ -14,9 +14,6 @@ tags:
  - production
  - projection
  - technology
- - in
- - on
- - pre
 
 ---
 

@@ -9,7 +9,6 @@ tags:
  - concrete
  - practice
  - print
- - in
 
 ---
 
@@ -89,7 +88,7 @@ tags:
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b> Yannick</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../wege_sten_gehl_maci.2021.AftCotF3PDHiG/">Approval for the Construction of the First 3D Printed Detached House in Germany:<br/>Significance of Large-Scale Element Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

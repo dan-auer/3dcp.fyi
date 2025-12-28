@@ -13,7 +13,6 @@ tags:
  - mortar
  - print
  - strength
- - on
 
 ---
 

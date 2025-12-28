@@ -13,7 +13,6 @@ tags:
  - mortar
  - print
  - strength
- - inter
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/maandi_eerik"><b>Maandi</b> Eerik</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 99-116
 
 :aca-blank:{ .lg .middle}
     [`#adhesion`](keyword/adhesion)

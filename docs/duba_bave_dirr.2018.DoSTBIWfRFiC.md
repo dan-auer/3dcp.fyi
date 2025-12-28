@@ -14,7 +14,6 @@ tags:
  - space
  - truss
  - wall
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium, pp. 453-461
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

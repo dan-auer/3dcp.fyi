@@ -15,7 +15,6 @@ tags:
  - print
  - process
  - reinforcement
- - on
 
 ---
 
@@ -72,7 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../ding_xiao_zou_yu.2021.FPo3PFRCwRS/">Flexural Properties of 3D Printed Fiber-Reinforced Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>

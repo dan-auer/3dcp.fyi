@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/petit_agnes"><b>Petit</b> Agnès</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 105-110
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

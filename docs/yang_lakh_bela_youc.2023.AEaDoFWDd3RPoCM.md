@@ -18,7 +18,7 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.ifacol.2023.10.1204) Adaptive Estimation and Detection of Filament-Width-Deviation during 3D Robotic Printing of Construction Materials ([2023-11](date/2023/11))
+#[:aca-openaccess:{ .xgreen }](https://doi.org/10.1016/j.ifacol.2023.10.1204) Adaptive Estimation and Detection of Filament-Width-Deviation During 3D Robotic Printing of Construction Materials ([2023-11](date/2023/11))
 <a href="https://doi.org/10.1016/j.ifacol.2023.10.1204" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.ifacol.2023.10.1204</a>
 
 -------------------------
@@ -48,7 +48,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Estimation%20and%20Detection%20of%20Filament-Width-Deviation%20during%203D%20Robotic%20Printing%20of%20Construction%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Estimation%20and%20Detection%20of%20Filament-Width-Deviation%20During%203D%20Robotic%20Printing%20of%20Construction%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183628161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001196708400373" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ifacol.2023.10.1204" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -75,7 +75,6 @@ tags:
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/chettibi_taha"><b>Chettibi</b> Taha</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/dherbomez_gerald"><b>Dherbomez</b> Gerald</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lakh_chet_bela_dher.2020.RAMoFAGBoBM/">Robotized Additive Manufacturing of Funicular Architectural Geometries Based on Building Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/yu_ying"><b>Yu</b> Ying</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../xiao_zou_yu_wang.2020.3RMP/">3D Recycled Mortar Printing:<br/>System-Development, Process-Design, Material-Properties and On-Site-Printing</a></li>

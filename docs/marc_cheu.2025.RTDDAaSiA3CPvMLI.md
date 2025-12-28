@@ -14,7 +14,6 @@ tags:
  - print
  - real
  - time
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/cheung_hang_lok"><b>Cheung</b> Lok</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2025 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

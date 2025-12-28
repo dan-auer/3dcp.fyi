@@ -13,7 +13,6 @@ tags:
  - house
  - optimization
  - print
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/wegertseder-martinez_paulina"><b>Wegertseder Martínez</b> Paulina</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 821-832
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

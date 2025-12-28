@@ -11,8 +11,6 @@ tags:
  - jet
  - material
  - print
- - in
- - non
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 103-112
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

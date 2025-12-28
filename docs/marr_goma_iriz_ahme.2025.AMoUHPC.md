@@ -15,8 +15,6 @@ tags:
  - mechanics
  - performance
  - scale
- - ultra
- - ultra
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/macdonald_eric"><b>MacDonald</b> Eric</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Motion- and Path-Planning for Additive Manufacturing, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -64,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

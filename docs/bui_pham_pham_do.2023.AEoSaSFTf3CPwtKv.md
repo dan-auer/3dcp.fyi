@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/do_thu-thuy_thi"><b>Do</b> Thi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd Annual International Conference on Material, Machines and Methods for Sustainable Development, pp. 535-543
 
 :aca-blank:{ .lg .middle}
     [`#accuracy`](keyword/accuracy)

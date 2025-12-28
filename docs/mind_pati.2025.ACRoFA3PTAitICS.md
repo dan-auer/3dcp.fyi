@@ -12,8 +12,6 @@ tags:
  - print
  - review
  - technology
- - a
- - in
 
 ---
 
@@ -80,7 +78,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/shafqat_ali"><b>Shafqat</b> Ali</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/okland_andreas"><b>Økland</b> Andreas</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../olss_shaf_aric_kla.2019.3PTiC/">3D Printing Technology in Construction:<br/>Results from a Survey</a></li>
       <li><a href="../../../author/parida_lukesh"><b>Parida</b> Lukesh</a>, <a href="../../../author/moharana_sumedha"><b>Moharana</b> Sumedha</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../pari_moha.2024.SHMf3PCI/">Structural Health Monitoring for 3D Printed Civil Infrastructures:<br/>A Review of Challenges, Applications and Future Directions</a></li>
       <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a></li>

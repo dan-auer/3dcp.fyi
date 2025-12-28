@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2019 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

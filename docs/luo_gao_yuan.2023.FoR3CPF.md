@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Hybrid Intelligence, pp. 514-526
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

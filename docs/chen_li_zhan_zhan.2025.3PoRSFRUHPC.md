@@ -13,8 +13,6 @@ tags:
  - recycling
  - reinforcement
  - steel
- - ultra
- - ultra
 
 ---
 

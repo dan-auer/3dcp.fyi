@@ -14,11 +14,10 @@ tags:
  - setting
  - sulfoaluminate
  - system
- - on
 
 ---
 
-#:aca-closedaccess:{ .xred '} Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-On-Demand Applications ([2024-02](date/2024/02))
+#:aca-closedaccess:{ .xred '} Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications ([2024-02](date/2024/02))
 <a href="https://doi.org/10.1617/s11527-024-02310-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-024-02310-4</a>
 
 -------------------------
@@ -47,7 +46,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hydration%20and%20Microstructure%20of%20Calcium-Sulfoaluminate-Portland-Cement%20Binder%20Systems%20for%20Set-On-Demand%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Hydration%20and%20Microstructure%20of%20Calcium-Sulfoaluminate-Portland-Cement%20Binder%20Systems%20for%20Set-on-Demand%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185392896&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001164450400002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-024-02310-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

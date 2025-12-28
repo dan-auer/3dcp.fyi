@@ -10,7 +10,6 @@ tags:
  - house
  - implementation
  - print
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/alias_rizal_ahmad"><b>Alias</b> Ahmad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 5th International Conference on Structural Engineering and Construction Management, pp. 273-286
 
 :aca-blank:{ .lg .middle}
     [`#benefit`](keyword/benefit)

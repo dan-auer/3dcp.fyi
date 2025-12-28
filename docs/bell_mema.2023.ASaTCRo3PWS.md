@@ -12,7 +12,6 @@ tags:
  - structure
  - temperature
  - wall
- - a
 
 ---
 
@@ -69,7 +68,6 @@ tags:
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dey_pand.2023.AESoTPo3PCS/">An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
-      <li>None</li>
       <li><a href="../../../author/verian_p_kho"><b>Verian</b> Kho</a>, <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b> Scott</a>, <a href="../../../author/carli_d_matthew"><b>Carli</b> Matthew</a>, <a href="../../../author/bright_p_randall"><b>Bright</b> Randall</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../veri_kowa_carl_brig.2020.Po3PMwtDoa3CPDS/">Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>

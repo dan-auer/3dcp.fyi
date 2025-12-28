@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - three
- - on
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../nguy_nguy_pand_tran.2022.3CPMoTWS/">3D Concrete Printing Modelling of Thin-Walled Structures</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/lu_guoxing"><b>Lu</b> Guoxing</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../pham_lu_tran.2022.IoPPoMPoTDPFRC/">Influences of Printing-Pattern on Mechanical Performance of Three-Dimensional-Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>
-      <li>None</li>
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../shak_neja_paul_gowr.2021.EoDOASSRaHCoMBo3PCMwawGFiPB3/">Effects of Different Orientation-Angle, Size, Surface-Roughness, and Heat-Curing on Mechanical Behavior of 3D Printed Cement-Mortar with and without Glass-Fiber in Powder-Based 3DP</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>

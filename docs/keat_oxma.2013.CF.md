@@ -13,8 +13,6 @@ tags:
  - multi
  - platform
  - robot
- - a
- - multi
 
 ---
 

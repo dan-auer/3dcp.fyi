@@ -1,4 +1,13 @@
+---
+hide:
+  - tags
+  - footer
+search:
+  exclude: true
+---
+
 # Authors by Last Name Initial
+
 
 ## A
 
@@ -16,7 +25,7 @@
 <a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/akbarzadeh_masoud"> <b>Akbarzadeh</b> Masoud (11)</a>  
 <a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/akgumus_eren_fatih"> <b>Akgümüş</b> Fatih (4)</a>  
 <a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/akhrif_iatimad"> <b>Akhrif</b> Iatimad (4)</a>  
-:aca-blank:{ .lg .middle}<a href="../../../author/alawi_khamis_mubarak">Al <b>Alawi</b> Mubarak (4)</a>  
+:aca-blank:{ .lg .middle}<a href="../../../author/alawi_khamis_mubarak">al <b>Alawi</b> Mubarak (4)</a>  
 <a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/albar_m_abdulrahman"> <b>Albar</b> Abdulrahman (9)</a>  
 <a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/aldemir_alper"> <b>Aldemir</b> Alper (5)</a>  
 <a href="https://orcid.org/0000-0003-2928-1961" title="ORCID: 0000-0003-2928-1961" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/alessandro_antonella">d' <b>Alessandro</b> Antonella (5)</a>  
@@ -146,7 +155,7 @@
 <a href="https://orcid.org/0000-0002-9368-0898" title="ORCID: 0000-0002-9368-0898" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/cavalaro_sergio"> <b>Cavalaro</b> Sergio (9)</a>  
 <a href="https://orcid.org/0000-0002-7913-6300" title="ORCID: 0000-0002-7913-6300" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/cendrowski_krzysztof"> <b>Cendrowski</b> Krzysztof (8)</a>  
 <a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/cervera_miguel"> <b>Cervera</b> Miguel (5)</a>  
-:aca-blank:{ .lg .middle}<a href="../../../author/chaar_k_ghassan">Al <b>Chaar</b> Ghassan (4)</a>  
+:aca-blank:{ .lg .middle}<a href="../../../author/chaar_k_ghassan">al <b>Chaar</b> Ghassan (4)</a>  
 <a href="https://orcid.org/0000-0002-1438-1743" title="ORCID: 0000-0002-1438-1743" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/chadha_kunaljit"> <b>Chadha</b> Kunaljit (5)</a>  
 <a href="https://orcid.org/0009-0005-1276-7705" title="ORCID: 0009-0005-1276-7705" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/chai_hua"> <b>Chai</b> Hua (7)</a>  
 <a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/chajec_adrian"> <b>Chajec</b> Adrian (4)</a>  
@@ -155,7 +164,7 @@
 :aca-blank:{ .lg .middle}<a href="../../../author/charrier_malo"> <b>Charrier</b> Malo (5)</a>  
 <a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/che_yujun"> <b>Che</b> Yujun (7)</a>  
 <a href="https://orcid.org/0000-0002-1109-9101" title="ORCID: 0000-0002-1109-9101" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/cheibas_ina"> <b>Cheibas</b> Ina (4)</a>  
-<a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/cheikh_khadija">El <b>Cheikh</b> Khadija (6)</a>  
+<a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/cheikh_khadija">el <b>Cheikh</b> Khadija (6)</a>  
 <a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/chen_baixi"> <b>Chen</b> Baixi (4)</a>  
 <a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/chen_bing"> <b>Chen</b> Bing (4)</a>  
 <a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/chen_binling"> <b>Chen</b> Binling (4)</a>  
@@ -266,7 +275,7 @@
 :aca-blank:{ .lg .middle}<a href="../../../author/eichenauer_friedrich_martin"> <b>Eichenauer</b> Martin (4)</a>  
 <a href="https://orcid.org/0000-0003-3949-0310" title="ORCID: 0000-0003-3949-0310" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/ekanayaka_virama"> <b>Ekanayaka</b> Virama (5)</a>  
 <a href="https://orcid.org/0000-0002-3303-224X" title="ORCID: 0000-0002-3303-224X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/elistratkin_yu_michail"> <b>Elistratkin</b> Michail (4)</a>  
-<a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/elrahman_mohamed">Abd <b>Elrahman</b> Mohamed (4)</a>  
+<a href="https://orcid.org/0000-0002-6993-2725" title="ORCID: 0000-0002-6993-2725" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/elrahman_mohamed">abd <b>Elrahman</b> Mohamed (4)</a>  
 <a href="https://orcid.org/0000-0002-3265-3263" title="ORCID: 0000-0002-3265-3263" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/empelmann_martin"> <b>Empelmann</b> Martin (4)</a>  
 <a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/engel_sven"> <b>Engel</b> Sven (4)</a>  
 <a href="https://orcid.org/0000-0003-1619-1190" title="ORCID: 0000-0003-1619-1190" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/esposito_laura"> <b>Esposito</b> Laura (12)</a>  
@@ -427,9 +436,9 @@
 ## J
 
 <a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jabi_wassim"> <b>Jabi</b> Wassim (4)</a>  
-<a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jabri_saif_khalifa">Al <b>Jabri</b> Khalifa (4)</a>  
+<a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jabri_saif_khalifa">al <b>Jabri</b> Khalifa (4)</a>  
 <a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jacquet_yohan"> <b>Jacquet</b> Yohan (19)</a>  
-<a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jai_mostapha">El <b>Jai</b> Mostapha (5)</a>  
+<a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jai_mostapha">el <b>Jai</b> Mostapha (5)</a>  
 <a href="https://orcid.org/0000-0002-2840-183X" title="ORCID: 0000-0002-2840-183X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jain_smrati"> <b>Jain</b> Smrati (8)</a>  
 <a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jaji_bamidele_mustapha"> <b>Jaji</b> Mustapha (9)</a>  
 <a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/jakob_cordula"> <b>Jakob</b> Cordula (4)</a>  
@@ -648,7 +657,7 @@
 :aca-blank:{ .lg .middle}<a href="../../../author/ma_lei"> <b>Ma</b> Lei (15)</a>  
 <a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/maboudi_mehdi"> <b>Maboudi</b> Mehdi (10)</a>  
 <a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/madrid_alonso_javier"> <b>Madrid</b> Javier (7)</a>  
-<a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/mahdy_deena">El <b>Mahdy</b> Deena (7)</a>  
+<a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/mahdy_deena">el <b>Mahdy</b> Deena (7)</a>  
 <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/mai-nee-dressler_inka"> <b>Mai (née Dressler)</b> Inka (37)</a>  
 <a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/maia_lino"> <b>Maia</b> Lino (8)</a>  
 <a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/maierdan_yierfan"> <b>Maierdan</b> Yierfan (8)</a>  
@@ -752,7 +761,7 @@
 :aca-blank:{ .lg .middle}<a href="../../../author/nishijo_keisuke"> <b>Nishijo</b> Keisuke (5)</a>  
 <a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/nishiwaki_tomoya"> <b>Nishiwaki</b> Tomoya (8)</a>  
 <a href="https://orcid.org/0009-0001-1747-9893" title="ORCID: 0009-0001-1747-9893" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/niu_geng"> <b>Niu</b> Geng (5)</a>  
-<a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/noaimat_afet-adnan_yazeed">Al <b>Noaimat</b> Yazeed (8)</a>  
+<a href="https://orcid.org/0000-0002-8607-2691" title="ORCID: 0000-0002-8607-2691" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/noaimat_afet-adnan_yazeed">al <b>Noaimat</b> Yazeed (8)</a>  
 <a href="https://orcid.org/0000-0001-5896-6375" title="ORCID: 0000-0001-5896-6375" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/nodehi_mehrab"> <b>Nodehi</b> Mehrab (5)</a>  
 <a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/noorvand_hassan"> <b>Noorvand</b> Hassan (6)</a>  
 ## O
@@ -859,7 +868,7 @@
 <a href="https://orcid.org/0000-0002-9506-1134" title="ORCID: 0000-0002-9506-1134" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/rangel_maciel_carolina"> <b>Rangel</b> Carolina (4)</a>  
 <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/raphael_benny"> <b>Raphael</b> Benny (11)</a>  
 <a href="https://orcid.org/0009-0007-2468-3060" title="ORCID: 0009-0007-2468-3060" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/rasehorn_jette_inken"> <b>Rasehorn</b> Inken (6)</a>  
-<a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/rashid_ans">Al <b>Rashid</b> Ans (6)</a>  
+<a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/rashid_ans">al <b>Rashid</b> Ans (6)</a>  
 <a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/raupach_michael"> <b>Raupach</b> Michael (7)</a>  
 <a href="https://orcid.org/0000-0001-6799-3631" title="ORCID: 0000-0001-6799-3631" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/raut_m_jayant"> <b>Raut</b> Jayant (4)</a>  
 :aca-blank:{ .lg .middle}<a href="../../../author/ravichandran_darssni"> <b>Ravichandran</b> Darssni (6)</a>  
@@ -908,7 +917,7 @@
 :aca-blank:{ .lg .middle}<a href="../../../author/sahana_m_c"> <b>Sahana</b> C. (4)</a>  
 :aca-blank:{ .lg .middle}<a href="../../../author/sahu_akshay"> <b>Sahu</b> Akshay (4)</a>  
 <a href="https://orcid.org/0000-0001-6618-5456" title="ORCID: 0000-0001-6618-5456" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/sakha_mahsa"> <b>Sakha</b> Mahsa (5)</a>  
-:aca-blank:{ .lg .middle}<a href="../../../author/sakka_fatima">El <b>Sakka</b> Fatima (5)</a>  
+:aca-blank:{ .lg .middle}<a href="../../../author/sakka_fatima">el <b>Sakka</b> Fatima (5)</a>  
 <a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/salaimanimagudam_p_m"> <b>Salaimanimagudam</b> M. (8)</a>  
 <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/salet_a-m_theo"> <b>Salet</b> Theo (55)</a>  
 <a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/samarasinghe_amila-sajeevan_don"> <b>Samarasinghe</b> Don (8)</a>  
@@ -1035,7 +1044,7 @@
 <a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/taleb_maria"> <b>Taleb</b> Maria (6)</a>  
 <a href="https://orcid.org/0000-0001-7933-4609" title="ORCID: 0000-0001-7933-4609" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/talke_daniel"> <b>Talke</b> Daniel (7)</a>  
 :aca-blank:{ .lg .middle}<a href="../../../author/tam_w-y_vivian"> <b>Tam</b> Vivian (5)</a>  
-<a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/tamimi_k_adil">Al <b>Tamimi</b> Adil (6)</a>  
+<a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/tamimi_k_adil">al <b>Tamimi</b> Adil (6)</a>  
 <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/tan_jen_ming"> <b>Tan</b> Ming (81)</a>  
 <a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a><a href="../../../author/tanapornraweekit_ganchai"> <b>Tanapornraweekit</b> Ganchai (6)</a>  
 :aca-blank:{ .lg .middle}<a href="../../../author/tang_boyang"> <b>Tang</b> Boyang (4)</a>  

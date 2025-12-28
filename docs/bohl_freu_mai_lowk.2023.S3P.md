@@ -14,7 +14,6 @@ tags:
  - print
  - process
  - shotcrete
- - on
 
 ---
 
@@ -70,11 +69,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a></li>

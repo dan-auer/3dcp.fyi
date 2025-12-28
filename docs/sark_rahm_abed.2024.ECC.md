@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/abedin_joynal_mohammad"><b>Abedin</b> Mohammad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Comprehensive Materials Processing, pp. 153-166
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -67,7 +68,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bos_wolf_ahme_sale.2019.LSToDFCDE/">Large-Scale Testing of Digitally Fabricated Concrete (DFC) Elements</a></li>
       <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>

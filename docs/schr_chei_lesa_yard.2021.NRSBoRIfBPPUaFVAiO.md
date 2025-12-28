@@ -15,9 +15,6 @@ tags:
  - reliability
  - rheology
  - volume
- - a
- - in
- - on
 
 ---
 
@@ -78,7 +75,6 @@ tags:
       <li><a href="../../../author/haustein_a_martin"><b>Haustein</b> Martin</a>, <a href="../../../author/kluwe_niklas_moritz"><b>Kluwe</b> Moritz</a>, <a href="../../../author/schwarze_rudiger"><b>Schwarze</b> Rüdiger</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../haus_kluw_schw.2020.EIotPoaMCTP/">Experimental Investigation of the Pumping of a Model-Concrete Through Pipes</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b> Jon</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rous_span_wall_wolf.2020.NSoCP/">Numerical Simulations of Concrete Processing:<br/>From Standard Formative Casting to Additive Manufacturing</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../schu_feys.2016.PoFC/">Pumping of Fresh Concrete:<br/>Insights and Challenges</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schu_lesa.2018.ACoPoC/">Active Control of Properties of Concrete:<br/>A (P)Review</a></li>

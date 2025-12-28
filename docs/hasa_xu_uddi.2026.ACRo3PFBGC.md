@@ -17,7 +17,6 @@ tags:
  - print
  - property
  - review
- - a
 
 ---
 
@@ -113,7 +112,6 @@ tags:
       <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../nema_xia_sanj.2019.PpMtISoPB3PGfDCA/">Post-processing Methods to Improve Strength of Particle-Bed 3D Printed Geopolymer for Digital Construction Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nema_xia_vija_sanj.2019.PoEB3PGfDCA/">Properties of Extrusion-Based 3D Printable Geopolymers for Digital Construction Applications</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>
       <li><a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../ogur_nere_mech.2018.DaToSHCBCSitCo3P/">Developing and Testing of Strain-Hardening Cement-Based Composites (SHCC) in the Context of 3D Printing</a></li>

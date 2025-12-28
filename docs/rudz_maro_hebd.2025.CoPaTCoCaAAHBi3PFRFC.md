@@ -19,7 +19,6 @@ tags:
  - print
  - reinforcement
  - temperature
- - in
 
 ---
 
@@ -80,7 +79,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/beersaerts_glenn"><b>Beersaerts</b> Glenn</a>, <a href="../../../author/soete_jeroen"><b>Soete</b> Jeroen</a>, <a href="../../../author/giels_michiel"><b>Giels</b> Michiel</a>, <a href="../../../author/eykens_lies"><b>Eykens</b> Lies</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../beer_soet_giel_eyke.2023.3PoaIRSBHM/">3D Printing of an Iron-Rich Slag-Based Hybrid Mortar:<br/>A Durable, Sustainable and Cost-Competitive Product?</a></li>
       <li><a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b> Ali</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../demi_tugl_sahi_ilca.2025.ACSotVoRCAi3PCS/">A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems</a></li>
       <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>, <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ding_ou_qi_xion.2024.ILBPo3PECC/">Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>Rheological Regulation and Fiber Hybridization</a></li>

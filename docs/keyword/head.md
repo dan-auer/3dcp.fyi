@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#head
+# #head
 
 <ol reversed>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>

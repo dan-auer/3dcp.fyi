@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/rossi_barbara"><b>Rossi</b> Barbara</a> <a href="https://orcid.org/0000-0001-6228-0309" title="ORCID: 0000-0001-6228-0309" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 380-386
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

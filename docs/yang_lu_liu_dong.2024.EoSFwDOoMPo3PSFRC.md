@@ -19,9 +19,6 @@ tags:
  - reinforcement
  - scale
  - steel
- - meso
- - on
- - meso
 
 ---
 
@@ -94,11 +91,9 @@ tags:
       <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../dong_yang_liu_ren.2022.MaMBo3PUHPCaET/">Microstructure and Mechanical Behavior of 3D Printed Ultra-High-Performance Concrete after Elevated Temperatures</a></li>
       <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a></li>
       <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>

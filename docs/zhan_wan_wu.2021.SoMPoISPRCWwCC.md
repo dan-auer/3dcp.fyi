@@ -14,8 +14,6 @@ tags:
  - reinforcement
  - situ
  - wall
- - in
- - on
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/wu_lei"><b>Wu</b> Lei</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - International Conference on Optoelectronic Materials and Devices, pp. 12
 
 :aca-blank:{ .lg .middle}
     [`#column`](keyword/column)

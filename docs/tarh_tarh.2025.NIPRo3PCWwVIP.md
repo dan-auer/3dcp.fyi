@@ -20,7 +20,6 @@ tags:
  - structure
  - variation
  - wall
- - in
 
 ---
 
@@ -84,7 +83,6 @@ tags:
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
-      <li>None</li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
       <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/liu_mingjian"><b>Liu</b> Mingjian</a>, <a href="../../../author/huo_liang"><b>Huo</b> Liang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../han_yan_liu_huo.2022.ESoLS3PCWUAC/">Experimental Study on Large-Scale 3D Printed Concrete Walls Under Axial Compression</a></li>
       <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hani_mend_figu_mahd.2025.ESotTPo3PEWSwOIP/">Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern</a></li>

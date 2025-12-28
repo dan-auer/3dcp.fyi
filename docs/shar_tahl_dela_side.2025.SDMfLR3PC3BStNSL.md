@@ -17,7 +17,6 @@ tags:
  - seismic
  - structure
  - validation
- - non
 
 ---
 
@@ -96,7 +95,7 @@ tags:
     </ol>
 ???+ quote "Citations"
     <ol reversed>
-      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PCPMaS/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage</a></li>
+      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
       <li><a href="../../../author/anastassiou_gaete-holmes_richard"><b>Anastassiou</b> Richard</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/wegertseder-martinez_paulina"><b>Wegertseder Martínez</b> Paulina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../anas_alva_wege.2025.TC/">Towards Climatomorphism:<br/>A Generative Optimization Framework for Climate-Adaptive 3D-Printed Free-Form Housing</a></li>
       <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/pham_quang-cuong"><b>Pham</b> Quang-Cuong</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 41-49
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

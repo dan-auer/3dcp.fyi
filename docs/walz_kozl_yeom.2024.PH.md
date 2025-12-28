@@ -12,7 +12,6 @@ tags:
  - manufacturing
  - print
  - unit
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b> Julian</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sensitivity-Analysis for Business, Technology, and Policymaking, pp. 116-141
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -64,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
     </ol>

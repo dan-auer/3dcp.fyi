@@ -10,7 +10,6 @@ tags:
  - fine
  - print
  - recycling
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> <a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

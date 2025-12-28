@@ -15,7 +15,6 @@ tags:
  - strength
  - surface
  - topology
- - in
 
 ---
 

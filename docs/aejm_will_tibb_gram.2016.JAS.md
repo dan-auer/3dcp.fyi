@@ -67,7 +67,6 @@ tags:
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2013/06">(2013-06)</a><br><a href="../../../keat_oxma.2013.CF/">Compound Fabrication:<br/>A Multi-Functional Robotic Platform for Digital Design and Fabrication</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="../../../date/2013/05">(2013-05)</a><br><a href="../../../llor_gram_kohl_lang.2013.CCC/">Complex Concrete Constructions:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

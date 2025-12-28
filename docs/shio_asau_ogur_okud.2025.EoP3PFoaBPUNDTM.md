@@ -13,8 +13,6 @@ tags:
  - permanent
  - print
  - test
- - a
- - non
 
 ---
 

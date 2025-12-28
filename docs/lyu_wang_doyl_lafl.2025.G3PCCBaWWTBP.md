@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/sritharan_sri"><b>Sritharan</b> Sri</a> <a href="https://orcid.org/0000-0001-9941-8156" title="ORCID: 0000-0001-9941-8156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

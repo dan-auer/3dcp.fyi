@@ -14,7 +14,6 @@ tags:
  - print
  - temporary
  - time
- - a
 
 ---
 
@@ -70,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>

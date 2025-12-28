@@ -10,7 +10,6 @@ tags:
  - defect
  - durability
  - print
- - in
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/inaty_francois"><b>Inaty</b> Francois</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../inat_baz_aoua.2022.LTDAo3PC/">Long-Term Durability-Assessment of 3D Printed Concrete</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../mark_mech.2023.MfMPSaRCo3PC/">Methods for Measuring Plastic Shrinkage and Related Cracking of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>

@@ -11,7 +11,6 @@ tags:
  - construction
  - development
  - system
- - a
 
 ---
 

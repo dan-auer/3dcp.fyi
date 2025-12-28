@@ -18,8 +18,6 @@ tags:
  - reinforcement
  - technique
  - util
- - a
- - multi
 
 ---
 

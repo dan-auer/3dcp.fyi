@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/ranjani_indu-siva_ghandi"><b>Ranjani</b> Ghandi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Research and Innovation for Sustainable Development Goals, pp. 51-61
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#quaternary
+# #quaternary
 
 <ol reversed>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yan_zhan_ma_sanj.2024.AEFUHPGCwQBf3P/">An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing</a></li>

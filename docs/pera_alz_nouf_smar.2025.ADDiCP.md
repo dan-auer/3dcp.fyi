@@ -10,7 +10,6 @@ tags:
  - defect
  - detection
  - print
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1544-1550
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

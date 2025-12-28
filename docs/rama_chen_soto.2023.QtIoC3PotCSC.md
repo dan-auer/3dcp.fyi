@@ -10,7 +10,6 @@ tags:
  - print
  - quantity
  - supply
- - on
 
 ---
 
@@ -61,10 +60,8 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/yoo_angela"><b>Yoo</b> Angela</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../anto_beda_yoo_dill.2020.CC/">Concrete Choreography:<br/>Prefabrication of 3D Printed Columns</a></li>
-      <li>None</li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>

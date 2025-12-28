@@ -14,7 +14,6 @@ tags:
  - print
  - property
  - state
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/akca_h_abdullah"><b>Akca</b> Abdullah</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#binder`](keyword/binder)

@@ -13,8 +13,6 @@ tags:
  - printability
  - rheology
  - strength
- - in
- - on
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/toussaint_fabrice"><b>Toussaint</b> Fabrice</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 24-38
 
 :aca-blank:{ .lg .middle}
     [`#acquisition`](keyword/acquisition)

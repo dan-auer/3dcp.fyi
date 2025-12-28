@@ -14,7 +14,6 @@ tags:
  - print
  - unit
  - wall
- - small
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of 5th International Conference on Civil Engineering and Architecture, pp. 19-28
 
 :aca-blank:{ .lg .middle}
     [`#bearing`](keyword/bearing)

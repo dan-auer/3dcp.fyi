@@ -11,7 +11,6 @@ tags:
  - geopolymer
  - micro
  - print
- - a
 
 ---
 

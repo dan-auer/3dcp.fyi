@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium, pp. 517-528
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

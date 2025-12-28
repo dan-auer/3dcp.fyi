@@ -17,7 +17,6 @@ tags:
  - suitability
  - use
  - waste
- - in
 
 ---
 
@@ -78,7 +77,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>

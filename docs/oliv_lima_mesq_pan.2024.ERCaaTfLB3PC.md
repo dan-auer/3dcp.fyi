@@ -12,7 +12,6 @@ tags:
  - print
  - rheology
  - tool
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/pileggi_giuliano_rafael"><b>Pileggi</b> Rafael</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#binder`](keyword/binder)

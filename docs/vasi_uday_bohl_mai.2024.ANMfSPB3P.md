@@ -11,7 +11,6 @@ tags:
  - particle
  - print
  - simulation
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 474-481
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)
@@ -68,7 +68,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.PBAM/">Powder-Bed Additive Manufacturing</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../pier_wege_perr_lowk.2018.PoCPiSPD3P/">Penetration of Cement-Pastes into Sand-Packings During 3D Printing:<br/>Analytical and Experimental Study</a></li>
-      <li>None</li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_gehl.2021.PBBbSPI/">Particle-Bed Binding by Selective Paste-Intrusion:<br/>Strength and Durability of Printed Fine-Grain Concrete Members</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
     </ol>

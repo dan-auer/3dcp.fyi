@@ -6,7 +6,6 @@ title: Devid Falliano, Luciana Restuccia, Giuseppe Ferro
 description:
 tags:
  - 3dcp
- - a
 
 ---
 
@@ -58,7 +57,6 @@ tags:
       <li><a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>, <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../mart_math_bos_coen.2017.O3PCSUTO/">Optimizing 3D Printed Concrete Structures Using Topology Optimization</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -12,8 +12,6 @@ tags:
  - experiment
  - print
  - range
- - in
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 339-348
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

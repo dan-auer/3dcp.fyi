@@ -15,8 +15,6 @@ tags:
  - material
  - print
  - structure
- - a
- - in
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> <a href="https://orcid.org/0000-0002-5658-7686" title="ORCID: 0000-0002-5658-7686" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering, pp. 24-32
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

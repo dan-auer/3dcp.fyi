@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/ekenel_mahmut"><b>Ekenel</b> Mahmut</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Innovation in Construction, pp. 277-299
 
 :aca-blank:{ .lg .middle}
     [`#challenge`](keyword/challenge)

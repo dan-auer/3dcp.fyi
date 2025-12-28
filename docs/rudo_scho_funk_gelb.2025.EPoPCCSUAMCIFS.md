@@ -16,7 +16,6 @@ tags:
  - production
  - stair
  - system
- - pre
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Environmental Challenges in Civil Engineering III, pp. 160-174
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

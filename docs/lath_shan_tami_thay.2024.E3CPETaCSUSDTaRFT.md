@@ -13,7 +13,6 @@ tags:
  - print
  - random
  - technique
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/rosaline_j-princess_s"><b>Rosaline</b> S.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Materials, Structures and IoT, pp. 235-240
 
 :aca-blank:{ .lg .middle}
     [`#comparision`](keyword/comparision)

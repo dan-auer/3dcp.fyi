@@ -13,7 +13,6 @@ tags:
  - mixture
  - print
  - reinforcement
- - in
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/grafe_jasmin"><b>Grafe</b> Jasmin</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/spaniol_erik"><b>Spaniol</b> Erik</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../mech_graf_nere_span.2018.3PSRfDCC/">3D Printed Steel-Reinforcement for Digital Concrete Construction:<br/>Manufacture, Mechanical Properties and Bond Behavior</a></li>

@@ -15,7 +15,6 @@ tags:
  - paste
  - printability
  - time
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 76-81
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -72,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schu_lesa.2018.ACoPoC/">Active Control of Properties of Concrete:<br/>A (P)Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tao_ren_lesa_titt.2022.SSo3PCwRaMSCbSF/">Shape Stability of 3D Printable Concrete with River and Manufactured Sand Characterized by Squeeze Flow</a></li>

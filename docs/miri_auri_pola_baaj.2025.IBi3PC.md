@@ -13,7 +13,6 @@ tags:
  - model
  - numeric
  - print
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a> <a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Engineering Materials, Structures, Systems and Methods for a More Sustainable Future, pp. 205-206
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)

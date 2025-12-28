@@ -12,7 +12,6 @@ tags:
  - material
  - technique
  - tradition
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/zanini_angelo_mariano"><b>Zanini</b> Mariano</a> <a href="https://orcid.org/0000-0001-9326-802X" title="ORCID: 0000-0001-9326-802X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Materials for the Built Environment, pp. 111-133
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -76,7 +76,6 @@ tags:
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>

@@ -70,8 +70,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../vone_odag_brum_dill.2021.FCt3PG/">From Casting to 3D Printing Geopolymers:<br/>A Proof of Concept</a></li>
     </ol>
 ???+ quote "Citations"

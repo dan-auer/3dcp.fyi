@@ -16,7 +16,6 @@ tags:
  - structure
  - sustainability
  - system
- - non
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/gigliotti_rosario"><b>Gigliotti</b> Rosario</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIII Conference of the Ibero-American Society of Digital Graphics, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -72,7 +72,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
     </ol>

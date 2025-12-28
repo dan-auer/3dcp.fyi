@@ -17,8 +17,6 @@ tags:
  - print
  - segment
  - tension
- - post
- - pre
 
 ---
 

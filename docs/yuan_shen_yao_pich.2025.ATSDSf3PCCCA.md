@@ -14,7 +14,6 @@ tags:
  - step
  - strategy
  - three
- - a
 
 ---
 
@@ -94,7 +93,6 @@ tags:
       <li><a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b> M.</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sasi_bala_sent_govi.2023.EoCACotRaBPo3PC/">Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../serg_ouel.2022.AMDf3CPUOM/">Automating Mix-Design for 3D Concrete Printing Using Optimization Methods</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>

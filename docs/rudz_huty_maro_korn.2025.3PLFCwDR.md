@@ -62,7 +62,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a>, <a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC/">Synergistic Effect of Fly-Ash and Polyvinyl-Alcohol-Fibers in Improving Stability, Rheology, and Mechanical Properties of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../bong_nema_arun_xia.2020.EoWMFAoPo3PJAWG/">Effect of Wollastonite Micro-Fiber Addition on Properties of 3D Printable ‘Just-Add-Water’ Geopolymers</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
@@ -94,7 +93,6 @@ tags:
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_ping"><b>Zhang</b> Ping</a>, <a href="../../../author/lu_xiao-jun"><b>Lu</b> Xiao-jun</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../zhan_lu.2021.SoBSoCCBoFA/">Study on Bending Strength of Cementitious Composites Based on Fiber-Alignment</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

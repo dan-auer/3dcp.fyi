@@ -20,9 +20,6 @@ tags:
  - synthesis
  - time
  - viscosity
- - micro
- - on
- - micro
 
 ---
 
@@ -98,7 +95,6 @@ tags:
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
     </ol>

@@ -13,7 +13,6 @@ tags:
  - solid
  - technology
  - waste
- - on
 
 ---
 
@@ -70,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/guseynova_gyunay"><b>Guseynova</b> Gyunay</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../mark_nere_schr_guse.2019.MDaPEoFCfDF/">Material-Design and Performance-Evaluation of Foam-Concrete for Digital Fabrication</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>

@@ -79,7 +79,6 @@ tags:
       <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_dong-hyun"><b>Lee</b> Dong-Hyun</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../jhun_lee_rehm_kang.2024.DoaRTGQMSfEFo3CPC/">Development of a Real-Time Geometric Quality Monitoring System for Extruded Filaments of 3D Concrete Printing Construction</a></li>
       <li><a href="../../../author/mohamed_abdelrahim_rania"><b>Mohamed</b> Rania</a>, <a href="../../../author/mohamed_farouk-a_abdelaziz"><b>Mohamed</b> Abdelaziz</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_moha.2024.EtEBo3PTiCC/">Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction:<br/>A Review</a></li>
       <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yang_lakh_bela_merz.2023.ADaIoFWDD3PoRCM/">Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

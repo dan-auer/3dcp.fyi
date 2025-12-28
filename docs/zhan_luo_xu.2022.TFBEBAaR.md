@@ -14,7 +14,6 @@ tags:
  - information
  - lifecycle
  - robot
- - a
 
 ---
 
@@ -69,7 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/he_rui"><b>He</b> Rui</a>, <a href="../../../author/li_mingkai"><b>Li</b> Mingkai</a>, <a href="../../../author/gan_jl_vincent"><b>Gan</b> Vincent</a>, <a href="../../../author/ma_jun"><b>Ma</b> Jun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../he_li_gan_ma.2021.BECDaDFoIB/">BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings:<br/>A Case Study</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>

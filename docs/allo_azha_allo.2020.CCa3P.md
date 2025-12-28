@@ -11,9 +11,6 @@ tags:
  - cost
  - material
  - print
- - a
- - in
- - on
 
 ---
 
@@ -66,7 +63,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>

@@ -15,8 +15,6 @@ tags:
  - sustainability
  - technology
  - type
- - a
- - on
 
 ---
 

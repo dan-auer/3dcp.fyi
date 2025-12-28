@@ -15,7 +15,6 @@ tags:
  - method
  - segment
  - technology
- - a
 
 ---
 
@@ -38,6 +37,7 @@ tags:
 ,     <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 362-369
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

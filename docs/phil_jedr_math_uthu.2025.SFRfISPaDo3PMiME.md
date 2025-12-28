@@ -16,7 +16,6 @@ tags:
  - reinforcement
  - steel
  - structure
- - in
 
 ---
 

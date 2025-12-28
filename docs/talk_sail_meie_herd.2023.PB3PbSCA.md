@@ -15,7 +15,6 @@ tags:
  - print
  - process
  - selective
- - on
 
 ---
 
@@ -70,8 +69,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    “Selective Cement Activation” (SCA) allows the fabrication of freely formed objects with a high degree of geometric complexity. In order to utilize SCA for applications in construction, a full understanding of the manufacturing process is necessary. The presented work focuses on the process step of layer creation and the influence of process parameters on the resulting packing density of the particle-bed.
-The results show that each process parameter has a significant influence on the packing density of the particlebed. In general, slower processing speeds lead to higher densities. Increasing the compaction height increases the packing density, although competing effects in the particle flow can cause the density to decrease. Concerning the particle composition, it was found that a particle mixture with a wider particle size distribution requires lower compaction heights to achieve high packing densities. Such mixtures are also influenced to a lesser degree by changes in the process speeds.
+    “Selective Cement Activation” (SCA) allows the fabrication of freely formed objects with a high degree of geometric complexity. In order to utilize SCA for applications in construction, a full understanding of the manufacturing process is necessary. The presented work focuses on the process step of layer creation and the influence of process parameters on the resulting packing density of the particle-bed. The results show that each process parameter has a significant influence on the packing density of the particlebed. In general, slower processing speeds lead to higher densities. Increasing the compaction height increases the packing density, although competing effects in the particle flow can cause the density to decrease. Concerning the particle composition, it was found that a particle mixture with a wider particle size distribution requires lower compaction heights to achieve high packing densities. Such mixtures are also influenced to a lesser degree by changes in the process speeds.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

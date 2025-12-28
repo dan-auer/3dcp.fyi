@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 792-796
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

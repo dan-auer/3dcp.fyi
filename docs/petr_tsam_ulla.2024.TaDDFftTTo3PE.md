@@ -11,7 +11,6 @@ tags:
  - framework
  - print
  - temperature
- - a
 
 ---
 

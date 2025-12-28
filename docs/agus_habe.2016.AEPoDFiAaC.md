@@ -10,8 +10,6 @@ tags:
  - digital
  - environment
  - fabrication
- - in
- - on
 
 ---
 
@@ -25,6 +23,7 @@ tags:
 ,     <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA), pp. 797-806
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

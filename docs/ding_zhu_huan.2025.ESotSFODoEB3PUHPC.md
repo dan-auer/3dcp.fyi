@@ -16,9 +16,6 @@ tags:
  - performance
  - print
  - steel
- - on
- - ultra
- - ultra
 
 ---
 
@@ -84,10 +81,8 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/medicis_carolina"><b>Medicis</b> Carolina</a>, <a href="../../../author/gonzalez_sergio"><b>Gonzalez</b> Sergio</a>, <a href="../../../author/alvarado_a_yezid"><b>Alvarado</b> Yezid</a>, <a href="../../../author/vacca_ariel_hermes"><b>Vacca</b> Hermes</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../medi_gonz_alva_vacc.2022.MPoCAPUB3PC/">Mechanical Performance of Commercially Available Premix UHPC-Based 3D Printable Concrete</a></li>
       <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a></li>
       <li><a href="../../../author/mu_ru"><b>Mu</b> Ru</a>, <a href="../../../author/mei_shaolin"><b>Mei</b> Shaolin</a>, <a href="../../../author/wang_xiaowei"><b>Wang</b> Xiaowei</a>, <a href="../../../author/chen_xiangshang"><b>Chen</b> Xiangshang</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mu_mei_wang_chen.2023.MPoa3PSBwSFDAtTS/">Mechanical Properties of a 3D Printed SFRC Beam with Steel-Fiber-Distribution Adaptive to Tensile Stress</a></li>

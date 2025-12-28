@@ -13,8 +13,6 @@ tags:
  - print
  - section
  - thin
- - ultra
- - ultra
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/buelow_peter"><b>von Buelow</b> Peter</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)

@@ -14,8 +14,6 @@ tags:
  - sustainability
  - util
  - waste
- - in
- - on
 
 ---
 
@@ -81,7 +79,6 @@ tags:
       <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../figu_rodr_ahme_bos.2020.MBoPSHCC/">Mechanical Behavior of Printed Strain-Hardening Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../liu_xion_chen_jia.2022.EoSCoFaHPo3PFC/">Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete</a></li>

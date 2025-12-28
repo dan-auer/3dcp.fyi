@@ -13,7 +13,6 @@ tags:
  - transport
  - tube
  - water
- - in
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b> Mehmet</a> <a href="https://orcid.org/0000-0002-0214-4986" title="ORCID: 0000-0002-0214-4986" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#approximation`](keyword/approximation)

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/thomas_austin"><b>Thomas</b> Austin</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 70-80
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

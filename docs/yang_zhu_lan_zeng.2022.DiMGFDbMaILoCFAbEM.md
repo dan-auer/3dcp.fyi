@@ -17,14 +17,10 @@ tags:
  - matrix
  - micro
  - mould
- - in
- - inter
- - micro
- - micro
 
 ---
 
-#:aca-closedaccess:{ .xred '} Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding ([2022-10](date/2022/10))
+#:aca-closedaccess:{ .xred '} Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding ([2022-10](date/2022/10))
 <a href="https://doi.org/10.1016/j.addma.2022.103236" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.addma.2022.103236</a>
 
 -------------------------
@@ -57,7 +53,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Differences%20in%20Micro%20Grain%20%26%20Fiber-Distributions%20between%20Matrix%20and%20Inter-Layer%20of%20Cementitious%20Filaments%20Affected%20by%20Extrusion-Molding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Differences%20in%20Micro%20Grain%20%26%20Fiber-Distributions%20Between%20Matrix%20and%20Inter-Layer%20of%20Cementitious%20Filaments%20Affected%20by%20Extrusion-Molding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140314201&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000880669900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2022.103236" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -81,7 +77,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chen_boyu"><b>Chen</b> Boyu</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_rodr_li_chen.2020.EoDGLoCCoFaHPoTBCMf3P/">Effect of Different Grade Levels of Calcined Clays on Fresh and Hardened Properties of Ternary-Blended Cementitious Materials for 3D Printing</a></li>
@@ -93,16 +88,13 @@ tags:
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../liu_li_fox_tran.2022.3CPoBIBS/">3D Concrete Printing of Bio-Inspired Bouligand Structure:<br/>A Study on Impact-Resistance</a></li>
       <li><a href="../../../author/liu_xuanting"><b>Liu</b> Xuanting</a>, <a href="../../../author/sun_bohua"><b>Sun</b> Bohua</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_sun.2021.TIoIotSSi3CPP/">The Influence of Interface on the Structural Stability in 3D Concrete Printing Processes</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_sant_neit.2022.MMBPCATfGAo3PCE/">Mathematical Morphology-Based Point-Cloud-Analysis-Techniques for Geometry-Assessment of 3D Printed Concrete Elements</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

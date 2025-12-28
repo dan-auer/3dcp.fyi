@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#roughness
+# #roughness
 
 <ol reversed>
   <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../shak_neja_paul_gowr.2021.EoDOASSRaHCoMBo3PCMwawGFiPB3/">Effects of Different Orientation-Angle, Size, Surface-Roughness, and Heat-Curing on Mechanical Behavior of 3D Printed Cement-Mortar with and without Glass-Fiber in Powder-Based 3DP</a></li>

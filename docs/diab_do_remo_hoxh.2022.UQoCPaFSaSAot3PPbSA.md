@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/hoxha_dashnor"><b>Hoxha</b> Dashnor</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 155-160
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

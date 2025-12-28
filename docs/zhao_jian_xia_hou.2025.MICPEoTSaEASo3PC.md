@@ -14,7 +14,6 @@ tags:
  - shrinkage
  - strength
  - tension
- - on
 
 ---
 
@@ -84,9 +83,7 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../mark_mech.2023.QoPSaPSCot3PCU2DIC/">Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/park_jihun"><b>Park</b> Jihun</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../park_bui_lee_joh.2021.ILSo3PMRbPR/">Inter-Layer Strength of 3D Printed Mortar Reinforced by Postinstalled Reinforcement</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>

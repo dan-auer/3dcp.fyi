@@ -13,7 +13,6 @@ tags:
  - sand
  - sustainability
  - wall
- - a
 
 ---
 

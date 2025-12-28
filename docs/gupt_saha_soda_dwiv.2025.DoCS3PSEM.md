@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a> <a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 587-598
 
 :aca-blank:{ .lg .middle}
     [`#acid`](keyword/acid)

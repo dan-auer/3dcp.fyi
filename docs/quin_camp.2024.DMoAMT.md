@@ -61,7 +61,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ramy_cusa.2022.DFCMfSoOSCaPCF/">Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
     </ol>

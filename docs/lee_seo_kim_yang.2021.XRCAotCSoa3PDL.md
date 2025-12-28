@@ -12,7 +12,6 @@ tags:
  - print
  - ray
  - section
- - a
 
 ---
 
@@ -67,11 +66,9 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a></li>
-      <li>None</li>
-      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CbPCaTBSoAMMUXRCT/">Correlation between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
+      <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CBPCaTBSoAMMUXRCT/">Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a></li>
       <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lee_kim_moon_kim.2019.EotMPoa3PM/">Evaluation of the Mechanical Properties of a 3D Printed Mortar</a></li>
       <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lee_seo_kim_moon.2021.ESoTDCiRPaFRo3CPM/">Experimental Study on Time-Dependent Changes in Rheological Properties and Flow-Rate of 3D Concrete Printing Materials</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>

@@ -12,8 +12,6 @@ tags:
  - enhancement
  - evaluation
  - manufacturing
- - a
- - in
 
 ---
 
@@ -71,13 +69,10 @@ tags:
       <li><a href="../../../author/abdallah_k_yomna"><b>Abdallah</b> Yomna</a>, <a href="../../../author/estevez_t_alberto"><b>Estévez</b> Alberto</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_este.2021.3PBCB/">3D Printed Biodigital Clay Bricks</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/pasco_jubert"><b>Pasco</b> Jubert</a>, <a href="../../../author/lei_zhen"><b>Lei</b> Zhen</a>, <a href="../../../author/aranas_clodualdo"><b>Aranas</b> Clodualdo</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../pasc_lei_aran.2022.AMiOSC/">Additive Manufacturing in Off-Site Construction:<br/>Review and Future Directions</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
       <li><a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../roch_fari_luca.2024.AMoEBM/">Additive Manufacturing of Earth-Based Materials:<br/>A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</a></li>
-      <li>None</li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
-      <li>None</li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>

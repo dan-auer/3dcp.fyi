@@ -13,7 +13,6 @@ tags:
  - reinforcement
  - rheology
  - system
- - in
 
 ---
 
@@ -98,7 +97,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schneider_kai"><b>Schneider</b> Kai</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mech_mich_lieb_schn.2020.MICFCaNRfCC/">Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction:<br/>Material and Automation Perspectives</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_amzi.2019.3PiC/">3D Printing in Concrete:<br/>General Considerations and Technologies</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>

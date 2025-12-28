@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#phase
+# #phase
 
 <ol reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>

@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 1403-1411
 
 :aca-blank:{ .lg .middle}
     [`#concept`](keyword/concept)
@@ -72,8 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/stoiber_nadine"><b>Stoiber</b> Nadine</a>, <a href="../../../author/kromoser_benjamin"><b>Kromoser</b> Benjamin</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../stoi_krom.2021.PCMUttL/">Pushing Concrete Material-Usage to the Limit:<br/>Weight-Optimized, 3D Printed Concrete Girders with External Reinforcement</a></li>
     </ol>
 ???+ quote "Citations"

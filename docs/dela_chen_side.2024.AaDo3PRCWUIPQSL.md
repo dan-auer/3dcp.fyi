@@ -15,9 +15,6 @@ tags:
  - reinforcement
  - static
  - wall
- - in
- - quasi
- - under
 
 ---
 

@@ -14,8 +14,6 @@ tags:
  - property
  - silica
  - synergy
- - nano
- - nano
 
 ---
 
@@ -71,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alkhalidi_ammar"><b>Alkhalidi</b> Ammar</a>, <a href="../../../author/hatuqay_dina"><b>Hatuqay</b> Dina</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../alkh_hatu.2020.EE3PB/">Energy Efficient 3D Printed Buildings:<br/>Material and Techniques Selection Worldwide Study</a></li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../ambi_kali_seba_shek.2023.MAf3PC/">Mixing Approach for 3D Printable Concrete:<br/>Method of Addition and Optimization of Superplasticizer Dosage</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
@@ -84,7 +81,6 @@ tags:
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/yang_en-hua"><b>Yang</b> En-Hua</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../chu_yang_unlu.2023.DoNRRMBCf3P/">Development of Nanofiber-Reinforced Reactive Magnesia-Based Composites for 3D Printing</a></li>
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
-      <li>None</li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../kali_ambi_shek_seba.2024.EoSGotFPo3PC/">Effect of Sand-Gradations on the Fresh Properties of 3D Printable Concrete</a></li>

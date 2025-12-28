@@ -15,7 +15,6 @@ tags:
  - print
  - theory
  - uniform
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 223-232
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)
@@ -73,7 +73,6 @@ tags:
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
       <li><a href="../../../author/conrad_john"><b>Conrad</b> John</a>, <a href="../../../author/spencer_lawson"><b>Spencer</b> Lawson</a>, <a href="../../../author/amador_robert"><b>Amador</b> Robert</a>, <a href="../../../author/linnehan_tyler"><b>Linnehan</b> Tyler</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../conr_spen_amad_linn.2023.CPGC/">Concrete Printed Gyroid Column:<br/>A Structurally Optimized, Sand Layer Supported Printing Method</a></li>
-      <li>None</li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../llor_wang_gebh_mata.2020.FSDCtaGFoDCS/">From Smart Dynamic Casting to a Growing Family of Digital Casting Systems</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/thomas_amaury"><b>Thomas</b> Amaury</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../lowk_vand_pier_thom.2021.I3CPiaCL/">Injection 3D Concrete Printing in a Carrier Liquid:<br/>Underlying Physics and Applications to Lightweight Space Frame Structures</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>

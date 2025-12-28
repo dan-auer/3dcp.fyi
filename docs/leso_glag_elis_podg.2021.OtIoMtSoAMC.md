@@ -10,7 +10,6 @@ tags:
  - manufacturing
  - measurement
  - strength
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/podgorniy_s_daniil"><b>Podgorniy</b> Daniil</a> <a href="https://orcid.org/0000-0001-7435-5005" title="ORCID: 0000-0001-7435-5005" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference Industrial and Civil Construction 2021, pp. 104-110
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -62,9 +62,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../marc_sanj.2020.BPoRBPi3CP/">Bond Properties of Reinforcing Bar Penetrations in 3D Concrete Printing</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rahu_sant_meen_ghan.2019.MCo3PC/">Mechanical Characterization of 3D Printable Concrete</a></li>

@@ -12,7 +12,6 @@ tags:
  - slag
  - spray
  - sustainability
- - a
 
 ---
 

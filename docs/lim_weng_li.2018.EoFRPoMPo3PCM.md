@@ -14,7 +14,6 @@ tags:
  - polymer
  - print
  - reinforcement
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> <a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

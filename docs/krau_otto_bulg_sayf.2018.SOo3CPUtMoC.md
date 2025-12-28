@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/sayfeddine_daher"><b>Sayfeddine</b> Daher</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 35th International Symposium on Automation and Robotics in Construction, pp. 9-15
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -61,7 +62,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

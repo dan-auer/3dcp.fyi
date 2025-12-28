@@ -16,8 +16,6 @@ tags:
  - print
  - rheology
  - silicon
- - in
- - on
 
 ---
 

@@ -14,7 +14,6 @@ tags:
  - pattern
  - print
  - temperature
- - on
 
 ---
 

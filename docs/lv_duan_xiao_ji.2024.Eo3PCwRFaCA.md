@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 188-195
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

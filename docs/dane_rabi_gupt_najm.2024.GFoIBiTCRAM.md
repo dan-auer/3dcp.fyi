@@ -12,8 +12,6 @@ tags:
  - interlocking
  - manufacturing
  - robot
- - in
- - two
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 134-141
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

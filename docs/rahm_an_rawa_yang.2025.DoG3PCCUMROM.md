@@ -14,7 +14,6 @@ tags:
  - optimization
  - printability
  - response
- - multi
 
 ---
 

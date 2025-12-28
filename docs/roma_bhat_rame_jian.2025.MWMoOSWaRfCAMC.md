@@ -69,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM/">Effect of Natural and Calcined-Halloysite-Clay-Minerals as Low-Cost-Additives on the Performance of 3D Printed Alkali-Activated Materials</a></li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>

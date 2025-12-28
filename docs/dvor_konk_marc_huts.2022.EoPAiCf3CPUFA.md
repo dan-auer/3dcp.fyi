@@ -11,7 +11,6 @@ tags:
  - effect
  - polymer
  - print
- - in
 
 ---
 
@@ -70,7 +69,6 @@ tags:
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/kesek_rafal"><b>Kęsek</b> Rafał</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hage_maro_mroz_kese.2022.ILBSTi3PMMfCA/">Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
-      <li>None</li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/zhai_mingang"><b>Zhai</b> Mingang</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/wu_qing"><b>Wu</b> Qing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_zhai_yao_wu.2022.PaMPo3PCEMIW/">Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>

@@ -15,7 +15,6 @@ tags:
  - scale
  - strategy
  - structure
- - up
 
 ---
 

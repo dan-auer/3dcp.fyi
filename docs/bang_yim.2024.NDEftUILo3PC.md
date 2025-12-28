@@ -11,8 +11,6 @@ tags:
  - inter
  - layer
  - print
- - inter
- - non
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

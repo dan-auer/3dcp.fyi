@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#carbon
+# #carbon
 
 <ol reversed>
   <li><a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xiao.2025.RotMaDPoCFR3PC/">Research on the Mechanical and Durability Properties of Carbon Fiber Reinforced 3D Printed Concrete</a></li>

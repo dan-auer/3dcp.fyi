@@ -15,7 +15,6 @@ tags:
  - method
  - requirement
  - standard
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/ruben_sam"><b>Ruben</b> Sam</a> <a href="https://orcid.org/0000-0002-8095-2954" title="ORCID: 0000-0002-8095-2954" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ASTM International Conference on Additive Manufacturing, pp. 375-385
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -10,7 +10,6 @@ tags:
  - concrete
  - print
  - reinforcement
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 584-600
 
 :aca-blank:{ .lg .middle}
     [`#bond`](keyword/bond)

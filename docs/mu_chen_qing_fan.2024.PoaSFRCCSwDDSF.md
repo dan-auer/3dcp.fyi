@@ -13,7 +13,6 @@ tags:
  - property
  - reinforcement
  - steel
- - a
 
 ---
 
@@ -79,7 +78,6 @@ tags:
       <li><a href="../../../author/mu_ru"><b>Mu</b> Ru</a>, <a href="../../../author/mei_shaolin"><b>Mei</b> Shaolin</a>, <a href="../../../author/wang_xiaowei"><b>Wang</b> Xiaowei</a>, <a href="../../../author/chen_xiangshang"><b>Chen</b> Xiangshang</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mu_mei_wang_chen.2023.MPoa3PSBwSFDAtTS/">Mechanical Properties of a 3D Printed SFRC Beam with Steel-Fiber-Distribution Adaptive to Tensile Stress</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
       <li><a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a>, <a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a>, <a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../piet_zbys_sado.2023.A3PMoCBFCCGCPFaaPNIL/">A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer</a></li>
-      <li>None</li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
     </ol>
 ???+ quote "Citations"

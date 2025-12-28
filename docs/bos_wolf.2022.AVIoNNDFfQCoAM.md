@@ -16,7 +16,6 @@ tags:
  - nozzle
  - quality
  - visualization
- - near
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 453-459
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

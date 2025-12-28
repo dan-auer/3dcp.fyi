@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#precision
+# #precision
 
 <ol reversed>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>

@@ -11,7 +11,6 @@ tags:
  - performance
  - print
  - technology
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Computer Engineering and Networks, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#computer`](keyword/computer)
@@ -63,9 +63,7 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
-      <li>None</li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
 ???+ quote "Citations"

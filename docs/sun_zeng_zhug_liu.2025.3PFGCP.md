@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/liu_yue"><b>Liu</b> Yue</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Engineering Structures, pp. 549-556
 
 :aca-blank:{ .lg .middle}
     [`#bending`](keyword/bending)

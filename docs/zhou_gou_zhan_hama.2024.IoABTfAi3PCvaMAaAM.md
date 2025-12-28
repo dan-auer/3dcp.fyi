@@ -13,8 +13,6 @@ tags:
  - modification
  - print
  - tailing
- - a
- - in
 
 ---
 

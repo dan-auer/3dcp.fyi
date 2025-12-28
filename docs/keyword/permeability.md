@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#permeability
+# #permeability
 
 <ol reversed>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS/">Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure</a></li>

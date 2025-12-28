@@ -13,7 +13,6 @@ tags:
  - mortar
  - printability
  - ternary
- - in
 
 ---
 

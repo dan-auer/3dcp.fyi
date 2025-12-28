@@ -9,7 +9,6 @@ tags:
  - implementation
  - print
  - technology
- - in
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/kabus_oleksii"><b>Kabus</b> Oleksii</a> <a href="https://orcid.org/0000-0002-2940-0513" title="ORCID: 0000-0002-2940-0513" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Smart Technologies in Urban Engineering, pp. 537-546
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

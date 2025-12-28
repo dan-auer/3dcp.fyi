@@ -16,8 +16,6 @@ tags:
  - print
  - reinforcement
  - system
- - inter
- - on
 
 ---
 
@@ -40,6 +38,7 @@ tags:
 ,     <a href="../../../author/kajita_hideyuki"><b>Kajita</b> Hideyuki</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 411-416
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

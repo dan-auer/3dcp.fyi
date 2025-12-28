@@ -11,8 +11,6 @@ tags:
  - future
  - manufacturing
  - sustainability
- - a
- - in
 
 ---
 

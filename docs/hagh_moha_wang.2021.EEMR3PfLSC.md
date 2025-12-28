@@ -17,7 +17,6 @@ tags:
  - scale
  - sustainability
  - technique
- - multi
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/wang_lihui"><b>Wang</b> Lihui</a> <a href="https://orcid.org/0000-0001-8679-8049" title="ORCID: 0000-0001-8679-8049" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Manufacturing Processes; Manufacturing Systems; Nano/Micro/Meso Manufacturing; Quality and Reliability, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -75,7 +75,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/izard_jean-baptiste"><b>Izard</b> Jean-Baptiste</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/herve_pierre-elie"><b>Hervé</b> Pierre-Elie</a>, <a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../izar_dubo_herv_caba.2018.OtIoaCDPRfAAMfC/">On the Improvements of a Cable-Driven Parallel Robot for Achieving Additive Manufacturing for Construction</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>

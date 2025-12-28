@@ -14,7 +14,6 @@ tags:
  - review
  - util
  - waste
- - a
 
 ---
 
@@ -108,7 +107,6 @@ tags:
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../jaya_raje_sanj.2022.RfC3P/">Rheometry for Concrete 3D Printing:<br/>A Review and an Experimental Comparison</a></li>
       <li><a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/long_xiong"><b>Long</b> Xiong</a>, <a href="../../../author/tian_likang"><b>Tian</b> Likang</a>, <a href="../../../author/tan_yan"><b>Tan</b> Yan</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../jian_long_tian_tan.2022.TSHCCaIPEWR/">Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>

@@ -15,9 +15,6 @@ tags:
  - resistance
  - transport
  - underwater
- - a
- - in
- - on
 
 ---
 

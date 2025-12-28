@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#adsorption
+# #adsorption
 
 <ol reversed>
   <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cuev_chun_siko_step.2024.PoNWaL3PCCwRG/">Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>Sorption and Microstructural Perspective</a></li>

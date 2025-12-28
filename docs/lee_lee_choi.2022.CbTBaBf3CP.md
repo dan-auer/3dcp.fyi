@@ -14,7 +14,7 @@ tags:
 
 ---
 
-#:aca-closedaccess:{ .xred '} Correlation between Thixotropic Behavior and Buildability for 3D Concrete Printing ([2022-07](date/2022/07))
+#:aca-closedaccess:{ .xred '} Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing ([2022-07](date/2022/07))
 <a href="https://doi.org/10.1016/j.conbuildmat.2022.128498" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.conbuildmat.2022.128498</a>
 
 -------------------------
@@ -38,7 +38,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Correlation%20between%20Thixotropic%20Behavior%20and%20Buildability%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Correlation%20Between%20Thixotropic%20Behavior%20and%20Buildability%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134729833&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000855101800004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.128498" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

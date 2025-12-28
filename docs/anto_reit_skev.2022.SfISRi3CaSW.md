@@ -12,7 +12,6 @@ tags:
  - shear
  - strategy
  - wall
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a> <a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

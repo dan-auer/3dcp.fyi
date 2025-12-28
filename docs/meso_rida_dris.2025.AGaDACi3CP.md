@@ -11,7 +11,6 @@ tags:
  - dimension
  - geometry
  - print
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/driss_amegouz"><b>Driss</b> Amegouz</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Additive Manufacturing, pp. 260-270
 
 :aca-blank:{ .lg .middle}
     [`#accuracy`](keyword/accuracy)
@@ -56,8 +56,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The rise of 3D concrete printing (3DCP) marks a significant shift in construction, redefining design flexibility and efficiency. By eliminating traditional formwork, this technology enables intricate, cost-effective architectural structures. However, achieving precise translation from virtual CAD models to physical structures remains a critical challenge due to the interplay of material properties, process parameters, and equipment limitations.
-This study investigates the key factors influencing geometrical and dimensional precision in 3DCP, including layer deposition dynamics, concrete rheology, and machine configurations. The findings highlight gaps in understanding stratification effects, material shrinkage, and printing path accuracy. Addressing these challenges is crucial for advancing 3DCP’s reliability and expanding its applications in sustainable and innovative construction. By offering insights into optimizing accuracy, this work serves as a foundation for improving 3DCP practices and achieving intricate, high-quality structures.
+    The rise of 3D concrete printing (3DCP) marks a significant shift in construction, redefining design flexibility and efficiency. By eliminating traditional formwork, this technology enables intricate, cost-effective architectural structures. However, achieving precise translation from virtual CAD models to physical structures remains a critical challenge due to the interplay of material properties, process parameters, and equipment limitations. This study investigates the key factors influencing geometrical and dimensional precision in 3DCP, including layer deposition dynamics, concrete rheology, and machine configurations. The findings highlight gaps in understanding stratification effects, material shrinkage, and printing path accuracy. Addressing these challenges is crucial for advancing 3DCP’s reliability and expanding its applications in sustainable and innovative construction. By offering insights into optimizing accuracy, this work serves as a foundation for improving 3DCP practices and achieving intricate, high-quality structures.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

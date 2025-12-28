@@ -20,7 +20,6 @@ tags:
  - print
  - pva
  - strength
- - on
 
 ---
 

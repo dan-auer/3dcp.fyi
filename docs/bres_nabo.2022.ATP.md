@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 19th International Conference on Computer-Aided Architectural Design Futures, pp. 301-316
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

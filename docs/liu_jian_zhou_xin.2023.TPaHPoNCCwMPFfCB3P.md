@@ -14,8 +14,6 @@ tags:
  - print
  - printability
  - property
- - nano
- - nano
 
 ---
 

@@ -13,7 +13,6 @@ tags:
  - mixture
  - optimization
  - print
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/ahn_yonghan"><b>Ahn</b> Yonghan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Earth and Space 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 13th International Conference on Structural Health Monitoring of Intelligent Infrastructure, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

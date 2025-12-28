@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#distance
+# #distance
 
 <ol reversed>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.EoNSODPIaIoGFMRi3PC/">Effect of Nozzle Stand-Off Distance, Printing Interval, and Inclusion of Glass Fiber Mesh Reinforcement in 3D Printed Concrete</a></li>

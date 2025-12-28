@@ -11,10 +11,6 @@ tags:
  - micro
  - print
  - self
- - in
- - micro
- - self
- - micro
 
 ---
 

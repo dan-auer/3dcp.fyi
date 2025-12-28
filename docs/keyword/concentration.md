@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#concentration
+# #concentration
 
 <ol reversed>
   <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a>, <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ciso_kowa.2025.TIotCSGoSCi3PCE/">The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>A Preliminary Study</a></li>

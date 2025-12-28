@@ -17,7 +17,6 @@ tags:
  - reinforcement
  - steel
  - synchronization
- - under
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/li_lei"><b>Li</b> Lei</a>, <a href="../../../author/yao_qinye"><b>Yao</b> Qinye</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../duan_li_yao_zou.2022.EoMotFaHPo3PCC/">Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../hou_xiao_duan_ma.2021.FPo3PMwRP/">Fresh Properties of 3D Printed Mortar with Recycled Powder</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../li_ma_wang_wang.2022.ECMtIMCRBi3CP/">Expansive Cementitious Materials to Improve Micro-Cable-Reinforcement Bond in 3D Concrete Printing</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../li_wang_ma.2020.MIoCSMCRGCf3PStDLC/">Mechanical Improvement of Continuous Steel-Micro-Cable-Reinforced Geopolymer Composites for 3D Printing Subjected to Different Loading Conditions</a></li>
       <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_wang_ma_sanj.2020.SaDEo3PSRbECMC/">Strength and Ductility Enhancement of 3D Printing Structure Reinforced by Embedding Continuous Micro-Cables</a></li>

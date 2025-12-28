@@ -28,6 +28,7 @@ tags:
       <a href="../../../author/leong_yie_wai"><b>Leong</b> Wai</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th International Conference on Applying New Technology in Green Buildings, pp. 205-210
 
 :aca-blank:{ .lg .middle}
     [`#ai`](keyword/ai)

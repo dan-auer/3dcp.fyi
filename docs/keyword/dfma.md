@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#dfma
+# #dfma
 
 <ol reversed>
   <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../sada_pras_pras.2024.3CP/">3D Cement Printing:<br/>DFMA Guideline of Patterned Load-Bearing Walls for Small Residential Units</a></li>

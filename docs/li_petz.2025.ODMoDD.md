@@ -13,7 +13,6 @@ tags:
  - enabler
  - mixture
  - questions
- - a
 
 ---
 
@@ -66,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
@@ -82,7 +80,6 @@ tags:
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/helou_jalal"><b>Helou</b> Jalal</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../slep_helo_borr.2023.RTDERCIfFIM/">Real-Time Data Exchange Robot-Control Integration for Fabrication Information Modeling</a></li>
       <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../slep_vilg_borr.2022.FIM/">Fabrication Information Modeling:<br/>Interfacing Building Information Modeling with Digital Fabrication</a></li>
       <li><a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a>, <a href="../../../author/peralta_patricia"><b>Peralta</b> Patricia</a>, <a href="../../../author/luckey_daniel"><b>Luckey</b> Daniel</a>, <a href="../../../author/heine_sebastian"><b>Heine</b> Sebastian</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../smar_pera_luck_hein.2021.BBCP/">BIM-Based Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
     </ol>
 ???+ quote "Citations"

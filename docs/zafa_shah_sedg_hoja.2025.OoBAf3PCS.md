@@ -13,7 +13,6 @@ tags:
  - optimization
  - printability
  - system
- - a
 
 ---
 

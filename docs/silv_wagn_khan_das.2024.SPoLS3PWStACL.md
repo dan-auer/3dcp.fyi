@@ -69,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>

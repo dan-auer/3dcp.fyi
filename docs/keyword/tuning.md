@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#tuning
+# #tuning
 
 <ol reversed>
   <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>

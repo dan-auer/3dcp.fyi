@@ -12,7 +12,6 @@ tags:
  - mineral
  - print
  - robot
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia, pp. 603-612
 
 :aca-blank:{ .lg .middle}
     [`#composite`](keyword/composite)
@@ -74,8 +74,8 @@ tags:
     </ol>
 ???+ quote "Citations"
     <ol reversed>
-      <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPPb/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
       <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPP/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
+      <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPPb/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/calvo-barentin_javier_cristian"><b>Calvo Barentin</b> Cristian</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../beda_calv_schu_seno.2023.MC/">Mineral Composites:<br/>Stay-in-Place Formwork for Concrete Using Foam 3D Printing</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>

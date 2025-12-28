@@ -8,7 +8,6 @@ tags:
  - buildability
  - construction
  - priority
- - in
 
 ---
 
@@ -62,7 +61,6 @@ tags:
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
       <li><a href="../../../author/ibrahim_iman"><b>Ibrahim</b> Iman</a>, <a href="../../../author/eltarabishi_fatma"><b>Eltarabishi</b> Fatma</a>, <a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../ibra_elta_abda_abda.2022.3PiSB/">3D Printing in Sustainable Buildings:<br/>Systematic Review and Applications in the United Arab Emirates</a></li>
-      <li>None</li>
       <li><a href="../../../author/mahadevan_meera"><b>Mahadevan</b> Meera</a>, <a href="../../../author/francis_ann"><b>Francis</b> Ann</a>, <a href="../../../author/thomas_albert"><b>Thomas</b> Albert</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../maha_fran_thom.2020.ASBIoSAo3PS/">A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../saho_gupt.2023.3PEBAAM/">3D Printable Earth-Based Alkali-Activated Materials:<br/>Role of Mix-Design and Clay-Rich Soil</a></li>

@@ -10,7 +10,6 @@ tags:
  - print
  - structure
  - sustainability
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="https://orcid.org/0000-0001-9591-0629" title="ORCID: 0000-0001-9591-0629" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Industrial, Manufacturing, and Process Engineering, pp. 44
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -68,7 +68,6 @@ tags:
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/biblioteca_ilario"><b>Biblioteca</b> Ilario</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../samb_bibl_vale.2023.LCALo3CPaCPfCMIGWTR/">Life Cycle Assessment (LCA) of 3D Concrete Printing and Casting Processes for Cementitious Materials Incorporating Ground Waste Tire Rubber</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
       <li><a href="../../../author/zhang_ruo-chen"><b>Zhang</b> Ruo-Chen</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xue_xuan"><b>Xue</b> Xuan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../zhan_wang_xue_ma.2023.EPo3CPTiDAvLCA/">Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment</a></li>

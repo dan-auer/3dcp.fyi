@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/bourquin_vincent"><b>Bourquin</b> Vincent</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 261-266
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

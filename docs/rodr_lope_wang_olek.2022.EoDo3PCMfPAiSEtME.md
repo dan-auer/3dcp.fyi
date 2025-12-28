@@ -16,7 +16,6 @@ tags:
  - potential
  - print
  - structure
- - in
 
 ---
 
@@ -36,6 +35,7 @@ tags:
 ,     <a href="../../../author/cotrell_jason"><b>Cotrell</b> Jason</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 175-181
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

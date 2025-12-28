@@ -17,7 +17,6 @@ tags:
  - manufacturing
  - upcycling
  - waste
- - a
 
 ---
 

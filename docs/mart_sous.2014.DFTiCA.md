@@ -10,7 +10,6 @@ tags:
  - digital
  - fabrication
  - technology
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="https://orcid.org/0000-0003-0024-4622" title="ORCID: 0000-0003-0024-4622" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 32nd International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 475-484
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -68,7 +68,7 @@ tags:
     <ol reversed>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/momeni_mahdi"><b>Momeni</b> Mahdi</a>, <a href="../../../author/relefors_johan"><b>Relefors</b> Johan</a>, <a href="../../../author/khatry_abubakar"><b>Khatry</b> Abubakar</a>, <a href="../../../author/pettersson_lars"><b>Pettersson</b> Lars</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../mome_rele_khat_pett.2022.AFoRCUaRPC/">Automated Fabrication of Reinforcement Cages Using a Robotized Production Cell</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../scot_llor_gram_kohl.2018.ACSfSDC/">Adaptive Control-System for Smart Dynamic Casting:<br/>Defining Fabrication-Informed Design-Tools and Process-Parameters in Digital Fabrication-Processes</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/veer_frederic"><b>Veer</b> Frederic</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../chen_copu_veer.2017.ACRo3CPaaLCCA/">A Critical Review of 3D Concrete Printing as a Low-CO2 Concrete Approach</a></li>
       <li><a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a> et al. <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../kuma_hack_dorf_walz.2017.DDaEAoaREEfNSCA/">Design, Development and Experimental Assessment of a Robotic End-Effector for Non-Standard Concrete Applications</a></li>

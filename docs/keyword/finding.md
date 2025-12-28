@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#finding
+# #finding
 
 <ol reversed>
   <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chov_rich_dac.2025.FASFFfAM/">Fabrication-Aware Structural Form-Finding for Additive Manufacturing:<br/>An Equilibrium-Based Approach</a></li>

@@ -9,7 +9,6 @@ tags:
  - neutrality
  - potential
  - print
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>

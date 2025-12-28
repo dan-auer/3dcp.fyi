@@ -14,7 +14,6 @@ tags:
  - model
  - print
  - reinforcement
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
       <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> <a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

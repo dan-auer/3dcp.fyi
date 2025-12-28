@@ -61,9 +61,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../jaji_zijl_baba.2023.SMFRMBGf3CPA/">Slag-Modified Fiber-Reinforced Metakaolin-Based Geopolymer for 3D Concrete Printing Application:<br/>Evaluating Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>

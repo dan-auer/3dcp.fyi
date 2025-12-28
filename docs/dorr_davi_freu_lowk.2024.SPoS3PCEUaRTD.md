@@ -17,8 +17,6 @@ tags:
  - surface
  - time
  - trowel
- - a
- - on
 
 ---
 
@@ -36,6 +34,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 397-404
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -78,9 +77,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../dorr_davi_freu_lowk.2023.IPIoRfCEDS3P/">In-Process Integration of Reinforcement for Construction Elements During Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>

@@ -14,7 +14,6 @@ tags:
  - segment
  - shell
  - system
- - a
 
 ---
 
@@ -74,8 +73,6 @@ tags:
     <ol>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/heusi_alex"><b>Heusi</b> Alex</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../beda_szab_zani_heus.2022.R3PoMFfaLCCS/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab</a></li>
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../duba_bave_dirr.2019.STMWwRME/">Space-Truss-Masonry-Walls with Robotic Mortar-Extrusion</a></li>

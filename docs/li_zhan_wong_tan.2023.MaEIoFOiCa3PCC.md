@@ -14,7 +14,6 @@ tags:
  - model
  - orientation
  - print
- - in
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../li_weng_liu_zhan.2022.OoCAf3PCMbCCD/">Optimizing of Chemical Admixtures for 3D Printable Cementitious Materials by Central Composite Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>

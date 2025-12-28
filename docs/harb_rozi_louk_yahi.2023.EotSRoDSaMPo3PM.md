@@ -14,7 +14,6 @@ tags:
  - rate
  - stability
  - structuration
- - on
 
 ---
 

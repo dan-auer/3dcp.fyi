@@ -12,7 +12,6 @@ tags:
  - review
  - state
  - sustainability
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/joe_adams"><b>Joe</b> Adams</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 183-195
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -76,7 +76,6 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/malek_sardar"><b>Malek</b> Sardar</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../shak_neja_paul_male.2019.RoEAMTi3PoCMitCI/">Review of Emerging Additive Manufacturing Technologies in 3D Printing of Cementitious Materials in the Construction Industry</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

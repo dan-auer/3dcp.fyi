@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#synchronization
+# #synchronization
 
 <ol reversed>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_yang_sun.2025.SCoSB3PRCS/">Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure:<br/>Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</a></li>

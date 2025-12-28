@@ -12,7 +12,6 @@ tags:
  - nail
  - print
  - strength
- - in
 
 ---
 
@@ -71,7 +70,6 @@ tags:
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../baz_aoua_remo.2020.EotPMaMsWoPOSo3PE/">Effect of the Printing Method and Mortar’s Workability on Pull-Out Strength of 3D Printed Elements</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../best_heev_krug_cho.2020.SFLi3PC/">Steel-Fiber Links in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../chen_li_zhen_zhao.2018.RaMPoAM3PSCM/">Rheological and Mechanical Properties of Admixtures-Modified 3D Printing Sulphoaluminate Cementitious Materials</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>

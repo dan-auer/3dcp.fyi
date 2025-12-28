@@ -17,10 +17,6 @@ tags:
  - performance
  - print
  - silica
- - nano
- - ultra
- - nano
- - ultra
 
 ---
 
@@ -85,11 +81,9 @@ tags:
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
-      <li>None</li>
       <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lee_kim_moon_kim.2019.EotMPoa3PM/">Evaluation of the Mechanical Properties of a 3D Printed Mortar</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
       <li><a href="../../../author/martens_pascal"><b>Martens</b> Pascal</a>, <a href="../../../author/mathot_maarten"><b>Mathot</b> Maarten</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/coenders_jeroen"><b>Coenders</b> Jeroen</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../mart_math_bos_coen.2017.O3PCSUTO/">Optimizing 3D Printed Concrete Structures Using Topology Optimization</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>

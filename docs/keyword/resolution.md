@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#resolution
+# #resolution
 
 <ol reversed>
   <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../nabo_bres.2022.AF/">Additive Formwork:<br/>Examining Design, Fabrication Space and Resolution for Bespoke Concrete Elements</a></li>

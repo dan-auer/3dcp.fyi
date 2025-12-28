@@ -15,8 +15,6 @@ tags:
  - reinforcement
  - static
  - textile
- - quasi
- - under
 
 ---
 

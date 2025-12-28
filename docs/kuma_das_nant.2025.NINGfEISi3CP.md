@@ -13,7 +13,6 @@ tags:
  - nozzle
  - print
  - strength
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Building Materials, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

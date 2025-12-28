@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 895-905
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

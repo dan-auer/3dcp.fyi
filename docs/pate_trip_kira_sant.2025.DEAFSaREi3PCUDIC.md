@@ -14,7 +14,6 @@ tags:
  - image
  - print
  - shrinkage
- - in
 
 ---
 

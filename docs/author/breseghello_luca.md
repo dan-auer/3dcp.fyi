@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
@@ -10,8 +10,8 @@ search:
 
 <ol reversed>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../varg_bres_silf.2025.CHF/">Circular Hybrid Façades:<br/>Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</a></li>
-  <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPPb/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPP/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
+  <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPPb/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>
   <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bres_haji_nabo.2024.3/">3DLightSlab:<br/>Design to 3D Concrete Printing Workflow for Stress-Driven Ribbed Slabs</a></li>
   <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/zomparelli_alessandro"><b>Zomparelli</b> Alessandro</a>, <a href="../../../author/kunic_anja"><b>Kunic</b> Anja</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nabo_zomp_kuni_bres.2024.DRFaACoLCCSTFBRD/">Design, Robotic Fabrication and Augmented Construction of Low-Carbon Concrete Slabs Through Field-Based Reaction-Diffusion</a></li>
   <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/talaei_ardeshir"><b>Talaei</b> Ardeshir</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bres_tala_flor_nabo.2023.SE/">Shape-Env:<br/>Camera-Enhanced Robotic Terrain-Shaping for Complex 3D Concrete Printing</a></li>

@@ -13,7 +13,6 @@ tags:
  - expansion
  - low
  - print
- - in
 
 ---
 
@@ -88,7 +87,6 @@ tags:
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../moel_krug_comb.2022.MEACi3PCUFSPSRABCCaCM/">Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../moha_rahu_schu_titt.2021.EAHRaPCoCCB3PC/">Early-Age Hydration, Rheology and Pumping Characteristics of CSA Cement-Based 3D Printable Concrete</a></li>

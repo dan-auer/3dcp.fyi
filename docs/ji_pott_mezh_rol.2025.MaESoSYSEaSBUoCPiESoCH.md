@@ -18,9 +18,6 @@ tags:
  - stress
  - structure
  - yield
- - in
- - on
- - up
 
 ---
 

@@ -67,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>

@@ -21,6 +21,7 @@ tags:
 ,     <a href="../../../author/xydis_achilleas"><b>Xydis</b> Achilleas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings, pp. 409-418
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

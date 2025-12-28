@@ -11,7 +11,6 @@ tags:
  - house
  - investigation
  - print
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Computing in Civil Engineering, pp. 19-28
 
 :aca-blank:{ .lg .middle}
     [`#affordability`](keyword/affordability)

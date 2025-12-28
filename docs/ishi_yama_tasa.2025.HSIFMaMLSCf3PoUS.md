@@ -16,8 +16,6 @@ tags:
  - sensitivity
  - smooth
  - surface
- - multi
- - on
 
 ---
 
@@ -75,12 +73,10 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_nguy_tran.2023.DDaPSo3CPoNPS/">Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces</a></li>
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wei_ying"><b>Wei</b> Ying</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/chen_ziwei"><b>Chen</b> Ziwei</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wei_han_yu_chen.2024.PIo3CPfStMLS/">Parameter Impact on 3D Concrete Printing from Single to Multi-Layer Stacking</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
 ???+ quote "Citations"

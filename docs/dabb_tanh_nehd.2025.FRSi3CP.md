@@ -13,7 +13,6 @@ tags:
  - print
  - reinforcement
  - strategy
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/nehdi_l_moncef"><b>Nehdi</b> Moncef</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Digital Transformation in the Construction Industry, pp. 639-654
 
 :aca-blank:{ .lg .middle}
     [`#challenge`](keyword/challenge)
@@ -91,7 +91,7 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/zhang_hai"><b>Zhang</b> Hai</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yang_wu_liu_zhan.2022.3PUHPFRCuTCL/">3D Printing Ultra-High-Performance Fiber-Reinforced Concrete under Triaxial Confining Loads</a></li>
-      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDbMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>

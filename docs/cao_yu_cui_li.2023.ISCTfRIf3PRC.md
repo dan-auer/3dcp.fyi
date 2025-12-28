@@ -13,7 +13,6 @@ tags:
  - reinforcement
  - situ
  - technique
- - in
 
 ---
 
@@ -91,7 +90,6 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../marc_sanj_xia.2019.MoEILBSiCS3PwMbEBAA/">Method of Enhancing Inter-Layer Bond Strength in Construction-Scale 3D Printing with Mortar by Effective Bond Area Amplification</a></li>
       <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/kofler_nadine"><b>Kofler</b> Nadine</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../matt_kofl_kran_wege.2020.ILRCwFRfELME/">Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
@@ -103,7 +101,6 @@ tags:
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

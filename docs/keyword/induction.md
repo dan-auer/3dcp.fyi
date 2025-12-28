@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#induction
+# #induction
 
 <ol reversed>
   <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>

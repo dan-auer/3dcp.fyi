@@ -13,7 +13,6 @@ tags:
  - extrusion
  - print
  - shotcrete
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 283-290
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)
@@ -60,9 +60,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    With the increasing technological development of 3D concrete printing processes, there has been an increased focus on researching the durability of 3D printed concrete and how the processes compare to conventionally cast concrete. Conventionally produced concrete is considered to be isotropic in terms of its hardened concrete properties (e.g. density, porosity and durability). In 3D concrete printing, the layer-by-layer nature of the process may cause an inhomogeneous distribution of concrete properties.
-This study compares the durability characterized by the penetration behaviour of pollutants (gaseous CO2 and liquid NaCl solution) for three manufacturing techniques: (1) Extrusion 3D Printing, (2) Shotcrete 3D printing, and (3) conventional concrete casting. For this purpose, the specimens are produced under the same conditions (material composition, storage). The specimens are tested for carbonation (accelerated carbonation method) and chloride migration resistance (rapid chloride migration test). The resulting chloride and carbonation depths are analysed using a Matlab tool. The results show a higher chloride migration resistance of the SC3DP samples compared to the extruded and conventionally cast samples. In contrast, the extruded and conventionally cast samples show an increased resistance to carbonation.
-In general, it is found that the 3D printed samples exhibit a distinct inhomogeneous penetration behaviour of the pollutants; however, the location of the greatest penetration depths varies depending on the 3D printing processes. The highest penetration depths of extruded samples were achieved in the bulk, whereas it occurred in the interface region for SC3DP samples. The results indicate that the durability resistance and the penetration behaviour of harmful substances in 3D printed concrete are not only determined by the layer-by-layer application itself, but also by process-specific influences from the 3D printing process, such as pumping or spraying.
+    With the increasing technological development of 3D concrete printing processes, there has been an increased focus on researching the durability of 3D printed concrete and how the processes compare to conventionally cast concrete. Conventionally produced concrete is considered to be isotropic in terms of its hardened concrete properties (e.g. density, porosity and durability). In 3D concrete printing, the layer-by-layer nature of the process may cause an inhomogeneous distribution of concrete properties. This study compares the durability characterized by the penetration behaviour of pollutants (gaseous CO2 and liquid NaCl solution) for three manufacturing techniques: (1) Extrusion 3D Printing, (2) Shotcrete 3D printing, and (3) conventional concrete casting. For this purpose, the specimens are produced under the same conditions (material composition, storage). The specimens are tested for carbonation (accelerated carbonation method) and chloride migration resistance (rapid chloride migration test). The resulting chloride and carbonation depths are analysed using a Matlab tool. The results show a higher chloride migration resistance of the SC3DP samples compared to the extruded and conventionally cast samples. In contrast, the extruded and conventionally cast samples show an increased resistance to carbonation. In general, it is found that the 3D printed samples exhibit a distinct inhomogeneous penetration behaviour of the pollutants; however, the location of the greatest penetration depths varies depending on the 3D printing processes. The highest penetration depths of extruded samples were achieved in the bulk, whereas it occurred in the interface region for SC3DP samples. The results indicate that the durability resistance and the penetration behaviour of harmful substances in 3D printed concrete are not only determined by the layer-by-layer application itself, but also by process-specific influences from the 3D printing process, such as pumping or spraying.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

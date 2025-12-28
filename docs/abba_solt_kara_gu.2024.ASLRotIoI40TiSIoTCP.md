@@ -18,9 +18,6 @@ tags:
  - system
  - technology
  - transport
- - a
- - in
- - on
 
 ---
 

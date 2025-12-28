@@ -17,7 +17,6 @@ tags:
  - property
  - size
  - slag
- - on
 
 ---
 
@@ -76,7 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhang_x_yixia"><b>Zhang</b> Yixia</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../an_zhan_yang.2024.ICAi3CPfMDaPCtSBaPA/">Incorporating Coarse Aggregates into 3D Concrete Printing from Mixture Design and Process-Control to Structural Behavior and Practical Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../bong_nema_nere_mech.2022.MoF3PSHAACfAC/">Method of Formulating 3D Printable Strain-Hardening Alkali-Activated Composites for Additive Construction</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bong_xia_nema_shi.2021.ATCJAWGf3CPA/">Ambient Temperature Cured ‘Just-Add-Water’ Geopolymer for 3D Concrete Printing Applications</a></li>
@@ -99,7 +97,7 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/sheng_ruyi"><b>Sheng</b> Ruyi</a>, <a href="../../../author/yao_xupeng"><b>Yao</b> Xupeng</a>, <a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b> Bernhard</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_shen_yao_pich.2025.ATSDSf3PCCCA/">A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
     </ol>

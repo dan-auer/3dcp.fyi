@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#squeeze
+# #squeeze
 
 <ol reversed>
   <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../harb_yahi_rozi_louk.2025.ST/">Squeeze Test:<br/>A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</a></li>

@@ -15,7 +15,6 @@ tags:
  - prediction
  - strength
  - technology
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/parghi_anant"><b>Parghi</b> Anant</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Structural Engineering, pp. 1-7
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

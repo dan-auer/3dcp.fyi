@@ -15,9 +15,6 @@ tags:
  - print
  - property
  - suspension
- - in
- - nano
- - nano
 
 ---
 
@@ -32,6 +29,7 @@ tags:
 ,     <a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> <a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of Civil Engineering Research in Ireland 2022 and Irish Transport Research Network 2022, pp. 45-50
 
 :aca-blank:{ .lg .middle}
     [`#clay`](keyword/clay)

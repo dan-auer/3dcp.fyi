@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 22nd IAA Symposium on Building Blocks for Future Space Exploration and Development, pp. 435-449
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -60,7 +61,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/talaei_ardeshir"><b>Talaei</b> Ardeshir</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bres_tala_flor_nabo.2023.SE/">Shape-Env:<br/>Camera-Enhanced Robotic Terrain-Shaping for Complex 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ulub.2022.LSCI/">Lunar Shelter Construction Issues:<br/>The State of the Art Towards 3D Printing Technologies</a></li>
     </ol>
 ???+ quote "Citations"

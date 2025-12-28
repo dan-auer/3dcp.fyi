@@ -13,8 +13,6 @@ tags:
  - tailoring
  - three
  - use
- - nano
- - nano
 
 ---
 

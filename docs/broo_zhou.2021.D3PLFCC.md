@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 17th Biennial International Conference on Engineering, Science, Construction, and Operations in Challenging Environments, pp. 52-58
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

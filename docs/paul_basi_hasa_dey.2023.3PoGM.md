@@ -14,7 +14,6 @@ tags:
  - parameter
  - print
  - strength
- - on
 
 ---
 
@@ -84,9 +83,6 @@ tags:
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../liu_nguy_pand_fox.2022.AMoSCMaFFS/">Additive Manufacturing of Sustainable Construction Materials and Form-Finding Structures:<br/>A Review on Recent Progresses</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/munir_qaisar"><b>Munir</b> Qaisar</a>, <a href="../../../author/peltonen_riku"><b>Peltonen</b> Riku</a>, <a href="../../../author/karki_timo"><b>Kärki</b> Timo</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../muni_pelt_kark.2021.PPRf3PGMPfISS/">Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_bhag_unlu_tan.2019.SaCoOPGfEB3CP/">Synthesis and Characterization of One-Part Geopolymers for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

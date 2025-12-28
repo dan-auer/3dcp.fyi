@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/cheung_hang_lok"><b>Cheung</b> Lok</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 43rd International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#accordance`](keyword/accordance)

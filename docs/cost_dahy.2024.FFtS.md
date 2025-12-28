@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/dahy_hanaa"><b>Dahy</b> Hanaa</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Built Environment Additive Manufacturing, pp. 12-23
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -58,9 +59,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -12,8 +12,6 @@ tags:
  - printability
  - recycling
  - sand
- - a
- - on
 
 ---
 
@@ -85,7 +83,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vlie_boeh_blaa_li.2023.BAoMwFRAf3P/">Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

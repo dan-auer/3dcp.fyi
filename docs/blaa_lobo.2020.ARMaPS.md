@@ -9,7 +9,6 @@ tags:
  - print
  - robust
  - system
- - a
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/lobo_b"><b>Lobo</b> B.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1091-1103
 
 :aca-blank:{ .lg .middle}
     [`#mortar`](keyword/mortar)

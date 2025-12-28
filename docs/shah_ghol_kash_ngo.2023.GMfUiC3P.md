@@ -16,9 +16,6 @@ tags:
  - mortar
  - print
  - use
- - in
- - nano
- - nano
 
 ---
 

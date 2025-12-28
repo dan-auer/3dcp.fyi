@@ -13,8 +13,6 @@ tags:
  - industry
  - integration
  - manufacturing
- - a
- - in
 
 ---
 
@@ -71,7 +69,6 @@ tags:
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/ferron_raissa"><b>Ferron</b> Raissa</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../delg_clay_brie_ferr.2017.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Prospective Review</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/carlson_anders"><b>Carlson</b> Anders</a>, <a href="../../../author/leach_neil"><b>Leach</b> Neil</a>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a> <a href="../../../date/2012/04">(2012-04)</a><br><a href="../../../khos_carl_leac_than.2012.CCSPfLSIBU/">Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up</a></li>
       <li><a href="../../../author/krimi_imane"><b>Krimi</b> Imane</a>, <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b> Laure</a> <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../krim_lafh_duco.2017.PSotIoAMtBI/">Prospective Study on the Integration of Additive Manufacturing to Building Industry:<br/>Case of a French Construction Company</a></li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>

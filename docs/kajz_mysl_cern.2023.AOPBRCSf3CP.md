@@ -83,7 +83,6 @@ tags:
       <li><a href="../../../author/urhal_pinar"><b>Urhal</b> Pinar</a>, <a href="../../../author/weightman_andrew"><b>Weightman</b> Andrew</a>, <a href="../../../author/diver_carl"><b>Diver</b> Carl</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../urha_weig_dive_bart.2019.RAAM/">Robot-Assisted Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/vojir_martin"><b>Vojir</b> Martin</a>, <a href="../../../author/myslivec_tomas"><b>Myslivec</b> Tomáš</a>, <a href="../../../author/petr_tomas"><b>Petr</b> Tomas</a>, <a href="../../../author/brousek_josef"><b>Břoušek</b> Josef</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../voji_mysl_petr_brou.2021.ANWtDSfIA/">A New Way to Design Software for Industrial Automation:<br/>3D Printer Cement Mixtures</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

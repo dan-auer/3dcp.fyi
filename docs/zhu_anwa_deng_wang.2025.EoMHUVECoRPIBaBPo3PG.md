@@ -18,8 +18,6 @@ tags:
  - property
  - rheology
  - variation
- - on
- - under
 
 ---
 
@@ -87,7 +85,6 @@ tags:
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a></li>
-      <li>None</li>
       <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>

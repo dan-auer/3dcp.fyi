@@ -13,7 +13,6 @@ tags:
  - robot
  - site
  - slab
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 5th International Conference on Computational Design and Robotic Fabrication, pp. 492-502
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

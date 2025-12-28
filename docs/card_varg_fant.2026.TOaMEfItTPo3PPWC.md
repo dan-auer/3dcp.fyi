@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Construction, Energy, Environment and Sustainability, pp. 179-186
 
 :aca-blank:{ .lg .middle}
     [`#component`](keyword/component)

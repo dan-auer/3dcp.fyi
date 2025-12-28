@@ -12,8 +12,6 @@ tags:
  - method
  - reinforcement
  - surface
- - a
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 268-276
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

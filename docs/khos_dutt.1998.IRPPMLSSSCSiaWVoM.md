@@ -18,8 +18,6 @@ tags:
  - surface
  - variation
  - width
- - a
- - in
 
 ---
 

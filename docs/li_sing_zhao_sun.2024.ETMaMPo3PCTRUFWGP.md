@@ -16,8 +16,6 @@ tags:
  - property
  - recycling
  - waste
- - ultra
- - ultra
 
 ---
 

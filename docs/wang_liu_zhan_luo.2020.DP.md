@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/raspall_felix"><b>Raspall</b> Félix</a> <a href="https://orcid.org/0000-0002-7213-4572" title="ORCID: 0000-0002-7213-4572" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia, pp. 145-151
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -13,8 +13,6 @@ tags:
  - stability
  - system
  - variation
- - ultra
- - ultra
 
 ---
 

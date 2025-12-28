@@ -18,7 +18,6 @@ tags:
  - prediction
  - print
  - property
- - on
 
 ---
 
@@ -80,7 +79,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>

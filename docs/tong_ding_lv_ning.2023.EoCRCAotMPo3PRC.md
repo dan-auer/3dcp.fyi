@@ -14,7 +14,6 @@ tags:
  - print
  - property
  - recycling
- - on
 
 ---
 
@@ -70,14 +69,12 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../bai_wu_xiao_ding.2023.WaHPo3PECCIRSaPF/">Workability and Hardened Properties of 3D Printed Engineered Cementitious Composites Incorporating Recycled Sand and PE-Fibers</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ding_xiao_qin_duan.2020.MBo3PMwRSaEA/">Mechanical Behavior of 3D Printed Mortar with Recycled Sand at Early-Ages</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_liu_bai_wu.2022.IoPDotHPo3PCwCA/">Influence of Pore-Defects on the Hardened Properties of 3D Printed Concrete with Coarse Aggregate</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>

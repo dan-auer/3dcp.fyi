@@ -10,7 +10,6 @@ tags:
  - expansion
  - mixture
  - property
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)
@@ -69,7 +69,6 @@ tags:
       <li><a href="../../../author/nunes_da-mota_gabrielly"><b>Nunes</b> Gabrielly</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/lins_beatriz-smith-melo_ana"><b>Lins</b> Ana</a>, <a href="../../../author/negreiros_mayara-silva_ana"><b>Negreiros</b> Ana</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../nune_anjo_lins_negr.2023.EotMBoRVEo3MMwPRoCbLFaM/">Evaluation of the Mechanical Behavior of Representative Volumetric Elements of 3DCP Masonry-Mixtures with Partial Replacement of Cement by Limestone-Filler and Metakaolin</a></li>
       <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pasu_rama_sanj.2022.EtPoFC3PUPA/">Enhancing the Properties of Foam-Concrete 3D Printing Using Porous Aggregates</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sunt_gath_upas_pool.2021.FPoI3PCCWP/">Fire Performance of Innovative 3D Printed Concrete Composite Wall Panels:<br/>A Numerical Study</a></li>
-      <li>None</li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>
     </ol>

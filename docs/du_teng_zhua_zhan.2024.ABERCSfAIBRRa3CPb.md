@@ -16,7 +16,6 @@ tags:
  - reinforcement
  - robot
  - system
- - a
 
 ---
 
@@ -71,8 +70,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    When the article was first published, the authors have identified the error that were inadvertently introduced to the figures, and this affected some of the results. In order to rectify the error, the following changes have been made to the article.
-A correction has been made on page 6 of the PDF, the Figure 3 appears three times and on page 14, the figure and caption of Figure 14 has overlapped.
+    When the article was first published, the authors have identified the error that were inadvertently introduced to the figures, and this affected some of the results. In order to rectify the error, the following changes have been made to the article. A correction has been made on page 6 of the PDF, the Figure 3 appears three times and on page 14, the figure and caption of Figure 14 has overlapped.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

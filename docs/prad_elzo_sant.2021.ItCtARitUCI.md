@@ -11,7 +11,6 @@ tags:
  - identification
  - industry
  - robot
- - in
 
 ---
 

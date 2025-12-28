@@ -11,7 +11,6 @@ tags:
  - electrical
  - print
  - system
- - a
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/nursanto_djoko"><b>Nursanto</b> Djoko</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th Asia Pacific Conference on Manufacturing Systems and 4th International Manufacturing Engineering Conference, pp. 617-626
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

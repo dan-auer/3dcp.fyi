@@ -16,7 +16,6 @@ tags:
  - strategy
  - support
  - system
- - self
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/oliveira_v_daniel"><b>Oliveira</b> Daniel</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#continuous`](keyword/continuous)
@@ -73,7 +73,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/yin_yudong"><b>Yin</b> Yudong</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../huan_xu_yin.2023.ItOo3PCSbWS/">Improving the Overhang of 3D Printed Concrete Shells by Wrinkle Structures</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

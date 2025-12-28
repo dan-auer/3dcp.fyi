@@ -19,7 +19,6 @@ tags:
  - section
  - shotcrete
  - strand
- - on
 
 ---
 
@@ -82,9 +81,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
@@ -98,10 +95,8 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mai_freu_lowk.2020.CoSPPwS3PbADaPP/">Control of Strand Properties Produced with Shotcrete 3D Printing by Accelerator Dosage and Process Parameters</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
 ???+ quote "Citations"

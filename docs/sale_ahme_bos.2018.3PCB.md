@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bridge`](keyword/bridge)
@@ -64,7 +65,7 @@ tags:
     </ol>
 ???+ quote "Citations"
     <ol reversed>
-      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PCPMaS/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage</a></li>
+      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../pari_kama_subr.2023.IoILIoFBo3PC/">Influence of Inter-Layer Interfaces on Fracture Behavior of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>

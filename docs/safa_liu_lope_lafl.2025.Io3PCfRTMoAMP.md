@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="https://orcid.org/0000-0002-5044-8482" title="ORCID: 0000-0002-5044-8482" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2025, pp. 38
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -71,7 +72,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_lafl_ales_uber.2024.3PSSCCUGaCMF/">3D Printed Self-Sensing Cementitious Composites Using Graphite and Carbon-Micro-Fibers</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>

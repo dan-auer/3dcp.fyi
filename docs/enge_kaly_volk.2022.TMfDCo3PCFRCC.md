@@ -15,7 +15,6 @@ tags:
  - print
  - reinforcement
  - test
- - on
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 803-809
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)

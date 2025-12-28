@@ -9,8 +9,6 @@ tags:
  - manufacturing
  - micro
  - robot
- - micro
- - micro
 
 ---
 
@@ -24,6 +22,7 @@ tags:
 ,     <a href="../../../author/dungrani_mohan"><b>Dungrani</b> Mohan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIII Conference of the Ibero-American Society of Digital Graphics, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#house`](keyword/house)

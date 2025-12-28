@@ -15,7 +15,6 @@ tags:
  - mechanics
  - orientation
  - property
- - on
 
 ---
 
@@ -75,7 +74,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

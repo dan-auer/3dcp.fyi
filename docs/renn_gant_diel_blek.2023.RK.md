@@ -13,8 +13,6 @@ tags:
  - knit
  - robot
  - shotcrete
- - a
- - on
 
 ---
 

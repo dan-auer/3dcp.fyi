@@ -9,7 +9,6 @@ tags:
  - construction
  - emergent
  - technology
- - in
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/caliskan_bahadir_ekrem"><b>Çalışkan</b> Ekrem</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Building Construction Methods and Systems, pp. 323-345
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -59,15 +59,12 @@ tags:
     <ol>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../broo_zhou.2021.D3PLFCC/">Developing 3D Printable Lightweight Functional Cementitious Composite</a></li>
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a></li>
       <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/sakdanaraseth_thanut"><b>Sakdanaraseth</b> Thanut</a>, <a href="../../../author/horayangkura_vimolsiddhi"><b>Horayangkura</b> Vimolsiddhi</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../pras_sakd_hora.2021.DaCMoa3CPSSCLP/">Design and Construction Method of a 3D Concrete Printing Self-Supporting Curvi-Linear Pavilion</a></li>

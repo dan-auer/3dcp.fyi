@@ -19,8 +19,6 @@ tags:
  - production
  - recycling
  - waste
- - a
- - on
 
 ---
 
@@ -80,13 +78,9 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/akerman_marc"><b>Akerman</b> Marc</a>, <a href="../../../author/schwendemann_daniel"><b>Schwendemann</b> Daniel</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../burg_llor_aker_schw.2023.CF/">Circular Formwork:<br/>Recycling of 3D Printed Thermoplastic Formwork for Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/najjar_fady"><b>Najjar</b> Fady</a>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b> Abdel-Hamid</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../jass_najj_mour.2018.LS3P/">Large-Scale 3D Printing:<br/>The Way Forward</a></li>
-      <li>None</li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

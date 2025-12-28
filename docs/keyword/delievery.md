@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#delievery
+# #delievery
 
 <ol reversed>
   <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>

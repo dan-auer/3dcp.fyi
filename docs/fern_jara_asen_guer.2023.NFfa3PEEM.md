@@ -10,8 +10,6 @@ tags:
  - material
  - natural
  - printability
- - a
- - eco
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> <a href="https://orcid.org/0000-0002-4130-1032" title="ORCID: 0000-0002-4130-1032" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 683-694
 
 :aca-blank:{ .lg .middle}
     [`#ecc`](keyword/ecc)

@@ -15,7 +15,6 @@ tags:
  - performance
  - printability
  - tension
- - on
 
 ---
 

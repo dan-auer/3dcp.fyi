@@ -15,8 +15,6 @@ tags:
  - manufacturing
  - reinforcement
  - strategy
- - in
- - on
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 45-59
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -75,9 +74,8 @@ tags:
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/muller_florian"><b>Müller</b> Florian</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../agus_mull_hack_wang.2017.PBoDFfCS/">Potential Benefits of Digital Fabrication for Complex Structures:<br/>Environmental Assessment of a Robotically Fabricated Concrete Wall</a></li>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
-      <li>None</li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>

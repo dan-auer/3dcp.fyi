@@ -13,7 +13,6 @@ tags:
  - geometry
  - model
  - print
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/usmani_asif"><b>Usmani</b> Asif</a> <a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Bridging Art and Design with Technology, pp. 87-96
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

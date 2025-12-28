@@ -14,8 +14,6 @@ tags:
  - property
  - reinforcement
  - spray
- - micro
- - micro
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="https://orcid.org/0000-0002-9509-2520" title="ORCID: 0000-0002-9509-2520" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 934-942
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

@@ -17,7 +17,6 @@ tags:
  - print
  - reinforcement
  - time
- - in
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hu_tingyu"><b>Hu</b> Tingyu</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../ma_hu_wang_liu.2023.MPCfPB3CP/">Magnesium Phosphate Cement for Powder-Based 3D Concrete Printing:<br/>Systematic Evaluation and Optimization of Printability and Printing Quality</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/salman_muhammad_nazar"><b>Salman</b> Nazar</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../ma_salm_wang_wang.2020.ANAMLICfEILBoCCf3P/">A Novel Additive Mortar Leveraging Internal Curing for Enhancing Inter-Layer Bonding of Cementitious Composite for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_bhag_unlu_tan.2019.SaCoOPGfEB3CP/">Synthesis and Characterization of One-Part Geopolymers for Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>

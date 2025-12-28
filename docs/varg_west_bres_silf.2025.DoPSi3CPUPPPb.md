@@ -11,7 +11,6 @@ tags:
  - porosity
  - print
  - structure
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th Conference on Computer Aided Architectural Design Research in Asia, pp. 151-160
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -63,10 +63,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b> Dinorah</a>, <a href="../../../author/senol_ayca"><b>Şenol</b> Ayça</a>, <a href="../../../author/jeoffroy_etienne"><b>Jeoffroy</b> Etienne</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../beda_schu_seno_jeof.2021.R3PoMFfaLCFSP/">Robotic 3D Printing of Mineral Foam for a Lightweight Composite Facade Shading Panel</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a></li>
       <li><a href="../../../author/gislason_styrmir"><b>Gislason</b> Styrmir</a>, <a href="../../../author/bruhn_simon"><b>Bruhn</b> Simon</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sen_burak"><b>Sen</b> Burak</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gisl_bruh_bres_sen.2022.P3PCBSaEP/">Porous 3D Printed Concrete Beams Show an Environmental Promise:<br/>A Cradle-to-Grave Comparative Life Cycle Assessment</a></li>

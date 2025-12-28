@@ -11,8 +11,6 @@ tags:
  - review
  - structure
  - topology
- - a
- - in
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/belhouideg_soufiane"><b>Belhouideg</b> Soufiane</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 2025 11th International Conference on Optimization and Applications (ICOA), pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

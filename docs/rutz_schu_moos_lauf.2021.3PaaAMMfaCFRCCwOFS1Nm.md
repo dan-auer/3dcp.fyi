@@ -16,7 +16,6 @@ tags:
  - print
  - reinforcement
  - strength
- - a
 
 ---
 
@@ -76,7 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>

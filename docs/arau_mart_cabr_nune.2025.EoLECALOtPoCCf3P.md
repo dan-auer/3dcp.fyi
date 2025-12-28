@@ -14,7 +14,6 @@ tags:
  - light
  - print
  - printability
- - on
 
 ---
 

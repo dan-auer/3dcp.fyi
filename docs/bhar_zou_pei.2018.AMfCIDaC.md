@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/pei_zhijian"><b>Pei</b> Zhijian</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -18,8 +18,6 @@ tags:
  - reinforcement
  - structure
  - system
- - de
- - in
 
 ---
 

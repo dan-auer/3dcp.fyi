@@ -15,8 +15,6 @@ tags:
  - print
  - property
  - review
- - a
- - on
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/ismail_amira-natasha_nur"><b>Ismail</b> Nur</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Frontier of Digital Technology Towards a Sustainable Society, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -95,7 +94,6 @@ tags:
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../sale_bos_wolf_ahme.2017.3CP/">3D Concrete Printing:<br/>A Structural Engineering Perspective</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/yeon_kyu-seok"><b>Yeon</b> Kyu-Seok</a>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b> Kwan</a>, <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../yeon_kim_yeon.2018.FSotUoPMCCa3CPM/">Feasibility Study of the Use of Polymer-Modified Cement Composites as 3D Concrete Printing-Material</a></li>
     </ol>
 ???+ quote "Citations"

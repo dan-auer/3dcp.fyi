@@ -11,7 +11,6 @@ tags:
  - print
  - real
  - simulation
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/romanova_dorota"><b>Romanová</b> Dorota</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

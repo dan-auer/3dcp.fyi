@@ -15,8 +15,6 @@ tags:
  - low
  - print
  - property
- - ultra
- - ultra
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/amankwah_samuel"><b>adu Amankwah</b> Samuel</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 87-92
 
 :aca-blank:{ .lg .middle}
     [`#accelerator`](keyword/accelerator)

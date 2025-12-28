@@ -13,7 +13,6 @@ tags:
  - particle
  - print
  - simulation
- - semi
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/cheng_liang-yee"><b>Cheng</b> Liang-Yee</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Joint XLV Ibero-Latin-American Congress on Computational Methods in Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

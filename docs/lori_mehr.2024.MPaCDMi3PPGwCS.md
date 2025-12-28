@@ -14,7 +14,6 @@ tags:
  - print
  - property
  - structure
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>

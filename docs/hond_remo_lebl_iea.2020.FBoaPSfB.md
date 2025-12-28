@@ -10,7 +10,6 @@ tags:
  - fire
  - print
  - samples
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/pinoteau_nicolas"><b>Pinoteau</b> Nicolas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 428-438
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

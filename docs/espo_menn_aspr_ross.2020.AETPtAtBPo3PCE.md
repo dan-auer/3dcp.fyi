@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/marchi_maurizio"><b>Marchi</b> Maurizio</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 235-245
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

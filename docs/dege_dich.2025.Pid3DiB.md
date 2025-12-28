@@ -7,7 +7,6 @@ description:
 tags:
  - additive
  - co2
- - in
 
 ---
 
@@ -19,6 +18,7 @@ tags:
 ,     <a href="../../../author/dichtl_matthias"><b>Dichtl</b> Matthias</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 21. Symposium Baustoffe und Bauwerkserhaltung, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

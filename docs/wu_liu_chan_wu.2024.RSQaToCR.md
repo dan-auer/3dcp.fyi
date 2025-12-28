@@ -10,7 +10,6 @@ tags:
  - construction
  - robot
  - trend
- - a
 
 ---
 
@@ -63,8 +62,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/willmann_jan"><b>Willmann</b> Jan</a>, <a href="../../../author/tibbits_skylar"><b>Tibbits</b> Skylar</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../aejm_will_tibb_gram.2016.JAS/">Jammed Architectural Structures:<br/>Towards Large-Scale Reversible Construction</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
       <li><a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>, <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../davi_oyed_ajay_akan.2019.RaASiC/">Robotics and Automated Systems in Construction:<br/>Understanding Industry-Specific Challenges for Adoption</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>

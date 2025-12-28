@@ -16,7 +16,6 @@ tags:
  - performance
  - printability
  - temperature
- - a
 
 ---
 
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/anjum_taqdees"><b>Anjum</b> Taqdees</a>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b> Poorvesh</a>, <a href="../../../author/misbah_fozail"><b>Misbah</b> Fozail</a>, <a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b> V.</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../anju_dong_misb_nany.2017.Po3itIBES/">Purview of 3DP in the Indian Built Environment Sector</a></li>
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
-      <li>None</li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
       <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>

@@ -14,7 +14,6 @@ tags:
  - print
  - projection
  - technology
- - in
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/zhao_jiawei"><b>Zhao</b> Jiawei</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 241-250
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

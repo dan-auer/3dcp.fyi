@@ -13,7 +13,6 @@ tags:
  - magnesium
  - print
  - rheology
- - on
 
 ---
 
@@ -91,7 +90,7 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../yuan_zhou_huan_peng.2020.SBUHaSDoCBMwA/">Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

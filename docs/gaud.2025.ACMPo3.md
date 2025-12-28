@@ -8,8 +8,6 @@ tags:
  - 3dcp
  - critical
  - material
- - a
- - on
 
 ---
 
@@ -22,6 +20,7 @@ tags:
       <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)
@@ -57,8 +56,6 @@ tags:
     <ol>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../heyw_nich.2024.3CPiaCE/">3D Concrete Printing in a Circular Economy:<br/>What We Can Learn from a 3DCP Slab Designed for Dissassembly</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../kuzm_gaud_fera_dirr.2020.AtEVo3CPT/">Assessing the Environmental Viability of 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>

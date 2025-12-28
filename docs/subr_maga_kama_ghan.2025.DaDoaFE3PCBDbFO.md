@@ -13,7 +13,6 @@ tags:
  - function
  - optimization
  - print
- - a
 
 ---
 
@@ -80,7 +79,6 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a></li>
       <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kama_subr.2022.DPFASGBwRM/">Developing Printable Fly-Ash-Slag Geopolymer Binders with Rheology Modification</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a></li>

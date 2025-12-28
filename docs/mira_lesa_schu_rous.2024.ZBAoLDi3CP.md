@@ -13,7 +13,6 @@ tags:
  - print
  - state
  - zone
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

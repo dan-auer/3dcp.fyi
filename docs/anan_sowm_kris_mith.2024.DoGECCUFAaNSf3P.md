@@ -13,8 +13,6 @@ tags:
  - green
  - print
  - silica
- - nano
- - nano
 
 ---
 

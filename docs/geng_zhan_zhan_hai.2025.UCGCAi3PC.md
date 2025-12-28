@@ -15,7 +15,6 @@ tags:
  - print
  - scale
  - upcycling
- - multi
 
 ---
 

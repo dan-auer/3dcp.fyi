@@ -14,7 +14,6 @@ tags:
  - model
  - potential
  - structure
- - on
 
 ---
 

@@ -15,8 +15,6 @@ tags:
  - structure
  - support
  - vault
- - in
- - self
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#ceiling`](keyword/ceiling)
@@ -70,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../bhoo_mele_bloc.2020.MS/">Morph & Slerp:<br/>Shape Description for 3D Printing of Concrete</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/feickert_kiley"><b>Feickert</b> Kiley</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../curt_alva_feic_muel.2024.MMFfLCC/">Multi-Material Fabrication for Low-Carbon Construction:<br/>An Optimised Floor System for Affordable Housing in Mexico</a></li>

@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/ghamdi_g_sami"><b>al Ghamdi</b> Sami</a> <a href="https://orcid.org/0000-0002-7416-5153" title="ORCID: 0000-0002-7416-5153" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 459-467
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

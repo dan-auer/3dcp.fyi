@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> <a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 379-384
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

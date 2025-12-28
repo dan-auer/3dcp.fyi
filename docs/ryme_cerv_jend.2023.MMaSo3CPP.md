@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -64,7 +65,6 @@ tags:
       <li><a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jend_ryme_cerv.2024.OD3PoCS/">Optimizing Digital 3D Printing of Concrete Structures</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

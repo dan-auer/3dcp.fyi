@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction Research Congress 2024, pp. 137-147
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)
@@ -77,7 +78,6 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ma_zhan_jia_liu.2022.EoDEoMPIRaPSo3PC/">Effect of Drying Environment on Mechanical Properties, Internal RH and Pore-Structure of 3D Printed Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>

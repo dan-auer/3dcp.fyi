@@ -12,8 +12,6 @@ tags:
  - mechanics
  - performance
  - print
- - nano
- - nano
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 111-116
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)
@@ -68,7 +67,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/bohuchval_marie"><b>Bohuchval</b> Marie</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../bohu_sone_amzi_perr.2021.EoMaNFoTDPM/">Effect of Metakaolin and Natural Fibers on Three-Dimensional Printing Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
       <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/dedenis_marie"><b>Dedenis</b> Marie</a>, <a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b> Ahmed</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sone_dede_abda_perr.2021.EoRMNCaNFoFaRPoTDCP/">Effect of Red Mud, Nano-Clay, and Natural Fiber on Fresh and Rheological Properties of Three-Dimensional Concrete Printing</a></li>

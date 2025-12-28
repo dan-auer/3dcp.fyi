@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -61,8 +62,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The aim of this study is to verify the industrial feasibility of integrating textile reinforcement into the 3D concrete printing process and to determine the flexural strength of 3Dprinted concrete reinforced with alkali-resistant glass textiles. Due to the non-corrosiveness of the textile reinforcement, thin-walled concrete elements are feasible, reducing material consumption by up to 80 percent compared to steel reinforced concrete. The proposed method of the authors aims to combine 3D concrete printing with a single-sided, movable formwork in order to reduce the time-, personnel-, cost- and material-intensive formwork effort. As a first step towards that goal, in this study, a single-sided stable formwork following the printing path is designed and tested for its applicability on an industrial scale.
-The prototypical implementation of the printing method through a textile reinforcement is tested. For this purpose, test panels reinforced with textiles vertically and horizontally are printed with concrete. The flexural tensile strength of the printed, reinforced elements is investigated in a four-point bending test. Based on the results of the investigations, the requirements for a movable formwork are defined for the industrial application of this study. The movable formwork will replace the formwork frames in the future, so that the 3D concrete printing process can be optimized in a material-saving way and in terms of circular economy.
+    The aim of this study is to verify the industrial feasibility of integrating textile reinforcement into the 3D concrete printing process and to determine the flexural strength of 3Dprinted concrete reinforced with alkali-resistant glass textiles. Due to the non-corrosiveness of the textile reinforcement, thin-walled concrete elements are feasible, reducing material consumption by up to 80 percent compared to steel reinforced concrete. The proposed method of the authors aims to combine 3D concrete printing with a single-sided, movable formwork in order to reduce the time-, personnel-, cost- and material-intensive formwork effort. As a first step towards that goal, in this study, a single-sided stable formwork following the printing path is designed and tested for its applicability on an industrial scale. The prototypical implementation of the printing method through a textile reinforcement is tested. For this purpose, test panels reinforced with textiles vertically and horizontally are printed with concrete. The flexural tensile strength of the printed, reinforced elements is investigated in a four-point bending test. Based on the results of the investigations, the requirements for a movable formwork are defined for the industrial application of this study. The movable formwork will replace the formwork frames in the future, so that the 3D concrete printing process can be optimized in a material-saving way and in terms of circular economy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

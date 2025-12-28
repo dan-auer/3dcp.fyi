@@ -14,7 +14,6 @@ tags:
  - graphite
  - mechanics
  - property
- - in
 
 ---
 

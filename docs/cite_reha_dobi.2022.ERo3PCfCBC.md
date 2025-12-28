@@ -11,7 +11,6 @@ tags:
  - construction
  - experiment
  - print
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/dobias_daniel"><b>Dobias</b> Daniel</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 22nd SGEM International Multidisciplinary Scientific GeoConference 2022, pp. 233-240
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

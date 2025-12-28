@@ -16,8 +16,6 @@ tags:
  - propagation
  - reinforcement
  - scale
- - in
- - multi
 
 ---
 

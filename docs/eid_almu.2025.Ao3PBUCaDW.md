@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/almurbati_nehal"><b>Almurbati</b> Nehal</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Leveraging Advanced Technologies, pp. 159-168
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

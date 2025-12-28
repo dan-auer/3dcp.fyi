@@ -17,7 +17,6 @@ tags:
  - recycling
  - reinforcement
  - shear
- - inter
 
 ---
 
@@ -92,9 +91,7 @@ tags:
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
-      <li>None</li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a></li>

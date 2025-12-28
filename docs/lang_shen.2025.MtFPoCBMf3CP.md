@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/shen_chuanyue"><b>Shen</b> Chuanyue</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/jungwirth_jorg"><b>Jungwirth</b> Jörg</a> <a href="https://orcid.org/0000-0002-5858-7508" title="ORCID: 0000-0002-5858-7508" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2023, pp. 201-210
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

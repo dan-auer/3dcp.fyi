@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

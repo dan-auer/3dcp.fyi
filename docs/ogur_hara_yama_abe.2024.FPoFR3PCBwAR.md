@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/abe_hiroyuki"><b>Abe</b> Hiroyuki</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 475-483
 
 :aca-blank:{ .lg .middle}
     [`#axis`](keyword/axis)

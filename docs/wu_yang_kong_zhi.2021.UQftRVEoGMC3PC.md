@@ -12,7 +12,6 @@ tags:
  - print
  - quantification
  - volume
- - mono
 
 ---
 

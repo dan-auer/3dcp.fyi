@@ -9,7 +9,6 @@ tags:
  - fiber
  - print
  - use
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/brouwers_jozef-hubertus_henricus"><b>Brouwers</b> Henricus</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Bio-Based Building Materials, pp. 758-765
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

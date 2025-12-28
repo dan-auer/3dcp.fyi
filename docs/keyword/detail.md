@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#detail
+# #detail
 
 <ol reversed>
   <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../anto_dill.2024.TaS3CPA/">Towards a Sustainable 3D‐Concrete‐Printed Architecture:<br/>Assemblies, Detailing and Ornamentation</a></li>

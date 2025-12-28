@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#lever
+# #lever
 
 <ol reversed>
   <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../yu_xu_zhan_ye.2025.LIBAfMEASi3PECC/">Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites</a></li>

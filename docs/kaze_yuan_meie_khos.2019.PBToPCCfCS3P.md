@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing Technology, pp. 13-35
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

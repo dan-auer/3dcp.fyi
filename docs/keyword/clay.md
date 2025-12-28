@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#clay
+# #clay
 
 <ol reversed>
   <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/ribeiro_elis"><b>Ribeiro</b> Elis</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teix_jesu_ribe_rang.2026.LFAMwCaCA/">Large Format Additive Manufacturing with Cement and Clay Applications</a></li>

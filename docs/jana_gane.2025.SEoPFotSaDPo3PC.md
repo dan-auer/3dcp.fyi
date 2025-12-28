@@ -13,7 +13,6 @@ tags:
  - property
  - strength
  - synergy
- - on
 
 ---
 
@@ -72,10 +71,8 @@ tags:
       <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/li_lei"><b>Li</b> Lei</a>, <a href="../../../author/yao_qinye"><b>Yao</b> Qinye</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../duan_li_yao_zou.2022.EoMotFaHPo3PCC/">Effect of Metakaolin on the Fresh and Hardened Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/meng_xinmiao"><b>Meng</b> Xinmiao</a>, <a href="../../../author/chen_jian-fei"><b>Chen</b> Jian-Fei</a>, <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../feng_meng_chen_ye.2015.MPoS3PwCP/">Mechanical Properties of Structures 3D Printed with Cementitious Powders</a></li>
       <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../giri_prem_kuma.2023.DoCMf3PUSTaT/">Development of Concrete Mixes for 3D Printing Using Simple Tools and Techniques</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b> Sergey</a>, <a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b> Alexander</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a>, <a href="../../../author/ageeva_marina"><b>Ageeva</b> Marina</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../klyu_klyu_fedi_agee.2022.FaMPoLCMf3P/">Fresh and Mechanical Properties of Low-Cement Mortars for 3D Printing</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.HPoHPPC/">Hardened Properties of High-Performance Printing Concrete</a></li>

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a> <a href="https://orcid.org/0000-0001-6114-2369" title="ORCID: 0000-0001-6114-2369" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 18th Conference on Computer Aided Architectural Design Research in Asia, pp. 613-622
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)

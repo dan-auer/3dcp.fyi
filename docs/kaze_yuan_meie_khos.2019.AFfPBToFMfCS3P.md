@@ -14,7 +14,6 @@ tags:
  - print
  - scale
  - test
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 39-52
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

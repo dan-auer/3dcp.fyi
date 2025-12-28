@@ -8,7 +8,6 @@ tags:
  - design
  - dry
  - joint
- - in
 
 ---
 

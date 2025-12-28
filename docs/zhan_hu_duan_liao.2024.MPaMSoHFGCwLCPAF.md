@@ -15,8 +15,6 @@ tags:
  - micro
  - property
  - structure
- - micro
- - micro
 
 ---
 
@@ -78,7 +76,6 @@ tags:
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../pham_pand_tran.2022.FaHPo3PPFRHPCC/">Fresh and Hardened Properties of 3D Printable Polymer-Fiber-Reinforced High-Performance Cementitious Composite</a></li>

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/orr_j_john"><b>Orr</b> John</a> <a href="https://orcid.org/0000-0003-2687-6353" title="ORCID: 0000-0003-2687-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 267-273
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

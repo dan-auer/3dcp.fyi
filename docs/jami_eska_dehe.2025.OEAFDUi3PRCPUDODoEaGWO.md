@@ -14,7 +14,6 @@ tags:
  - print
  - reinforcement
  - util
- - in
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC/">Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
       <li><a href="../../../author/tong_jiaqi"><b>Tong</b> Jiaqi</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>, <a href="../../../author/lv_xiuwen"><b>Lv</b> Xiuwen</a>, <a href="../../../author/ning_wei"><b>Ning</b> Wei</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../tong_ding_lv_ning.2023.EoCRCAotMPo3PRC/">Effect of Carbonated Recycled Coarse Aggregates on the Mechanical Properties of 3D Printed Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/gokce_suleyman_h"><b>Gökçe</b> H.</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zhou_mcge_zhu_gokc.2022.TDFPCo3PECC/">Time-Dependent Fresh Properties Characterization of 3D Printing Engineered Cementitious Composites:<br/>On the Evaluation of Buildability</a></li>
     </ol>

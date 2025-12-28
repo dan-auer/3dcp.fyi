@@ -11,8 +11,6 @@ tags:
  - print
  - size
  - test
- - in
- - on
 
 ---
 

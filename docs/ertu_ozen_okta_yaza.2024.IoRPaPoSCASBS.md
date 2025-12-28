@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/akturk_busra"><b>Aktürk</b> Büşra</a> <a href="https://orcid.org/0000-0003-1484-7758" title="ORCID: 0000-0003-1484-7758" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

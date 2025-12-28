@@ -11,7 +11,6 @@ tags:
  - optimization
  - platform
  - print
- - a
 
 ---
 

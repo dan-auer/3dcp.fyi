@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#stress
+# #stress
 
 <ol reversed>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>

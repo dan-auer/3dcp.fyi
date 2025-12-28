@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a> <a href="https://orcid.org/0000-0002-5993-5703" title="ORCID: 0000-0002-5993-5703" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 IABSE Symposium, pp. 2770-2778
 
 :aca-blank:{ .lg .middle}
     [`#column`](keyword/column)

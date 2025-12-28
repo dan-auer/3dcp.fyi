@@ -14,8 +14,6 @@ tags:
  - experiment
  - robot
  - standard
- - a
- - non
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a> <a href="https://orcid.org/0000-0001-7494-8492" title="ORCID: 0000-0001-7494-8492" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - IEEE International Conference on Robotics and Automation, pp. 1707-1713
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -76,9 +75,6 @@ tags:
     <ol>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/martins_filipe_pedro"><b>Martins</b> Pedro</a>, <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="../../../date/2014/09">(2014-09)</a><br><a href="../../../mart_sous.2014.DFTiCA/">Digital Fabrication Technology in Concrete Architecture</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>
@@ -86,7 +82,7 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../mech_mai_empe_gehl.2021.DCCbMoAP/">Digital Concrete Construction by Means of Additive Processes:<br/>State of the Art and Research Needs</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
       <li><a href="../../../author/pfandler_patrick"><b>Pfändler</b> Patrick</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../pfan_wang_mata_flat.2019.PoSFfMME/">Potentials of Steel-Fibers for Mesh Mould Elements</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>

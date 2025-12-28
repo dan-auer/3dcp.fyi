@@ -13,8 +13,6 @@ tags:
  - prediction
  - print
  - shape
- - a
- - in
 
 ---
 

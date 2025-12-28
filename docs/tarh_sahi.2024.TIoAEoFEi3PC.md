@@ -13,8 +13,6 @@ tags:
  - orientation
  - print
  - process
- - in
- - on
 
 ---
 

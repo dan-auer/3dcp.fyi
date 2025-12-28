@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2025 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -62,7 +63,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/crupi_giuseppe"><b>Crupi</b> Giuseppe</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../fall_crup_dome_ricc.2020.IotRBoLFCf3PA/">Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../mark_ivan_fata_rei.2020.IoSBUo3PFC/">Investigation on Structural Build-Up of 3D Printable Foam-Concrete</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>

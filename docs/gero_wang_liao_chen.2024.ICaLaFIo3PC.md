@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> <a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 98-103
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

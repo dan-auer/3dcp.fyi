@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIII Conference of the Ibero-American Society of Digital Graphics, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -72,14 +73,10 @@ tags:
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../duar_brow_duar.2024.WfGSaOFaTPi3CPoV/">Workflow for Generating, Simulating, and Optimizing Form and Tool-Path in 3D Concrete Printing of Vaults</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_chenkang"><b>Liu</b> Chenkang</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhou_cong"><b>Zhou</b> Cong</a>, <a href="../../../author/sun_honglei"><b>Sun</b> Honglei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../liu_yue_zhou_sun.2021.AMPoEB3PLC/">Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b> Lukáš</a>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b> Henri</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../vele_kuri_acht.2023.IBoOo3POTNPSIbFFA/">Improving Buildability of Overhangs of 3D Printed Objects Through Non-Planar Slicing Informed by Force-Flow-Analysis</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

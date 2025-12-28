@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/soto_garcia_borja"><b>de Soto</b> Borja</a> <a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)

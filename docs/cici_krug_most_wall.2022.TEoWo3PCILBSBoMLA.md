@@ -17,8 +17,6 @@ tags:
  - print
  - strength
  - wind
- - inter
- - on
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 405-409
 
 :aca-blank:{ .lg .middle}
     [`#algorithm`](keyword/algorithm)

@@ -14,8 +14,6 @@ tags:
  - proportion
  - recycling
  - term
- - a
- - in
 
 ---
 
@@ -80,8 +78,6 @@ tags:
       <li><a href="../../../author/oosthuizen_daniel_jandre"><b>Oosthuizen</b> Jandré</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../oost_baba_wall.2023.3PRPEARC/">3D Printed Recycled Plastic Eco-Aggregate (Resin8) Concrete</a></li>
       <li><a href="../../../author/pepe_marco"><b>Pepe</b> Marco</a>, <a href="../../../author/lombardi_rosario"><b>Lombardi</b> Rosario</a>, <a href="../../../author/lima_carmine"><b>Lima</b> Carmine</a>, <a href="../../../author/paolillo_bruno"><b>Paolillo</b> Bruno</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pepe_lomb_lima_paol.2025.EEotPUoFCaBRAf3PCBM/">Experimental Evidence on the Possible Use of Fine Concrete and Brick Recycled Aggregates for 3D Printed Cement-Based Mixtures</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

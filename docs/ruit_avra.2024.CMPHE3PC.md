@@ -16,7 +16,6 @@ tags:
  - innovation
  - prefabrication
  - print
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/avramiea_chris_emma"><b>Avramiea</b> Emma</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Coding Architecture, pp. 239-261
 
 :aca-blank:{ .lg .middle}
     [`#complexity`](keyword/complexity)

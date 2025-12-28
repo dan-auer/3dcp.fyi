@@ -16,7 +16,6 @@ tags:
  - print
  - printability
  - temperature
- - in
 
 ---
 
@@ -75,7 +74,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/fratello_virginia"><b>Fratello</b> Virginia</a>, <a href="../../../author/rael_ronald"><b>Rael</b> Ronald</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../frat_rael.2020.IMfLSAM/">Innovating Materials for Large-Scale Additive Manufacturing:<br/>Salt, Soil, Cement and Chardonnay</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../goma_jabi_soeb_xie.2022.DMfEC/">Digital Manufacturing for Earth Construction:<br/>A Critical Review</a></li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>

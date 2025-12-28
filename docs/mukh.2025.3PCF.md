@@ -14,7 +14,6 @@ tags:
  - mixing
  - parameter
  - print
- - in
 
 ---
 
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../heev_best_krug_zijl.2022.NMSfR3CPE/">Numerical Modelling-Strategies for Reinforced 3D Concrete Printed Elements</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ibra_zijl_baba.2024.MoLoFi3PLCCCCIbEMO/">Mitigation of Lack-of-Fusion in 3D Printed Limestone-Calcined-Clay-Cement Concrete Induced by Effective Micro-Organisms</a></li>
       <li><a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b> Mohammad</a>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../khos_hagh.2022.LSAAC/">Large-Scale Automated Additive Construction:<br/>Overview, Robotic Solutions, Sustainability, and Future Prospect</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_li_guo_wang.2025.SB3PTSC/">Spray-Based 3D Printed Tunnel Slag Concrete:<br/>Evaluation for Printability and Mechanical Performance</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/mader_thomas"><b>Mader</b> Thomas</a>, <a href="../../../author/schreter-fleischhacker_magdalena"><b>Schreter-Fleischhacker</b> Magdalena</a>, <a href="../../../author/shkundalova_olena"><b>Shkundalova</b> Olena</a>, <a href="../../../author/neuner_matthias"><b>Neuner</b> Matthias</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../made_schr_shku_neun.2023.CMoONLMBoH3PC/">Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete</a></li>

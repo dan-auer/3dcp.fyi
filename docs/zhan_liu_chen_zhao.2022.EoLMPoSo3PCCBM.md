@@ -15,7 +15,6 @@ tags:
  - print
  - process
  - strength
- - on
 
 ---
 
@@ -80,7 +79,6 @@ tags:
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_hongping"><b>Zhang</b> Hongping</a>, <a href="../../../author/wang_jianhong"><b>Wang</b> Jianhong</a>, <a href="../../../author/liu_yaling"><b>Liu</b> Yaling</a>, <a href="../../../author/zhang_xiaoshuang"><b>Zhang</b> Xiaoshuang</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../zhan_wang_liu_zhan.2022.EoPPotPQo3PCCBM/">Effect of Processing Parameters on the Printing Quality of 3D Printed Composite Cement-Based Materials</a></li>
     </ol>
 ???+ quote "Citations"

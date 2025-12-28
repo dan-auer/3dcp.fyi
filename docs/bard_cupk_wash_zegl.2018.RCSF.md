@@ -19,7 +19,6 @@ tags:
  - surface
  - temperature
  - tuning
- - a
 
 ---
 

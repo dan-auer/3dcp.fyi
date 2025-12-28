@@ -16,8 +16,6 @@ tags:
  - property
  - shotcrete
  - system
- - a
- - two
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 217-224
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)
@@ -66,9 +65,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Due to the absence of formwork, additive manufacturing with cement-based materials requires a sufficient structural build-up of the materials used to allow vertical construction progress without failure of the printed structure. Especially in applications with rapid layer-by-layer build rates, such as Shotcrete 3D Printing, material systems with controllable rheological properties offer significant advantages. Active and precise rheology control enhances efficiency and flexibility in the manufacturing process and minimises the susceptibility of the system to failure.
-This paper focuses on the design and investigation of a controllable two-component fine-grained concrete system. The key aspect of the system is the blending of two retarded mortars, inducing an accelerated synergistic reaction between them just before leaving the nozzle. This enables precise process control and targeted regulation of the material properties immediately before and during application. To reduce the carbon footprint compared to established 3D mix designs, which typically contain high levels of ordinary Portland cement, we use CO2-reduced binders (limestone calcined clay cement, calcium sulfoaluminate cement) in our approach.
-The developed two-component material system is investigated in terms of the hydration properties as well as the structural build-up, comparing it with an established Shotcrete 3D Printing system. The systems are analysed using isothermal calorimetry and penetrometer tests. Additionally, the influence of different mixing ratios (25:75, 50:50, 75:25) of the individual mortar systems on the performance of the combined system is investigated. The studies show that the two individual systems are characterised in particular by long workability for several hours and delayed hydration reaction due to the retarders. In contrast, the combined two-component system shows an accelerated reaction and a fast increase in green and early strength. The two-component system analysed was finally tested in an application using a lab-scale SC3DP unit.
+    Due to the absence of formwork, additive manufacturing with cement-based materials requires a sufficient structural build-up of the materials used to allow vertical construction progress without failure of the printed structure. Especially in applications with rapid layer-by-layer build rates, such as Shotcrete 3D Printing, material systems with controllable rheological properties offer significant advantages. Active and precise rheology control enhances efficiency and flexibility in the manufacturing process and minimises the susceptibility of the system to failure. This paper focuses on the design and investigation of a controllable two-component fine-grained concrete system. The key aspect of the system is the blending of two retarded mortars, inducing an accelerated synergistic reaction between them just before leaving the nozzle. This enables precise process control and targeted regulation of the material properties immediately before and during application. To reduce the carbon footprint compared to established 3D mix designs, which typically contain high levels of ordinary Portland cement, we use CO2-reduced binders (limestone calcined clay cement, calcium sulfoaluminate cement) in our approach. The developed two-component material system is investigated in terms of the hydration properties as well as the structural build-up, comparing it with an established Shotcrete 3D Printing system. The systems are analysed using isothermal calorimetry and penetrometer tests. Additionally, the influence of different mixing ratios (25:75, 50:50, 75:25) of the individual mortar systems on the performance of the combined system is investigated. The studies show that the two individual systems are characterised in particular by long workability for several hours and delayed hydration reaction due to the retarders. In contrast, the combined two-component system shows an accelerated reaction and a fast increase in green and early strength. The two-component system analysed was finally tested in an application using a lab-scale SC3DP unit.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

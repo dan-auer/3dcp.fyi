@@ -16,7 +16,6 @@ tags:
  - shell
  - short
  - structure
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/kawamura_keisuke"><b>Kawamura</b> Keisuke</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 181-187
 
 :aca-blank:{ .lg .middle}
     [`#column`](keyword/column)

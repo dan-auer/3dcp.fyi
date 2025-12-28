@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#anchor
+# #anchor
 
 <ol reversed>
   <li><a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/lagaros_d_nikos"><b>Lagaros</b> Nikos</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alne_rous_abda_laga.2025.EtSPo3PFBwAR/">Evaluating the Structural Performance of 3D Printed FRCC Beams with Anchoring Reinforcement:<br/>Material, Geometry, and Loading Perspectives</a></li>

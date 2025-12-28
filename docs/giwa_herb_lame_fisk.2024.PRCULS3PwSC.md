@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction Research Congress 2024, pp. 586-596
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

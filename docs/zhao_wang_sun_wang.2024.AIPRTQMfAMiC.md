@@ -14,7 +14,6 @@ tags:
  - quality
  - real
  - time
- - in
 
 ---
 
@@ -84,7 +83,6 @@ tags:
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../ma_wang.2018.ACRoPDaWMoCMfLS3P/">A Critical Review of Preparation Design and Workability Measurement of Concrete Material for Large-Scale 3D Printing</a></li>

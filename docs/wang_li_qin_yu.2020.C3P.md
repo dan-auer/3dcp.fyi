@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 998-1010
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

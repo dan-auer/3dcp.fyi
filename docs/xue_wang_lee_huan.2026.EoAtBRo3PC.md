@@ -14,11 +14,10 @@ tags:
  - printability
  - ratio
  - shrinkage
- - on
 
 ---
 
-#:aca-closedaccess:{ .xred '} Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage ([2025-12](date/2025/12))
+#:aca-closedaccess:{ .xred '} Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>:aca-blank: Printability, Mechanics, and Shrinkage ([2025-12](date/2025/12))
 <a href="https://doi.org/10.1617/s11527-025-02866-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1617/s11527-025-02866-9</a>
 
 -------------------------
@@ -47,7 +46,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Aggregate-to-Binder%20Ratio%20on%203D%20Printed%20Concrete%3A%20Printability%2C%20Mechanics%2C%20and%20Shrinkage" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Aggregate-to-Binder%20Ratio%20on%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02866-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -114,10 +113,9 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xue_wang_lee_huan.2025.DoS3PCM/">Development of Sustainable 3D Printing Concrete Materials:<br/>Impact of Natural Minerals and Wastes at High Replacement Ratios</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

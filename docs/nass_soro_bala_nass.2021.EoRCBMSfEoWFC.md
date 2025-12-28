@@ -70,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2015/08">(2015-08)</a><br><a href="../../../zhou_li.2015.MCBMaBPvE/">Manufacturing Cement-Based Materials and Building Products via Extrusion:<br/>From Laboratory to Factory</a></li>
     </ol>
 ???+ quote "Citations"

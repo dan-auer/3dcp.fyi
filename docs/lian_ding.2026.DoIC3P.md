@@ -13,7 +13,6 @@ tags:
  - fluid
  - inclination
  - print
- - a
 
 ---
 
@@ -104,7 +103,6 @@ tags:
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

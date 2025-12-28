@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> <a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of Italian Concrete Conference 2020/21, pp. 441-450
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

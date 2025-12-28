@@ -15,8 +15,6 @@ tags:
  - slag
  - strength
  - sulfoaluminate
- - a
- - on
 
 ---
 

@@ -14,7 +14,6 @@ tags:
  - rheology
  - slip
  - wall
- - in
 
 ---
 
@@ -77,9 +76,7 @@ tags:
       <li><a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/martys_s_nicos"><b>Martys</b> Nicos</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../feys_schu_fata_mart.2022.PoC/">Pumping of Concrete:<br/>Understanding a Common Placement Method with Lots of Challenges</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jaya_raje_sanj.2021.ERf3CP/">Extrusion Rheometer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../jaya_raje_sanj.2022.RfC3P/">Rheometry for Concrete 3D Printing:<br/>A Review and an Experimental Comparison</a></li>
-      <li>None</li>
       <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../moel_krug_comb.2021.MtILBSo3PCwSM/">Modelling the Inter-Layer Bond Strength of 3D Printed Concrete with Surface Moisture</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_neit.2021.FCoTDPCPDEUCR/">Flow Characterization of Three-Dimensional Printable Cementitious Pastes During Extrusion Using Capillary-Rheometry</a></li>

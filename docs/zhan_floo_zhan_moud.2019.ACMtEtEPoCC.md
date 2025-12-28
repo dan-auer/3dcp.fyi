@@ -12,7 +12,6 @@ tags:
  - evaluation
  - model
  - performance
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/hatami_mohsen"><b>Hatami</b> Mohsen</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Computing in Civil Engineering 2019, pp. 618-625
 
 :aca-blank:{ .lg .middle}
     [`#contour`](keyword/contour)

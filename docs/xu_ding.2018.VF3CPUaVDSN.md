@@ -13,7 +13,6 @@ tags:
  - square
  - variation
  - volume
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a> <a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of Creative Construction Conference 2018, pp. 104-113
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

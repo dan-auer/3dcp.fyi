@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#coral
+# #coral
 
 <ol reversed>
   <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../pham_huan.2024.3PACR/">3D Printed Artificial Coral Reefs:<br/>Design and Manufacture</a></li>

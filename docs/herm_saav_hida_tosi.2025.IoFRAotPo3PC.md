@@ -12,7 +12,6 @@ tags:
  - print
  - property
  - recycling
- - on
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/fuente_albert"><b>de la Fuente</b> Albert</a> <a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

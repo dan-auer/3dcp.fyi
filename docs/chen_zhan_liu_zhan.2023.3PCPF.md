@@ -15,8 +15,6 @@ tags:
  - post
  - print
  - proportion
- - on
- - post
 
 ---
 

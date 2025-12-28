@@ -16,7 +16,6 @@ tags:
  - structure
  - uniform
  - wall
- - under
 
 ---
 

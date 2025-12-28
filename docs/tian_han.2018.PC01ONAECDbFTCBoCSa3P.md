@@ -17,8 +17,6 @@ tags:
  - print
  - scan
  - thaw
- - non
- - on
 
 ---
 
@@ -86,7 +84,7 @@ tags:
       <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sahi_mard.2023.HDRBAtILBSo3M/">How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures?</a></li>
       <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/jiang_minghui"><b>Jiang</b> Minghui</a>, <a href="../../../author/hang_meiyan"><b>Hang</b> Meiyan</a>, <a href="../../../author/zhou_gangming"><b>Zhou</b> Gangming</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_jian_hang_zhou.2023.RotMPaFRoAS3PM/">Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar</a></li>
       <li><a href="../../../author/miao_haibin"><b>Miao</b> Haibin</a>, <a href="../../../author/guo_chao"><b>Guo</b> Chao</a>, <a href="../../../author/lu_zhengran"><b>Lu</b> Zhengran</a>, <a href="../../../author/chen_zhihua"><b>Chen</b> Zhihua</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../miao_guo_lu_chen.2022.3MSAoCCDDDDFTC/">3D Meso-Scale-Analysis of Concrete Containing Defect Damages During Different Freeze-Thaw-Cycles</a></li>
-      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGbSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap between Successive Layers</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGBSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/hondt_melody"><b>Hondt</b> Mélody</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../putt_nere_mech_hond.2022.PaToPCBMiHS/">Properties and Testing of Printed Cement-Based Materials in Hardened State</a></li>
       <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../krug_zijl.2021.ACRoLoFiDCF/">A Compendious Review on Lack-of-Fusion in Digital Concrete Fabrication</a></li>

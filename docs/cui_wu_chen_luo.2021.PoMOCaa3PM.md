@@ -9,7 +9,6 @@ tags:
  - magnesium
  - material
  - print
- - a
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

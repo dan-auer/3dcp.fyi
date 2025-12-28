@@ -14,8 +14,6 @@ tags:
  - printability
  - shell
  - structure
- - a
- - double
 
 ---
 

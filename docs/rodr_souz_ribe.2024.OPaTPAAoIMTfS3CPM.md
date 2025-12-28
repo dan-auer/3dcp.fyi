@@ -12,7 +12,6 @@ tags:
  - print
  - sustainability
  - tailing
- - two
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a> <a href="https://orcid.org/0000-0002-4072-6557" title="ORCID: 0000-0002-4072-6557" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)
@@ -65,7 +65,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
-      <li>None</li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>
       <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>

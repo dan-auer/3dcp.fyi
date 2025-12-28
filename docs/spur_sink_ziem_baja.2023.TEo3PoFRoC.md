@@ -10,7 +10,6 @@ tags:
  - frost
  - print
  - resistance
- - on
 
 ---
 

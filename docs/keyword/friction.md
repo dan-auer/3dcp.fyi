@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#friction
+# #friction
 
 <ol reversed>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_span_perr.2024.EVaFTT/">Exploring Viscosity and Friction Through Temperature:<br/>Understanding Self-Heating Dynamics of Non-Newtonian 3D Printable Construction Materials via CFD Modeling</a></li>

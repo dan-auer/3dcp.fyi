@@ -17,8 +17,6 @@ tags:
  - print
  - property
  - type
- - inter
- - on
 
 ---
 

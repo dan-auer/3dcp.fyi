@@ -12,9 +12,6 @@ tags:
  - material
  - multi
  - review
- - a
- - in
- - multi
 
 ---
 
@@ -85,7 +82,6 @@ tags:
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
-      <li>None</li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
 ???+ quote "Citations"

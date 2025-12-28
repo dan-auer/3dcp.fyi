@@ -12,8 +12,6 @@ tags:
  - parameter
  - print
  - shrinkage
- - in
- - on
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

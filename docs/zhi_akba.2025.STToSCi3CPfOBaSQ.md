@@ -15,7 +15,6 @@ tags:
  - surface
  - toolpath
  - twin
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2025 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)
@@ -75,7 +75,6 @@ tags:
       <li><a href="../../../author/mogra_mihir"><b>Mogra</b> Mihir</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mogr_asaf_spre_amir.2023.DOo3PCECB/">Design-Optimization of 3D Printed Concrete Elements Considering Buildability</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../perr_rang.2019.3PwC/">3D Printing with Concrete:<br/>Impact and Designs of Structures</a></li>
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ribe_mora_silv_bran.2024.R3FoCFSfIP/">Robotic 3DCP Fabrication of Custom-Fit Slabs for Irregular Pontoons</a></li>
-      <li>None</li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhi_chai_teng_akba.2025.ATDo3CPSC/">Automated Toolpath Design of 3D Concrete Printing Structural Components</a></li>
       <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhi_teng_akba.2024.D3PCSwSFM/">Designing 3D Printed Concrete Structures with Scaled Fabrication Models</a></li>

@@ -15,8 +15,6 @@ tags:
  - print
  - stack
  - strength
- - a
- - inter
 
 ---
 
@@ -74,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jansen_koen"><b>Jansen</b> Koen</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../chen_jans_zhan_rodr.2020.EoPPoILBSo3PLCCBCM/">Effect of Printing-Parameters on Inter-Layer Bond Strength of 3D Printed Limestone-Calcined-Clay-Based Cementitious Materials:<br/>An Experimental and Numerical Study</a></li>
       <li><a href="../../../author/izadgoshasb_hamed"><b>Izadgoshasb</b> Hamed</a>, <a href="../../../author/kandiri_amirreza"><b>Kandiri</b> Amirreza</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../izad_kand_shak_lagh.2021.PCSo3PMiSMUML/">Predicting Compressive Strength of 3D Printed Mortar in Structural Members Using Machine Learning</a></li>

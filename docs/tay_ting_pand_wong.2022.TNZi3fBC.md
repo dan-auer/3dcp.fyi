@@ -8,7 +8,6 @@ tags:
  - buildability
  - construction
  - zero
- - in
 
 ---
 
@@ -75,12 +74,10 @@ tags:
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
       <li><a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b> Thadshajini</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../sunt_upas_gath_pool.2021.EPo3PCW/">Energy Performance of 3D Printed Concrete Walls:<br/>A Numerical Study</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ting_quah_lim_tay.2022.ERPSo3PCURGC/">Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ting_tay_tan.2021.EMotEoRGCaAfC3P/">Experimental Measurement on the Effects of Recycled Glass-Cullets as Aggregates for Construction 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

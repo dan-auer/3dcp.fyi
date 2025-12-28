@@ -19,8 +19,6 @@ tags:
  - rubber
  - size
  - surface
- - on
- - small
 
 ---
 
@@ -88,7 +86,6 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_setu_tran.2022.3CPwCCRCR/">3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>Compressive and Microstructural Properties</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../nere_krau_mech.2020.DPTfBo3PCCEV/">Direct Printing-Test for Buildability of 3D Printable Concrete Considering Economic Viability</a></li>
       <li><a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/marini_danilo"><b>Marini</b> Danilo</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../samb_mari_siba_vale.2020.PMAoRCCSfAPC/">Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../sanj_jaya_raje.2021.VIARCf3CP/">Vibration-Induced Active Rheology-Control for 3D Concrete Printing</a></li>

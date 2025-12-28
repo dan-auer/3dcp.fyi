@@ -14,7 +14,6 @@ tags:
  - sand
  - space
  - structure
- - a
 
 ---
 

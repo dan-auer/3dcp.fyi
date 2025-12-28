@@ -15,7 +15,6 @@ tags:
  - print
  - property
  - shotcrete
- - a
 
 ---
 

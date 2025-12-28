@@ -14,7 +14,6 @@ tags:
  - print
  - printability
  - time
- - a
 
 ---
 
@@ -89,9 +88,7 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
-      <li>None</li>
       <li><a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b> Piti</a>, <a href="../../../author/panklum_kasidet"><b>Panklum</b> Kasidet</a>, <a href="../../../author/maho_buchit"><b>Maho</b> Buchit</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA/">Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application</a></li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>

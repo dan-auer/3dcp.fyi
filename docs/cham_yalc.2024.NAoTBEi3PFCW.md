@@ -14,7 +14,6 @@ tags:
  - print
  - temperature
  - wall
- - in
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../maku.2020.ASC/">Advanced Smart Concrete:<br/>A Review of Current Progress, Benefits and Challenges</a></li>
       <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/binali_alreem"><b>Binali</b> Alreem</a>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b> Abdulla</a>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../mans_bina_alja_alha.2022.TMotCHTitLACot3CPW/">Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>

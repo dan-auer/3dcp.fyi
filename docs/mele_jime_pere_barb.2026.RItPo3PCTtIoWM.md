@@ -11,7 +11,6 @@ tags:
  - print
  - production
  - waste
- - re
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/barbero-barrera_mar_maria"><b>del Barbero-Barrera</b> María</a> <a href="https://orcid.org/0000-0002-4605-3154" title="ORCID: 0000-0002-4605-3154" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 413-421
 
 :aca-blank:{ .lg .middle}
     [`#ceramic`](keyword/ceramic)
@@ -64,7 +64,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/ristoski_kristijan"><b>Ristoski</b> Kristijan</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../jauk_vasa_gosc_rist.2023.CoCBC/">Coextrusion of Clay-Based Composites:<br/>Using a Multi-Material Approach to Achieve Gradient Porosity in 3D Printed Ceramics</a></li>
-      <li>None</li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>

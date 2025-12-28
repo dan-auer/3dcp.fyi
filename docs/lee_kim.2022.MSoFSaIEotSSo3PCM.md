@@ -14,7 +14,6 @@ tags:
  - sand
  - shape
  - stability
- - on
 
 ---
 
@@ -92,7 +91,7 @@ tags:
       <li><a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/fryda_herve"><b>Fryda</b> Hervé</a>, <a href="../../../author/bousseau_jean-noel"><b>Bousseau</b> Jean-Noël</a>, <a href="../../../author/andreani_pierre-antoine"><b>Andreani</b> Pierre-Antoine</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../silv_fryd_bous_andr.2020.EoEACSBUf3CPbOR/">Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry</a></li>
       <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

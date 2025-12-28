@@ -12,7 +12,6 @@ tags:
  - optimization
  - print
  - slab
- - in
 
 ---
 

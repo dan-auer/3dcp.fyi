@@ -12,8 +12,6 @@ tags:
  - innovation
  - print
  - review
- - a
- - in
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/toyin_olaonipekun_james"><b>Toyin</b> James</a> <a href="https://orcid.org/0000-0002-4512-6876" title="ORCID: 0000-0002-4512-6876" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of 13th International Conference on Construction in the 21st Century, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#adoption`](keyword/adoption)

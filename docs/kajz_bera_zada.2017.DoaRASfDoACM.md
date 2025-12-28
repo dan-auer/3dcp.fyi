@@ -13,7 +13,6 @@ tags:
  - method
  - robot
  - suitability
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/zada_vaclav"><b>Záda</b> Václav</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 21st International Conference on System Theory, Control and Computing, pp. 217-223
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

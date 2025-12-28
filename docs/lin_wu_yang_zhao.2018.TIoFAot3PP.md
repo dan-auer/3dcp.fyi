@@ -10,7 +10,6 @@ tags:
  - influence
  - performance
  - print
- - on
 
 ---
 

@@ -17,8 +17,6 @@ tags:
  - print
  - rheology
  - steel
- - in
- - on
 
 ---
 
@@ -119,7 +117,6 @@ tags:
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

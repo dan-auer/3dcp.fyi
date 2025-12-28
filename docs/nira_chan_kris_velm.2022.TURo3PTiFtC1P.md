@@ -9,8 +9,6 @@ tags:
  - print
  - review
  - technology
- - a
- - in
 
 ---
 
@@ -65,7 +63,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../dey_srin_pand_sith.2023.PoCMf3CP/">Processing of Cementitious Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/nair_avinash"><b>Nair</b> Avinash</a>, <a href="../../../author/aditya_d_s"><b>Aditya</b> S.</a>, <a href="../../../author/adarsh_n_r"><b>Adarsh</b> R.</a>, <a href="../../../author/nandan_m"><b>Nandan</b> M.</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../nair_adit_adar_nand.2020.AMoC/">Additive Manufacturing of Concrete:<br/>Challenges and Opportunities</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>

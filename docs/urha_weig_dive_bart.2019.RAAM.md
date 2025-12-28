@@ -10,7 +10,6 @@ tags:
  - manufacturing
  - review
  - robot
- - a
 
 ---
 
@@ -63,19 +62,13 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2013/06">(2013-06)</a><br><a href="../../../keat_oxma.2013.CF/">Compound Fabrication:<br/>A Multi-Functional Robotic Platform for Digital Design and Fabrication</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

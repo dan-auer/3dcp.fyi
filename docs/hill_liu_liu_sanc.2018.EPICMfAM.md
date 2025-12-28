@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/huang_qidan"><b>Huang</b> Qidan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2018 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

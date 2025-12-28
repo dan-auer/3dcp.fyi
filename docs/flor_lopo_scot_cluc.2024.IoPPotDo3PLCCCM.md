@@ -17,7 +17,6 @@ tags:
  - overlap
  - parameter
  - print
- - on
 
 ---
 
@@ -78,7 +77,6 @@ tags:
     <ol>
       <li><a href="../../../author/adaloudis_max"><b>Adaloudis</b> Max</a>, <a href="../../../author/bonnin-roca_jaime"><b>Bonnin Roca</b> Jaime</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../adal_bonn.2021.STitAo3CPitCI/">Sustainability Tradeoffs in the Adoption of 3D Concrete Printing in the Construction Industry</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
-      <li>None</li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE/">Durability-Assessment and Micro-Structural Analysis of 3D Printed Concrete Exposed to Sulfuric-Acid Environments</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ding_xiao_mech.2023.MaMPoILRiEB3PC/">Microstructure and Mechanical Properties of Inter-Layer Regions in Extrusion-Based 3D Printed Concrete:<br/>A Critical Review</a></li>

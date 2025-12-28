@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 161-166
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -64,7 +65,6 @@ tags:
     <ol>
       <li><a href="../../../author/mengesha_meron"><b>Mengesha</b> Meron</a>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b> Albrecht</a>, <a href="../../../author/gobel_luise"><b>Göbel</b> Luise</a>, <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../meng_schm_gobe_lahm.2020.NMoaEB3CPPCaSVPDA/">Numerical Modeling of an Extrusion-Based 3D Concrete Printing-Process Considering a Spatially-Varying Pseudo-Density Approach</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../span_silv_comm_moll.2021.NSoML3CP/">Numerical Simulation of Multi-Layer 3D Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>

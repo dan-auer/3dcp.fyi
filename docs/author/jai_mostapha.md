@@ -1,12 +1,12 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
 
-# El Jai Mostapha 
+# el Jai Mostapha 
 
 <ol reversed>
   <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../oulk_akhr_jai_riha.2025.CaABM3P/">Clay and Alginate-Based Mixtures 3D Printing:<br/>A Numerical Procedure for Shape Stability and Buildability Assessment</a></li>

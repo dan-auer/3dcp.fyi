@@ -16,8 +16,6 @@ tags:
  - paste
  - process
  - structure
- - on
- - up
 
 ---
 
@@ -84,7 +82,6 @@ tags:
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a></li>
       <li><a href="../../../author/ghourchian_sadegh"><b>Ghourchian</b> Sadegh</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/kruger_markus"><b>Krüger</b> Markus</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../ghou_butl_krug_mech.2021.MtDoCPiF3PCE/">Modelling the Development of Capillary Pressure in Freshly 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../ivan_mech.2020.PaCoCSRTfEoSBURoCM/">Possibilities and Challenges of Constant Shear-Rate-Test for Evaluation of Structural Build-Up-Rate of Cementitious Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/labonnote_nathalie"><b>Labonnote</b> Nathalie</a>, <a href="../../../author/ronnquist_anders"><b>Rønnquist</b> Anders</a>, <a href="../../../author/manum_bendik"><b>Manum</b> Bendik</a>, <a href="../../../author/ruther_petra"><b>Rüther</b> Petra</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../labo_rnn_manu_ruth.2016.AC/">Additive Construction:<br/>State of the Art, Challenges and Opportunities</a></li>
       <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>

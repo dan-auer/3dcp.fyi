@@ -15,7 +15,6 @@ tags:
  - rheology
  - solid
  - waste
- - on
 
 ---
 
@@ -105,7 +104,7 @@ tags:
       <li><a href="../../../author/wu_mushuang"><b>Wu</b> Mushuang</a>, <a href="../../../author/wang_zixiao"><b>Wang</b> Zixiao</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhu_mengyu"><b>Zhu</b> Mengyu</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wu_wang_chen_zhu.2024.EoSSoRaMPoSCBS3PC/">Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete</a></li>
       <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../xu_chen_zhao_li.2021.PaECoAM3PWPCBMBotRSM/">Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology</a></li>
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
     </ol>
 ???+ quote "Citations"

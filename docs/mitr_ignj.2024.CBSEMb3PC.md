@@ -21,6 +21,7 @@ tags:
 ,     <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a> <a href="https://orcid.org/0000-0002-2679-0982" title="ORCID: 0000-0002-2679-0982" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 15th fib International PhD Symposium in Civil Engineering, pp. 1243-1250
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

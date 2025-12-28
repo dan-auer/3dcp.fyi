@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 28th Conference on Computer Aided Architectural Design Research in Asia, pp. 139-148
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

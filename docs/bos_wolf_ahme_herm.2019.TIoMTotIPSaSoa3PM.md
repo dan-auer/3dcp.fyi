@@ -12,9 +12,6 @@ tags:
  - stability
  - strength
  - temperature
- - a
- - in
- - on
 
 ---
 
@@ -31,6 +28,7 @@ tags:
 ,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Structural Engineering, Mechanics and Computation, pp. 425-430
 
 :aca-blank:{ .lg .middle}
     [`#influence`](keyword/influence)

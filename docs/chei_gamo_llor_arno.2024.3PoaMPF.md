@@ -15,8 +15,6 @@ tags:
  - resistance
  - water
  - wind
- - a
- - multi
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings, pp. 445-455
 
 :aca-blank:{ .lg .middle}
     [`#air`](keyword/air)

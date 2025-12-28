@@ -19,6 +19,7 @@ tags:
       <a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="https://orcid.org/0000-0002-7197-4115" title="ORCID: 0000-0002-7197-4115" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Dictionary of Concrete Technology, pp. 1-3
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -51,7 +52,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/tang_shengwen"><b>Tang</b> Shengwen</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../che_tang_yang_li.2021.IoAVotPo3PCM/">Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials</a></li>
@@ -61,7 +61,6 @@ tags:
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b> Vladislav</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../rein_gudz_mesc.2023.CMoFOD3CP/">Computational Modeling of Fiber Orientation During 3D Concrete Printing</a></li>
       <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>
-      <li>None</li>
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
       <li><a href="../../../author/ungureanu_dragos"><b>Ungureanu</b> Dragoș</a>, <a href="../../../author/onutu_catalin"><b>Onuțu</b> Cătălin</a>, <a href="../../../author/isopescu_nicolina_dorina"><b>Isopescu</b> Dorina</a>, <a href="../../../author/taranu_nicolae"><b>Țăranu</b> Nicolae</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ungu_onut_isop_tara.2023.ANAf3PFRM/">A Novel Approach for 3D Printing Fiber-Reinforced Mortars</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

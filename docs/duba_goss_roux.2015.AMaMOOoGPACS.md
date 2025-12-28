@@ -14,7 +14,6 @@ tags:
  - objective
  - optimization
  - structure
- - multi
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium 2015, pp. 225-235
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

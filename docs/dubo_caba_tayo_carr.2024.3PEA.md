@@ -11,7 +11,6 @@ tags:
  - earth
  - habitat
  - print
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/huygues_vincent"><b>Huygues</b> Vincent</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2024, pp. 180-187
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

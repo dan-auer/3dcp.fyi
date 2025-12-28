@@ -12,7 +12,6 @@ tags:
  - print
  - seismic
  - structure
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/prasad_bhavana"><b>Prasad</b> Bhavana</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Civil Engineering for Multi-Hazard Risk Reduction, pp. 405-414
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

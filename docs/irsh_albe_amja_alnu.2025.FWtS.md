@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

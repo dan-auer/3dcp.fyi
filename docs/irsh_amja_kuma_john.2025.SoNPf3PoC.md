@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering, pp. 154-162
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

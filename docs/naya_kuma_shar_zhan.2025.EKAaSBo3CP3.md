@@ -14,7 +14,6 @@ tags:
  - review
  - selective
  - sustainability
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Additive Manufacturing, pp. 407-418
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)
@@ -74,7 +74,6 @@ tags:
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
-      <li>None</li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>

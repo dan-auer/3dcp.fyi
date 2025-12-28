@@ -19,7 +19,6 @@ tags:
  - quantity
  - technique
  - ultrasonic
- - in
 
 ---
 
@@ -34,6 +33,7 @@ tags:
 ,     <a href="../../../author/khatib_omar"><b>el Khatib</b> Omar</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 255-262
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

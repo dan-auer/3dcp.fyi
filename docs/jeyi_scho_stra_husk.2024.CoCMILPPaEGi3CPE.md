@@ -16,7 +16,6 @@ tags:
  - parameter
  - print
  - process
- - in
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="https://orcid.org/0000-0002-1463-0308" title="ORCID: 0000-0002-1463-0308" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 127-133
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -67,8 +67,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Additive manufacturing of concrete structures is a novel and emerging technology. Free contouring in civil engineering, which allows for entirely new designs, is a significant advantage. Although several techniques and approaches demonstrate these advantages, quality control during printing is highly challenging and rarely applied. Due to the continuous mixing process used in 3D concrete printing, it is impossible to exclude variations in the dry mixture or water content, and a single test sample is insufficient to represent the whole structure. A defect in one layer during printing can affect the integrity of the entire structure. Therefore, continuous and real-time process monitoring is required to record and document the printing process.
-At the Bundesanstalt für Materialforschung und -prüfung (BAM), a test rig for 3D concrete printing was developed to monitor the properties during the printing process. This study investigates the relationship between geometric accuracy and process parameters (pressure, pump torque, print speed, layer height, water content) in extrusion-based 3D concrete printing. Using a high-precision laser scanner, the geometric measurements of printed concrete elements are evaluated in real-time. The concrete elements are printed under controlled conditions with varied process parameters. Preliminary findings indicate a significant correlation between process variables and geometric accuracy.
+    Additive manufacturing of concrete structures is a novel and emerging technology. Free contouring in civil engineering, which allows for entirely new designs, is a significant advantage. Although several techniques and approaches demonstrate these advantages, quality control during printing is highly challenging and rarely applied. Due to the continuous mixing process used in 3D concrete printing, it is impossible to exclude variations in the dry mixture or water content, and a single test sample is insufficient to represent the whole structure. A defect in one layer during printing can affect the integrity of the entire structure. Therefore, continuous and real-time process monitoring is required to record and document the printing process. At the Bundesanstalt für Materialforschung und -prüfung (BAM), a test rig for 3D concrete printing was developed to monitor the properties during the printing process. This study investigates the relationship between geometric accuracy and process parameters (pressure, pump torque, print speed, layer height, water content) in extrusion-based 3D concrete printing. Using a high-precision laser scanner, the geometric measurements of printed concrete elements are evaluated in real-time. The concrete elements are printed under controlled conditions with varied process parameters. Preliminary findings indicate a significant correlation between process variables and geometric accuracy.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

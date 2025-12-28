@@ -17,7 +17,6 @@ tags:
  - property
  - relation
  - state
- - on
 
 ---
 

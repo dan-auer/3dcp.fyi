@@ -16,8 +16,6 @@ tags:
  - manufacturing
  - print
  - reinforcement
- - a
- - in
 
 ---
 

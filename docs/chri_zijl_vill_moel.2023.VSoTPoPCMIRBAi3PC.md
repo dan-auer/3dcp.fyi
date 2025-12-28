@@ -17,7 +17,6 @@ tags:
  - simulation
  - temperature
  - validation
- - in
 
 ---
 

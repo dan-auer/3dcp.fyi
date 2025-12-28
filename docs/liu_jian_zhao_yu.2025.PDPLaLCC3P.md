@@ -66,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>

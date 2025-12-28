@@ -12,7 +12,6 @@ tags:
  - modification
  - rheology
  - robust
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#binder`](keyword/binder)

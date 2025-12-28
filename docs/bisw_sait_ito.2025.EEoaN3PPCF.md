@@ -11,7 +11,6 @@ tags:
  - formwork
  - permanent
  - print
- - a
 
 ---
 
@@ -63,7 +62,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/dai_jian-guo"><b>Dai</b> Jian-Guo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../qiu_qian_dai.2024.EtFPoCBw3PUSPFvGFVF/">Enhancing the Flexural Performance of Concrete Beams with 3D Printed UHP-SHCC Permanent Formwork via Graded Fiber Volume Fraction</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>

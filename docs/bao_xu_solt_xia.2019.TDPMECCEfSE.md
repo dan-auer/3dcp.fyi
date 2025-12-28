@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 115-128
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

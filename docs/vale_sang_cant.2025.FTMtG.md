@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Envisioning the Futures, pp. 812-835
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -73,7 +74,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../perr_jacq_caro_mesn.2024.So3PwABaM/">Snapshot on 3D Printing with Alternative Binders and Materials:<br/>Earth, Geopolymers, Gypsum and Low-Carbon Concrete</a></li>
       <li><a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../roch_fari_luca.2024.AMoEBM/">Additive Manufacturing of Earth-Based Materials:<br/>A Literature Review on Mortar-Composition, Extrusion, and Processing Earth</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
-      <li>None</li>
       <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../volp_sang_fior_varu.2022.Oo3CPaFP/">Overview of 3D Construction Printing and Future Perspectives:<br/>A Review of Technology, Companies and Research Progression</a></li>
     </ol>
 ???+ quote "Citations"

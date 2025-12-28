@@ -18,7 +18,6 @@ tags:
  - structure
  - variation
  - wall
- - under
 
 ---
 
@@ -114,7 +113,7 @@ tags:
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
-      <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RbWTBaILVo3PC/">Relationship between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
 ???+ quote "Citations"

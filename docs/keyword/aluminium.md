@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#aluminium
+# #aluminium
 
 <ol reversed>
   <li><a href="../../../author/disu_oluwatimilehin"><b>Disu</b> Oluwatimilehin</a>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a>, <a href="../../../author/wood_luke"><b>Wood</b> Luke</a>, <a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b> Andreas</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../disu_isma_wood_chry.2025.ESoBo3PCBSUAS/">Experimental Study on Buildability of 3D-Printed Cement-Based Structures Using Aluminium Sulphate</a></li>

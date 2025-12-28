@@ -14,7 +14,6 @@ tags:
  - material
  - method
  - print
- - a
 
 ---
 
@@ -72,7 +71,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
-      <li>None</li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../carn_mesn_rous_bave.2019.AEo3PDSIbM/">An Exploration of 3D Printing Design Space Inspired by Masonry</a></li>
       <li><a href="../../../author/conrad_john"><b>Conrad</b> John</a>, <a href="../../../author/spencer_lawson"><b>Spencer</b> Lawson</a>, <a href="../../../author/amador_robert"><b>Amador</b> Robert</a>, <a href="../../../author/linnehan_tyler"><b>Linnehan</b> Tyler</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../conr_spen_amad_linn.2023.CPGC/">Concrete Printed Gyroid Column:<br/>A Structurally Optimized, Sand Layer Supported Printing Method</a></li>
       <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a></li>

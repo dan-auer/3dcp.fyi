@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#element`](keyword/element)

@@ -10,9 +10,6 @@ tags:
  - digital
  - manufacturing
  - modification
- - in
- - nano
- - nano
 
 ---
 
@@ -27,6 +24,7 @@ tags:
 ,     <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites, pp. 251-275
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

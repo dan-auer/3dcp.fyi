@@ -12,10 +12,6 @@ tags:
  - performance
  - print
  - rheology
- - nano
- - ultra
- - nano
- - ultra
 
 ---
 
@@ -33,6 +29,7 @@ tags:
 ,     <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

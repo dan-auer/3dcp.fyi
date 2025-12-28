@@ -15,7 +15,6 @@ tags:
  - strain
  - tension
  - without
- - a
 
 ---
 

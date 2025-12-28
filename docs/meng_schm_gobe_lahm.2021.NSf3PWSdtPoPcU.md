@@ -14,7 +14,7 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://files.eccomasproceedia.org/papers/uncecomp-2021/UC21_18985.pdf?mtime=20210909183511) Numerical Simulation for 3D Printed Wall Structure during the Process of Printing considering Uncertainty ([2021-06](date/2021/06))
+#[:aca-openaccess:{ .xgreen }](https://files.eccomasproceedia.org/papers/uncecomp-2021/UC21_18985.pdf?mtime=20210909183511) Numerical Simulation for 3D Printed Wall Structure During the Process of Printing Considering Uncertainty ([2021-06](date/2021/06))
 <a href="https://doi.org/10.7712/120221.8025.18985" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.7712/120221.8025.18985</a>
 
 -------------------------
@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/konke_carsten"><b>Könke</b> Carsten</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Uncertainty Quantification in Computational Sciences and Engineering, pp. 100-111
 
 :aca-blank:{ .lg .middle}
     [`#numeric`](keyword/numeric)
@@ -39,7 +40,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20for%203D%20Printed%20Wall%20Structure%20during%20the%20Process%20of%20Printing%20considering%20Uncertainty" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20for%203D%20Printed%20Wall%20Structure%20During%20the%20Process%20of%20Printing%20Considering%20Uncertainty" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7712/120221.8025.18985" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -72,7 +73,7 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

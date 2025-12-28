@@ -10,7 +10,6 @@ tags:
  - nozzle
  - process
  - robot
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/kulakov_kirill"><b>Kulakov</b> Kirill</a> <a href="https://orcid.org/0000-0003-2081-7045" title="ORCID: 0000-0003-2081-7045" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - International Scientific Conference Energy Management of Municipal Facilities and Sustainable Energy Technologies, pp. 285-297
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

@@ -15,7 +15,6 @@ tags:
  - segment
  - seismic
  - stress
- - pre
 
 ---
 

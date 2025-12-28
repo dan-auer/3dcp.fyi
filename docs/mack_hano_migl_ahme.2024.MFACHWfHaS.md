@@ -12,7 +12,6 @@ tags:
  - house
  - multi
  - wall
- - multi
 
 ---
 
@@ -67,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dey_pand.2023.AESoTPo3PCS/">An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
       <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>

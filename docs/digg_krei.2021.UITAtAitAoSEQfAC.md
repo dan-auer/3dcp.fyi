@@ -14,7 +14,6 @@ tags:
  - quality
  - structure
  - temporary
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 117-143
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -80,7 +80,7 @@ tags:
       <li><a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../stid_krei.2021.DoMPoACCBoSO/">Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

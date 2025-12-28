@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 422-429
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

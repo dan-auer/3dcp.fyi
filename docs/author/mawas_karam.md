@@ -1,7 +1,7 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
@@ -19,5 +19,5 @@ search:
   <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../mawa_mabo_gerk.2023.FEi3PoSWfTLSD/">Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data</a></li>
   <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/jantzen_carsten"><b>Jantzen</b> Carsten</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hack_jant_broh_gerk.2022.ACLWfQIaIPPo3PCE/">A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D Printed Concrete Elements</a></li>
   <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../mawa_mabo_gerk.2022.AGIiDF/">Automatic Geometric Inspection in Digital Fabrication</a></li>
-  <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALbPAfS3PCC/">A Lean-based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
+  <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../plac_broh_mawa_schw.2021.ALBPAfS3PCC/">A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components</a></li>
 </ol>

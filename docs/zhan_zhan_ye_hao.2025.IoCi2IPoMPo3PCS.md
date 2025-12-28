@@ -14,8 +14,6 @@ tags:
  - print
  - property
  - structure
- - in
- - on
 
 ---
 

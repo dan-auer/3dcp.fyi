@@ -11,8 +11,6 @@ tags:
  - industry
  - print
  - twin
- - in
- - twin
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction Research Congress 2024, pp. 1337-1346
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -64,7 +63,7 @@ tags:
     <ol>
       <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
-      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPbBEa3CP/">Development of Communication Protocols between BIM Elements and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/perez_javier"><b>Pérez</b> Javier</a>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b> Álvaro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../forc_pere_vasq_garc.2021.DoCPBBEa3CP/">Development of Communication Protocols Between BIM Elements and 3D Concrete Printing</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
       <li><a href="../../../author/he_rui"><b>He</b> Rui</a>, <a href="../../../author/li_mingkai"><b>Li</b> Mingkai</a>, <a href="../../../author/gan_jl_vincent"><b>Gan</b> Vincent</a>, <a href="../../../author/ma_jun"><b>Ma</b> Jun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../he_li_gan_ma.2021.BECDaDFoIB/">BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings:<br/>A Case Study</a></li>
       <li><a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kame_kaze.2022.BITAaBEMi3PRB/">BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings</a></li>

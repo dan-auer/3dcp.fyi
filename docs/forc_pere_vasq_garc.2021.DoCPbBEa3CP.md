@@ -15,7 +15,7 @@ tags:
 
 ---
 
-#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/11/16/7226/pdf?version=1628160771) Development of Communication Protocols between BIM Elements and 3D Concrete Printing ([2021-08](date/2021/08))
+#[:aca-openaccess:{ .xgreen }](https://www.mdpi.com/2076-3417/11/16/7226/pdf?version=1628160771) Development of Communication Protocols Between BIM Elements and 3D Concrete Printing ([2021-08](date/2021/08))
 <a href="https://doi.org/10.3390/app11167226" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.3390/app11167226</a>
 
 -------------------------
@@ -43,7 +43,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Communication%20Protocols%20between%20BIM%20Elements%20and%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Communication%20Protocols%20Between%20BIM%20Elements%20and%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112326224&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000688571100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app11167226" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -69,7 +69,6 @@ tags:
     <ol>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
-      <li>None</li>
       <li><a href="../../../author/he_rui"><b>He</b> Rui</a>, <a href="../../../author/li_mingkai"><b>Li</b> Mingkai</a>, <a href="../../../author/gan_jl_vincent"><b>Gan</b> Vincent</a>, <a href="../../../author/ma_jun"><b>Ma</b> Jun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../he_li_gan_ma.2021.BECDaDFoIB/">BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings:<br/>A Case Study</a></li>
       <li><a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a>, <a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2012/01">(2012-01)</a><br><a href="../../../le_aust_lim_busw.2012.MDaFPfHPPC/">Mix-Design and Fresh Properties for High-Performance Printing Concrete</a></li>
       <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/shahab_r_amir"><b>Shahab</b> Amir</a>, <a href="../../../author/linus_ken_mettler"><b>Linus</b> Mettler</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> et al. <a href="../../../date/2014/03">(2014-03)</a><br><a href="../../../llor_shah_linu_flat.2015.CCS/">Complex Concrete Structures:<br/>Merging Existing Casting Techniques with Digital Fabrication</a></li>

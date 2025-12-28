@@ -14,8 +14,6 @@ tags:
  - performance
  - prestressed
  - print
- - ultra
- - ultra
 
 ---
 

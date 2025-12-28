@@ -13,8 +13,6 @@ tags:
  - printability
  - salt
  - water
- - eco
- - under
 
 ---
 

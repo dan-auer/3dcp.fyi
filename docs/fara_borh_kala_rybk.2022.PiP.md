@@ -12,8 +12,6 @@ tags:
  - robot
  - stack
  - strategy
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b> Zofia</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 19th International Conference on Computer-Aided Architectural Design Futures, pp. 317-328
 
 :aca-blank:{ .lg .middle}
     [`#column`](keyword/column)
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
 ???+ quote "Citations"

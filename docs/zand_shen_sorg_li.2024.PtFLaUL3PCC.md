@@ -10,8 +10,6 @@ tags:
  - formulas
  - light
  - printability
- - ultra
- - ultra
 
 ---
 

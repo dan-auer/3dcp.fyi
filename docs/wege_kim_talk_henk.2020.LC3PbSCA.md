@@ -34,6 +34,7 @@ tags:
 ,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 162-171
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

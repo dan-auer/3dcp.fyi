@@ -11,7 +11,6 @@ tags:
  - mechanics
  - performance
  - print
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 204-212
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

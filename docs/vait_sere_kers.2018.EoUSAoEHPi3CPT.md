@@ -13,10 +13,6 @@ tags:
  - print
  - process
  - technology
- - in
- - on
- - ultra
- - ultra
 
 ---
 

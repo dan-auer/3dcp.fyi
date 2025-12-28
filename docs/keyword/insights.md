@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#insights
+# #insights
 
 <ol reversed>
   <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>

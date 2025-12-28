@@ -12,8 +12,6 @@ tags:
  - print
  - single
  - stack
- - multi
- - on
 
 ---
 

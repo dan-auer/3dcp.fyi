@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#pipe
+# #pipe
 
 <ol reversed>
   <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#strand
+# #strand
 
 <ol reversed>
   <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../roth_gant_hack_huhn.2024.CotARoFRSPiaDFWPf3CP/">Characterisation of the Alkaline-Resistance of Fiber-Reinforcement Strands Produced in a Dynamic Fiber Winding Process for 3D Concrete Printing</a></li>

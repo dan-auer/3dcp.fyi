@@ -11,7 +11,6 @@ tags:
  - performance
  - powder
  - print
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> <a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 542-551
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

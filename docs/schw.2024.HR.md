@@ -24,6 +24,7 @@ tags:
       <a href="../../../author/schwartz_thibault"><b>Schwartz</b> Thibault</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Coding Architecture, pp. 73-94
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

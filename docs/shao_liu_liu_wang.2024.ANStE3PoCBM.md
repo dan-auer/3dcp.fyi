@@ -13,8 +13,6 @@ tags:
  - printability
  - situ
  - strategy
- - a
- - in
 
 ---
 
@@ -81,7 +79,6 @@ tags:
       <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../liu_huan_wang_sun.2021.TaFPo3PJRM/">Tensile and Flexural Properties of 3D Printed Jackets-Reinforced Mortar</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../muth_rama_sanj.2020.EoMHoILBaBoG3CP/">Effect of Microwave-Heating on Inter-Layer Bonding and Buildability of Geopolymer 3D Concrete Printing</a></li>

@@ -12,8 +12,6 @@ tags:
  - print
  - progress
  - review
- - a
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/anh_yonghan"><b>Anh</b> Yonghan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture, pp. 703-710
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -79,7 +78,6 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
       <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a>, <a href="../../../author/williams_ella"><b>Williams</b> Ella</a>, <a href="../../../author/bennett_michael"><b>Bennett</b> Michael</a> et al. <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../nich_ross_will_benn.2020.IRTMRSaMLfCR3PiA/">Integrating Real-Time Multi-Resolution Scanning and Machine Learning for Conformal Robotic 3D Printing in Architecture</a></li>
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sent_raph.2022.UCVfMtQo3PCS/">Using Computer-Vision for Monitoring the Quality of 3D Printed Concrete Structures</a></li>
-      <li>None</li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>

@@ -12,8 +12,6 @@ tags:
  - scale
  - size
  - transition
- - in
- - on
 
 ---
 

@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 71-77
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

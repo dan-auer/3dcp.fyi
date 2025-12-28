@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b> Inken</a> <a href="https://orcid.org/0009-0007-2468-3060" title="ORCID: 0009-0007-2468-3060" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 34th Forum Bauinformatik, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cavity`](keyword/cavity)

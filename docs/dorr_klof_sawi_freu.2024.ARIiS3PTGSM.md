@@ -13,7 +13,6 @@ tags:
  - reinforcement
  - shotcrete
  - state
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 319-326
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)
@@ -62,8 +62,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    In Digital Fabrication with Concrete (DFC), reinforcement integration is one of the key challenges to enable large-scale application, and further adoption of DFC by industry. This paper presents an investigation on green state milling as a novel approach to reinforce 3D printed concrete elements, in particular for reinforcement integration during fabrication utilising Shotcrete 3D Printing (SC3DP). To enable force-flow oriented freeform reinforcement installation, grooves providing space for reinforcement are robotically milled in green state. Subsequently, standard steel rebars or other reinforcing materials are installed, and a cover layer is sprayed. Two key parameters influencing the bond quality and integrity of reinforced elements are explored here: time of milling after SC3DP, and groove geometry. The results are qualitatively assessed in terms of the presence of voids and imperfections, in particular around rebars.
-The identified optimal set of parameters is then used for the fabrication of a second set of specimens: 1) elements for rebar pull-out testing and 2) full-scale beams for structural testing and quantitative analysis.
+    In Digital Fabrication with Concrete (DFC), reinforcement integration is one of the key challenges to enable large-scale application, and further adoption of DFC by industry. This paper presents an investigation on green state milling as a novel approach to reinforce 3D printed concrete elements, in particular for reinforcement integration during fabrication utilising Shotcrete 3D Printing (SC3DP). To enable force-flow oriented freeform reinforcement installation, grooves providing space for reinforcement are robotically milled in green state. Subsequently, standard steel rebars or other reinforcing materials are installed, and a cover layer is sprayed. Two key parameters influencing the bond quality and integrity of reinforced elements are explored here: time of milling after SC3DP, and groove geometry. The results are qualitatively assessed in terms of the presence of voids and imperfections, in particular around rebars. The identified optimal set of parameters is then used for the fabrication of a second set of specimens: 1) elements for rebar pull-out testing and 2) full-scale beams for structural testing and quantitative analysis.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

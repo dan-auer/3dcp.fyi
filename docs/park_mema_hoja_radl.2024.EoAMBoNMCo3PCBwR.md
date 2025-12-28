@@ -14,7 +14,6 @@ tags:
  - mechanics
  - print
  - reinforcement
- - on
 
 ---
 
@@ -72,7 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/rajendran_neeraja"><b>Rajendran</b> Neeraja</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../ambi_kali_raje.2023.TCtW3CPA/">Top Challenges to Widespread 3D Concrete Printing Adoption:<br/>A Review</a></li>
       <li><a href="../../../author/ashrafi_negar"><b>Ashrafi</b> Negar</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../ashr_naza_meis_duar.2021.ECaCftCEoTNoLaVoMoSDiSSAMoC/">Experimental Calibration and Compensation for the Continuous Effect of Time, Number of Layers and Volume of Material on Shape Deformation in Small-Scale Additive Manufacturing of Concrete</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>

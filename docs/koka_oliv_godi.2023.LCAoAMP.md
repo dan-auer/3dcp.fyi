@@ -12,7 +12,6 @@ tags:
  - manufacturing
  - process
  - review
- - a
 
 ---
 
@@ -67,7 +66,6 @@ tags:
     <ol>
       <li><a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/fattah_parvez_kazi"><b>Fattah</b> Kazi</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_fatt_abda_tami.2021.EFaEoaFS3PH/">Environmental Footprint and Economics of a Full-Scale 3D Printed House</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
       <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a></li>
       <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a></li>

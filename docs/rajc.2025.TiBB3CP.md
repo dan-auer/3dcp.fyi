@@ -11,7 +11,6 @@ tags:
  - concrete
  - print
  - trend
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
       <a href="../../../author/rajczakowska_magdalena"><b>Rajczakowska</b> Magdalena</a> <a href="https://orcid.org/0000-0001-8039-692X" title="ORCID: 0000-0001-8039-692X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 351-359
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/passaro_martin_andres"><b>Passaro</b> Andres</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIIth SIGraDi Conference, pp. 1194-1205
 
 :aca-blank:{ .lg .middle}
     [`#algorithm`](keyword/algorithm)

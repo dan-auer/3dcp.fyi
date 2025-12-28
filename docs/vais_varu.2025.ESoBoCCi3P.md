@@ -10,8 +10,6 @@ tags:
  - concrete
  - experiment
  - print
- - in
- - on
 
 ---
 
@@ -25,6 +23,7 @@ tags:
 ,     <a href="../../../author/varunkumar_p"><b>Varunkumar</b> P.</a> <a href="https://orcid.org/0009-0004-6657-2789" title="ORCID: 0009-0004-6657-2789" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Developments in Structural Engineering, pp. 133-142
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

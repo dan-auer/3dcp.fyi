@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> <a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Numerical Modeling-Strategies for Sustainable Concrete Structures, pp. 120-129
 
 :aca-blank:{ .lg .middle}
     [`#concept`](keyword/concept)

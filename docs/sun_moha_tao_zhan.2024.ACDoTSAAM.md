@@ -10,8 +10,6 @@ tags:
  - concept
  - design
  - material
- - a
- - two
 
 ---
 

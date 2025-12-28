@@ -24,6 +24,7 @@ tags:
       <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIIth SIGraDi Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -69,11 +70,8 @@ tags:
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../crav_naza_bart_bart.2020.AASf3PFGCBM/">An Automated System for 3D Printing Functionally Graded Concrete-Based Materials</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../west_varg.2020.KC/">Knitting Concrete</a></li>
       <li><a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a>, <a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/beh_shan_hooi"><b>Beh</b> Hooi</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yuan_zhan_wu_beh.2022.RTTPPaECMfVW3CP/">Real-Time Tool-Path-Planning and Extrusion-Control-Method for Variable-Width 3D Concrete Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

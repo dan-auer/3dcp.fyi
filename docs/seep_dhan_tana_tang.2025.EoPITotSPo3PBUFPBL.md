@@ -16,8 +16,6 @@ tags:
  - print
  - structure
  - time
- - on
- - under
 
 ---
 
@@ -36,6 +34,7 @@ tags:
 ,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 18th East Asia-Pacific Conference on Structural Engineering and Construction, pp. 18-23
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Manufacturing Engineering, pp. 59-69
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

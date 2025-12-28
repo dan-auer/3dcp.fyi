@@ -14,7 +14,6 @@ tags:
  - material
  - print
  - temperature
- - on
 
 ---
 

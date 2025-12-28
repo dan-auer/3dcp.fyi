@@ -18,8 +18,6 @@ tags:
  - solid
  - strategy
  - waste
- - a
- - on
 
 ---
 
@@ -89,7 +87,6 @@ tags:
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../muth_rama_sanj.2022.ILAoGSfC3P/">In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../muth_rama_sanj.2023.REASDoILAGfC3P/">Rapid Early-Age Strength Development of In-Line Activated Geopolymer for Concrete 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/kheetan_j_mazen"><b>Kheetan</b> Mazen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../noai_ghaf_chou_khee.2023.ARo3PLCCwOPG/">A Review of 3D Printing Low-Carbon Concrete with One-Part Geopolymer:<br/>Engineering, Environmental and Economic Feasibility</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>

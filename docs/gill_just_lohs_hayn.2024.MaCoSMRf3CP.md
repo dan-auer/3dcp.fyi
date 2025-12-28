@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 91-98
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

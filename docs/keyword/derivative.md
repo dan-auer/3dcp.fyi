@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#derivative
+# #derivative
 
 <ol reversed>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>

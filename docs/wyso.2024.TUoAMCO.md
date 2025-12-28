@@ -21,6 +21,7 @@ tags:
       <a href="../../../author/wysoczanski_andrzej"><b>Wysoczanski</b> Andrzej</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Terotechnology XIII, pp. 101-110
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -12,7 +12,6 @@ tags:
  - green
  - integration
  - manufacturing
- - a
 
 ---
 

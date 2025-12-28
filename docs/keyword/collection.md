@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#collection
+# #collection
 
 <ol reversed>
   <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_meib.2024.ISP/">Integrated Sensing Printhead:<br/>In-line Data Collection for Non-Planar 3D Concrete Printing</a></li>

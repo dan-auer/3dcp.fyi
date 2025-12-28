@@ -13,7 +13,6 @@ tags:
  - rheology
  - tailoring
  - use
- - a
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/griffin_michael"><b>Griffin</b> Michael</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 225-233
 
 :aca-blank:{ .lg .middle}
     [`#admixture`](keyword/admixture)

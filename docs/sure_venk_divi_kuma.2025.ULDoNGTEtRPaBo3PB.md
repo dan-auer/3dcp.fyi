@@ -15,8 +15,6 @@ tags:
  - property
  - rheology
  - type
- - ultra
- - ultra
 
 ---
 
@@ -82,7 +80,6 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/jahanzat_mohammad"><b>Jahanzat</b> Mohammad</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chou_ghaf_jaha_alba.2020.TIoNAiSMPo3PMBGC/">The Influence of Nano-Additives in Strengthening Mechanical Performance of 3D Printed Multi-Binder Geopolymer Composites</a></li>
       <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dula_sale_luca.2022.MPaSSAoGMCwDWCf3PA/">Mechanical Properties and Self-Sensing Ability of Graphene-Mortar Compositions with Different Water-Content for 3D Printing Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../kaus_sone_amat_perr.2022.IoNCotFaRBo3PM/">Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>

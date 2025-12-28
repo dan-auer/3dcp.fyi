@@ -17,7 +17,6 @@ tags:
  - response
  - strength
  - surface
- - in
 
 ---
 
@@ -93,7 +92,6 @@ tags:
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../putt_schu_titt.2019.SMaaTtIILBSi3PCM/">Surface-Modification as a Technique to Improve Inter-Layer Bonding Strength in 3D Printed Cementitious Materials</a></li>
       <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a>, <a href="../../../author/wang_ziyuan"><b>Wang</b> Ziyuan</a>, <a href="../../../author/yu_ruifang"><b>Yu</b> Ruifang</a>, <a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../qi_wang_yu_pei.2025.ODaRMAoMPo3PC/">Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a></li>
-      <li>None</li>
       <li><a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../shaz_li.2025.IBEoSSaDi3PCS/">Interfacial Bond-Effects on Shear-Strength and Damage in 3D Printed Concrete Structures:<br/>A Combined Experimental and Numerical Study</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../tay_ting_qian_pand.2019.TGEoBSo3PC/">Time-Gap-Effect on Bond Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wang_cheinfei"><b>Wang</b> Cheinfei</a>, <a href="../../../author/lian_junyin"><b>Lian</b> Junyin</a>, <a href="../../../author/fang_yunhui"><b>Fang</b> Yunhui</a>, <a href="../../../author/fan_guangming"><b>Fan</b> Guangming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_lian_fang_fan.2025.ROo3PCMURSM/">Rheological Optimization of 3D-Printed Cementitious Materials Using Response Surface Methodology</a></li>

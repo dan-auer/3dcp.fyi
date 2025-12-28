@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/correa_david"><b>Correa</b> David</a> <a href="https://orcid.org/0000-0002-4399-7897" title="ORCID: 0000-0002-4399-7897" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 1329-1336
 
 :aca-blank:{ .lg .middle}
     [`#brick`](keyword/brick)

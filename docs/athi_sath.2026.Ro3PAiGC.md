@@ -13,7 +13,6 @@ tags:
  - geopolymer
  - print
  - review
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1, pp. 507-517
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

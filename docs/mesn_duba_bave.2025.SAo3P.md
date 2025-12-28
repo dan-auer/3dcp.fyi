@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing, pp. 131-159
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

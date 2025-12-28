@@ -72,7 +72,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
-      <li>None</li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a></li>
       <li><a href="../../../author/sun_yifan"><b>Sun</b> Yifan</a>, <a href="../../../author/ma_siqi"><b>Ma</b> Siqi</a>, <a href="../../../author/chen_qingze"><b>Chen</b> Qingze</a>, <a href="../../../author/chen_guoliang"><b>Chen</b> Guoliang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sun_ma_chen_chen.2025.LRSD3PGwOMaTMP/">Lunar Regolith Simulant-Derived 3D-Printed Geopolymers with Optimized Mechanical and Thermal Management Properties</a></li>
     </ol>

@@ -17,8 +17,6 @@ tags:
  - robot
  - scan
  - time
- - in
- - multi
 
 ---
 
@@ -87,7 +85,6 @@ tags:
       <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a>, <a href="../../../author/shammas_demetris"><b>Shammas</b> Demetris</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../meib_jipa_gies_sham.2018.SS/">Smart Slab:<br/>Computational Design and Digital Fabrication of a Lightweight Concrete Slab</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../nema_xia_sanj.2017.CPo3CPT/">Current Progress of 3D Concrete Printing Technologies</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

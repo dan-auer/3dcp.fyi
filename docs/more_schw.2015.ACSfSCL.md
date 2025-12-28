@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/schwartz_thibault"><b>Schwartz</b> Thibault</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium 2015, pp. 213-223
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

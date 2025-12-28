@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#masonry
+# #masonry
 
 <ol reversed>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kul_koca_alde_yld.2024.3POPAAMDfBMW/">3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes</a></li>

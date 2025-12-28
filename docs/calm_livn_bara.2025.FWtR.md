@@ -15,8 +15,6 @@ tags:
  - recycling
  - waste
  - wood
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/barath_shany"><b>Barath</b> Shany</a> <a href="https://orcid.org/0000-0003-0776-7389" title="ORCID: 0000-0003-0776-7389" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 39-48
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)
@@ -69,7 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buschmann_birger"><b>Buschmann</b> Birger</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/asshoff_carsten"><b>Asshoff</b> Carsten</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../busc_henk_assh_talk.2024.AMoWCPbILF/">Additive Manufacturing of Wood-Composite-Parts by Individual Layer Fabrication:<br/>Influence of Process Parameters on Product Properties</a></li>
     </ol>
 ???+ quote "Citations"

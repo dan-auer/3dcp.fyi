@@ -16,7 +16,6 @@ tags:
  - property
  - reinforcement
  - state
- - a
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 811-816
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)

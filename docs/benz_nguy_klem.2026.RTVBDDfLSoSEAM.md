@@ -21,8 +21,6 @@ tags:
  - site
  - time
  - vision
- - dual
- - on
 
 ---
 
@@ -84,7 +82,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alanazi_nawaf"><b>Alanazi</b> Nawaf</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/susmel_luca"><b>Susmel</b> Luca</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../alan_kola_busw_susm.2022.TToCDtAtEoCMDotSSo3PC/">The Theory of Critical Distances to Assess the Effect of Cracks & Manufacturing-Defects on the Static Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../asaf_bent_lari_spre.2023.FStPS/">From Soil to Printed Structures:<br/>A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</a></li>

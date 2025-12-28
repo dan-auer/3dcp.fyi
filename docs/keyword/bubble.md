@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#bubble
+# #bubble
 
 <ol reversed>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_zhan_jia_cao.2024.QCoBSoFCTEP/">Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>From Yield-Stress , Viscosity and Surface Tension Point of View</a></li>

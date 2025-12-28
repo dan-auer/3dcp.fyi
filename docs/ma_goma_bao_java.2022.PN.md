@@ -13,8 +13,6 @@ tags:
  - print
  - rib
  - system
- - a
- - in
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> <a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2022 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

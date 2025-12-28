@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#plate
+# #plate
 
 <ol reversed>
   <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_zeng_zhug_liu.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Tests</a></li>

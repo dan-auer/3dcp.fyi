@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#level
+# #level
 
 <ol reversed>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a></li>

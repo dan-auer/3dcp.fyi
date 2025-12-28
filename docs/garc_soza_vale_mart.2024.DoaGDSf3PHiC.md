@@ -11,8 +11,6 @@ tags:
  - house
  - print
  - system
- - a
- - in
 
 ---
 

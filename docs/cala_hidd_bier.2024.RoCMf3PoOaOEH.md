@@ -10,8 +10,6 @@ tags:
  - material
  - print
  - review
- - off
- - on
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/bier_henriette"><b>Bier</b> Henriette</a> <a href="https://orcid.org/0000-0003-4652-8751" title="ORCID: 0000-0003-4652-8751" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Adaptive On- and Off-Earth Environments, pp. 39-58
 
 :aca-blank:{ .lg .middle}
     [`#earth`](keyword/earth)

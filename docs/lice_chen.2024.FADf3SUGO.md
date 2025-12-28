@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/chen_taole"><b>Chen</b> Taole</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Association for Shell and Spatial Structures Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

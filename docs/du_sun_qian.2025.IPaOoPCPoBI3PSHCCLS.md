@@ -16,12 +16,10 @@ tags:
  - plane
  - strain
  - structure
- - in
- - out
 
 ---
 
-#:aca-closedaccess:{ .xred '} In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3 Rinted Strain-Hardening Cementitious Composite Lattice Structures ([2025-03](date/2025/03))
+#:aca-closedaccess:{ .xred '} In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures ([2025-03](date/2025/03))
 <a href="https://doi.org/10.1016/j.cemconcomp.2025.106070" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2025.106070</a>
 
 -------------------------
@@ -50,7 +48,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=In-Plane%20and%20Out-of-Plane%20Compressive%20Performance%20of%20Bio-Inspired%203%20Rinted%20Strain-Hardening%20Cementitious%20Composite%20Lattice%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=In-Plane%20and%20Out-of-Plane%20Compressive%20Performance%20of%20Bio-Inspired%203D%20Printed%20Strain-Hardening%20Cementitious%20Composite%20Lattice%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001591584&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001462239700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106070" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

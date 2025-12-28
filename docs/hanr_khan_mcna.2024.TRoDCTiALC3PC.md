@@ -13,7 +13,6 @@ tags:
  - low
  - print
  - type
- - in
 
 ---
 
@@ -67,7 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
       <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a></li>
       <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>

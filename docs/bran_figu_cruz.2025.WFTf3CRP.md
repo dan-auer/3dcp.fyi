@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> <a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 978-985
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -57,7 +58,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/baghi_ali"><b>Baghi</b> Ali</a>, <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bagh_amin_mema_bile.2024.3CPoSSFvEC/">3D Concrete Printing of Self-Supported Filaments via Entrained Cables:<br/>Constructing Formwork-Free Spanning Structures</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../caro_demo_duco_mesn.2021.3PoMwCF/">3D Printing of Mortar with Continuous Fibers:<br/>Principle, Properties and Potential for Application</a></li>
@@ -66,7 +66,6 @@ tags:
       <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hoja_mema_zaha_wu.2022.BWRf3CP/">Barbed-Wire Reinforcement for 3D Concrete Printing</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/yao_thia_ke"><b>Yao</b> Ke</a>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b> Zhenghao</a> <a href="../../../date/2006/05">(2006-05)</a><br><a href="../../../khos_hwan_yao_yeh.2006.MSFbCC/">Mega-Scale Fabrication by Contour Crafting</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/patankar_yamini"><b>Patankar</b> Yamini</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_pata_flat.2024.SDC/">Sustainable Digital Concrete:<br/>Myth, Reality or Emerging Opportunity?</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/wan-wendner_lin"><b>Wan-Wendner</b> Lin</a> <a href="https://orcid.org/0000-0003-2818-7789" title="ORCID: 0000-0003-2818-7789" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 IABSE Congress, pp. 2510-2517
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

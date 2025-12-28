@@ -15,7 +15,6 @@ tags:
  - print
  - progress
  - workforce
- - in
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/nielsen_henrik_jens"><b>Nielsen</b> Jens</a> <a href="https://orcid.org/0000-0003-0705-9382" title="ORCID: 0000-0003-0705-9382" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 175-184
 
 :aca-blank:{ .lg .middle}
     [`#age`](keyword/age)

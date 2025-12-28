@@ -12,7 +12,6 @@ tags:
  - material
  - natural
  - print
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> <a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 32-41
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

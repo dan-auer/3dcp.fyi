@@ -14,7 +14,6 @@ tags:
  - spray
  - surface
  - technology
- - a
 
 ---
 
@@ -34,6 +33,7 @@ tags:
 ,     <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 37th Education and Research in Computer Aided Architectural Design in Europe and 23rd Iberoamerican Society of Digital Graphics, pp. 245-256
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -74,7 +74,7 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/ayres_phil"><b>Ayres</b> Phil</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ayre_silv_nich_ande.2019.S/">SCRIM:<br/>Sparse Concrete Reinforcement in Meshworks</a></li>
-      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNsCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
+      <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

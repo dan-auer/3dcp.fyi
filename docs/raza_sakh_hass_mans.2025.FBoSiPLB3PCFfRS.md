@@ -14,7 +14,6 @@ tags:
  - print
  - rib
  - slab
- - in
 
 ---
 
@@ -74,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_guan_wang_li.2024.BPo3PUHPCCB/">Bending Performance of 3D Printed Ultra-High-Performance Concrete Composite Beams</a></li>
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a></li>
@@ -102,7 +100,6 @@ tags:
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_yang_wang_zhan.2024.FPotISTR3PCB/">Flexural Performance of the Integrated Steel-Truss-Reinforced 3D Printed Concrete Beams:<br/>Experimental and Numerical Analysis</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>

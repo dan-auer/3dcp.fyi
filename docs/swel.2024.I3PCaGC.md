@@ -7,7 +7,6 @@ description:
 tags:
  - concrete
  - print
- - a
 
 ---
 
@@ -18,6 +17,7 @@ tags:
       <a href="../../../author/swelim_wafaey"><b>Swelim</b> Wafaey</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

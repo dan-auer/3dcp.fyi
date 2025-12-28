@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/allinson_david"><b>Allinson</b> David</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Moisture in Buildings, pp. 1-3
 
 :aca-blank:{ .lg .middle}
     [`#anisotropy`](keyword/anisotropy)

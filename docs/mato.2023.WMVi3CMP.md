@@ -9,7 +9,6 @@ tags:
  - material
  - print
  - waste
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
       <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="https://orcid.org/0000-0002-1646-4665" title="ORCID: 0000-0002-1646-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Selected Papers from the 6th International Conference Wastes, pp. 51-56
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

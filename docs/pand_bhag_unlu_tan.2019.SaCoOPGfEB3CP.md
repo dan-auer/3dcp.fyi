@@ -83,7 +83,6 @@ tags:
       <li><a href="../../../author/voigt_thomas"><b>Voigt</b> Thomas</a>, <a href="../../../author/malonn_tim"><b>Malonn</b> Tim</a>, <a href="../../../author/shah_p_surendra"><b>Shah</b> Surendra</a> <a href="../../../date/2005/10">(2005-10)</a><br><a href="../../../voig_malo_shah.2006.GaEACSoECMMwCTaUT/">Green and Early-Age Compressive Strength of Extruded Cement Mortar Monitored with Compression Tests and Ultrasonic Techniques</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

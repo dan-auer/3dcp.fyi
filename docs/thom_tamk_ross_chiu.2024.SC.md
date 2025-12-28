@@ -12,8 +12,6 @@ tags:
  - framework
  - manufacturing
  - sustainability
- - a
- - in
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 1-27
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -71,13 +70,11 @@ tags:
     <ol>
       <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2016/11">(2016-11)</a><br><a href="../../../agus_habe.2017.EDGfDF/">Environmental Design Guidelines for Digital Fabrication</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
-      <li>None</li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/heywood_kate"><b>Heywood</b> Kate</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../heyw_nich.2023.Sa3CP/">Sustainability and 3D Concrete Printing:<br/>Identifying a Need for a More Holistic Approach to Assessing Environmental Impacts</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../kuzm_gaud_fera_dirr.2020.AtEVo3CPT/">Assessing the Environmental Viability of 3D Concrete Printing Technology</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
-      <li>None</li>
       <li><a href="../../../author/rech_arianna"><b>Rech</b> Arianna</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a>, <a href="../../../author/colmo_claudia"><b>Colmo</b> Claudia</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../rech_chiu_colm_ross.2022.WBBSf3PTCE/">Waste-Based Biopolymer-Slurry for 3D Printing Targeting Construction Elements</a></li>
       <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../roux_kuzm_rous_mesn.2022.LCAoaC3PP/">Life Cycle Assessment of a Concrete 3D Printing Process</a></li>
       <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/mendonca_martinho_erica"><b>Mendonça</b> Érica</a>, <a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b> Letízia</a>, <a href="../../../author/caldas_rosse_lucas"><b>Caldas</b> Lucas</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../tino_mend_fern_cald.2022.LCAaESoCMf3CP/">Life Cycle Assessment and Environmental Sustainability of Cementitious Materials for 3D Concrete Printing:<br/>A Systematic Literature Review</a></li>

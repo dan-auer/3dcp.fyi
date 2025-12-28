@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#dispersion
+# #dispersion
 
 <ol reversed>
   <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pi_lu_yao_li.2024.ARBPAMf3PECCCFD/">A Rheological-Based Printability-Assessment Method for 3D Printing Engineered Cementitious Composites Considering Fiber-Dispersion</a></li>

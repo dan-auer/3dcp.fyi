@@ -11,7 +11,6 @@ tags:
  - experiment
  - print
  - strength
- - on
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 18th fib Symposium, pp. 739‐748
 
 :aca-blank:{ .lg .middle}
     [`#anisotropy`](keyword/anisotropy)

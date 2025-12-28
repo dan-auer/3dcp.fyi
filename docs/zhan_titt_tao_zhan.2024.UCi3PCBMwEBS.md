@@ -12,7 +12,6 @@ tags:
  - material
  - print
  - surface
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -73,7 +73,7 @@ tags:
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a>, <a href="../../../author/cnudde_veerle"><b>Cnudde</b> Veerle</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../putt_depr_cnud_schu.2019.MCo3PCM/">Microstructural Characterization of 3D Printed Cementitious Materials</a></li>
-      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGbSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap between Successive Layers</a></li>
+      <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGBSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers</a></li>
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../tao_moha_rahu_yuan.2022.SCCMwRPPfTPP/">Stiffening Controllable Concrete Modified with Redispersible Polymer Powder for Twin-Pipe Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>

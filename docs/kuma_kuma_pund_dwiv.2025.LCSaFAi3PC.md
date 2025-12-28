@@ -16,7 +16,6 @@ tags:
  - print
  - property
  - soil
- - in
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../kaus_sone_amat_perr.2022.IoNCotFaRBo3PM/">Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../moei_hoss_yahi.2020.UotCaMAtTtRatGSo3PCM/">Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>

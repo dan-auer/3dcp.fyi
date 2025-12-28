@@ -9,7 +9,6 @@ tags:
  - measurement
  - rate
  - structuration
- - a
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#digital`](keyword/digital)
@@ -52,8 +52,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Quality control (QC) is a key issue for extrusion-based additive manufacturing of concrete. The timely evolution of the material yield stress, called structuration, plays a key role in the stability of the printed part and its final mechanical performances [1]. With this regard, the authors have previously proposed an affordable and efficient structuration rate measurement method using a pocket shear vane [2].
-This work studies the viability of a new method for monitoring the structuration rate using a digital pocket vane illustrated on Figure 1. It is aimed at improving measurement quality, reducing labor, while remaining flexible for manual on-site measurements. Moreover, the digital aspect enables the system to be integrated into the data flow of 3D printing, making it possible to automatize, monitor and control. The use of a single vane size of 25.5mm diameter fits, to our knowledge, most printed lace sizes, and is sufficient over range of yield stresses of a bicomponent printed material at early age (typically 1 to 100 KPa in 45 min, but possibly higher), thanks to a torque sensor (Interface MRT), with a ±2 Nm measuring range, 7,00E-05 Nm resolution which corresponds, in terms of yield stresses and with the unique 25.5mm vane probe, to a range of 200 KPa and a resolution of a few Pa. This is an advantage over the manual vane, where the graduated dial limits the measuring range of the same 25.5mm vane to 100 KPa and the resolution to 5 KPa. This doubled measuring range and increased resolution provided by the digital sensor gives more robustness: there is less chance that the event of an initially high or low yield stress, high or low structuration rates will overcome the range or resolution and invalidate measurements.
+    Quality control (QC) is a key issue for extrusion-based additive manufacturing of concrete. The timely evolution of the material yield stress, called structuration, plays a key role in the stability of the printed part and its final mechanical performances [1]. With this regard, the authors have previously proposed an affordable and efficient structuration rate measurement method using a pocket shear vane [2]. This work studies the viability of a new method for monitoring the structuration rate using a digital pocket vane illustrated on Figure 1. It is aimed at improving measurement quality, reducing labor, while remaining flexible for manual on-site measurements. Moreover, the digital aspect enables the system to be integrated into the data flow of 3D printing, making it possible to automatize, monitor and control. The use of a single vane size of 25.5mm diameter fits, to our knowledge, most printed lace sizes, and is sufficient over range of yield stresses of a bicomponent printed material at early age (typically 1 to 100 KPa in 45 min, but possibly higher), thanks to a torque sensor (Interface MRT), with a ±2 Nm measuring range, 7,00E-05 Nm resolution which corresponds, in terms of yield stresses and with the unique 25.5mm vane probe, to a range of 200 KPa and a resolution of a few Pa. This is an advantage over the manual vane, where the graduated dial limits the measuring range of the same 25.5mm vane to 100 KPa and the resolution to 5 KPa. This doubled measuring range and increased resolution provided by the digital sensor gives more robustness: there is less chance that the event of an initially high or low yield stress, high or low structuration rates will overcome the range or resolution and invalidate measurements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

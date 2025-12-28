@@ -10,7 +10,6 @@ tags:
  - geopolymer
  - print
  - proof
- - a
 
 ---
 
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/rippmann_matthias"><b>Rippmann</b> Matthias</a>, <a href="../../../author/liew_a"><b>Liew</b> A.</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../ripp_liew_mele_bloc.2018.DFaToD3SPFP/">Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../vone_odag_brum_dill.2020.GFfBJ3P/">Geopolymer Formulation for Binder-Jet 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

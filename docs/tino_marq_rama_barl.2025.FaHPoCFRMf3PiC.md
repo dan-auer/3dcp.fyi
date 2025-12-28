@@ -14,7 +14,6 @@ tags:
  - print
  - property
  - reinforcement
- - in
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> <a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 13-22
 
 :aca-blank:{ .lg .middle}
     [`#cellulose`](keyword/cellulose)
@@ -71,7 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a></li>
       <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/miah_jihad_md"><b>Miah</b> Md</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../baba_kola_miah_paul.2021.ACRoILBSi3CP/">A Concise Review on Inter-Layer Bond Strength in 3D Concrete Printing</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b> Fernando</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../chen_copu_rodr_filh.2021.CoAVSi3PCMUOISaXRCT/">Characterization of Air-Void Systems in 3D Printed Cementitious Materials Using Optical Image Scanning and X-Ray Computed Tomography</a></li>

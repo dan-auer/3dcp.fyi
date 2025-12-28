@@ -10,7 +10,6 @@ tags:
  - penetration
  - powder
  - print
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 379-386
 
 :aca-blank:{ .lg .middle}
     [`#bed`](keyword/bed)

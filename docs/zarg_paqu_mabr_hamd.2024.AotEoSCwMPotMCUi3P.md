@@ -14,8 +14,6 @@ tags:
  - print
  - substitution
  - use
- - in
- - on
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a> <a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

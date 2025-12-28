@@ -12,8 +12,6 @@ tags:
  - insertion
  - reinforcement
  - structure
- - in
- - on
 
 ---
 
@@ -67,13 +65,10 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../bhoo_mele_bloc.2018.EASDfCP/">Equilibrium-Aware Shape Design for Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b> Mehdi</a>, <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b> Zofia</a>, <a href="../../../author/zakira_umme"><b>Zakira</b> Umme</a>, <a href="../../../author/kalantar_negar"><b>Kalantar</b> Negar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../fara_rybk_zaki_kala.2022.IoR3PPPoILBS/">Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength</a></li>
       <li><a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gurs.2018.FCtUi3PwC/">From Control to Uncertainty in 3D Printing with Clay</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../sche_ditt_grie.2020.PftIoCFBRiDCP/">Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production</a></li>
-      <li>None</li>
       <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a></li>
     </ol>
 ???+ quote "Citations"

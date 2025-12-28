@@ -12,7 +12,6 @@ tags:
  - print
  - scale
  - system
- - a
 
 ---
 

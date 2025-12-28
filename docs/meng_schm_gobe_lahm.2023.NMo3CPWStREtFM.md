@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Numerical Modeling-Strategies for Sustainable Concrete Structures, pp. 240-247
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

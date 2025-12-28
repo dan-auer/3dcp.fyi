@@ -16,7 +16,6 @@ tags:
  - simulation
  - viscosity
  - zone
- - tri
 
 ---
 

@@ -15,8 +15,6 @@ tags:
  - print
  - stair
  - strategy
- - a
- - in
 
 ---
 

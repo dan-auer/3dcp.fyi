@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - reinforcement
- - on
 
 ---
 
@@ -26,6 +25,7 @@ tags:
       <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Civil Engineering, Environment Resources and Energy Materials, pp. 252-260
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)

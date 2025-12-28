@@ -11,7 +11,6 @@ tags:
  - opportunity
  - real
  - solution
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/daffner_tim"><b>Daffner</b> Tim</a> <a href="https://orcid.org/0009-0005-3600-5318" title="ORCID: 0009-0005-3600-5318" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Built Environment Additive Manufacturing, pp. 44-51
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

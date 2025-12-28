@@ -15,7 +15,6 @@ tags:
  - print
  - rheology
  - strain
- - in
 
 ---
 
@@ -72,7 +71,7 @@ tags:
     <ol>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../du_sun_qian.2024.3PSHCC3SRSRIbtWS/">3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC) Reticulated Shell Roof Inspired by the Water Spider</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_sun_qian.2024.FPoNI3PSHCCwBS/">Flexural Performance of Nature-Inspired 3D Printed Strain-Hardening Cementitious Composites with Bouligand Structures</a></li>
-      <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../du_sun_qian.2025.IPaOoPCPoBI3RSHCCLS/">In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3 Rinted Strain-Hardening Cementitious Composite Lattice Structures</a></li>
+      <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../du_sun_qian.2025.IPaOoPCPoBI3PSHCCLS/">In-Plane and Out-of-Plane Compressive Performance of Bio-Inspired 3D Printed Strain-Hardening Cementitious Composite Lattice Structures</a></li>
       <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../du_sun_qian.2025.NIAfEtFPo3PSHCC3S/">Nature-Inspired Approach for Enhancing the Fracture Performance of 3D Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2016/09">(2016-09)</a><br><a href="../../../qian_kawa.2016.UoCRPtMSYSaSRoFCP/">Use of Creep Recovery Protocol to Measure Static Yield-Stress and Structural Rebuilding of Fresh Cement-Pastes</a></li>

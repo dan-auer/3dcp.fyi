@@ -14,11 +14,6 @@ tags:
  - opportunity
  - potential
  - print
- - in
- - micro
- - nano
- - micro
- - nano
 
 ---
 
@@ -74,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a></li>
       <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/aziz_abdul_md"><b>Aziz</b> Md</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bash_rehm_aziz_kim.2023.CCwCBNf3CPA/">Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications:<br/>A Review</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
@@ -98,10 +92,8 @@ tags:
       <li><a href="../../../author/goracci_guido"><b>Goracci</b> Guido</a>, <a href="../../../author/salgado_m_david"><b>Salgado</b> David</a>, <a href="../../../author/gaitero_j_juan"><b>Gaitero</b> Juan</a>, <a href="../../../author/dolado_s_jorge"><b>Dolado</b> Jorge</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../gora_salg_gait_dola.2022.ECPo3PCCwCN/">Electrical Conductive Properties of 3D Printed Concrete Composite with Carbon Nanofibers</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../heev_best_krug_zijl.2019.EoSCNPo3PoCBM/">Effect of Silicon-Carbide-Nano-Particles on 3D Printability of Cement-Based Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/wu_si"><b>Wu</b> Si</a>, <a href="../../../author/zheng_hong"><b>Zheng</b> Hong</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jian_liu_wu_zhen.2022.MEoNSaPFfEB3PC/">Modification Effect of Nano-Silica and Polypropylene-Fiber for Extrusion-Based 3D Printing Concrete:<br/>Printability and Mechanical Anisotropy</a></li>
-      <li>None</li>
       <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../kama_subr.2024.RCa3CPwFABANSEAAB/">Rheology-Control and 3D Concrete Printing with Fly Ash-Based Aqueous Nano-Silica Enhanced Alkali-Activated Binders</a></li>
       <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a>, <a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a>, <a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khan_ghaz_amja_imra.2024.EHi3PCBMwNMI/">Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration:<br/>A Review</a></li>
       <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/jiang_zhangfan"><b>Jiang</b> Zhangfan</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../kili_jian_ma_ozbu.2021.PCoGRCC/">Printability Characterization of Graphene-Reinforced Cementitious Composites</a></li>

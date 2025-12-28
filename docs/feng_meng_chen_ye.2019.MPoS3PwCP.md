@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/ye_lieping"><b>Ye</b> Lieping</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing Technology, pp. 181-209
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

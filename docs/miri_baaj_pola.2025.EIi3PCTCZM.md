@@ -12,7 +12,6 @@ tags:
  - model
  - print
  - zone
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024, pp. 199-212
 
 :aca-blank:{ .lg .middle}
     [`#cohesion`](keyword/cohesion)

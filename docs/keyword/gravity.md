@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#gravity
+# #gravity
 
 <ol reversed>
   <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_han_liu_yang.2025.Rot3PPaFSoCMiLG/">Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity</a></li>

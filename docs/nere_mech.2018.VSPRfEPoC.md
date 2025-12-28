@@ -63,7 +63,6 @@ tags:
     <ol>
       <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/kim_youngjin"><b>Kim</b> Youngjin</a>, <a href="../../../author/kim_jinkeun"><b>Kim</b> Jinkeun</a> <a href="../../../date/2013/01">(2013-01)</a><br><a href="../../../choi_rous_kim_kim.2013.LLPDCP/">Lubrication-Layer Properties During Concrete Pumping</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/kasten_knut"><b>Kasten</b> Knut</a> <a href="../../../date/2013/12">(2013-12)</a><br><a href="../../../mech_nere_kast.2014.TPoCUSPR/">Testing Pumpability of Concrete Using Sliding-Pipe Rheometer</a></li>
-      <li>None</li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../secr_fata_schr_mech.2017.SoCPCDLTaLtR/">Study on Concrete Pumpability Combining Different Laboratory Tools and Linkage to Rheology</a></li>
     </ol>
 ???+ quote "Citations"

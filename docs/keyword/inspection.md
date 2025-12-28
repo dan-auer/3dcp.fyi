@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#inspection
+# #inspection
 
 <ol reversed>
   <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bani_mart_masc_kaze.2026.AIiR3P/">Automated Inspection in Robotic 3D Printing:<br/>In-Process Geometrical Measurements Using Structured Light Machine Vision</a></li>

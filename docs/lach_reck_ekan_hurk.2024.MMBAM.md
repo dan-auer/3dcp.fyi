@@ -18,8 +18,6 @@ tags:
  - print
  - robot
  - scale
- - a
- - multi
 
 ---
 
@@ -36,6 +34,7 @@ tags:
 ,     <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 20th International Conference on Automation Science and Engineering, pp. 2565-2572
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

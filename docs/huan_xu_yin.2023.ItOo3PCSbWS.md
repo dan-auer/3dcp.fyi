@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/yin_yudong"><b>Yin</b> Yudong</a> <a href="https://orcid.org/0000-0002-0231-0825" title="ORCID: 0000-0002-0231-0825" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 28th Conference on Computer Aided Architectural Design Research in Asia, pp. 301-310
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

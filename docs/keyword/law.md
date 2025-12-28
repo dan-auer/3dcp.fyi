@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#law
+# #law
 
 <ol reversed>
   <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a></li>

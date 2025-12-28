@@ -10,7 +10,6 @@ tags:
  - parameter
  - pavilion
  - print
- - a
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/herr_m_christiane"><b>Herr</b> Christiane</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA), pp. 549-558
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

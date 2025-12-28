@@ -11,7 +11,6 @@ tags:
  - digital
  - platform
  - projection
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/nguyen_nhung"><b>Nguyen</b> Nhung</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1308-1315
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

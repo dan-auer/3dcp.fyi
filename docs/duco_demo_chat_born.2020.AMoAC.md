@@ -16,8 +16,6 @@ tags:
  - manufacturing
  - matrix
  - pultrusion
- - a
- - in
 
 ---
 

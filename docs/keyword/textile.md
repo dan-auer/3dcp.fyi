@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#textile
+# #textile
 
 <ol reversed>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>

@@ -11,7 +11,6 @@ tags:
  - mortar
  - pressure
  - property
- - on
 
 ---
 

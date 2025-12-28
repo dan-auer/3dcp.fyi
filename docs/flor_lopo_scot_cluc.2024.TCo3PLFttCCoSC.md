@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="https://orcid.org/0000-0002-6724-3037" title="ORCID: 0000-0002-6724-3037" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#capacity`](keyword/capacity)

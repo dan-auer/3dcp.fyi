@@ -11,7 +11,6 @@ tags:
  - print
  - strength
  - structure
- - on
 
 ---
 

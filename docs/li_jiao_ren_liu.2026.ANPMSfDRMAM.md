@@ -15,8 +15,6 @@ tags:
  - robot
  - strategy
  - without
- - a
- - dual
 
 ---
 

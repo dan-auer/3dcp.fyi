@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#maximum
+# #maximum
 
 <ol reversed>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>

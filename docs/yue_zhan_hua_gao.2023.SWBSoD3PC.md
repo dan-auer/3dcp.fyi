@@ -18,7 +18,6 @@ tags:
  - setting
  - solid
  - waste
- - on
 
 ---
 
@@ -90,9 +89,7 @@ tags:
       <li><a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET/">A Micro-Scale-Based Numerical Model for Investigating Hygro-Thermo-Mechanical Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../jiao_shi_schu.2022.MRCi3CP/">Magneto-Rheology-Control in 3D Concrete Printing:<br/>A Rheological Attempt</a></li>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_ding_xiao_mech.2022.BPo3PCaEA/">Buildability Prediction of 3D Printed Concrete at Early-Ages:<br/>A Numerical Study with Drucker-Prager-Model</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
@@ -113,7 +110,6 @@ tags:
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/yao_xiao"><b>Yao</b> Xiao</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../yue_hua_qian_yao.2022.IoAoSEAFSaFAiSF3PC/">Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

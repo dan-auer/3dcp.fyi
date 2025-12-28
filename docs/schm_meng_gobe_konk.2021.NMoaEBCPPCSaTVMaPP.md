@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/lahmer_tom"><b>Lahmer</b> Tom</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 18th International Probabilistic Workshop, pp. 531-538
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

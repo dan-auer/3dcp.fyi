@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/aryal_ashrant"><b>Aryal</b> Ashrant</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1471-1478
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

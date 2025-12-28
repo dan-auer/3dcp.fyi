@@ -15,8 +15,6 @@ tags:
  - manufacturing
  - method
  - simulation
- - a
- - in
 
 ---
 
@@ -69,9 +67,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Extrusion-based 3D concrete printing (E3DCP), as one of the most advanced Additive Manufacturing processes, is a hotspot in the construction industry. Using the Discrete Element Method (DEM), the E3DCP can be investigated with reduced prototyping- and trial costs. However, DEM parameter calibration is challenging in the accurate simulation of construction materials because they are hardly typical granular matters. In addition, the introduction of a novel extrusion-based process Near-Nozzle-Mixing calls for a more flexible, efficient, and reliable calibration procedure due to the usable wide variety of material models.
-
-In this study, DEM simulation parameters of mortar and its components (e.g. Poraver® and paste) were thoroughly calibrated based on the central composite design method. Notably, the specific shape indices of related substrates were identified in the study to achieve the precise calibration of Poraver® and paste. Moreover, the European standard-based Haegermann flow table test was applied in the calibration by quantifying mortar consistency. This work provides a holistic and efficient calibration approach for three typical and physically different construction materials, which can be universally explored in the DEM simulation of most materials in E3DCP.
+    Extrusion-based 3D concrete printing (E3DCP), as one of the most advanced Additive Manufacturing processes, is a hotspot in the construction industry. Using the Discrete Element Method (DEM), the E3DCP can be investigated with reduced prototyping- and trial costs. However, DEM parameter calibration is challenging in the accurate simulation of construction materials because they are hardly typical granular matters. In addition, the introduction of a novel extrusion-based process Near-Nozzle-Mixing calls for a more flexible, efficient, and reliable calibration procedure due to the usable wide variety of material models. In this study, DEM simulation parameters of mortar and its components (e.g. Poraver® and paste) were thoroughly calibrated based on the central composite design method. Notably, the specific shape indices of related substrates were identified in the study to achieve the precise calibration of Poraver® and paste. Moreover, the European standard-based Haegermann flow table test was applied in the calibration by quantifying mortar consistency. This work provides a holistic and efficient calibration approach for three typical and physically different construction materials, which can be universally explored in the DEM simulation of most materials in E3DCP.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

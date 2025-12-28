@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/fratello_virginia"><b>san Fratello</b> Virginia</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 152-157
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

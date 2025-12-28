@@ -18,7 +18,6 @@ tags:
  - program
  - reinforcement
  - strength
- - a
 
 ---
 
@@ -79,7 +78,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>

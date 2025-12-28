@@ -15,8 +15,6 @@ tags:
  - sustainability
  - tailing
  - util
- - a
- - in
 
 ---
 

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#tool
+# #tool
 
 <ol reversed>
   <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>

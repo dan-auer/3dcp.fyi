@@ -14,7 +14,6 @@ tags:
  - formulas
  - print
  - printability
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/qandil_mostafa"><b>el Qandil</b> Mostafa</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Digital Technologies and Applications, pp. 813-824
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

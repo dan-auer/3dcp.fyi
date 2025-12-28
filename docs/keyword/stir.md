@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#stir
+# #stir
 
 <ol reversed>
   <li><a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a>, <a href="../../../author/zhong_jianjun"><b>Zhong</b> Jianjun</a>, <a href="../../../author/liang_yun"><b>Liang</b> Yun</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../deng_li_zhon_lian.2025.USMPCPfLBMOfMSEFI3PA/">Ultrafast-Setting Magnesium Phosphate Cement Prepared from Low-Burned Magnesium Oxide for Mixed Stirring Extrusion Function Integrated 3D Printing Applications</a></li>

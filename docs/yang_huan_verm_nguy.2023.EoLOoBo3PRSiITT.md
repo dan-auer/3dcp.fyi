@@ -13,8 +13,6 @@ tags:
  - specimen
  - tension
  - test
- - in
- - on
 
 ---
 

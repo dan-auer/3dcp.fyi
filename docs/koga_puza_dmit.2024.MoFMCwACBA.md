@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="https://orcid.org/0000-0002-9593-8653" title="ORCID: 0000-0002-9593-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Construction, Architecture and Technosphere Safety, pp. 152-161
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

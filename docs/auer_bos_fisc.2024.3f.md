@@ -13,9 +13,6 @@ tags:
  - network
  - print
  - state
- - a
- - in
- - on
 
 ---
 
@@ -30,6 +27,7 @@ tags:
 ,     <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 533-538
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)
@@ -68,12 +66,7 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

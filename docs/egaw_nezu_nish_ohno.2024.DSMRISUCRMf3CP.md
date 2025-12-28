@@ -38,6 +38,7 @@ tags:
 ,     <a href="../../../author/tadokoro_satoshi"><b>Tadokoro</b> Satoshi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

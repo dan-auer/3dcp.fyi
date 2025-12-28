@@ -14,7 +14,6 @@ tags:
  - physics
  - precision
  - print
- - in
 
 ---
 
@@ -84,8 +83,6 @@ tags:
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/niu_geng"><b>Niu</b> Geng</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P/">Study of the Influence of Sand on Rheological Properties, Bubble Features and Buildability of Fresh Foamed Concrete for 3D Printing</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../liu_xion_chen_jia.2022.EoSCoFaHPo3PFC/">Effect of Sulphoaluminate Cement on Fresh and Hardened Properties of 3D Printing Foamed Concrete</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../moei_hoss_yahi.2020.EotRMtEtBUoCMUf3P/">Effectiveness of the Rheometric Methods to Evaluate the Build-Up of Cementitious Mortars Used for 3D Printing</a></li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moei_hoss_yahi.2022.3PoCBMwAB/">3D Printing of Cement-Based Materials with Adapted Buildability</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>

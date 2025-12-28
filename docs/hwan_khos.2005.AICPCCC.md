@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 22nd International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

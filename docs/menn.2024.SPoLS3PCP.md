@@ -23,6 +23,7 @@ tags:
       <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

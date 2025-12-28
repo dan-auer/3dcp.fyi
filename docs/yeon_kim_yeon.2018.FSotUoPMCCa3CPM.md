@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/yeon_jaeheum"><b>Yeon</b> Jaeheum</a> <a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Congress on Polymers in Concrete, pp. 27-36
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

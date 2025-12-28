@@ -16,8 +16,6 @@ tags:
  - particle
  - print
  - process
- - a
- - in
 
 ---
 

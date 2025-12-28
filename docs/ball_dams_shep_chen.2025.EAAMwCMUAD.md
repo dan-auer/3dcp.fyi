@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

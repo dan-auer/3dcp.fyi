@@ -16,7 +16,6 @@ tags:
  - sulfoaluminate
  - thixotropy
  - yield
- - up
 
 ---
 

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> <a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Concrete Materials and Structures, pp. 399-443
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

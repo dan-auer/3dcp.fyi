@@ -18,7 +18,6 @@ tags:
  - material
  - print
  - standard
- - in
 
 ---
 
@@ -93,7 +92,7 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
-      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDbMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

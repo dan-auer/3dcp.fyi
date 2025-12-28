@@ -16,8 +16,6 @@ tags:
  - secondary
  - sustainability
  - volume
- - a
- - in
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 30-38
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)
@@ -69,9 +68,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The construction industry faces numerous challenges, including low productivity, a skilled labor shortage, safety concerns, and excessive waste generation. Various construction technologies have emerged to address these issues, with 3D printing and prefinished volumetric construction (PPVC) proving promising solutions, as demonstrated in the first 3D-printed PPVC project built in 2022, “CPAC-PP3DVC building”.
-In 2023, the second 3D Printed-Prefabricated Prefinished Volumetric Construction building for commercial mixed-use was proposed with a usage area of 58 square meters and six modules. In this project, to further reduce the embodied carbon of the building, we utilized lightweight carbon 3D-printed mortar, which has 51% lower carbon emission than normal-weight 3D-printed mortar but has comparable strength. Another significant project challenge was the module's weight, less than 10 tons, for easy transportation and assembly at a public location. Therefore, a lightweight low-carbon 3D-printed mortar, a lightweight floor system, and optimized structural strengthening of the 3D-printed walls approaches were combined to reduce the module’s weight. The maximum module weight of this project was only 6.6 tons, which facilitated the ease of assembly at the site. The assembly time of the building took only 5:30 h, and the total project's construction time was approximately 41 days, which is 54 percent faster than traditional brick-and-mortar construction. In addition, the amount of waste generated from the building's structure using the innovative 3D-printed PPVC approach was up to 97% less than that generated using brick-and-mortar construction.
-This project shows that 3D-printed PPVC is a promising construction technology with high potential. This technology can address the industry's challenges and provide a more sustainable and efficient way to build.
+    The construction industry faces numerous challenges, including low productivity, a skilled labor shortage, safety concerns, and excessive waste generation. Various construction technologies have emerged to address these issues, with 3D printing and prefinished volumetric construction (PPVC) proving promising solutions, as demonstrated in the first 3D-printed PPVC project built in 2022, “CPAC-PP3DVC building”. In 2023, the second 3D Printed-Prefabricated Prefinished Volumetric Construction building for commercial mixed-use was proposed with a usage area of 58 square meters and six modules. In this project, to further reduce the embodied carbon of the building, we utilized lightweight carbon 3D-printed mortar, which has 51% lower carbon emission than normal-weight 3D-printed mortar but has comparable strength. Another significant project challenge was the module's weight, less than 10 tons, for easy transportation and assembly at a public location. Therefore, a lightweight low-carbon 3D-printed mortar, a lightweight floor system, and optimized structural strengthening of the 3D-printed walls approaches were combined to reduce the module’s weight. The maximum module weight of this project was only 6.6 tons, which facilitated the ease of assembly at the site. The assembly time of the building took only 5:30 h, and the total project's construction time was approximately 41 days, which is 54 percent faster than traditional brick-and-mortar construction. In addition, the amount of waste generated from the building's structure using the innovative 3D-printed PPVC approach was up to 97% less than that generated using brick-and-mortar construction. This project shows that 3D-printed PPVC is a promising construction technology with high potential. This technology can address the industry's challenges and provide a more sustainable and efficient way to build.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

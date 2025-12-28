@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#nail
+# #nail
 
 <ol reversed>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>

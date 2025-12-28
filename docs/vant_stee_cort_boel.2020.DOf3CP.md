@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> <a href="https://orcid.org/0000-0001-6221-0837" title="ORCID: 0000-0001-6221-0837" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 720-727
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

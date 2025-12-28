@@ -11,7 +11,6 @@ tags:
  - function
  - grade
  - manufacturing
- - on
 
 ---
 
@@ -68,7 +67,6 @@ tags:
       <li><a href="../../../author/bao_yi"><b>Bao</b> Yi</a>, <a href="../../../author/xu_mingfeng"><b>Xu</b> Mingfeng</a>, <a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/xia_tian"><b>Xia</b> Tian</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../bao_xu_solt_xia.2019.TDPMECCEfSE/">Three-Dimensional Printing Multifunctional Engineered Cementitious Composites (ECC) for Structural Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/bosco_emanuela"><b>Bosco</b> Emanuela</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../bos_bosc_sale.2019.Do3PCRwSSSF/">Ductility of 3D Printed Concrete Reinforced with Short Straight Steel-Fibers</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/gale_andrew"><b>Gale</b> Andrew</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../crav_bart_gale_duar.2017.ADTfREFo3GSBCUAM/">A Design Tool for Resource-Efficient Fabrication of 3D Graded Structural Building Components Using Additive Manufacturing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
       <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> <a href="../../../date/2015/10">(2015-10)</a><br><a href="../../../duba_goss_roux.2015.AMaMOOoGPACS/">Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures</a></li>

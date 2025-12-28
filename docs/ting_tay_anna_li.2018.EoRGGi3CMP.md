@@ -12,7 +12,6 @@ tags:
  - material
  - print
  - recycling
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Progress in Additive Manufacturing, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

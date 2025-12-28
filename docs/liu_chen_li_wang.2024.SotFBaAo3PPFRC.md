@@ -13,7 +13,6 @@ tags:
  - print
  - pva
  - reinforcement
- - on
 
 ---
 
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../hamb_volk.2017.Po3PFRPCP/">Properties of 3D Printed Fiber-Reinforced Portland-Cement-Paste</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/liu_xiaoyan"><b>Liu</b> Xiaoyan</a>, <a href="../../../author/li_guangtao"><b>Li</b> Guangtao</a>, <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_li_geng.2022.SoAo3PPFRCUDaNDTM/">Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods</a></li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>

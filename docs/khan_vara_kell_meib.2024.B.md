@@ -13,7 +13,6 @@ tags:
  - robot
  - structure
  - wood
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture, pp. 174-183
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -67,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b> Johan</a>, <a href="../../../author/gurel_seyma"><b>Gürel</b> Şeyma</a>, <a href="../../../author/niketic_filip"><b>Niketić</b> Filip</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../burg_aejm_gure_nike.2023.EP/">Eggshell Pavilion:<br/>A Reinforced Concrete Structure Fabricated Using Robotically 3D Printed Formwork</a></li>
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b> Paul</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../mark_schr_blan_mech.2021.TDPWSCaSMf3CP/">Three-Dimensional-Printed Wood-Starch Composite as Support Material for 3D Concrete Printing</a></li>

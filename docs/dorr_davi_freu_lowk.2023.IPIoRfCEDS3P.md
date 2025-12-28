@@ -12,7 +12,6 @@ tags:
  - process
  - reinforcement
  - shotcrete
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -67,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/jutinov_r_evgeniy"><b>Jutinov</b> Evgeniy</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../bos_ahme_juti_sale.2017.EEoMCaRi3PC/">Experimental Exploration of Metal-Cable as Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../freu_lowk.2022.ILRiS3P/">Inter-Layer Reinforcement in Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../freu_mai_lowk.2020.StBPoVISRitS3PP/">Studying the Bond Properties of Vertical Integrated Short Reinforcement in the Shotcrete 3D Printing Process</a></li>
-      <li>None</li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hass_bos.2022.RPRUtASD/">Robotically Placed Reinforcement Using the Automated Screwing Device:<br/>An Application Perspective for 3D Concrete Printing</a></li>

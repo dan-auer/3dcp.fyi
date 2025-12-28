@@ -34,6 +34,7 @@ tags:
 ,     <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="https://orcid.org/0000-0002-5416-7039" title="ORCID: 0000-0002-5416-7039" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Earth and Space 2022, pp. 871-884
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

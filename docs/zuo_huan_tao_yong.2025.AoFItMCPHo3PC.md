@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

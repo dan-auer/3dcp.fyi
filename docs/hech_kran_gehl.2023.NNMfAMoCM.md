@@ -13,8 +13,6 @@ tags:
  - mortar
  - near
  - nozzle
- - a
- - near
 
 ---
 
@@ -68,8 +66,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../dahl_hech_matt_fott.2022.3CP/">3D Concrete Printing:<br/>Graded Concrete-Extrusion</a></li>
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a></li>
       <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a>, <a href="../../../author/grasley_zachary"><b>Grasley</b> Zachary</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mort_moha_mans_gras.2022.DoTMtEtPoCMfAM/">Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing</a></li>

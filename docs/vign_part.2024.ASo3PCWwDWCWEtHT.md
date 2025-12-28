@@ -13,7 +13,6 @@ tags:
  - print
  - temperature
  - wall
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/parthasarathi_n"><b>Parthasarathi</b> N.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Innovations in Construction Management, pp. 505-516
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

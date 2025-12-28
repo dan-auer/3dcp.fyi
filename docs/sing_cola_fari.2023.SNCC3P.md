@@ -10,8 +10,6 @@ tags:
  - print
  - review
  - sustainability
- - a
- - non
 
 ---
 
@@ -120,7 +118,6 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/huang_yimiao"><b>Huang</b> Yimiao</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sun_huan_asla_wang.2021.MEfEACMU3CP/">Mechanical Enhancement for EMW-Absorbing Cementitious Material Using 3D Concrete Printing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/vergara_adolfo_luis"><b>Vergara</b> Luis</a>, <a href="../../../author/colorado_a_henry"><b>Colorado</b> Henry</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../verg_colo.2020.AMoPCPwAoKSaCC/">Additive Manufacturing of Portland Cement-Pastes with Additions of Kaolin, Superplastificant and Calcium-Carbonate</a></li>
       <li><a href="../../../author/vergara_adolfo_luis"><b>Vergara</b> Luis</a>, <a href="../../../author/colorado_a_henry"><b>Colorado</b> Henry</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../verg_colo.2020.P3PoPCPwAoKSaCC/">Portland 3D Printing of Portland-Cement-Pastes with Additions of Kaolin, Superplastificant, and Calcium-Carbonate</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>

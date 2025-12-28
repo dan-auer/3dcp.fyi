@@ -10,7 +10,6 @@ tags:
  - shotcrete
  - sustainability
  - technology
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/schork_tim"><b>Schork</b> Tim</a> <a href="https://orcid.org/0000-0002-4583-2439" title="ORCID: 0000-0002-4583-2439" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Engineering, pp. 331-345
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)
@@ -67,7 +67,6 @@ tags:
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/frangez_valens"><b>Frangez</b> Valens</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../anto_reit_wang_fran.2021.A3CPPPfBC/">A 3D Concrete Printing Prefabrication Platform for Bespoke Columns</a></li>
       <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a>, <a href="../../../author/dutto_alessandro"><b>Dutto</b> Alessandro</a>, <a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../beda_dutt_zani_dill.2021.F3PfC/">Foam 3D Printing for Construction:<br/>A Review of Applications, Materials, and Processes</a></li>
       <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a>, <a href="../../../author/kumar_nitish"><b>Kumar</b> Nitish</a>, <a href="../../../author/lussi_manuel"><b>Lussi</b> Manuel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../buch_gift_kuma_luss.2018.DISF/">Digital In-Situ Fabrication:<br/>Challenges and Opportunities for Robotic In-Situ Fabrication in Architecture, Construction, and Beyond</a></li>
-      <li>None</li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hack_lind_klof.2019.AMSSfS3P/">Adaptive Modular Spatial Structures for Shotcrete 3D Printing</a></li>

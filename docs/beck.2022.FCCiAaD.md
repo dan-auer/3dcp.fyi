@@ -9,7 +9,6 @@ tags:
  - composite
  - concrete
  - design
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
       <a href="../../../author/becker_mirco"><b>Becker</b> Mirco</a> <a href="https://orcid.org/0000-0001-8488-2108" title="ORCID: 0000-0001-8488-2108" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 115
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)
@@ -50,8 +50,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    The paper explores the possibilities of a composite of needle-felt fibres and cement-based matrix for designing and fabricating architectural elements. It summarizes the longer standing design-research undertaking in needle-felting as a novel method for creating materially graded objects without the use of formwork. The work is conducted on a design prototype of a chair to emphasise the integrative nature of this material system. This approach allows the study of all aspects from the fabrication process, the function of details, structural behaviour, and user experience.
-Needle fleeting has a long tradition in arts and craft for manually forming intricate objects such as figurines or applying ornaments to textile objects. The main feature of felt material is that it can bring fibrous material into a stable shape. This process has been digitized by Disney Research proposing needle felting as a way of 3D-printing fibrous material [1]. Becker et al. also proposed a robotic process for robotically 3D-printing felt shapes [2] which form the base for a material composite of felt-fibers and a cement based matrix. Their paper argues for functionally graded architectural elements where the composite of felt and cement can provide for tensile reinforcement, compressive strength, insulation, and different haptic surfaces. Based these methods here a replica of IKEA® Leifarne chair is realized, showcasing a range of felt-concrete composite applications integrated in a single object.
+    The paper explores the possibilities of a composite of needle-felt fibres and cement-based matrix for designing and fabricating architectural elements. It summarizes the longer standing design-research undertaking in needle-felting as a novel method for creating materially graded objects without the use of formwork. The work is conducted on a design prototype of a chair to emphasise the integrative nature of this material system. This approach allows the study of all aspects from the fabrication process, the function of details, structural behaviour, and user experience. Needle fleeting has a long tradition in arts and craft for manually forming intricate objects such as figurines or applying ornaments to textile objects. The main feature of felt material is that it can bring fibrous material into a stable shape. This process has been digitized by Disney Research proposing needle felting as a way of 3D-printing fibrous material [1]. Becker et al. also proposed a robotic process for robotically 3D-printing felt shapes [2] which form the base for a material composite of felt-fibers and a cement based matrix. Their paper argues for functionally graded architectural elements where the composite of felt and cement can provide for tensile reinforcement, compressive strength, insulation, and different haptic surfaces. Based these methods here a replica of IKEA® Leifarne chair is realized, showcasing a range of felt-concrete composite applications integrated in a single object.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

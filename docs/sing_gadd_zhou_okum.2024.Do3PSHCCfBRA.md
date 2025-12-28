@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> <a href="https://orcid.org/0000-0001-6030-8371" title="ORCID: 0000-0001-6030-8371" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 451-458
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

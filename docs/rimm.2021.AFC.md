@@ -19,6 +19,7 @@ tags:
       <a href="../../../author/rimmer_matthew"><b>Rimmer</b> Matthew</a> <a href="https://orcid.org/0000-0002-2869-9971" title="ORCID: 0000-0002-2869-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Automating Cities, pp. 255-272
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

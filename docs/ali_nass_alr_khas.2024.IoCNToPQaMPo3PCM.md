@@ -14,9 +14,6 @@ tags:
  - property
  - quality
  - tube
- - nano
- - on
- - nano
 
 ---
 
@@ -88,11 +85,9 @@ tags:
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pasu_rama_sanj.2022.EtPoFC3PUPA/">Enhancing the Properties of Foam-Concrete 3D Printing Using Porous Aggregates</a></li>
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../shak_neja_gowr.2020.EoHCaEGFRAoPB3CM/">Effect of Heat-Curing and E6-Glass Fiber-Reinforcement Addition on Powder-Based 3DP Cement Mortar</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a></li>

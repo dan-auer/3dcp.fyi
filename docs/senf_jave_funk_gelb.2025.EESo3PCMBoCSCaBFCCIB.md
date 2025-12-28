@@ -16,7 +16,6 @@ tags:
  - print
  - sulfoaluminate
  - sustainability
- - on
 
 ---
 
@@ -74,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../lind_glin_funk_gelb.2023.APoAMCE/">Anisotropic Properties of Additively Manufactured Concrete Elements</a></li>
       <li><a href="../../../author/senf_ferdinand"><b>Senf</b> Ferdinand</a>, <a href="../../../author/javed_rezan"><b>Javed</b> Rezan</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../senf_jave_funk_gelb.2025.CEUSCA/">Concrete-Extrusion Using Sustainable Cement Alternatives</a></li>
     </ol>

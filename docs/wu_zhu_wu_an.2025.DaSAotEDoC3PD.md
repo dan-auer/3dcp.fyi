@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/wang_yongzhuo"><b>Wang</b> Yongzhuo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 9th International Conference on Mechanical Manufacturing Technology and Material Engineering, pp. 287-293
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 57-66
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)
@@ -63,7 +64,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/amran_mugahed"><b>Amran</b> Mugahed</a>, <a href="../../../author/abdelgader_s_hakim"><b>Abdelgader</b> Hakim</a>, <a href="../../../author/onaizi_m_ali"><b>Onaizi</b> Ali</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../amra_abde_onai_fedi.2022.3PAACfBA/">3D Printable Alkali-Activated Concretes for Building Applications:<br/>A Critical Review</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/cruz_gil"><b>Cruz</b> Gil</a>, <a href="../../../author/dizon_ryan-c_john"><b>Dizon</b> John</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../cruz_dizo_farz_zhou.2023.PAaSo3PCaOG/">Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials</a></li>
@@ -75,7 +75,6 @@ tags:
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../peng_unlu.2023.DoACBf3PA/">Development of Alternative Cementitious Binders for 3D Printing Applications:<br/>A Critical Review of Progress, Advantages and Challenges</a></li>
       <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../wang_xiao_sun_zhan.2023.MPo3PMCbC/">Mechanical Properties of 3D Printed Mortar Cured by CO2</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
     </ol>

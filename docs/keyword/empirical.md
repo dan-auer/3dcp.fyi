@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#empirical
+# #empirical
 
 <ol reversed>
   <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>

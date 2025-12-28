@@ -14,7 +14,6 @@ tags:
  - print
  - strength
  - trowel
- - inter
 
 ---
 

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#section
+# #section
 
 <ol reversed>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_alha.2025.TFBoECCEOW3PSMoSaHS/">The Flexural Behavior of Engineered Cementitious Composites (ECC) One-Way 3D Printed Slabs Made of Solid and Hollow Sections</a></li>

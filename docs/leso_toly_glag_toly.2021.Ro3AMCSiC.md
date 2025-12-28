@@ -10,7 +10,6 @@ tags:
  - construction
  - manufacturing
  - reuse
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/tolypin_a_daniil"><b>Tolypin</b> Daniil</a> <a href="https://orcid.org/0000-0001-9920-7180" title="ORCID: 0000-0001-9920-7180" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Innovations and Technologies in Construction, pp. 1-6
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -61,7 +61,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

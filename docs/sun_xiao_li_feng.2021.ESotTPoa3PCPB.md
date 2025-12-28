@@ -12,8 +12,6 @@ tags:
  - print
  - prototype
  - temperature
- - a
- - on
 
 ---
 

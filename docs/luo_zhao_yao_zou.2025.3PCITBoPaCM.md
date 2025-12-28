@@ -13,8 +13,6 @@ tags:
  - physics
  - print
  - review
- - a
- - on
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/shi_hao"><b>Shi</b> Hao</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Application and Development of Data Simulation and Mechanical Analysis in Civil Engineering, pp. 496-506
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -83,8 +82,6 @@ tags:
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/xu_guanzhong"><b>Xu</b> Guanzhong</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../hoss_zake_kora_xu.2019.ANMtEtILBo3PC/">A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete:<br/>An Experimental and Computational Investigation</a></li>
       <li><a href="../../../author/hosseini_ehsan"><b>Hosseini</b> Ehsan</a>, <a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b> Mohammad</a>, <a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a>, <a href="../../../author/zaker_zafar"><b>Zaker</b> Zafar</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../hoss_zake_kora_zake.2020.OOTIBOtIDo3PCB/">Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders</a></li>
       <li><a href="../../../author/hua_tianran"><b>Hua</b> Tianran</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a>, <a href="../../../author/poh_jun-desmond_wen"><b>Poh</b> Wen</a>, <a href="../../../author/wong_hui-alwin_de"><b>Wong</b> De</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../hua_lin_poh_wong.2023.3PCSK/">3D Printed Concrete Shear Keys:<br/>Design and Experimental Study</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../liu_tran_nguy_guna.2023.3PoCMwMRCF/">3D Printing of Cementitious Mortar with Milled Recycled Carbon-Fibers:<br/>Influences of Filament Offset on Mechanical Properties</a></li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>
@@ -121,7 +118,7 @@ tags:
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zuo_qinxin"><b>Zuo</b> Qinxin</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yu_zuo_zhan_pan.2024.AIoEtBPo3PCPFaPCC/">An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
-      <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RbWTBaILVo3PC/">Relationship between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
+      <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
 ???+ quote "Citations"

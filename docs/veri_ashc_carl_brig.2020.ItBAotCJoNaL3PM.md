@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/baaklini_edouard"><b>Baaklini</b> Edouard</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 527-536
 
 :aca-blank:{ .lg .middle}
     [`#adhesion`](keyword/adhesion)

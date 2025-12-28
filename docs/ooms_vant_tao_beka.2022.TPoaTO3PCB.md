@@ -11,7 +11,6 @@ tags:
  - print
  - production
  - topology
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> <a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 37-42
 
 :aca-blank:{ .lg .middle}
     [`#bridge`](keyword/bridge)

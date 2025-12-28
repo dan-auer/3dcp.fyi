@@ -16,9 +16,6 @@ tags:
  - printability
  - property
  - reinforcement
- - on
- - ultra
- - ultra
 
 ---
 
@@ -94,7 +91,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_ruan_unlu_tan.2019.It3PoHVFAMvtUoNAC/">Improving the 3D Printability of High-Volume Fly-Ash Mixtures via the Use of Nano-Attapulgite-Clay</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../rahu_moha_schu_titt.2022.3PCwNaRCA/">3D Printable Concrete with Natural and Recycled Coarse Aggregates:<br/>Rheological, Mechanical and Shrinkage Behavior</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../rahu_sant.2020.EtPoCCLCA/">Evaluating the Printability of Concretes Containing Lightweight Coarse Aggregates</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/mo_liwu"><b>Mo</b> Liwu</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../weng_ruan_li_mo.2019.FSoSMPPCPf3P/">Feasibility Study on Sustainable-Magnesium-Potassium-Phosphate Cement-Paste for 3D Printing</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>

@@ -12,7 +12,6 @@ tags:
  - print
  - tension
  - test
- - on
 
 ---
 

@@ -14,7 +14,6 @@ tags:
  - measurement
  - ratio
  - width
- - in
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/dimitriou_savvas"><b>Dimitriou</b> Savvas</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering 2024, pp. 267-279
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

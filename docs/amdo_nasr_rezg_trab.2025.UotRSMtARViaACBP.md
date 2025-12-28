@@ -13,7 +13,6 @@ tags:
  - rheology
  - use
  - variation
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/trabelsi_ali"><b>Trabelsi</b> Ali</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Additive Manufacturing, pp. 105-114
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

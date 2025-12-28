@@ -19,7 +19,6 @@ tags:
  - strength
  - variation
  - water
- - on
 
 ---
 
@@ -89,7 +88,6 @@ tags:
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S/">Quantitative Surface Quality Evaluation for 3D Printed Concrete with Coarse Aggregate Through 3D Scanning</a></li>
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>
-      <li>None</li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/tang_zhenzhong"><b>Tang</b> Zhenzhong</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../jia_jia_zhan_tang.2024.EoRBPwVPFoEAHWSaRPoBCPitCo3P/">Effect of Recycled Brick-Powder with Various Particle-Features on Early-Age Hydration, Water-State, and Rheological Properties of Blended Cement-Paste in the Context of 3D Printing</a></li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xiong_yuanliang"><b>Xiong</b> Yuanliang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_chen_xion_jia.2022.IoHMaSFoBo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Buildability of 3D Printing Foam-Concrete:<br/>From Water State and Flocculation Point of View</a></li>

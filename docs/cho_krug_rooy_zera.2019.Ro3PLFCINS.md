@@ -12,8 +12,6 @@ tags:
  - printability
  - rheology
  - silica
- - nano
- - nano
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 373-381
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

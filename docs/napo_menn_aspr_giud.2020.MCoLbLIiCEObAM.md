@@ -13,7 +13,6 @@ tags:
  - layer
  - manufacturing
  - mechanics
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/giudice_lorenzo"><b>del Giudice</b> Lorenzo</a> <a href="https://orcid.org/0000-0002-1565-0538" title="ORCID: 0000-0002-1565-0538" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 468-477
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

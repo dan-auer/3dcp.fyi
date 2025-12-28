@@ -14,7 +14,6 @@ tags:
  - print
  - structure
  - subtractive
- - a
 
 ---
 

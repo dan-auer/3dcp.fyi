@@ -13,7 +13,6 @@ tags:
  - model
  - print
  - temperature
- - in
 
 ---
 

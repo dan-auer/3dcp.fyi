@@ -14,8 +14,6 @@ tags:
  - post
  - print
  - property
- - post
- - under
 
 ---
 
@@ -80,7 +78,6 @@ tags:
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_rongfei"><b>Zhang</b> Rongfei</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_zhan_liu_he.2022.AotMPaDMf3PCBoPS/">Analysis of the Mechanical Performance and Damage Mechanism for 3D Printed Concrete Based on Pore-Structure</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../menn_mata_bos_vant.2020.OaCfSEoDFC/">Opportunities and Challenges for Structural Engineering of Digitally Fabricated Concrete</a></li>

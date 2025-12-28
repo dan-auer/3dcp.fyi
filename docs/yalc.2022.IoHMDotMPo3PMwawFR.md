@@ -14,7 +14,6 @@ tags:
  - property
  - reinforcement
  - without
- - on
 
 ---
 
@@ -85,7 +84,6 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/zhou_xinji"><b>Zhou</b> Xinji</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../ding_xiao_zou_zhou.2020.ABiBo3PCRwF/">Anisotropic Behavior in Bending of 3D Printed Concrete Reinforced with Fibers</a></li>
       <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/lyu_kai"><b>Lyu</b> Kai</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../geng_she_zuo_lyu.2020.LIPi3PC/">Layer-Interface Properties in 3D Printed Concrete:<br/>Dual Hierarchical Structure and Micromechanical Characterization</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/zhou_xiaolong"><b>Zhou</b> Xiaolong</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../jin_zhou_chen_zhao.2022.HT3PWPCBMwGFT/">High-Toughness 3D Printed White Portland-Cement-Based Materials with Glass-Fiber-Textile</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>

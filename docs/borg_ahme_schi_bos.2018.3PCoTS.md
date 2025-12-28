@@ -13,8 +13,6 @@ tags:
  - structure
  - surface
  - temporary
- - a
- - on
 
 ---
 
@@ -74,7 +72,6 @@ tags:
       <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/valentine_j_philip"><b>Valentine</b> Philip</a>, <a href="../../../author/piker_daniel"><b>Piker</b> Daniel</a> et al. <a href="../../../date/2016/06">(2016-06)</a><br><a href="../../../lim_busw_vale_pike.2016.MCLPPfFLSCC/">Modelling Curved-Layered Printing Paths for Fabricating Large-Scale Construction Components</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

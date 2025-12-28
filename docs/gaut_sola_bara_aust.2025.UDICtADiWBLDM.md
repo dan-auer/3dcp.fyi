@@ -15,7 +15,6 @@ tags:
  - liquid
  - model
  - wood
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/austern_guy"><b>Austern</b> Guy</a> <a href="https://orcid.org/0000-0003-3377-4814" title="ORCID: 0000-0003-3377-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 49-58
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

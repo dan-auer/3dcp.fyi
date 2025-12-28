@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th fib International Congress, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

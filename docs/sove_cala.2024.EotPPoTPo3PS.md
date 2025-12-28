@@ -11,7 +11,6 @@ tags:
  - process
  - structure
  - temperature
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#effect`](keyword/effect)
@@ -65,7 +65,6 @@ tags:
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/martin_falk"><b>Martin</b> Falk</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../cuev_chou_mart_ghaf.2021.3PLCCwIWGAaEM/">3D Printable Lightweight Cementitious Composites with Incorporated Waste-Glass-Aggregates and Expanded Microspheres:<br/>Rheological, Thermal and Mechanical Properties</a></li>
       <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/napolitano_rosanna"><b>Napolitano</b> Rosanna</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/giudice_lorenzo"><b>Giudice</b> Lorenzo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../napo_menn_aspr_giud.2020.MCoLbLIiCEObAM/">Mechanical Characterization of Layer-by-Layer Interface in Concrete Elements Obtained by Additive Manufacturing</a></li>
       <li><a href="../../../author/nemova_darya"><b>Nemova</b> Darya</a>, <a href="../../../author/kotov_vladimirovich_evgeny"><b>Kotov</b> Evgeny</a>, <a href="../../../author/andreeva_darya"><b>Andreeva</b> Darya</a>, <a href="../../../author/khorobrov_svyatoslav"><b>Khorobrov</b> Svyatoslav</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../nemo_koto_andr_khor.2022.ESotTPo3PES/">Experimental Study on the Thermal Performance of 3D Printed Enclosing Structures</a></li>

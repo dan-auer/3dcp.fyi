@@ -15,7 +15,6 @@ tags:
  - property
  - self
  - simulation
- - self
 
 ---
 

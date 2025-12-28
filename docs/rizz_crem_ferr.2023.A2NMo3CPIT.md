@@ -11,7 +11,6 @@ tags:
  - numeric
  - print
  - thixotropy
- - a
 
 ---
 
@@ -67,7 +66,6 @@ tags:
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
-      <li>None</li>
       <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rizz_crem_ferr.2023.A2NMo3CPIT/">A 2D Numerical Model of 3D Concrete Printing Including Thixotropy</a></li>
       <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rizz_ferr_crem.2023.NSotEaLDPi3CPwtPFEM/">Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method</a></li>

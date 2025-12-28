@@ -11,7 +11,6 @@ tags:
  - mixing
  - setting
  - static
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> <a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 107-115
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -74,7 +74,7 @@ tags:
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tao_lesa_titt_yuan.2023.TPPSfSCo3PC/">Twin-Pipe Pumping-Strategy for Stiffening-Control of 3D Printable Concrete:<br/>From Transportation to Fabrication</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tao_moha_rahu_schu.2023.IoRoMHaMBoTP3PC/">Influence of Rheology on Mixing Homogeneity and Mechanical Behavior of Twin-Pipe 3D Printable Concrete</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSODA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-On-Demand Applications</a></li>
+      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSoDA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../tao_moha_rahu_yuan.2022.SCCMwRPPfTPP/">Stiffening Controllable Concrete Modified with Redispersible Polymer Powder for Twin-Pipe Printing</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_rahu_lesa_titt.2022.MaMPo3PCitCotTPPS/">Mechanical and Microstructural Properties of 3D Printable Concrete in the Context of the Twin-Pipe Pumping-Strategy</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a></li>

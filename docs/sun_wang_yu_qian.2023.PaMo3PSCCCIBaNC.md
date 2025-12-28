@@ -14,8 +14,6 @@ tags:
  - micro
  - printability
  - property
- - nano
- - nano
 
 ---
 
@@ -89,7 +87,6 @@ tags:
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_qian_yu_leun.2022.TPo3PSHCCCMPNSaPP/">Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/li_baiyun"><b>Li</b> Baiyun</a>, <a href="../../../author/huang_hai"><b>Huang</b> Hai</a> et al. <a href="../../../date/2017/11">(2017-11)</a><br><a href="../../../yuan_zhou_li_huan.2018.EoMAotSBUoCP/">Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

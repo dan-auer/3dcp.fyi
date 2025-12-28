@@ -17,7 +17,6 @@ tags:
  - rubber
  - sustainability
  - waste
- - on
 
 ---
 
@@ -97,7 +96,6 @@ tags:
       <li><a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../liu_wang_ma_li.2023.UTSWMftFPEo3PC/">U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete:<br/>A Novel Reinforcing Approach</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/a_ruhan"><b>A</b> Ruhan</a>, <a href="../../../author/xie_panpan"><b>Xie</b> Panpan</a>, <a href="../../../author/pan_zhu"><b>Pan</b> Zhu</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ma_a_xie_pan.2022.3PAIC/">3D Printable Aerogel-Incorporated Concrete:<br/>Anisotropy Influence on Physical, Mechanical, and Thermal Insulation Properties</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>

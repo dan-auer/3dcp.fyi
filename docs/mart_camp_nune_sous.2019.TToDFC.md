@@ -12,7 +12,6 @@ tags:
  - fabrication
  - robot
  - wire
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="https://orcid.org/0000-0003-0024-4622" title="ORCID: 0000-0003-0024-4622" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 311-322
 
 :aca-blank:{ .lg .middle}
     [`#case`](keyword/case)

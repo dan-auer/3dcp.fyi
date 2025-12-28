@@ -10,7 +10,6 @@ tags:
  - link
  - print
  - steel
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> <a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 398-406
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -96,7 +96,7 @@ tags:
       <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../uddi_ye_deng_li.2023.IMLfPtSo3PFRC/">Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../best_krug_zijl.2023.RRfCP/">Rivet Reinforcement for Concrete Printing</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
-      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCIPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-In-Process to Reinforce 3D Printed Concrete</a></li>
+      <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../cao_yu_wu_cui.2023.ESoHMoPaCiPtR3PC/">Experimental Study of Hybrid Manufacture of Printing and Cast-in-Process to Reinforce 3D Printed Concrete</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a></li>
       <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/zheng_dapeng"><b>Zheng</b> Dapeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../cao_yu_zhen_cui.2022.NPtEtIBSi3PC/">Nail-Planting to Enhance the Interface Bonding Strength in 3D Printed Concrete</a></li>

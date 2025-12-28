@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 83-92
 
 :aca-blank:{ .lg .middle}
     [`#character`](keyword/character)

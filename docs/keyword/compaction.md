@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#compaction
+# #compaction
 
 <ol reversed>
   <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../silf.2024.CCCo3CaSCCStNF/">Composite Concrete Columns of 3DP Concrete and Self-Compacting Concrete Subjected to Normal Force</a></li>

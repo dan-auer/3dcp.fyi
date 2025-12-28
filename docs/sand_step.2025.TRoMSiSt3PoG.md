@@ -10,7 +10,6 @@ tags:
  - printability
  - sequence
  - shape
- - in
 
 ---
 
@@ -63,7 +62,6 @@ tags:
       <li><a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../bala_sasi_govi.2024.SoCoCACoEAPo3PC/">Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bos_krug_luca_zijl.2021.JFMCMfBAo3PCM/">Juxtaposing Fresh Material-Characterisation-Methods for Buildability-Assessment of 3D Printable Cementitious Mortars</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a></li>

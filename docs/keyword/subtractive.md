@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#subtractive
+# #subtractive
 
 <ol reversed>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM/">Manufacturing Accuracy Improvement of Concrete Product by Hybrid Additive-Subtractive Method Based on the Time-Dependent Characteristics of Cementitious Materials</a></li>

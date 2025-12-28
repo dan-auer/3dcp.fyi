@@ -12,7 +12,6 @@ tags:
  - print
  - property
  - water
- - on
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - The Young Concrete Researchers, Engineers and Technologist Symposium, pp. 88-95
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

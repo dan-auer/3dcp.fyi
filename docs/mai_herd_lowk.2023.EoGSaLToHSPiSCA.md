@@ -16,8 +16,6 @@ tags:
  - size
  - state
  - thickness
- - in
- - on
 
 ---
 
@@ -81,7 +79,6 @@ tags:
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../mai_lowk_perr.2022.FIiPBfSCA/">Fluid-Intrusion in Powder-Beds for Selective Cement-Activation:<br/>An Experimental and Analytical Study</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../nema_xia_sanj.2019.PpMtISoPB3PGfDCA/">Post-processing Methods to Improve Strength of Particle-Bed 3D Printed Geopolymer for Digital Construction Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a>, <a href="../../../author/rasouli_habib"><b>Rasouli</b> Habib</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../shak_gowr_raso.2021.EaNAo3PCMSUI3/">Experimental and Numerical Analysis of 3D Printed Cement Mortar Specimens Using Inkjet 3DP</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../shak_neja_paul_sanj.2020.DAFWaPiI3fGaCMM/">Dimensional Accuracy, Flowability, Wettability, and Porosity in Inkjet 3DP for Gypsum and Cement Mortar Materials</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>

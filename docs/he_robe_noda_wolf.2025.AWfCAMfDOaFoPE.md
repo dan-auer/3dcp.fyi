@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 247-254
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

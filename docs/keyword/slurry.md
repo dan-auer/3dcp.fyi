@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#slurry
+# #slurry
 
 <ol reversed>
   <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rama_pasu_mech_sanj.2024.PHMoGaOSfHAACi3CP/">Print-Head Mixing of Geopolymer and OPC Slurries for Hybrid Alkali-Activated Cement in 3D Concrete Printing</a></li>

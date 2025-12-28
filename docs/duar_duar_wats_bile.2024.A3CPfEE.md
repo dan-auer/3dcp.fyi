@@ -10,8 +10,6 @@ tags:
  - environment
  - extreme
  - print
- - a
- - on
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 19th ASCE ASD Biennial International Conference on Engineering, Science, Construction and Operations in Challenging Environment, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

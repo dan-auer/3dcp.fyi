@@ -15,7 +15,6 @@ tags:
  - print
  - technique
  - wave
- - on
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2025 IABSE Symposium, pp. 2762-2769
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

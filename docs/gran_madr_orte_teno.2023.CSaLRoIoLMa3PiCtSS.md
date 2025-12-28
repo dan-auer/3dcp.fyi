@@ -13,7 +13,6 @@ tags:
  - review
  - support
  - sustainability
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> <a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th Nordic Conference on Construction Economics and Organisation, pp. 209-222
 
 :aca-blank:{ .lg .middle}
     [`#concept`](keyword/concept)

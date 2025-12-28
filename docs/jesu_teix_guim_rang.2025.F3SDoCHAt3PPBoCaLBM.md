@@ -13,7 +13,6 @@ tags:
  - print
  - prototype
  - survey
- - on
 
 ---
 
@@ -69,8 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a></li>
       <li><a href="../../../author/dias_duarte_bruno"><b>Dias</b> Bruno</a>, <a href="../../../author/rocha_douglas"><b>Rocha</b> Douglas</a>, <a href="../../../author/faria_paulina"><b>Faria</b> Paulina</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../dias_roch_fari_luca.2023.LwHPf3PM/">Limes with Hydraulic Properties for 3D Printing Mortars</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../jesu_guim_rang_alve.2023.TPo3PiBP/">The Potential of 3D Printing in Building Pathology:<br/>Rehabilitation of Cultural Heritage</a></li>

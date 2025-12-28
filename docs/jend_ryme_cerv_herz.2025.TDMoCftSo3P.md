@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/herzfeldt_michaela"><b>Herzfeldt</b> Michaela</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the fib Symposium 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -60,7 +61,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/vaitova_michaela"><b>Vaitová</b> Michaela</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../jend_cerv_vait.2019.FMoDPCSU3E/">FEM Modelling of Digitally Printed Concrete Structures Using 3D-Extrusion</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>

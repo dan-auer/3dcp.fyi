@@ -8,7 +8,6 @@ tags:
  - concrete
  - construction
  - print
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
 ,     <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 25th Annual Conference of the International Group for Lean Construction, pp. 781-788
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

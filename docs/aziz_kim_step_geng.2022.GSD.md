@@ -14,7 +14,6 @@ tags:
  - platform
  - structure
  - workflow
- - a
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/gengnagel_christoph"><b>Gengnagel</b> Christoph</a> <a href="https://orcid.org/0000-0003-4118-3803" title="ORCID: 0000-0003-4118-3803" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 357-363
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

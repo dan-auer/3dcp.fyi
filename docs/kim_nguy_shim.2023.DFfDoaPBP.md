@@ -10,7 +10,6 @@ tags:
  - digital
  - fabrication
  - prefabrication
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 17th East Asian-Pacific Conference on Structural Engineering and Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bridge`](keyword/bridge)

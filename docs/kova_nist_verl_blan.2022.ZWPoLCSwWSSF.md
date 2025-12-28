@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 3-8
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

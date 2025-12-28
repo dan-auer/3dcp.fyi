@@ -17,7 +17,6 @@ tags:
  - reinforcement
  - strain
  - textile
- - multi
 
 ---
 

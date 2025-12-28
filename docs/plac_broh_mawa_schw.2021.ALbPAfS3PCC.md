@@ -12,11 +12,10 @@ tags:
  - print
  - production
  - shotcrete
- - a
 
 ---
 
-#:aca-closedaccess:{ .xred '} A Lean-based Production Approach for Shotcrete 3D Printed Concrete Components ([2021-11](date/2021/11))
+#:aca-closedaccess:{ .xred '} A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components ([2021-11](date/2021/11))
 <a href="https://doi.org/10.22260/isarc2021/0110" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.22260/isarc2021/0110</a>
 
 -------------------------
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)
@@ -44,7 +44,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Lean-based%20Production%20Approach%20for%20Shotcrete%203D%20Printed%20Concrete%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=A%20Lean-Based%20Production%20Approach%20for%20Shotcrete%203D%20Printed%20Concrete%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2021/0110" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -70,7 +70,6 @@ tags:
     <ol>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hack_klof.2020.S3PTftFoSFRFCEwHSQ/">Shotcrete 3D Printing Technology for the Fabrication of Slender Fully Reinforced Freeform Concrete Elements with High Surface Quality:<br/>A Real-Scale Demonstrator</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a> <a href="../../../date/2014/04">(2014-04)</a><br><a href="../../../hack_laue.2014.MM/">Mesh Mould:<br/>Robotically Fabricated Spatial Meshes as Reinforced Concrete Formwork</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jenn_llor_gram_kohl.2020.CPtCMRFOS/">Crafting Plaster through Continuous Mobile Robotic Fabrication On-Site</a></li>

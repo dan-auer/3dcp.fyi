@@ -14,8 +14,6 @@ tags:
  - impregnation
  - printability
  - reinforcement
- - a
- - in
 
 ---
 
@@ -32,6 +30,7 @@ tags:
 ,     <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)
@@ -71,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../caro_duco_demo_bono.2023.3PoCFCC/">3D Printing of Continuous-Fibers Cementitious Composites:<br/>Anisotropic 3D Mortar</a></li>
       <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../demo_duco_mesn_caro.2021.FBPoCFfCBCMaAM/">Flow-Based Pultrusion of Continuous Fibers for Cement-Based Composite Material and Additive Manufacturing:<br/>Rheological and Technological Requirements</a></li>

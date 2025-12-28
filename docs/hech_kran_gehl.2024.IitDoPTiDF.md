@@ -11,7 +11,6 @@ tags:
  - investigation
  - penetration
  - test
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#digital`](keyword/digital)
@@ -62,7 +62,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hech_kran_gehl.2024.IitDoPTiDF/">Investigations into the Dynamics of Penetration Tests in Digital Fabrication</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../reit_wang_rous_flat.2022.SPfCCfDF/">Slow Penetration for Characterizing Concrete for Digital Fabrication</a></li>
     </ol>

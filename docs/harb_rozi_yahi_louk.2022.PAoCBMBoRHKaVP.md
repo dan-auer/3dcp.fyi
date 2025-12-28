@@ -15,7 +15,6 @@ tags:
  - property
  - rheology
  - viscosity
- - on
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
-      <li>None</li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/renneberg_jarred"><b>Renneberg</b> Jarred</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../shak_renn_neja_paul.2017.OoDCMDf3PbU6IR/">Optimization of Different Concrete Mix Designs for 3D Printing by Utilizing 6DOF Industrial Robot</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>

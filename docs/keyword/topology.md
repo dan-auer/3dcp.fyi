@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#topology
+# #topology
 
 <ol reversed>
   <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../card_varg_fant.2026.TOaMEfItTPo3PPWC/">Topological Optimization and Material Exploration for Improving the Thermal Performance of 3D Printed Prefabricated Wall Components</a></li>

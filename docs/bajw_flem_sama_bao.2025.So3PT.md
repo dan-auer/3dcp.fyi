@@ -11,8 +11,6 @@ tags:
  - sustainability
  - technology
  - trend
- - a
- - on
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/potangora_regan"><b>Potangora</b> Regan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Creating Capacity and Capability, pp. 467-478
 
 :aca-blank:{ .lg .middle}
     [`#development`](keyword/development)
@@ -89,7 +88,6 @@ tags:
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a></li>
       <li><a href="../../../author/pan_yifan"><b>Pan</b> Yifan</a>, <a href="../../../author/zhang_yulu"><b>Zhang</b> Yulu</a>, <a href="../../../author/zhang_dakang"><b>Zhang</b> Dakang</a>, <a href="../../../author/song_yuying"><b>Song</b> Yuying</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../pan_zhan_zhan_song.2021.3PiC/">3D Printing in Construction:<br/>State of the Art and Applications</a></li>
       <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pasu_rama_sanj.2023.3CPoEFGCBW/">3D Concrete Printing of Eco-Friendly Geopolymer Containing Brick Waste</a></li>
-      <li>None</li>
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../raza_zhon.2022.ASRfAMUGiCI/">A Sustainable Roadmap for Additive Manufacturing Using Geopolymers in Construction Industry</a></li>
       <li><a href="../../../author/salandin_andrea"><b>Salandin</b> Andrea</a>, <a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b> Alberto</a>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b> Vicente</a>, <a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b> Ignacio</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sala_quin_gome_guil.2022.TF3PBiS/">The First 3D Printed Building in Spain:<br/>A Study on Its Acoustic, Thermal and Environmental Performance</a></li>
       <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a></li>

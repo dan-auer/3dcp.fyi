@@ -11,7 +11,6 @@ tags:
  - practice
  - print
  - recommendation
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a> <a href="https://orcid.org/0000-0001-7248-4145" title="ORCID: 0000-0001-7248-4145" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 21. Symposium Baustoffe und Bauwerkserhaltung, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

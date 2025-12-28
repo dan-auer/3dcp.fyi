@@ -15,7 +15,6 @@ tags:
  - strength
  - structure
  - time
- - on
 
 ---
 

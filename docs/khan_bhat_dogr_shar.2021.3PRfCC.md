@@ -11,7 +11,6 @@ tags:
  - graph
  - print
  - robot
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/bera_kumar_tarun"><b>Bera</b> Tarun</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 8th International Conference on Signal Processing and Integrated Networks, pp. 169-174
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

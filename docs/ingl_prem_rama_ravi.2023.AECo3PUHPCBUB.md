@@ -14,9 +14,6 @@ tags:
  - height
  - performance
  - print
- - ultra
- - under
- - ultra
 
 ---
 
@@ -32,6 +29,7 @@ tags:
 ,     <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

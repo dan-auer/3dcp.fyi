@@ -11,11 +11,10 @@ tags:
  - formwork
  - mechanics
  - print
- - in
 
 ---
 
-#:aca-closedaccess:{ .xred '} 3D Printed Concrete as Stay-in-Place Formwork:<br/>:aca-blank: Mechanics during Casting and Curing ([2022-08](date/2022/08))
+#:aca-closedaccess:{ .xred '} 3D Printed Concrete as Stay-in-Place Formwork:<br/>:aca-blank: Mechanics During Casting and Curing ([2022-08](date/2022/08))
 <a href="https://doi.org/10.1002/suco.202200088" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1002/suco.202200088</a>
 
 -------------------------

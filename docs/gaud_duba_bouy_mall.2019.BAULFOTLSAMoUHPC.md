@@ -16,8 +16,6 @@ tags:
  - manufacturing
  - performance
  - scale
- - ultra
- - ultra
 
 ---
 
@@ -36,6 +34,7 @@ tags:
 ,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing Technology, pp. 37-58
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -100,7 +99,7 @@ tags:
       <li><a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b> Asel</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/stefanoni_matteo"><b>Stefanoni</b> Matteo</a>, <a href="../../../author/angst_m_ueli"><b>Angst</b> Ueli</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../agui_wang_stef_angs.2022.MEoC3PC/">Microstructural Examination of Carbonated 3D Printed Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../mech_fata_bos_busw.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Underlying Physics</a></li>
       <li><a href="../../../author/batikha_mustafa"><b>Batikha</b> Mustafa</a>, <a href="../../../author/jotangia_rahul"><b>Jotangia</b> Rahul</a>, <a href="../../../author/baaj_yasser_mohamad"><b>Baaj</b> Mohamad</a>, <a href="../../../author/mousleh_ibrahim"><b>Mousleh</b> Ibrahim</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../bati_jota_baaj_mous.2022.3CPfSaEC/">3D Concrete Printing for Sustainable and Economical Construction:<br/>A Comparative Study</a></li>
-      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../suik.2022.EoACaLDoSFdEB3P/">Effect of Accelerated Curing and Layer Deformations on Structural Failure during Extrusion-Based 3D Printing</a></li>
+      <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../suik.2022.EoACaLDoSFDEB3P/">Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../guim_delg_luca.2021.TaEBo3PoBC/">Thermal and Environmental Benefits of 3D Printing on Building Construction</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../teix_scha_rang_alve.2021.Do3PSMBoaBA/">Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>

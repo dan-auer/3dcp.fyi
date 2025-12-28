@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2023 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

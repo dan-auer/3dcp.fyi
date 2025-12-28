@@ -11,7 +11,6 @@ tags:
  - print
  - recycling
  - sustainability
- - in
 
 ---
 
@@ -65,7 +64,6 @@ tags:
       <li><a href="../../../author/abudawaba_fareh"><b>Abudawaba</b> Fareh</a>, <a href="../../../author/gomaa_eslam"><b>Gomaa</b> Eslam</a>, <a href="../../../author/gheni_a_ahmed"><b>Gheni</b> Ahmed</a>, <a href="../../../author/gawady_mohamed"><b>Gawady</b> Mohamed</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../abud_goma_ghen_gawa.2022.DMPfCCFABAA3PCM/">Developing Mix Proportions for Class C Fly-Ash-Based Alkali-Activated 3D Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
-      <li>None</li>
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../rush_styn_barn_chaa.2019.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>

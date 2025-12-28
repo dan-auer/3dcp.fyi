@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#internal
+# #internal
 
 <ol reversed>
   <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>

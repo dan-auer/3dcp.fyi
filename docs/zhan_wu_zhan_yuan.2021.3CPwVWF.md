@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/gao_tianyi"><b>Gao</b> Tianyi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 39th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 153-160
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

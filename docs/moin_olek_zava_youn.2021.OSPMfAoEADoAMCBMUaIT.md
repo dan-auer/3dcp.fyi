@@ -33,6 +33,7 @@ tags:
 ,     <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> <a href="https://orcid.org/0000-0002-8720-8642" title="ORCID: 0000-0002-8720-8642" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 1-12
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -94,7 +95,7 @@ tags:
       <li><a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/fryda_herve"><b>Fryda</b> Hervé</a>, <a href="../../../author/bousseau_jean-noel"><b>Bousseau</b> Jean-Noël</a>, <a href="../../../author/andreani_pierre-antoine"><b>Andreani</b> Pierre-Antoine</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../silv_fryd_bous_andr.2020.EoEACSBUf3CPbOR/">Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

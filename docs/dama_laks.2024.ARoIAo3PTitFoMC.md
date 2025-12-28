@@ -11,9 +11,6 @@ tags:
  - print
  - review
  - technology
- - a
- - in
- - on
 
 ---
 
@@ -27,6 +24,7 @@ tags:
 ,     <a href="../../../author/lakshmi_keshav"><b>Lakshmi</b> Keshav</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 231-240
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)
@@ -63,7 +61,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b> Daniel</a>, <a href="../../../author/clayton_patricia"><b>Clayton</b> Patricia</a>, <a href="../../../author/brien_j_william"><b>Brien</b> William</a>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../delg_clay_brie_seep.2018.AoAMitCI/">Applications of Additive Manufacturing in the Construction Industry:<br/>A Forward-Looking Review</a></li>

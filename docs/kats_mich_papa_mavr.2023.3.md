@@ -8,7 +8,6 @@ tags:
  - first
  - print
  - structure
- - in
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/spitas_vasilios"><b>Spitas</b> Vasilios</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 673-682
 
 :aca-blank:{ .lg .middle}
     [`#first`](keyword/first)

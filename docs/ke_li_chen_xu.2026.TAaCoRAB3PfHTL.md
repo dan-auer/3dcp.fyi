@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/li_chaoyi"><b>Li</b> Chaoyi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 31st International Conference on Computational and Experimental Simulations in Engineering, pp. 571-586
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -86,7 +87,6 @@ tags:
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../meis_wats_bile_duar.2022.DaSCfCSCAMiREvRAD/">Design and System Considerations for Construction-Scale Concrete Additive Manufacturing in Remote Environments via Robotic-Arm-Deposition</a></li>
       <li><a href="../../../author/nair_avinash"><b>Nair</b> Avinash</a>, <a href="../../../author/aditya_d_s"><b>Aditya</b> S.</a>, <a href="../../../author/adarsh_n_r"><b>Adarsh</b> R.</a>, <a href="../../../author/nandan_m"><b>Nandan</b> M.</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../nair_adit_adar_nand.2020.AMoC/">Additive Manufacturing of Concrete:<br/>Challenges and Opportunities</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a>, <a href="../../../author/mangini_m_agostino"><b>Mangini</b> Agostino</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pari_sang_pari_mang.2023.ANCfLAMiC/">A New Concept for Large Additive Manufacturing in Construction:<br/>Tower-Crane-Based 3D Printing Controlled by Deep-Reinforcement-Learning</a></li>

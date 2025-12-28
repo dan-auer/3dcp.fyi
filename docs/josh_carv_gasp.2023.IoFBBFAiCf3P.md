@@ -11,7 +11,6 @@ tags:
  - cement
  - incorporation
  - print
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable and Digital Building, pp. 73-87
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)

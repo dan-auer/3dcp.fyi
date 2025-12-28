@@ -15,7 +15,6 @@ tags:
  - print
  - simulation
  - stack
- - in
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/tan_ze-mei_jolyn"><b>Tan</b> Jolyn</a>, <a href="../../../author/chow_tuck_wai"><b>Chow</b> Wai</a>, <a href="../../../author/li_hua"><b>Li</b> Hua</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../he_tan_chow_li.2021.DoNNfHILSo3PCP/">Design of Novel Nozzles for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
       <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a></li>
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lao_li_wong_tan.2020.ISFQiEB3CPUMLBEGC/">Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control</a></li>
       <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/ho_yao_jin"><b>Ho</b> Jin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../li_liu_ho_wong.2023.IHo3PCMDfRTP/">Improving Homogeneity of 3D Printed Cementitious Material-Distribution for Radial Tool-Path</a></li>
@@ -115,7 +113,6 @@ tags:
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
       <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhu_cerv_ren.2024.BoC3PCGUP/">Buildability of Complex 3D Printed Concrete Geometries Using Peridynamics</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

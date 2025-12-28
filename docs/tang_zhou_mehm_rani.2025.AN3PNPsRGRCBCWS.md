@@ -19,7 +19,6 @@ tags:
  - reinforcement
  - structure
  - wall
- - a
 
 ---
 

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#human
+# #human
 
 <ol reversed>
   <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../roja_hasa.2025.HFi3CPfC/">Human Factor in 3D Concrete Printing for Construction</a></li>

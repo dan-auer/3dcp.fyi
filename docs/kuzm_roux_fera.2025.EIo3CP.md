@@ -22,6 +22,7 @@ tags:
 ,     <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Concrete Printing, pp. 219-240
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

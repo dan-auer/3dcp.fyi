@@ -15,7 +15,6 @@ tags:
  - nozzle
  - print
  - property
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Advances in Additive Manufacturing, pp. 21-31
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

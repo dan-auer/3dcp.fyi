@@ -12,7 +12,6 @@ tags:
  - material
  - print
  - waste
- - eco
 
 ---
 
@@ -73,7 +72,6 @@ tags:
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ivan_mech.2020.EoVFaSAoAotSYSaSBUoFC/">Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete</a></li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
-      <li>None</li>
       <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a>, <a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kaya_ciza_yalc_fele.2025.ACSotEoFAaBFSaPCSi3PC/">A Comparative Study on the Effectiveness of Fly Ash and Blast Furnace Slag as Partial Cement Substitution in 3D Printable Concrete</a></li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>

@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/norris_r_william"><b>Norris</b> William</a> <a href="https://orcid.org/0000-0002-4940-4458" title="ORCID: 0000-0002-4940-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ASME 2022 International Additive Manufacturing Conference, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

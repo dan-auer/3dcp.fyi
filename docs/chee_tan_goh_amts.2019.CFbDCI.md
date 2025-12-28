@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/dritsas_stylianos"><b>Dritsas</b> Stylianos</a> <a href="https://orcid.org/0000-0002-9609-2784" title="ORCID: 0000-0002-9609-2784" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 139-151
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

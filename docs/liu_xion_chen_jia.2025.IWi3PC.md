@@ -13,9 +13,6 @@ tags:
  - review
  - rheology
  - waste
- - a
- - in
- - on
 
 ---
 
@@ -99,7 +96,6 @@ tags:
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../jaya_sanj_raje.2019.DSTftAoRPoCf3PA/">Direct-Shear-Test for the Assessment of Rheological Parameters of Concrete for 3D Printing Applications</a></li>
       <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>

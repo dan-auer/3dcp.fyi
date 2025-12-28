@@ -16,7 +16,6 @@ tags:
  - property
  - segment
  - wall
- - under
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/thiruvenkatamani_g"><b>Thiruvenkatamani</b> G.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 209-215
 
 :aca-blank:{ .lg .middle}
     [`#axis`](keyword/axis)

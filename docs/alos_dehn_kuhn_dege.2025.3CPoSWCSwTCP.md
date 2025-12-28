@@ -14,9 +14,6 @@ tags:
  - solid
  - structure
  - wall
- - a
- - in
- - on
 
 ---
 

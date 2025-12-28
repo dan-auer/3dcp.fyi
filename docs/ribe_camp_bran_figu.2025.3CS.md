@@ -14,7 +14,6 @@ tags:
  - manufacturing
  - system
  - wall
- - a
 
 ---
 
@@ -89,7 +88,6 @@ tags:
       <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../liu_wang_sun_li.2025.ILSSaBSoS3PM/">Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar</a></li>
       <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../nabo_bres_sani.2022.EA3CPtRV/">Environment-Aware 3D Concrete Printing through Robot-Vision</a></li>
       <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ribe_mora_silv_bran.2024.R3FoCFSfIP/">Robotic 3DCP Fabrication of Custom-Fit Slabs for Irregular Pontoons</a></li>
-      <li>None</li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../suik.2018.MPoWSi3PP/">Mechanical Performance of Wall Structures in 3D Printing Processes:<br/>Theory, Design Tools and Experiments</a></li>
       <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a></li>
       <li><a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/alqamish_h_habib"><b>Alqamish</b> Habib</a>, <a href="../../../author/khaldoune_ahlam"><b>Khaldoune</b> Ahlam</a>, <a href="../../../author/alhaidary_haidar"><b>Alhaidary</b> Haidar</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../tami_alqa_khal_alha.2023.Fo3CPPaC/">Framework of 3D Concrete Printing Potential and Challenges</a></li>

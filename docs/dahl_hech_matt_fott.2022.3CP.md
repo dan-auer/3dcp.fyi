@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> <a href="https://orcid.org/0000-0001-6392-0371" title="ORCID: 0000-0001-6392-0371" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Computation, Automation and Knowledge Management, pp. 1-5
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

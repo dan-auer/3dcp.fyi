@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/jungwirth_jorg"><b>Jungwirth</b> Jörg</a> <a href="https://orcid.org/0000-0002-5858-7508" title="ORCID: 0000-0002-5858-7508" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 438-445
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)

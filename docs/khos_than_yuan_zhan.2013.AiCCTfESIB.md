@@ -11,7 +11,6 @@ tags:
  - craf
  - infrastructure
  - technology
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of AIAA SPACE 2013 Conference and Exposition, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)

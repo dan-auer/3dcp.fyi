@@ -13,7 +13,6 @@ tags:
  - scan
  - structuration
  - system
- - a
 
 ---
 

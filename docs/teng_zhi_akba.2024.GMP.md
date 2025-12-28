@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings, pp. 197-206
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -69,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
     </ol>

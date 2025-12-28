@@ -17,10 +17,6 @@ tags:
  - print
  - shear
  - strategy
- - a
- - in
- - multi
- - on
 
 ---
 

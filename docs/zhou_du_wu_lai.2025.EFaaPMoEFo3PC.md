@@ -13,8 +13,6 @@ tags:
  - method
  - prediction
  - print
- - a
- - on
 
 ---
 
@@ -92,7 +90,7 @@ tags:
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a></li>
-      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRbFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
+      <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhou_lai_du_wu.2022.EoDDSFoSaDPo3PCC/">Effect of Directionally Distributed Steel-Fiber on Static and Dynamic Properties of 3D Printed Cementitious Composite</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>

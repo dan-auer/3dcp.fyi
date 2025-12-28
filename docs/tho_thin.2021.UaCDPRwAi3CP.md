@@ -11,8 +11,6 @@ tags:
  - parallel
  - print
  - robot
- - a
- - in
 
 ---
 

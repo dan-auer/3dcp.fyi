@@ -14,8 +14,6 @@ tags:
  - print
  - scale
  - structure
- - a
- - in
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 5-19
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -87,7 +86,7 @@ tags:
     </ol>
 ???+ quote "Citations"
     <ol reversed>
-      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PCPMaS/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage</a></li>
+      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
       <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_oh_lee_choi.2025.EDDFfQCo3PCPF/">Experimental Data-Driven Framework for Quality Control of 3D-Printed Concrete Permanent Formworks</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>

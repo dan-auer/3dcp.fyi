@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 906-915
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -69,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../henk_talk_matt.2020.AMbEoLC/">Additive Manufacturing by Extrusion of Lightweight Concrete:<br/>Strand Geometry, Nozzle Design and Layer Layout</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../mark_sahm_nere_nath.2019.IotFCPTSf3PwFC/">Investigations on the Foam-Concrete Production Techniques Suitable for 3D Printing with Foam-Concrete</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>

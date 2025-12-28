@@ -13,7 +13,6 @@ tags:
  - real
  - system
  - time
- - a
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - High Tech Concrete, pp. 2474-2483
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#skin
+# #skin
 
 <ol reversed>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../varg_bres_silf.2025.CHF/">Circular Hybrid Façades:<br/>Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</a></li>

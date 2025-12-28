@@ -11,7 +11,6 @@ tags:
  - print
  - projection
  - validation
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/chatelet_eric"><b>Chatelet</b> Eric</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Digitalization in Additive Manufacturing, pp. 91-107
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -68,8 +68,6 @@ tags:
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a></li>
       <li><a href="../../../author/bici_andjol"><b>Bici</b> Andjol</a>, <a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b> Anna</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bici_yuni.2023.Ao3PTfBC/">Analysis of 3D Printing Techniques for Building Construction:<br/>A Review</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../khan_mcna.2023.AHRotCoCEfDSCCitBE/">A Holistic Review on the Contribution of Civil Engineers for Driving Sustainable Concrete Construction in the Built Environment</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a>, <a href="../../../author/arica_emrah"><b>Arica</b> Emrah</a>, <a href="../../../author/woods_ruth"><b>Woods</b> Ruth</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../olss_aric_wood_madr.2021.I40iaPC/">Industry 4.0 in a Project Context:<br/>Introducing 3D Printing in Construction Projects</a></li>

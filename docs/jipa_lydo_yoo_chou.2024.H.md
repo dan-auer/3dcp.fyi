@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/schluter_arno"><b>Schlüter</b> Arno</a> <a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Scalable Disruptors, pp. 423-433
 
 :aca-blank:{ .lg .middle}
     [`#formwork`](keyword/formwork)

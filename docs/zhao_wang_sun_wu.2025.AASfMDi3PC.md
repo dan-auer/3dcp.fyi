@@ -12,9 +12,6 @@ tags:
  - micro
  - print
  - system
- - in
- - micro
- - micro
 
 ---
 

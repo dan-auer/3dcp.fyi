@@ -15,7 +15,6 @@ tags:
  - system
  - technology
  - use
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#2k`](keyword/2k)

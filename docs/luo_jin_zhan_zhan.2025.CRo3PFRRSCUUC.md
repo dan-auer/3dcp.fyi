@@ -15,7 +15,6 @@ tags:
  - reinforcement
  - relation
  - sand
- - under
 
 ---
 
@@ -105,13 +104,11 @@ tags:
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a></li>
       <li><a href="../../../author/xia_zhenjiang"><b>Xia</b> Zhenjiang</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../xia_geng_zhou_liu.2025.CAoPBaSFi3PC/">Comparative Analysis of Polypropylene, Basalt, and Steel Fibers in 3D Printed Concrete:<br/>Effects on Flowability, Printabiliy, Rheology, and Mechanical Performance</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/he_bei"><b>He</b> Bei</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhan_zhu_ren_he.2023.CoPaMPoRaFFR3PCBM/">Comparison of Printability and Mechanical Properties of Rigid and Flexible Fiber-Reinforced 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
-      <li>None</li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
 ???+ quote "Citations"

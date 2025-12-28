@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1174-1182
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

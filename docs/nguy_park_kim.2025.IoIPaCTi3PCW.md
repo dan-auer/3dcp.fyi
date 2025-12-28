@@ -13,7 +13,6 @@ tags:
  - print
  - type
  - wall
- - in
 
 ---
 
@@ -61,8 +60,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Three-dimensional (3D) printing has transformed the construction industry by enabling the creation of complex forms while minimizing material waste. Among the materials used in 3D printing construction, such as concrete and PLA, clay stands out as a traditional and locally sustainable option, widely adopted due to its availability and suitability for producing construction modules like bricks. However, existing research has primarily focused on linear structures, with limited exploration of clay-based curved geometries, particularly those involving overhangs, where the lack of support structures necessitates a continuous printing process, posing significant challenges.
-This study aims to examine the printability of double-curved clay surfaces, specifically optimizing overhang angles, material usage, and printing duration through various infill pattern strategies. Across 87 printing tests, the results show that introducing infill patterns can significantly enhance printability at higher overhangs. Triangle and Grid infill patterns increased the maximum achievable overhang angle by up to 20° compared to the solid-fill condition, achieving angles of 50°–60° depending on geometry. Meanwhile, the Honeycomb pattern reduced material consumption and printing time relative to the other patterns, despite providing less improvement in overhang performance. These findings demonstrate that infill-based optimization can effectively balance geometric stability and efficiency, providing a foundation for more sustainable and geometrically sophisticated applications in 3D-printed clay architecture.
+    Three-dimensional (3D) printing has transformed the construction industry by enabling the creation of complex forms while minimizing material waste. Among the materials used in 3D printing construction, such as concrete and PLA, clay stands out as a traditional and locally sustainable option, widely adopted due to its availability and suitability for producing construction modules like bricks. However, existing research has primarily focused on linear structures, with limited exploration of clay-based curved geometries, particularly those involving overhangs, where the lack of support structures necessitates a continuous printing process, posing significant challenges. This study aims to examine the printability of double-curved clay surfaces, specifically optimizing overhang angles, material usage, and printing duration through various infill pattern strategies. Across 87 printing tests, the results show that introducing infill patterns can significantly enhance printability at higher overhangs. Triangle and Grid infill patterns increased the maximum achievable overhang angle by up to 20° compared to the solid-fill condition, achieving angles of 50°–60° depending on geometry. Meanwhile, the Honeycomb pattern reduced material consumption and printing time relative to the other patterns, despite providing less improvement in overhang performance. These findings demonstrate that infill-based optimization can effectively balance geometric stability and efficiency, providing a foundation for more sustainable and geometrically sophisticated applications in 3D-printed clay architecture.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

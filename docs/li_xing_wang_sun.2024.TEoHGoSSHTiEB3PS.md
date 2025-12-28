@@ -13,8 +13,6 @@ tags:
  - print
  - state
  - structure
- - in
- - on
 
 ---
 
@@ -85,7 +83,6 @@ tags:
       <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/poussard_valentin"><b>Poussard</b> Valentin</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../mesn_pous_sab_caro.2023.OtGOotAiEB3PS/">On the Geometrical Origin of the Anisotropy in Extrusion-Based 3D Printed Structures</a></li>
       <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a></li>
       <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a></li>
-      <li>None</li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sanj_nema_xia_marc.2021.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete:<br/>Correction</a></li>
       <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a></li>

@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable and Digital Building, pp. 61-71
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

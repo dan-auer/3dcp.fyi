@@ -16,10 +16,6 @@ tags:
  - performance
  - print
  - theory
- - in
- - on
- - ultra
- - ultra
 
 ---
 
@@ -91,7 +87,6 @@ tags:
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../dong_jia_jia_rao.2024.MFAi3PUHPCBoST/">Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory</a></li>
       <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../dong_yuan_chen_jia.2025.PLSESEwUHPC/">Printing Large-Size Eggshell-Shaped Elements with Ultra-High-Performance Concrete:<br/>From Material-Design to Structural Bearing-Capacity-Assessment</a></li>
       <li><a href="../../../author/fan_dingqiang"><b>Fan</b> Dingqiang</a>, <a href="../../../author/zhu_jinyun"><b>Zhu</b> Jinyun</a>, <a href="../../../author/fan_mengxin"><b>Fan</b> Mengxin</a>, <a href="../../../author/lu_jianxian"><b>Lu</b> Jianxian</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../fan_zhu_fan_lu.2023.IDaMoUHPC/">Intelligent Design and Manufacturing of Ultra-High-Performance Concrete:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a></li>
       <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhou_mengting"><b>Zhou</b> Mengting</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jia_zhou_chen_wang.2024.EoSFSaCoPMaMPo3PHSCM/">Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials</a></li>
       <li><a href="../../../author/kumar-devalla_tharun"><b>Kumar Devalla</b> Tharun</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../kuma_srin_pand_sith.2023.IotFaTPo3PCMCtEoFD/">Investigation on the Flexural and Tensile Performance of 3D Printable Cementitious Mixtures Considering the Effect of Fiber-Distribution</a></li>

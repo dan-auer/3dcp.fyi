@@ -13,8 +13,6 @@ tags:
  - grade
  - process
  - void
- - a
- - in
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> <a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -71,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/haufe_niklas_carl"><b>Haufe</b> Carl</a>, <a href="../../../author/castel_paula"><b>Castel</b> Paula</a>, <a href="../../../author/strahm_benedikt"><b>Strahm</b> Benedikt</a>, <a href="../../../author/nigl_david"><b>Nigl</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hauf_cast_stra_nigl.2024.ADDPfBoVFfAiFGC/">A Digital Design Process for Bundling of Void Formers for Application in Functionally Graded Concrete</a></li>
     </ol>
 ???+ quote "Citations"

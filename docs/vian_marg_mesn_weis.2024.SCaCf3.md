@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)
@@ -59,7 +60,6 @@ tags:
     <ol>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../mark_mech.2023.QoPSaPSCot3PCU2DIC/">Quantification of Plastic Shrinkage and Plastic Shrinkage Cracking of the 3D Printable Concretes Using 2D Digital Image Correlation</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../moel_krug_comb.2022.APSCRMf3PCEtDE/">A Plastic Shrinkage Cracking-Risk-Model for 3D Printed Concrete Exposed to Different Environments</a></li>
     </ol>
 ???+ quote "Citations"

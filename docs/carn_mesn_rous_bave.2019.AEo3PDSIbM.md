@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2019 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#design`](keyword/design)

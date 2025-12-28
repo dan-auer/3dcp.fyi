@@ -13,8 +13,6 @@ tags:
  - planar
  - print
  - sensor
- - in
- - non
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings, pp. 355-364
 
 :aca-blank:{ .lg .middle}
     [`#collection`](keyword/collection)

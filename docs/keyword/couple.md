@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#couple
+# #couple
 
 <ol reversed>
   <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>

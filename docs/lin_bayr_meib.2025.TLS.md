@@ -13,7 +13,6 @@ tags:
  - print
  - structure
  - topology
- - non
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Symbiotic Intelligence, pp. 3-12
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

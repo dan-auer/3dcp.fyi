@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#coordinate
+# #coordinate
 
 <ol reversed>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>

@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms, pp. 52-56
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

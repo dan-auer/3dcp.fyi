@@ -14,7 +14,6 @@ tags:
  - print
  - strategy
  - technology
- - in
 
 ---
 
@@ -69,7 +68,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>
       <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a></li>
@@ -81,8 +79,6 @@ tags:
       <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/pankratow_pawel"><b>Pankratow</b> Paweł</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../hoff_skib_pank_ziel.2020.AitCoa3PCWwtUoaLG/">Automation in the Construction of a 3D Printed Concrete Wall with the Use of a Lintel Gripper</a></li>
       <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
       <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lao_li_wong_tan.2020.ISFQiEB3CPUMLBEGC/">Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control</a></li>
       <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a></li>
       <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/lin_qian"><b>Lin</b> Qian</a>, <a href="../../../author/xu_wei"><b>Xu</b> Wei</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../luo_lin_xu_wang.2023.EoITaIAotMCoUHTCCU3PT/">Effects of Interval Time and Interfacial Agents on the Mechanical Characteristics of Ultra-High-Toughness Cementitious Composites Under 3D Printed Technology</a></li>

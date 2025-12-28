@@ -16,7 +16,6 @@ tags:
  - mobile
  - robot
  - scale
- - in
 
 ---
 
@@ -73,7 +72,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/subrin_kevin"><b>Subrin</b> Kévin</a>, <a href="../../../author/bressac_thomas"><b>Bressac</b> Thomas</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a>, <a href="../../../author/ambiehl_alexandre"><b>Ambiehl</b> Alexandre</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../subr_bres_garn_ambi.2018.IotMRLDfHHCb3P/">Improvement of the Mobile Robot Location Dedicated for Habitable House Construction by 3D Printing</a></li>
@@ -88,6 +86,6 @@ tags:
       <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pera_ahma_smar.2023.PIMfAMoCS/">Printing-Information-Modeling for Additive Manufacturing of Concrete Structures</a></li>
       <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/pietrasik_l_lukasz"><b>Pietrasik</b> Lukasz</a>, <a href="../../../author/sounigo_eliott"><b>Sounigo</b> Eliott</a>, <a href="../../../author/tsai_ping-hsun"><b>Tsai</b> Ping-Hsun</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../jenn_piet_soun_tsai.2023.CMTLOSP/">Continuous Mobile Thin-Layer On-Site Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/bahrens_meike"><b>Bährens</b> Meike</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../klof_dorf_bahr_diel.2022.TRIotST2A/">The Research Infrastructure of the SFB TRR 277 AMC:<br/>Additive Manufacturing in Construction</a></li>
-      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMsAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-step Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMSAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-Step Additive Manufacturing in Construction</a></li>
     </ol>
 </div>

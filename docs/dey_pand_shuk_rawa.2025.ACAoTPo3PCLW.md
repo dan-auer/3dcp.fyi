@@ -13,7 +13,6 @@ tags:
  - print
  - temperature
  - wall
- - a
 
 ---
 
@@ -77,7 +76,6 @@ tags:
       <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/strzalkowski_jaroslaw"><b>Strzałkowski</b> Jarosław</a>, <a href="../../../author/kim_ji-su"><b>Kim</b> Ji-Su</a>, <a href="../../../author/ehm_clemens"><b>Ehm</b> Clemens</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../cuev_strz_kim_ehm.2023.TDoSL3PWBE/">Towards Development of Sustainable Lightweight 3D Printed Wall Building Envelopes:<br/>Experimental and Numerical Studies</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../dey_nguy_nguy_srin.2023.FPo3PCSwLI/">Flexural Performance of 3D Printed Concrete Structure with Lattice-Infills</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dey_pand.2023.AESoTPo3PCS/">An Experimental Study of Thermal Performance of 3D Printed Concrete Slabs</a></li>
-      <li>None</li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/mansour_stephan"><b>Mansour</b> Stephan</a>, <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_mans_monk.2024.ACiP/">Additive Construction in Practice:<br/>Realities of Acceptance Criteria</a></li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../li_xing_sun_feng.2023.MSSCaHMPo3PBW/">Multi-Scale Structural Characteristics and Heat-Moisture Properties of 3D Printed Building Walls:<br/>A Review</a></li>

@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/zollner_jan-phillip"><b>Zöllner</b> Jan-Phillip</a> <a href="https://orcid.org/0009-0001-1848-2955" title="ORCID: 0009-0001-1848-2955" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 35-44
 
 :aca-blank:{ .lg .middle}
     [`#digital`](keyword/digital)
@@ -68,8 +69,6 @@ tags:
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/schmitz_paul_linus"><b>Schmitz</b> Linus</a>, <a href="../../../author/muller_christoph"><b>Müller</b> Christoph</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../klof_schm_mull_lagh.2023.EAoRWaAAMTfStIBP/">Experimental Application of Robotic Wire and Arc Additive Manufacturing-Technique for Strengthening the I-Beam Profiles</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

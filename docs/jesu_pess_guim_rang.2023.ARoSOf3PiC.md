@@ -10,9 +10,6 @@ tags:
  - print
  - reflection
  - sustainability
- - a
- - in
- - on
 
 ---
 
@@ -27,6 +24,7 @@ tags:
 ,     <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> <a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Conference on Construction, Energy, Environment and Sustainability, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -73,7 +71,6 @@ tags:
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/wackrow_rene"><b>Wackrow</b> Rene</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_wack.2011.DoaVCPP/">Development of a Viable Concrete Printing Process</a></li>
       <li><a href="../../../author/liu_siyu"><b>Liu</b> Siyu</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_hongliang"><b>Li</b> Hongliang</a>, <a href="../../../author/pan_zehua"><b>Pan</b> Zehua</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lu_li_pan.2022.ACSoEPo3PaCCoCPwIW/">A Comparative Study on Environmental Performance of 3D Printing and Conventional Casting of Concrete Products with Industrial Wastes</a></li>
-      <li>None</li>
       <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a>, <a href="../../../author/duda_pedro"><b>Duda</b> Pedro</a>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b> Emílio</a>, <a href="../../../author/paiva_dm_maria"><b>Paiva</b> Maria</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../mend_duda_silv_paiv.2019.NPaSBAf3PwPCP/">Nanosilica-Particles as Structural Buildup Agents for 3D Printing with Portland Cement-Pastes</a></li>
       <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/vijay_praful"><b>Vijay</b> Praful</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> et al. <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../nema_vija_sanj_naza.2018.EoPFAoPoGMb3PfDC/">Effect of Polypropylene Fiber Addition on Properties of Geopolymers Made by 3D Printing for Digital Construction</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>

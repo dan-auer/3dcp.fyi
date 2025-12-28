@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#quick
+# #quick
 
 <ol reversed>
   <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_sanj.2024.RMiOQNMTf3CP/">Rheological Modifiers in Optimizing Quick Nozzle Mixing Technology for 3D Concrete Printing</a></li>

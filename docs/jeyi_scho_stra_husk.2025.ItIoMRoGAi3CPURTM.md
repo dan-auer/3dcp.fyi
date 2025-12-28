@@ -15,8 +15,6 @@ tags:
  - real
  - rheology
  - time
- - in
- - on
 
 ---
 
@@ -67,8 +65,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Additive manufacturing of concrete structures is an innovative and rapidly advancing technology. One of its key advantages is the ability to achieve freeform designs in civil engineering, enabling entirely new architectural possibilities. However, despite the demonstrated benefits of this technology, maintaining consistent print quality during the printing process remains a significant challenge and is seldom implemented. The continuous mixing process inherent in 3D concrete printing introduces potential variations in the dry mix composition or water content, making a single test sample insufficient to represent the entire structure. Moreover, defects in a single layer can compromise the integrity of the whole structure. This underscores the need for continuous, real-time monitoring to document and ensure the quality of the printing process.
-At the Bundesanstalt für Materialforschung und -prüfung (BAM), a 3D concrete printer was developed to enable real-time non-destructive monitoring of material properties during the printing process. This study examines the impact of rheological variations, influenced by water content variations, on the geometric characteristics of printed elements. Geometric measurements are captured in real time using a high-precision laser scanner. Concrete elements are printed under controlled conditions with systematically varied process parameters. Preliminary results reveal a strong correlation between rheological behaviour and the geometric properties of the printed components.
+    Additive manufacturing of concrete structures is an innovative and rapidly advancing technology. One of its key advantages is the ability to achieve freeform designs in civil engineering, enabling entirely new architectural possibilities. However, despite the demonstrated benefits of this technology, maintaining consistent print quality during the printing process remains a significant challenge and is seldom implemented. The continuous mixing process inherent in 3D concrete printing introduces potential variations in the dry mix composition or water content, making a single test sample insufficient to represent the entire structure. Moreover, defects in a single layer can compromise the integrity of the whole structure. This underscores the need for continuous, real-time monitoring to document and ensure the quality of the printing process. At the Bundesanstalt für Materialforschung und -prüfung (BAM), a 3D concrete printer was developed to enable real-time non-destructive monitoring of material properties during the printing process. This study examines the impact of rheological variations, influenced by water content variations, on the geometric characteristics of printed elements. Geometric measurements are captured in real time using a high-precision laser scanner. Concrete elements are printed under controlled conditions with systematically varied process parameters. Preliminary results reveal a strong correlation between rheological behaviour and the geometric properties of the printed components.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

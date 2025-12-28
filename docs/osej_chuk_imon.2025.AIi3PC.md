@@ -13,7 +13,6 @@ tags:
  - intelligence
  - print
  - sustainability
- - in
 
 ---
 

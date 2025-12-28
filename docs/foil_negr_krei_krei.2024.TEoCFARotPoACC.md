@@ -14,7 +14,6 @@ tags:
  - fine
  - property
  - ratio
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -69,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_titt_schu.2021.RaPBo3PCMwVAC/">Rheological and Pumping Behavior of 3D Printable Cementitious Materials with Varying Aggregate Content</a></li>
       <li><a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../negr_krei_barn_styn.2024.DoIPTMfEPC/">Development of In-Place Test-Methods for Evaluating Printable Concretes</a></li>

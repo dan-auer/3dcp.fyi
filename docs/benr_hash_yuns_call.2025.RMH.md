@@ -12,8 +12,6 @@ tags:
  - micro
  - print
  - robot
- - micro
- - micro
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/callaghan_carl"><b>Callaghan</b> Carl</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Symbiotic Intelligence, pp. 13-22
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

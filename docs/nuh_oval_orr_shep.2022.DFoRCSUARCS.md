@@ -86,7 +86,6 @@ tags:
       <li><a href="../../../author/ranaudo_francesco"><b>Ranaudo</b> Francesco</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../rana_mele_bloc.2021.ALCFCFS/">A Low-Carbon, Funicular Concrete Floor System:<br/>Design and Engineering of the HiLo Floor</a></li>
       <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a></li>
       <li><a href="../../../author/taha_nizar"><b>Taha</b> Nizar</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/ruangjun_jetana"><b>Ruangjun</b> Jetana</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../taha_walz_ruan_burg.2019.RA/">Robotic AeroCrete:<br/>A Novel Robotic Spraying and Surface Treatment Technology for the Production of Slender Reinforced Concrete Elements</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

@@ -15,7 +15,6 @@ tags:
  - mortar
  - powder
  - reinforcement
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="https://orcid.org/0000-0001-6930-2056" title="ORCID: 0000-0001-6930-2056" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 508-515
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)
@@ -70,7 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/christ_susanne"><b>Christ</b> Susanne</a>, <a href="../../../author/schnabel_martin"><b>Schnabel</b> Martin</a>, <a href="../../../author/vorndran_elke"><b>Vorndran</b> Elke</a>, <a href="../../../author/groll_jurgen"><b>Groll</b> Jürgen</a> et al. <a href="../../../date/2014/10">(2014-10)</a><br><a href="../../../chri_schn_vorn_grol.2015.FRD3P/">Fiber-Reinforcement During 3D Printing</a></li>
       <li><a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b> F.</a>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b> G.</a>, <a href="../../../author/modano_m"><b>Modano</b> M.</a> et al. <a href="../../../date/2015/12">(2015-12)</a><br><a href="../../../fari_fabb_carp_moda.2016.OtRoCMt3PPaMF/">On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>

@@ -9,7 +9,6 @@ tags:
  - construction
  - extrusion
  - production
- - in
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquium, pp. 161-171
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -57,8 +57,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/backes_gerta_jana"><b>Backes</b> Jana</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../kalt_bosb_back_cruz.2023.FoLCTRCCwINLSU2LEbL/">Fabrication of Lightweight, Carbon Textile Reinforced Concrete Components with Internally Nested Lattice Structure Using 2-Layer Extrusion by LabMorTex</a></li>
       <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../kalt_raup_mats.2021.IitIoIGaCTiaLMEL/">Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex)</a></li>
       <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../kalt_raup_mats.2022.IoRTMftSoMfMoTRCUaLME/">Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder:<br/>LabMorTex</a></li>

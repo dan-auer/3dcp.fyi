@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1164-1173
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

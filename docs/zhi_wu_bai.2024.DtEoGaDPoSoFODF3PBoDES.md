@@ -18,7 +18,6 @@ tags:
  - property
  - screw
  - simulation
- - on
 
 ---
 
@@ -78,7 +77,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA/">Effects of Extrusion-Parameters on Properties of 3D Printing Concrete with Coarse Aggregates</a></li>
       <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a>, <a href="../../../author/lv_chun"><b>Lv</b> Chun</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../liu_lv.2022.Po3PPFRM/">Properties of 3D Printed Polymer Fiber-Reinforced Mortars:<br/>A Review</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schmeier_tobias"><b>Schmeier</b> Tobias</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mech_mich_lieb_schm.2020.EBAMwCRC/">Extrusion-Based Additive Manufacturing with Carbon Reinforced Concrete:<br/>Concept and Feasibility Study</a></li>

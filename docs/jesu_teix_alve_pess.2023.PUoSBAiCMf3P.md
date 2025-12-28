@@ -11,7 +11,6 @@ tags:
  - potential
  - print
  - use
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> <a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Materials Design and Applications IV, pp. 89-103
 
 :aca-blank:{ .lg .middle}
     [`#ash`](keyword/ash)
@@ -73,14 +73,12 @@ tags:
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/yu_na_ling"><b>Yu</b> Ling</a>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b> Jacky</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../muth_kua_yu_chun.2020.FPoCMCRHAfC3P/">Fresh Properties of Cementitious Materials Containing Rice-Husk-Ash for Construction 3D Printing</a></li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_mech.2019.StPoFCfFFCO3PTC/">Studying the Printability of Fresh Concrete for Formwork-Free Concrete Onsite 3D Printing Technology (CONPrint3D)</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../rush_styn_barn_chaa.2019.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
-      <li>None</li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../teix_scha_rang_alve.2021.Do3PSMBoaBA/">Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>

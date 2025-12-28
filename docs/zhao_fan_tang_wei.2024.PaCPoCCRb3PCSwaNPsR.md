@@ -15,7 +15,6 @@ tags:
  - ratio
  - reinforcement
  - structure
- - a
 
 ---
 

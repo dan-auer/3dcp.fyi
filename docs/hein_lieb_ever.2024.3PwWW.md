@@ -19,8 +19,6 @@ tags:
  - wall
  - waste
  - wood
- - in
- - on
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/eversmann_philipp"><b>Eversmann</b> Philipp</a> <a href="https://orcid.org/0000-0003-0200-6433" title="ORCID: 0000-0003-0200-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Built Environment Additive Manufacturing, pp. 24-33
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

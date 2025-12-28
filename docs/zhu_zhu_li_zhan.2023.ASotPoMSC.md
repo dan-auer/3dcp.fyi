@@ -9,8 +9,6 @@ tags:
  - manufacturing
  - printability
  - sand
- - a
- - on
 
 ---
 
@@ -69,7 +67,6 @@ tags:
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/lin_chao_jia"><b>Lin</b> Jia</a>, <a href="../../../author/wu_xiong"><b>Wu</b> Xiong</a>, <a href="../../../author/yang_wen"><b>Yang</b> Wen</a>, <a href="../../../author/zhao_xu_ri"><b>Zhao</b> Ri</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../lin_wu_yang_zhao.2018.TIoFAot3PP/">The Influence of Fine Aggregates on the 3D Printing Performance</a></li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a></li>
       <li><a href="../../../author/paolini_alexander"><b>Paolini</b> Alexander</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/rank_ernst"><b>Rank</b> Ernst</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../paol_koll_rank.2019.AMiC/">Additive Manufacturing in Construction:<br/>A Review on Processes, Applications, and Digital Planning Methods</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>

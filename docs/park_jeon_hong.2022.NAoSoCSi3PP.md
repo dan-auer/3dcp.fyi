@@ -12,8 +12,6 @@ tags:
  - process
  - stability
  - structure
- - in
- - on
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/hong_sung-gul"><b>Hong</b> Sung-Gul</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, pp. 833-840
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

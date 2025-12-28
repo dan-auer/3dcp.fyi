@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#automation`](keyword/automation)

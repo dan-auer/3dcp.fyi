@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -69,9 +70,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/abstoss_marvin"><b>Abstoß</b> Marvin</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../abst_funk_gelb.2024.PoHPFEUPPCEaM/">Production of High-Precision Formwork Elements Using Parametrically Programmed Concrete-Extrusion and Machining</a></li>
       <li><a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a>, <a href="../../../author/abstoss_marvin"><b>Abstoß</b> Marvin</a>, <a href="../../../author/rudolph_enrico"><b>Rudolph</b> Enrico</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../gelb_abst_rudo_funk.2023.CCEftPoRFbEaM/">Complex Concrete Elements for the Production of Recyclable Formwork by Extrusion and Milling</a></li>
       <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/scharf-wildenhain_ronny"><b>Scharf‐Wildenhain</b> Ronny</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/vanselow_konrad"><b>Vanselow</b> Konrad</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../lind_scha_glin_vans.2021.CMfCSoMwRCE/">Calibration Method for Constant Strands of Material with Robotassisted Concrete Extrusion</a></li>

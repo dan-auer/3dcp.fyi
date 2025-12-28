@@ -19,7 +19,6 @@ tags:
  - reinforcement
  - selective
  - wire
- - a
 
 ---
 
@@ -39,6 +38,7 @@ tags:
 ,     <a href="../../../author/zah_f_michael"><b>Zäh</b> Michael</a> <a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 978-987
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

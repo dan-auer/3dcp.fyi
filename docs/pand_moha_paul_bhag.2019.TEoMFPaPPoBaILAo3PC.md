@@ -17,8 +17,6 @@ tags:
  - print
  - process
  - property
- - inter
- - on
 
 ---
 

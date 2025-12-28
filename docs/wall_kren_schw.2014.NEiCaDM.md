@@ -9,7 +9,6 @@ tags:
  - error
  - model
  - numeric
- - in
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/schwabe_jorg-henry"><b>Schwabe</b> Jörg-Henry</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Simulation of Fresh Concrete Flow, pp. 99-124
 
 :aca-blank:{ .lg .middle}
     [`#cfd`](keyword/cfd)

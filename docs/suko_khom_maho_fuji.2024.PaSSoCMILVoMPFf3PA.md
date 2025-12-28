@@ -17,8 +17,6 @@ tags:
  - shape
  - stability
  - volume
- - micro
- - micro
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/fujikake_kazunori"><b>Fujikake</b> Kazunori</a> <a href="https://orcid.org/0009-0004-4412-2074" title="ORCID: 0009-0004-4412-2074" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 183-193
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -93,7 +92,6 @@ tags:
       <li><a href="../../../author/rushing_s_todd"><b>Rushing</b> Todd</a>, <a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/eick_andrew_brian"><b>Eick</b> Brian</a>, <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b> Jedadiah</a> et al. <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../rush_chaa_eick_burr.2017.IoCMfAC/">Investigation of Concrete Mixtures for Additive Construction</a></li>
       <li><a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b> Piti</a>, <a href="../../../author/panklum_kasidet"><b>Panklum</b> Kasidet</a>, <a href="../../../author/maho_buchit"><b>Maho</b> Buchit</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA/">Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#specification
+# #specification
 
 <ol reversed>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.CoMaPSoC3P/">Comparison of Machine- and Performance Specifications of Concrete 3D Printers</a></li>

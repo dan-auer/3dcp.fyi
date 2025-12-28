@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction, Energy, Environment and Sustainability, pp. 471-478
 
 :aca-blank:{ .lg .middle}
     [`#large`](keyword/large)

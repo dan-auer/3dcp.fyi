@@ -13,8 +13,6 @@ tags:
  - print
  - property
  - review
- - a
- - on
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/hashmi_fuzail_ahmad"><b>Hashmi</b> Ahmad</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Advances in Concrete, Structural, and Geotechnical Engineering, pp. 1-19
 
 :aca-blank:{ .lg .middle}
     [`#comprehension`](keyword/comprehension)
@@ -81,7 +80,6 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/ingaglio_joseph"><b>Ingaglio</b> Joseph</a>, <a href="../../../author/fox_t_john"><b>Fox</b> John</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a>, <a href="../../../author/bocchini_paolo"><b>Bocchini</b> Paolo</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../inga_fox_nait_bocc.2019.MCoBJ3PHCCwtAoFA/">Material-Characteristics of Binder-Jet 3D Printed Hydrated CSA Cement with the Addition of Fine Aggregates</a></li>
       <li><a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/park_jihun"><b>Park</b> Jihun</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../joh_lee_bui_park.2020.BaMPo3PC/">Buildability and Mechanical Properties of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a></li>
@@ -109,7 +107,6 @@ tags:
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/siddika_ayesha"><b>Siddika</b> Ayesha</a>, <a href="../../../author/mamun_abdullah-al_md"><b>Mamun</b> Md.</a>, <a href="../../../author/ferdous_wahid"><b>Ferdous</b> Wahid</a>, <a href="../../../author/saha_kumer_ashish"><b>Saha</b> Ashish</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../sidd_mamu_ferd_saha.2020.3PC/">3D Printed Concrete:<br/>Applications, Performance, and Challenges</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_dexin"><b>Li</b> Dexin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wang_lin_ma_li.2022.MaMPo3PACBCEtET/">Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>

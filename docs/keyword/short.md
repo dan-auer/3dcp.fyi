@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#short
+# #short
 
 <ol reversed>
   <li><a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>, <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>, <a href="../../../author/murata_satoshi"><b>Murata</b> Satoshi</a>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b> Hisafumi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yama_kino_mura_asau.2025.SPoRCSb3PCPFwSF/">Seismic Performance of RC Column Surrounded by 3D Printed Concrete Permanent Formwork with Short Fiber</a></li>

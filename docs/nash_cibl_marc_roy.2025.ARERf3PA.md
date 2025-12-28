@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/roy_robert"><b>le Roy</b> Robert</a> <a href="https://orcid.org/0000-0002-5114-1351" title="ORCID: 0000-0002-5114-1351" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 11th International Conference of Ar.Tec., pp. 592-603
 
 :aca-blank:{ .lg .middle}
     [`#advance`](keyword/advance)
@@ -67,7 +68,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/abdallah_k_yomna"><b>Abdallah</b> Yomna</a>, <a href="../../../author/estevez_t_alberto"><b>Estévez</b> Alberto</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../abda_este.2021.3PBCB/">3D Printed Biodigital Clay Bricks</a></li>
-      <li>None</li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/fieni_francesco"><b>Fieni</b> Francesco</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../sang_pari_fien_pari.2022.TNBo3PCBD/">The New Boundaries of 3D-Printed Clay-Bricks-Design:<br/>Printability of Complex Internal Geometries</a></li>
     </ol>

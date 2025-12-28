@@ -15,7 +15,6 @@ tags:
  - learn
  - manufacturing
  - robot
- - in
 
 ---
 

@@ -13,7 +13,6 @@ tags:
  - incorporation
  - multi
  - print
- - multi
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 119-125
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

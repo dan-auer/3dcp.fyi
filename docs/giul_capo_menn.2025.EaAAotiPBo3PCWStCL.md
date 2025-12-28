@@ -15,7 +15,6 @@ tags:
  - plane
  - print
  - wall
- - in
 
 ---
 
@@ -80,7 +79,6 @@ tags:
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../gebh_mata_amma_pres.2024.ESEwDC/">Enhancing Structural Efficiency with Digital Concrete:<br/>Principles, Opportunities and Case Studies</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC/">A Mechanistic Evaluation Relating Microstructural Morphology to a Modified Mohr-Griffith Compression-Shear Constitutive-Model for 3D Printed Concrete</a></li>
       <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>

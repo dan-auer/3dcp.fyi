@@ -10,9 +10,6 @@ tags:
  - concrete
  - potential
  - print
- - a
- - in
- - on
 
 ---
 
@@ -26,6 +23,7 @@ tags:
 ,     <a href="../../../author/zee_aant"><b>van der Zee</b> Aant</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 35th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 299-308
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

@@ -14,8 +14,6 @@ tags:
  - recycling
  - sequestration
  - source
- - a
- - multi
 
 ---
 

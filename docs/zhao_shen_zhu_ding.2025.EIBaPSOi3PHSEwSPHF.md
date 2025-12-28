@@ -18,7 +18,6 @@ tags:
  - steel
  - strength
  - structure
- - in
 
 ---
 
@@ -103,7 +102,6 @@ tags:
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/godinho_r-a_jose"><b>Godinho</b> Jose</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD/">Layer Interface Characteristics and Adhesion of 3D Printed Cement-Based Materials Exposed to Post-Printing Temperature Disturbance</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
     </ol>
 ???+ quote "Citations"

@@ -13,7 +13,6 @@ tags:
  - performance
  - print
  - temperature
- - on
 
 ---
 
@@ -74,7 +73,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/seyedian-choubi_sepehr"><b>Seyedian Choubi</b> Sepehr</a>, <a href="../../../author/tuncer_emran"><b>Tuncer</b> Emran</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bayr_shab_seye_tunc.2024.SVoPMaTPo3PCAaFSW/">Spatial Variation of Physical, Mechanical, and Thermophysical Properties of 3D Printed Concrete Across a Full-Scale Wall</a></li>
       <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a></li>
       <li><a href="../../../author/cicione_antonio"><b>Cicione</b> Antonio</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cici_krug_wall_zijl.2021.AESotBo3PCaET/">An Experimental Study of the Behavior of 3D Printed Concrete at Elevated Temperatures</a></li>

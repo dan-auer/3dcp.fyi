@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#toolpath
+# #toolpath
 
 <ol reversed>
   <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>

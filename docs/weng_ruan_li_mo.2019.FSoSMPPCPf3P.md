@@ -11,7 +11,6 @@ tags:
  - paste
  - print
  - sustainability
- - on
 
 ---
 
@@ -86,7 +85,6 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../weng_lu_li_liu.2018.EMtPRPoFRCCf3P/">Empirical Models to Predict Rheological Properties of Fiber-Reinforced Cementitious Composites for 3D Printing</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../weng_qian_he_li.2018.3PHPFRCCFLSP/">3D Printable High-Performance Fiber-Reinforced Cementitious Composites For Large-Scale Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
 ???+ quote "Citations"

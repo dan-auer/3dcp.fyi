@@ -9,8 +9,6 @@ tags:
  - design
  - habitat
  - print
- - a
- - in
 
 ---
 
@@ -58,8 +56,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    3D concrete printing has the potential to provide a solution to the global shortage  of  affordable  housing.  This technology may be particularly suitable  for  remote  regions,  where  the shortage of labour and materials presents acute challenges. While most projects have focused on the use of the technology to fabricate a structure’s  walls,  this  article  describes  a  research  effort  aimed  at  printing  the entire enclosure using only 3D concrete printing. The design of a habitat for the permafrost regions of Alaska is used as a case study. The design  approach  was  to  conceive  a parametric housing system based on modular  units  whose  form  is  inspired  by traditional vault design and is amenable  to  3D concrete printing.
-The proposed design is governed by structural and architectural features, the addressable volume of the robotic arm printer, the desire to avoid formwork,  environmental  factors  such  as thermal requirements, foundation type in response to the permafrost, and loads on the structure. While the size of each modular unit is determined by spatial requirements, its exact shape is defined  using  optimization  following  structural, thermal, and printing considerations. The printing of a reduced-scale version of the proposed unit  validated  the  design,  showing  its  printability.
+    3D concrete printing has the potential to provide a solution to the global shortage  of  affordable  housing.  This technology may be particularly suitable  for  remote  regions,  where  the shortage of labour and materials presents acute challenges. While most projects have focused on the use of the technology to fabricate a structure’s  walls,  this  article  describes  a  research  effort  aimed  at  printing  the entire enclosure using only 3D concrete printing. The design of a habitat for the permafrost regions of Alaska is used as a case study. The design  approach  was  to  conceive  a parametric housing system based on modular  units  whose  form  is  inspired  by traditional vault design and is amenable  to  3D concrete printing. The proposed design is governed by structural and architectural features, the addressable volume of the robotic arm printer, the desire to avoid formwork,  environmental  factors  such  as thermal requirements, foundation type in response to the permafrost, and loads on the structure. While the size of each modular unit is determined by spatial requirements, its exact shape is defined  using  optimization  following  structural, thermal, and printing considerations. The printing of a reduced-scale version of the proposed unit  validated  the  design,  showing  its  printability.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

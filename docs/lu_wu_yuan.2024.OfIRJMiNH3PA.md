@@ -13,8 +13,6 @@ tags:
  - optimization
  - print
  - robot
- - in
- - non
 
 ---
 

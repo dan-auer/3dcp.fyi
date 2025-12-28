@@ -1,12 +1,12 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
 
-# Al Rashid Ans 
+# al Rashid Ans 
 
 <ol reversed>
   <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yous_rash_koc.2025.AMfVAULESaBWM/">Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials</a></li>

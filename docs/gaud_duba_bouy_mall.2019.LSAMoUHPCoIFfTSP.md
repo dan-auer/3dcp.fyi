@@ -16,8 +16,6 @@ tags:
  - scale
  - shape
  - truss
- - ultra
- - ultra
 
 ---
 
@@ -36,6 +34,7 @@ tags:
 ,     <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 459-472
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

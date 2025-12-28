@@ -10,7 +10,6 @@ tags:
  - plastic
  - print
  - recycling
- - eco
 
 ---
 

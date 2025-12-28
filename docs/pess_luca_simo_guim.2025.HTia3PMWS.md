@@ -12,8 +12,6 @@ tags:
  - print
  - system
  - wall
- - a
- - in
 
 ---
 
@@ -73,7 +71,6 @@ tags:
       <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a></li>
       <li><a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kame_kaze.2022.BITAaBEMi3PRB/">BIM-Integrated Thermal Analysis and Building Energy Modeling in 3D Printed Residential Buildings</a></li>
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/cho_seung"><b>Cho</b> Seung</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../krug_cho_zera_vint.2020.3CPPOfHRDCAPC/">3D Concrete Printer Parameter Optimization for High-Rate Digital Construction Avoiding Plastic Collapse</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/wang_heyu"><b>Wang</b> Heyu</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_xing_wang_sun.2024.TEoHGoSSHTiEB3PS/">The Effect of Heterogeneous Geometry on Steady-State Heat Transfer in Extrusion-Based 3D Printed Structures</a></li>
       <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>

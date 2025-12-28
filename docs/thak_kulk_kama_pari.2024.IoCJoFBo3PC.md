@@ -12,7 +12,6 @@ tags:
  - influence
  - joint
  - print
- - on
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 194-202
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

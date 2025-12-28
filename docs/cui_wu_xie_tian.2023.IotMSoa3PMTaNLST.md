@@ -12,10 +12,6 @@ tags:
  - print
  - structure
  - tomography
- - a
- - micro
- - on
- - micro
 
 ---
 
@@ -87,7 +83,6 @@ tags:
       <li><a href="../../../author/malaeb_zeina"><b>Malaeb</b> Zeina</a>, <a href="../../../author/sakka_fatima"><b>Sakka</b> Fatima</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../mala_sakk_hamz.2019.3CP/">3D Concrete Printing:<br/>Machine Design, Mix Proportioning, and Mix Comparison Between Different Machine Setups</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>
       <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA/">Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>

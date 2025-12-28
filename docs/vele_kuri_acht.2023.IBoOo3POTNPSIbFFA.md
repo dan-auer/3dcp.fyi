@@ -15,7 +15,6 @@ tags:
  - planar
  - print
  - slicing
- - non
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/achten_hubertus_henri"><b>Achten</b> Henri</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 519-526
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)
@@ -73,7 +73,6 @@ tags:
       <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../bres_nabo.2022.ATP/">Adaptive Tool-Path:<br/>Enhanced Design and Process-Control for Robotic 3DCP</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../carn_mesn_rous_bave.2020.AMoC/">Additive Manufacturing of Cantilever:<br/>From Masonry to Concrete 3D Printing</a></li>
       <li><a href="../../../author/khajavi_haghighat_siavash"><b>Khajavi</b> Siavash</a>, <a href="../../../author/tetik_muge"><b>Tetik</b> Müge</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/peltokorpi_antti"><b>Peltokorpi</b> Antti</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../khaj_teti_mohi_pelt.2021.AMitCI/">Additive Manufacturing in the Construction Industry:<br/>The Comparative Competitiveness of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../li_nguy_tran.2023.DDaPSo3CPoNPS/">Digital Design and Parametric Study of 3D Concrete Printing on Non-Planar Surfaces</a></li>
       <li><a href="../../../author/liu_xuanting"><b>Liu</b> Xuanting</a>, <a href="../../../author/sun_bohua"><b>Sun</b> Bohua</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_sun.2021.TIoIotSSi3CPP/">The Influence of Interface on the Structural Stability in 3D Concrete Printing Processes</a></li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../moha_rahu_schu_titt.2021.EBC3PfaMP/">Extrusion-Based Concrete 3D Printing from a Material Perspective:<br/>A State of the Art Review</a></li>

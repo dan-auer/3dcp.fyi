@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#evaluation
+# #evaluation
 
 <ol reversed>
   <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>

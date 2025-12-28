@@ -12,7 +12,6 @@ tags:
  - solution
  - space
  - vault
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a> <a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 75th RILEM Annual Week 2021, pp. 407-414
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

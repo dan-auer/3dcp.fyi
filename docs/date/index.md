@@ -2,6 +2,7 @@
 hide:
     - navigation
     - tags
+    - footer
 ---
 # Monthly Overview
 

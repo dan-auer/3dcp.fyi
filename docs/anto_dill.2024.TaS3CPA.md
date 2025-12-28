@@ -11,7 +11,6 @@ tags:
  - detail
  - print
  - sustainability
- - a
 
 ---
 

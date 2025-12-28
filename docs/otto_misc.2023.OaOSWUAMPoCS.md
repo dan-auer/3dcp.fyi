@@ -15,7 +15,6 @@ tags:
  - safety
  - site
  - technology
- - on
 
 ---
 
@@ -70,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../mech_taub_mull_will.2022.AMoMSRCWUCRM/">Additive Manufacturing of Monolithic, Steel-Reinforced Concrete Walls Using CONPrint3D-Reinforced Methods</a></li>
     </ol>

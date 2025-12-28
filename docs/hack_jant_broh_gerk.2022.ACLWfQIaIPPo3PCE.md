@@ -16,8 +16,6 @@ tags:
  - process
  - quality
  - workflow
- - a
- - post
 
 ---
 
@@ -35,6 +33,7 @@ tags:
 ,     <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> <a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 364-369
 
 :aca-blank:{ .lg .middle}
     [`#closed`](keyword/closed)

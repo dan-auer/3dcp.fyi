@@ -15,7 +15,6 @@ tags:
  - shear
  - structure
  - test
- - up
 
 ---
 

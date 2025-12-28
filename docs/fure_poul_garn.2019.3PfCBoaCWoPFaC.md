@@ -13,8 +13,6 @@ tags:
  - polymer
  - print
  - wall
- - a
- - on
 
 ---
 

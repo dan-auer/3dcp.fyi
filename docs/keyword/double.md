@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#double
+# #double
 
 <ol reversed>
   <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../du_qian.2025.EtFaFBo3PSHCCwNISaDBS/">Enhancing the Fracture and Flexural Behavior of 3D Printed Strain-Hardening Cementitious Composites with Nature-Inspired Single and Double Bouligand Structures</a></li>

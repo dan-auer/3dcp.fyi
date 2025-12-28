@@ -16,7 +16,6 @@ tags:
  - steel
  - strength
  - vibration
- - in
 
 ---
 

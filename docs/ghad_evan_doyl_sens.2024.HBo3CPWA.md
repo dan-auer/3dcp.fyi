@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/wu_chengde"><b>Wu</b> Chengde</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of 11th National SimBuild Conference 2024, pp. 637 - 648
 
 :aca-blank:{ .lg .middle}
     [`#assembly`](keyword/assembly)

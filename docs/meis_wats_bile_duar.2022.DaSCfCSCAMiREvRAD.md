@@ -17,7 +17,6 @@ tags:
  - robot
  - scale
  - system
- - in
 
 ---
 

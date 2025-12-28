@@ -15,8 +15,6 @@ tags:
  - method
  - multi
  - scale
- - in
- - multi
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 9-18
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -79,7 +78,6 @@ tags:
       <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a></li>
       <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b> Rahasadat</a>, <a href="../../../author/li_yunyan"><b>Li</b> Yunyan</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moza_kamr_li_mata.2024.LCF3PfRCC/">Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../tay_li_tan.2019.EoPPi3CP/">Effect of Printing Parameters in 3D Concrete Printing:<br/>Printing Region and Support Structures</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

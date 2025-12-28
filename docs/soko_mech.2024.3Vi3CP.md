@@ -8,7 +8,6 @@ tags:
  - concrete
  - print
  - vision
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 182-189
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -49,8 +49,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    3D concrete printing (3DCP) remains vulnerable to ambient conditions, variations in material properties, and unforeseen interruptions. This vulnerability is largely due to poor robot control and rudimentary decision-making processes, which substantially constrain the implementation of adaptive printing algorithms. 3D Vision, a subfield of computer vision, enables machines to perceive depth and three-dimensional structures from visual data. It has been widely applied in numerous robotics applications and constitutes an effective, reliable, and often even the sole method for sensing the environment. The realization of 3D perception differs greatly across the diverse landscape of modern robotic systems. This also applies to 3D printing, although 3D Vision is so far grossly underrepresented in 3DCP.
-This article sheds light on the integration of 3D Vision into 3DCP and elaborates on particular technical issues and challenges. In particular, a range of individual aspects is discussed, including exposure and spatial resolution, signal transfer, and corresponding latencies. It concerns printing conditions and their influence on depth image quality. The paper also addresses the ways to estimate and handle signal latencies. Special attention is paid to the application specificities related to concrete printing.
+    3D concrete printing (3DCP) remains vulnerable to ambient conditions, variations in material properties, and unforeseen interruptions. This vulnerability is largely due to poor robot control and rudimentary decision-making processes, which substantially constrain the implementation of adaptive printing algorithms. 3D Vision, a subfield of computer vision, enables machines to perceive depth and three-dimensional structures from visual data. It has been widely applied in numerous robotics applications and constitutes an effective, reliable, and often even the sole method for sensing the environment. The realization of 3D perception differs greatly across the diverse landscape of modern robotic systems. This also applies to 3D printing, although 3D Vision is so far grossly underrepresented in 3DCP. This article sheds light on the integration of 3D Vision into 3DCP and elaborates on particular technical issues and challenges. In particular, a range of individual aspects is discussed, including exposure and spatial resolution, signal transfer, and corresponding latencies. It concerns printing conditions and their influence on depth image quality. The paper also addresses the ways to estimate and handle signal latencies. Special attention is paid to the application specificities related to concrete printing.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

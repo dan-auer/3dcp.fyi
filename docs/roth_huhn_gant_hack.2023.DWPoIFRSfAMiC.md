@@ -14,7 +14,6 @@ tags:
  - process
  - reinforcement
  - structure
- - in
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> <a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -80,7 +80,7 @@ tags:
       <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ivan_mull_neef_mech.2022.SfIRI3CPatTD/">Strategies for Integrating Reinforcement Into 3D Concrete Printing at the TU Dresden</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a></li>
       <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../klof_gehl_dorf_hack.2021.T2b/">TRR 277:<br/>Additive Manufacturing in Construction</a></li>
-      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMsAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-step Additive Manufacturing in Construction</a></li>
+      <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../lach_reck_diel_dorf.2022.ASaLoaMRfMSAMiC/">Autonomous Sensing and Localization of a Mobile Robot for Multi-Step Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../neef_mech.2022.SIoCMBCRIAMwC/">Simultaneous Integration of Continuous Mineral-Bonded Carbon Reinforcement Into Additive Manufacturing with Concrete</a></li>

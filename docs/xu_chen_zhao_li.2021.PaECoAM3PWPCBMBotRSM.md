@@ -17,7 +17,6 @@ tags:
  - response
  - surface
  - white
- - on
 
 ---
 

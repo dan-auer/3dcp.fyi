@@ -11,7 +11,6 @@ tags:
  - local
  - natural
  - print
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/bechthold_martin"><b>Bechthold</b> Martin</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings, pp. 655-664
 
 :aca-blank:{ .lg .middle}
     [`#digital`](keyword/digital)

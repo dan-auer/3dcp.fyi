@@ -66,13 +66,8 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a></li>
       <li><a href="../../../author/takashima_hiroyuki"><b>Takashima</b> Hiroyuki</a>, <a href="../../../author/miyagai_kiyotaka"><b>Miyagai</b> Kiyotaka</a>, <a href="../../../author/hashida_toshiyuki"><b>Hashida</b> Toshiyuki</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2002/09">(2002-09)</a><br><a href="../../../taka_miya_hash_li.2003.ADAftMPoPDFRCCbEM/">A Design Approach for the Mechanical Properties of Polypropylene-Discontinuous-Fiber-Reinforced Cementitious Composites by Extrusion-Molding</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>

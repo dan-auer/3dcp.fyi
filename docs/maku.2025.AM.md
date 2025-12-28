@@ -19,6 +19,7 @@ tags:
       <a href="../../../author/makul_natt"><b>Makul</b> Natt</a> <a href="https://orcid.org/0000-0002-7197-4115" title="ORCID: 0000-0002-7197-4115" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Dictionary of Concrete Technology, pp. 30-31
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -51,7 +52,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/malik_jalil_umair"><b>Malik</b> Umair</a>, <a href="../../../author/abbas_baqar_syed"><b>Abbas</b> Syed</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC/">Machine-Learning-Based Predictive-Model for Tensile and Flexural Strength of 3D Printed Concrete</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/tang_shengwen"><b>Tang</b> Shengwen</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../che_tang_yang_li.2021.IoAVotPo3PCM/">Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials</a></li>

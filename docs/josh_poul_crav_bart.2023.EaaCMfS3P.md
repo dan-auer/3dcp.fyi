@@ -12,7 +12,6 @@ tags:
  - print
  - rheology
  - sustainability
- - a
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a> <a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Progress in Digital and Physical Manufacturing, pp. 270-280
 
 :aca-blank:{ .lg .middle}
     [`#aspects`](keyword/aspects)

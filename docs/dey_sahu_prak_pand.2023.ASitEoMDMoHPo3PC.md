@@ -13,8 +13,6 @@ tags:
  - method
  - print
  - property
- - a
- - on
 
 ---
 

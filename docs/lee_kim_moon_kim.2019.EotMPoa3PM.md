@@ -10,7 +10,6 @@ tags:
  - mortar
  - print
  - property
- - a
 
 ---
 

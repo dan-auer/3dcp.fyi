@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a> <a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 265-272
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

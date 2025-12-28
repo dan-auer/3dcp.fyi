@@ -15,8 +15,6 @@ tags:
  - printability
  - system
  - twin
- - a
- - twin
 
 ---
 
@@ -88,6 +86,6 @@ tags:
       <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_xu_chen.2025.OoBSBoAM/">Optimization of Building Structures Based on Additive Manufacturing:<br/>A Review</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tao_titt_rahu_wang.2024.SMfSoDoDC/">Static Mixing for Set-on-Demand of Digital Concrete</a></li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../tao_yuan.2024.3CPfTL/">3D Concrete Printing for Tunnel Linings:<br/>Opportunities and Challenges</a></li>
-      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSODA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-On-Demand Applications</a></li>
+      <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../tao_moha_rahu_schu.2024.HaMoCSPCBSfSoDA/">Hydration and Microstructure of Calcium-Sulfoaluminate-Portland-Cement Binder Systems for Set-on-Demand Applications</a></li>
     </ol>
 </div>

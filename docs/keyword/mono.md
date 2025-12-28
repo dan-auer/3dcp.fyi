@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#mono
+# #mono
 
 <ol reversed>
   <li><a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krak_brie_stra_kran.2024.FHLCC/">Functionally Hybridised Lightweight Concrete Components:<br/>Monolithic Building Construction Using Selective Paste-Intrusion</a></li>

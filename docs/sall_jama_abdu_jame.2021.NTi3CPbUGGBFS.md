@@ -13,8 +13,6 @@ tags:
  - review
  - slag
  - technology
- - a
- - in
 
 ---
 

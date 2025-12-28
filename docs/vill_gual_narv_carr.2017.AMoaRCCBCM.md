@@ -13,7 +13,6 @@ tags:
  - manufacturing
  - material
  - rheology
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/naranjo_f"><b>Naranjo</b> F.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - European Conference on Electrical Engineering and Computer Science, pp. 326-331
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/sousa_pedro_jose"><b>Sousa</b> José</a> <a href="https://orcid.org/0000-0003-0024-4622" title="ORCID: 0000-0003-0024-4622" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Digital Architecture Research, pp. 234-254
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

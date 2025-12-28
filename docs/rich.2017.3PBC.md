@@ -52,13 +52,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Three-dimensional (3D) printing is celebrated as part of the next Industrial Revolution, in which automation and artificial intelligence will transform the construction industry. It is at the forefront of building innovation and has the potential to have a revolutionary effect on how structures are built.
-
-We are not the first industry to seek the benefits of robotically controlled, free-form manufacture: the medical, automotive and aeronautical industries are just some areas where 3D printed parts are now offered as standard products or component parts.
-
-3D printing has proved particularly successful where rapidly produced, low-cost, unique products are needed. A recent surge in mass customisation has enabled industry to produce custom-made shoes printed to the form of one’s foot or to tailor a life-changing prosthesis adapted to one’s individual shape and size.
-
-In this article, Victoria Richardson, winner of the Institution's Pai Lin Li Travel Award 2016, discusses her research to explore how structural engineering and the construction industry can benefit from 3D printing
+    Three-dimensional (3D) printing is celebrated as part of the next Industrial Revolution, in which automation and artificial intelligence will transform the construction industry. It is at the forefront of building innovation and has the potential to have a revolutionary effect on how structures are built. We are not the first industry to seek the benefits of robotically controlled, free-form manufacture: the medical, automotive and aeronautical industries are just some areas where 3D printed parts are now offered as standard products or component parts. 3D printing has proved particularly successful where rapidly produced, low-cost, unique products are needed. A recent surge in mass customisation has enabled industry to produce custom-made shoes printed to the form of one’s foot or to tailor a life-changing prosthesis adapted to one’s individual shape and size. In this article, Victoria Richardson, winner of the Institution's Pai Lin Li Travel Award 2016, discusses her research to explore how structural engineering and the construction industry can benefit from 3D printing
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

@@ -13,8 +13,6 @@ tags:
  - low
  - manufacturing
  - quality
- - a
- - in
 
 ---
 
@@ -82,7 +80,6 @@ tags:
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC/">Evaluating the Effects of Porosity on the Mechanical Properties of Extrusion-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
       <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ma_yan_zhan_sanj.2022.EoSSo3CPoGwQB/">Effect of Steel-Slag on 3D Concrete Printing of Geopolymer with Quaternary Binders</a></li>
       <li><a href="../../../author/mir_namra"><b>Mir</b> Namra</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../mir_khan_kul_sahi.2022.LCAoCaDWBGSfUi3AM/">Life Cycle Assessment of Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../pand_paul_lim_tay.2017.AMoGfSBE/">Additive Manufacturing of Geopolymer for Sustainable Built Environment</a></li>

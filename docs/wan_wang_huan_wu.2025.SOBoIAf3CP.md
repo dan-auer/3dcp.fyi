@@ -15,8 +15,6 @@ tags:
  - print
  - shape
  - structure
- - a
- - on
 
 ---
 
@@ -82,7 +80,6 @@ tags:
       <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../davt_kaze_khos.2018.PoaBISPfRCtCC/">Perspectives on a BIM-Integrated Software Platform for Robotic Construction through Contour Crafting</a></li>
       <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../duar_brow_duar.2024.WfGSaOFaTPi3CPoV/">Workflow for Generating, Simulating, and Optimizing Form and Tool-Path in 3D Concrete Printing of Vaults</a></li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
-      <li>None</li>
       <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a></li>
       <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../kont_tryf_geor.2020.RAMRwCUTOPfTPP/">Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning:<br/>The Example of a Building Element</a></li>
@@ -97,7 +94,6 @@ tags:
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO/">Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wan_wang_ma.2022.CaAPPBoTMf3CP/">Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
 ???+ quote "Citations"

@@ -14,7 +14,6 @@ tags:
  - intrusion
  - powder
  - selective
- - in
 
 ---
 
@@ -81,7 +80,6 @@ tags:
       <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../vone_odag_brum_dill.2021.FCt3PG/">From Casting to 3D Printing Geopolymers:<br/>A Proof of Concept</a></li>
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wege_pier_perr_kran.2021.PoCPiPB/">Penetration of Cement-Pastes into Particle-Beds:<br/>A Comparison of Penetration Models</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/dong_chenghao"><b>Dong</b> Chenghao</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../zuo_dong_keit_rous.2020.PSoLiPBf3PBP/">Penetration Study of Liquid in Powder-Bed for 3D Powder-Bed Printing</a></li>
     </ol>
 ???+ quote "Citations"

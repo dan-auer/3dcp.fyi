@@ -1,12 +1,12 @@
 ---
 hide:
-  - navigation
   - tags
+  - footer
 search:
   exclude: true
 ---
 
-# El Abbaoui Khalid 
+# el Abbaoui Khalid 
 
 <ol reversed>
   <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>

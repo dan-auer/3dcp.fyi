@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 24th Conference on Computer Aided Architectural Design Research in Asia, pp. 363-372
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)
@@ -64,7 +65,6 @@ tags:
       <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a>, <a href="../../../author/mallet_alban"><b>Mallet</b> Alban</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../gaud_duba_bouy_mall.2019.LSAMoUHPCoIFfTSP/">Large-Scale Additive Manufacturing of Ultra-High-Performance Concrete of Integrated Formwork for Truss-Shaped Pillars</a></li>
       <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a></li>
       <li><a href="../../../author/sondergaard_asbjorn"><b>Søndergaard</b> Asbjørn</a>, <a href="../../../author/feringa_jelle"><b>Feringa</b> Jelle</a>, <a href="../../../author/stan_florin"><b>Stan</b> Florin</a>, <a href="../../../author/maier_dana"><b>Maier</b> Dana</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../snd_feri_stan_maie.2019.RoTOCSURAWCoEPF/">Realization of Topology Optimized Concrete Structures Using Robotic Abrasive Wire-Cutting of Expanded Polystyrene Formwork</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

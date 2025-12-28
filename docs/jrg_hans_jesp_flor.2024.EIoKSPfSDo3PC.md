@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

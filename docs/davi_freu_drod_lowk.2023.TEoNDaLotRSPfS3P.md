@@ -14,7 +14,6 @@ tags:
  - result
  - shotcrete
  - strand
- - on
 
 ---
 
@@ -70,11 +69,8 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bohl_mai_freu_lach.2022.IoMaPPoHSPoS3PE/">Influence of Material and Process Parameters on Hardened State Properties of Shotcrete 3D Printed Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../busw_bos_silv_hack.2022.DFwCBM/">Digital Fabrication with Cement-Based Materials:<br/>Process Classification and Case Studies</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/gale_benjamin"><b>Galé</b> Benjamin</a>, <a href="../../../author/ursenbacher_thierry"><b>Ursenbacher</b> Thierry</a>, <a href="../../../author/petit_agnes"><b>Petit</b> Agnès</a>, <a href="../../../author/bourquin_vincent"><b>Bourquin</b> Vincent</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gale_urse_peti_bour.2022.S3PAaSO/">Shotcrete 3DCP Projection-Angle and Speed-Optimization:<br/>Experimental Approaches and Theoretical Modelling</a></li>

@@ -13,8 +13,6 @@ tags:
  - fabrication
  - manufacturing
  - review
- - a
- - in
 
 ---
 
@@ -67,7 +65,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a>, <a href="../../../author/lee_ghang"><b>Lee</b> Ghang</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../chun_lee_kim.2021.FfTSo3CP/">Framework for Technical Specifications of 3D Concrete Printers</a></li>
       <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a></li>
@@ -75,7 +72,6 @@ tags:
       <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/sandy_timothy"><b>Sandy</b> Timothy</a>, <a href="../../../author/giftthaler_markus"><b>Giftthaler</b> Markus</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorf_hack_sand_gift.2019.MRFBFC/">Mobile Robotic Fabrication Beyond Factory Conditions:<br/>Case Study Mesh Mould Wall of the DFAB HOUSE</a></li>
       <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../flat_wang.2022.OSaDFwC/">On Sustainability and Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/baur_marco"><b>Baur</b> Marco</a>, <a href="../../../author/apolinarska_anna_aleksandra"><b>Apolinarska</b> Aleksandra</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../gras_baur_apol_dorf.2020.DH/">DFAB House:<br/>A Comprehensive Demonstrator of Digital Fabrication in Architecture</a></li>
       <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/kahlert_aniko"><b>Kahlert</b> Aniko</a>, <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../gras_kahl_hall.2021.DH/">DFAB HOUSE:<br/>Implications of a Building-Scale Demonstrator for Adoption of Digital Fabrication in AEC</a></li>
       <li><a href="../../../author/krimi_imane"><b>Krimi</b> Imane</a>, <a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b> Zoubeir</a>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b> Laure</a> <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../krim_lafh_duco.2017.PSotIoAMtBI/">Prospective Study on the Integration of Additive Manufacturing to Building Industry:<br/>Case of a French Construction Company</a></li>

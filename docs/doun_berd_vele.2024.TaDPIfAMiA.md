@@ -15,8 +15,6 @@ tags:
  - physics
  - print
  - proof
- - a
- - in
 
 ---
 
@@ -29,6 +27,7 @@ tags:
 ,     <a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 495-504
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

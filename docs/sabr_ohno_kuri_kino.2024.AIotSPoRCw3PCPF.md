@@ -14,7 +14,6 @@ tags:
  - permanent
  - print
  - structure
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

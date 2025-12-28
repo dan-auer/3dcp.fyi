@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#elasticity
+# #elasticity
 
 <ol reversed>
   <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>

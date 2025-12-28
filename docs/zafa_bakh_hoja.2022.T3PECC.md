@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Tran-SET 2022, pp. 102-114
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

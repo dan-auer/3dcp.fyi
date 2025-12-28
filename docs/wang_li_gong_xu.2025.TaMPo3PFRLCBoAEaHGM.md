@@ -18,7 +18,6 @@ tags:
  - property
  - reinforcement
  - temperature
- - on
 
 ---
 
@@ -88,8 +87,6 @@ tags:
       <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a></li>
       <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
       <li><a href="../../../author/li_yeou-fong"><b>Li</b> Yeou-Fong</a>, <a href="../../../author/liang_yu-fang"><b>Liang</b> Yu-Fang</a>, <a href="../../../author/syu_jin-yuan"><b>Syu</b> Jin-Yuan</a>, <a href="../../../author/huang_chi-hong"><b>Huang</b> Chi-Hong</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_lian_syu_huan.2024.SaDMCo3PABFRCM/">Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar</a></li>
       <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_zhan_kwan.2025.ES3P/">Exploring Submarine 3D Printing:<br/>Enhancing Washout-Resistance and Strength of 3D Printable Mortar</a></li>

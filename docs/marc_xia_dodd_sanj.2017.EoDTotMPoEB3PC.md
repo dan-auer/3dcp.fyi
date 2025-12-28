@@ -14,7 +14,6 @@ tags:
  - print
  - property
  - time
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction, pp. 240-245
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

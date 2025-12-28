@@ -15,8 +15,6 @@ tags:
  - performance
  - print
  - simulation
- - ultra
- - ultra
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

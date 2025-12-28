@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/pastia_cristian"><b>Pastia</b> Cristian</a> <a href="https://orcid.org/0000-0002-6603-1294" title="ORCID: 0000-0002-6603-1294" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Critical Thinking in the Sustainable Rehabilitation and Risk Management of the Built Environment, pp. 298-308
 
 :aca-blank:{ .lg .middle}
     [`#advantage`](keyword/advantage)
@@ -60,7 +61,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
     </ol>

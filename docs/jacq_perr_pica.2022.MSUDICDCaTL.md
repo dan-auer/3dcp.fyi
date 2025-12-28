@@ -34,6 +34,7 @@ tags:
 ,     <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="https://orcid.org/0000-0003-1898-8486" title="ORCID: 0000-0003-1898-8486" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 324-329
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

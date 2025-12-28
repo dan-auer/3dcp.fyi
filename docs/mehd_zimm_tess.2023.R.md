@@ -16,7 +16,6 @@ tags:
  - large
  - linear
  - scale
- - a
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/tessmann_oliver"><b>Tessmann</b> Oliver</a> <a href="https://orcid.org/0000-0003-0297-9884" title="ORCID: 0000-0003-0297-9884" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Design Modelling Symposium, pp. 476-486
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)

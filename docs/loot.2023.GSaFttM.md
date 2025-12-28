@@ -21,6 +21,7 @@ tags:
       <a href="../../../author/lootens_didier"><b>Lootens</b> Didier</a> <a href="https://orcid.org/0000-0002-3510-6847" title="ORCID: 0000-0002-3510-6847" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 3D Printing for Construction with Alternative Materials, pp. 33-56
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)

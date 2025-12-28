@@ -11,7 +11,6 @@ tags:
  - monitoring
  - print
  - vision
- - in
 
 ---
 
@@ -69,7 +68,6 @@ tags:
     <ol>
       <li><a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b> Sébastien</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arch_mait_demo_char.2021.StSoaHMSaGCSbAM/">Strategy to Shape, on a Half-Meter Scale, a Geopolymer Composite Structure by Additive Manufacturing</a></li>
       <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>

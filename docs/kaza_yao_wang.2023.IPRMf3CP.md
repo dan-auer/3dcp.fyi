@@ -12,7 +12,6 @@ tags:
  - print
  - process
  - reinforcement
- - in
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2022 International Conference on Green Building, Civil Engineering and Smart City, pp. 394-402
 
 :aca-blank:{ .lg .middle}
     [`#challenge`](keyword/challenge)

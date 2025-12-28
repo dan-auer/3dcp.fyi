@@ -10,7 +10,6 @@ tags:
  - post
  - print
  - tension
- - post
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/jorgensen_f_kare"><b>Jørgensen</b> Kåre</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the IASS 2018 Annual Symposium, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

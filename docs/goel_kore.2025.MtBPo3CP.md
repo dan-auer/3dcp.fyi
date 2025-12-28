@@ -10,7 +10,6 @@ tags:
  - print
  - progress
  - review
- - a
 
 ---
 
@@ -60,7 +59,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
@@ -87,7 +85,6 @@ tags:
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/rahmat_f_n"><b>Rahmat</b> N.</a>, <a href="../../../author/ali_noorwirdawati"><b>Ali</b> Noorwirdawati</a>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b> Siti</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../rahm_ali_abdu_abdu.2023.FPaFSo3PSCCGaPCR/">Fresh Properties and Flexural Strength of 3D Printing Sustainable Concrete Containing GGBS as Partial Cement Replacement</a></li>
       <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a></li>
-      <li>None</li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/khayatt_m_ahmed"><b>Khayatt</b> Ahmed</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../siko_tech_fede_khay.2022.IitMaDCo3PC/">Insight into the Microstructural and Durability Characteristics of 3D Printed Concrete:<br/>Cast versus Printed Specimens</a></li>
       <li><a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a>, <a href="../../../author/higgins_j"><b>Higgins</b> J.</a>, <a href="../../../author/aitken_w_m"><b>Aitken</b> M.</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sury_higg_aitk_tamb.2023.DiPCGBf3PA/">Developments in Portland Cement/GGBS Binders for 3D Printing Applications:<br/>Material-Calibration and Structural Testing</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>

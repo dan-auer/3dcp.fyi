@@ -13,8 +13,6 @@ tags:
  - height
  - performance
  - print
- - ultra
- - ultra
 
 ---
 
@@ -33,6 +31,7 @@ tags:
 ,     <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Tran-SET 2022, pp. 35-44
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

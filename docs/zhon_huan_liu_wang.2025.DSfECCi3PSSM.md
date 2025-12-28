@@ -17,8 +17,6 @@ tags:
  - slag
  - steel
  - strategy
- - dual
- - in
 
 ---
 
@@ -85,7 +83,6 @@ tags:
       <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a></li>
       <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/dam_benjamin"><b>Dam</b> Benjamin</a>, <a href="../../../author/zeidan_talina"><b>Zeidan</b> Talina</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../moha_rahu_dam_zeid.2022.PCEIaCAf3PCM/">Performance Criteria, Environmental Impact and Cost-Assessment for 3D Printable Concrete Mixtures</a></li>
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a></li>
       <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../node_ozba_ghol.2022.EoSCMoPo3PCaAAC/">Effect of Supplementary Cementitious Materials on Properties of 3D Printed Conventional and Alkali-Activated Concrete:<br/>A Review</a></li>

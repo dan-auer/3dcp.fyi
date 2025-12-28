@@ -19,10 +19,6 @@ tags:
  - reinforcement
  - static
  - structure
- - a
- - in
- - micro
- - micro
 
 ---
 
@@ -43,6 +39,7 @@ tags:
 ,     <a href="../../../author/grosse_u_christian"><b>Grosse</b> Christian</a> <a href="https://orcid.org/0000-0002-7956-0558" title="ORCID: 0000-0002-7956-0558" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Structural Engineering, Mechanics and Computation, pp. 617-622
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

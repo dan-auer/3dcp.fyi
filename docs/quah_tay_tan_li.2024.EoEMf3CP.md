@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> <a href="https://orcid.org/0000-0001-6187-6434" title="ORCID: 0000-0001-6187-6434" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Construction 3D Printing, pp. 281-288
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

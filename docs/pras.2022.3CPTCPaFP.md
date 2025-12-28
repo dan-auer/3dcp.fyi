@@ -12,7 +12,6 @@ tags:
  - review
  - state
  - technology
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
       <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International Conference on Sustainable Construction Technologies and Advancements in Civil Engineering, pp. 27-39
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

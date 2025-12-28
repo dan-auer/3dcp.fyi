@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/tromp_liesbeth"><b>Tromp</b> Liesbeth</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2019 IABSE Congress, pp. 195-199
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

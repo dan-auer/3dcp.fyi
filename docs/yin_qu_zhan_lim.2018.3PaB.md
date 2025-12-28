@@ -10,7 +10,6 @@ tags:
  - print
  - review
  - technology
- - a
 
 ---
 
@@ -66,7 +65,6 @@ tags:
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
       <li><a href="../../../author/bosscher_paul"><b>Bosscher</b> Paul</a>, <a href="../../../author/williams_l_robert"><b>Williams</b> Robert</a>, <a href="../../../author/bryson_sebastian_l"><b>Bryson</b> L.</a>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b> Daniel</a> <a href="../../../date/2007/04">(2007-04)</a><br><a href="../../../boss_will_brys_cast.2007.CSRCCS/">Cable-Suspended Robotic Contour Crafting System</a></li>
       <li><a href="../../../author/cesaretti_giovanni"><b>Cesaretti</b> Giovanni</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/kestelier_xavier"><b>Kestelier</b> Xavier</a>, <a href="../../../author/colla_valentina"><b>Colla</b> Valentina</a> et al. <a href="../../../date/2013/08">(2013-08)</a><br><a href="../../../cesa_dini_kest_coll.2014.BCfaOotLSbMoaN3PT/">Building Components for an Outpost on the Lunar Soil by Means of a Novel 3D Printing Technology</a></li>
-      <li>None</li>
       <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a></li>
       <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/lauer_viktor_willi"><b>Lauer</b> Willi</a>, <a href="../../../author/langenberg_silke"><b>Langenberg</b> Silke</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2013/09">(2013-09)</a><br><a href="../../../hack_laue_lang_gram.2013.OR/">Overcoming Repetition:<br/>Robotic Fabrication Processes at a Large-Scale</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../hwan_khos.2005.AICPCCC/">An Innovative Construction Process-Contour Crafting (CC)</a></li>

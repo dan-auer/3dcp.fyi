@@ -17,7 +17,6 @@ tags:
  - print
  - technique
  - value
- - a
 
 ---
 

@@ -22,6 +22,7 @@ tags:
       <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a> <a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Rapid Manufacturing, pp. 249-273
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -16,7 +16,6 @@ tags:
  - strategy
  - test
  - thaw
- - a
 
 ---
 
@@ -72,7 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/azimi_zahir"><b>Azimi</b> Zahir</a>, <a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b> Akbar</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS/">Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>

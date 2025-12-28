@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/jain_k_a"><b>Jain</b> A.</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Construction Materials and Sustainable Environment, pp. 837-847
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

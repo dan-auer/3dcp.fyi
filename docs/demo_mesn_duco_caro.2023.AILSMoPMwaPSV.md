@@ -12,8 +12,6 @@ tags:
  - printability
  - shear
  - structuration
- - a
- - in
 
 ---
 
@@ -81,7 +79,6 @@ tags:
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../reit_wang_rous_flat.2018.TRoEASBUiDFwC/">The Role of Early-Age Structural Build-Up in Digital Fabrication with Concrete</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a></li>
-      <li>None</li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wang_flat_rous_perr.2022.PCBM/">Printable Cement-Based Materials:<br/>Fresh Properties Measurements and Control</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../wolf_bos_sale.2018.CBDCTaNDUMoEA3PC/">Correlation Between Destructive Compression Tests and Non-Destructive Ultrasonic Measurements on Early-Age 3D Printed Concrete</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC/">Rheology of 3D Printable Concrete Prepared by Secondary Mixing of Ready-Mix Concrete</a></li>

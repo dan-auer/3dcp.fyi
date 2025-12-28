@@ -10,7 +10,6 @@ tags:
  - construction
  - criteria
  - practice
- - in
 
 ---
 
@@ -68,7 +67,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/afarani_taheri_hajar"><b>Afarani</b> Hajar</a>, <a href="../../../author/moser_h_newell"><b>Moser</b> Newell</a>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a>, <a href="../../../author/esfahani_nasr_ebrahim"><b>Esfahani</b> Ebrahim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../afar_mose_garb_esfa.2022.PFMfAMoCBM/">Print Fidelity Metrics for Additive Manufacturing of Cement-Based Materials</a></li>
       <li><a href="../../../author/bello_d_nicholas"><b>Bello</b> Nicholas</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../bell_mema.2023.CRotTaCSo3CPoBbSC/">Comparative Review of the Technology and Case Studies of 3D Concrete Printing of Buildings by Several Companies</a></li>
       <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bohl_mai_lowk.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</a></li>
@@ -76,7 +74,6 @@ tags:
       <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../dela_chen_side.2024.AaDo3PRCWUIPQSL/">Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading</a></li>
       <li><a href="../../../author/gamage_kumari"><b>Gamage</b> Kumari</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a>, <a href="../../../author/teixeira_belek-fialho_muge"><b>Teixeira</b> Muge</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../gama_fawz_zahr_teix.2024.AiS3CP/">Advancement in Sustainable 3D Concrete Printing:<br/>A Review on Materials, Challenges, and Current Progress in Australia</a></li>
       <li><a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../jago_digg_krei_schu.2020.TVaSo3PC/">The Viability and Simplicity of 3D Printed Construction:<br/>A Military Case Study</a></li>
-      <li>None</li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/wood_tanner"><b>Wood</b> Tanner</a>, <a href="../../../author/macallister_bruce"><b>MacAllister</b> Bruce</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../krei_digg_wood_maca.2020.FCfDAC/">Field Considerations for Deploying Additive Construction</a></li>
       <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a></li>
@@ -86,12 +83,8 @@ tags:
       <li><a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/barna_a_lynette"><b>Barna</b> Lynette</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../negr_krei_barn_styn.2024.DoIPTMfEPC/">Development of In-Place Test-Methods for Evaluating Printable Concretes</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pand_shak_lagh.2023.SAM/">Shotcrete Additive Manufacturing</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
-      <li>None</li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b> Jeneé</a>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b> Andrew</a>, <a href="../../../author/delorit_d_justin"><b>Delorit</b> Justin</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../schu_jago_hois_delo.2021.ASRaAotVo3PCiRE/">A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments</a></li>
       <li><a href="../../../author/tu_haidong"><b>Tu</b> Haidong</a>, <a href="../../../author/wei_zhenyun"><b>Wei</b> Zhenyun</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/kahla_nabil"><b>Kahla</b> Nabil</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../tu_wei_bahr_kahl.2023.RAaFTi3PCUWM/">Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_t_brydon"><b>Wang</b> Brydon</a>, <a href="../../../author/rimmer_matthew"><b>Rimmer</b> Matthew</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../wang_rimm.2021.3PaH/">3D Printing and Housing:<br/>Intellectual Property and Construction Law</a></li>
     </ol>
 ???+ quote "Citations"

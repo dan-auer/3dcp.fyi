@@ -12,8 +12,6 @@ tags:
  - manufacturing
  - print
  - review
- - a
- - in
 
 ---
 
@@ -86,7 +84,6 @@ tags:
       <li><a href="../../../author/holt_camille"><b>Holt</b> Camille</a>, <a href="../../../author/edwards_laurie"><b>Edwards</b> Laurie</a>, <a href="../../../author/keyte_louise"><b>Keyte</b> Louise</a>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b> Farzad</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../holt_edwa_keyt_mogh.2019.C3P/">Construction 3D Printing</a></li>
       <li><a href="../../../author/hossain_aslam_md"><b>Hossain</b> Md.</a>, <a href="../../../author/zhumabekova_altynay"><b>Zhumabekova</b> Altynay</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/kim_ryeol_jong"><b>Kim</b> Jong</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM/">A Review of 3D Printing in Construction and Its Impact on the Labor Market</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2005/11">(2005-11)</a><br><a href="../../../hwan_khos.2005.AICPCCC/">An Innovative Construction Process-Contour Crafting (CC)</a></li>
-      <li>None</li>
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a></li>
@@ -120,7 +117,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../teiz_blic_king_leit.2018.Bf3PiC/">BIM for 3D Printing in Construction</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/yin_hongxi"><b>Yin</b> Hongxi</a>, <a href="../../../author/qu_ming"><b>Qu</b> Ming</a>, <a href="../../../author/zhang_haiyan"><b>Zhang</b> Haiyan</a>, <a href="../../../author/lim_yechan"><b>Lim</b> YeChan</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../yin_qu_zhan_lim.2018.3PaB/">3D Printing and Buildings:<br/>A Technology Review and Future Outlook</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2009/06">(2009-06)</a><br><a href="../../../zhan_khos.2009.CCPPaO/">Contour Crafting Process Planning and Optimization</a></li>

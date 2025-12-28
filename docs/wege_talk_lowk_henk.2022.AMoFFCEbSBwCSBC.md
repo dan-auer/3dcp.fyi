@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/winter_stefan"><b>Winter</b> Stefan</a> <a href="https://orcid.org/0000-0002-5825-0710" title="ORCID: 0000-0002-5825-0710" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Leicht Bauen mit Beton, pp. 300-327
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -70,8 +71,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lowk.2018.CtPBMfAM/">Concrete, the Predestined Building Material for Additive Manufacturing</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../lowk_talk_mai_wege.2020.PB3PbSCA/">Particle-Bed 3D Printing by Selective Cement-Activation:<br/>Applications, Material and Process Technology</a></li>

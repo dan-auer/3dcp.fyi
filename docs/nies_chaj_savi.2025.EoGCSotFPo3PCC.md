@@ -13,7 +13,6 @@ tags:
  - print
  - property
  - slag
- - on
 
 ---
 
@@ -89,7 +88,6 @@ tags:
       <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a></li>
       <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a></li>
       <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../over_figu_savi_bos.2022.DaAoPSHCCwOPSD/">Design and Analyses of Printable Strain-Hardening Cementitious Composites with Optimized Particle-Size-Distribution</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../pand_tan.2019.RBoHVFAMCMSfDCA/">Rheological Behavior of High-Volume Fly-Ash Mixtures Containing Micro-Silica for Digital Construction Application</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
       <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a></li>

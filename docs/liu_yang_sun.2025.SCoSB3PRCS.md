@@ -18,7 +18,6 @@ tags:
  - spray
  - structure
  - synchronization
- - on
 
 ---
 

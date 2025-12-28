@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/vaitova_michaela"><b>Vaitová</b> Michaela</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Structural Engineering, Mechanics and Computation, pp. 431-436
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

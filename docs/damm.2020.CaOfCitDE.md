@@ -9,7 +9,6 @@ tags:
  - concrete
  - digital
  - opportunity
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
       <a href="../../../author/damme_henri"><b>van Damme</b> Henri</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the Gulf Conference on Sustainable Built Environment, pp. 27-56
 
 :aca-blank:{ .lg .middle}
     [`#challenge`](keyword/challenge)

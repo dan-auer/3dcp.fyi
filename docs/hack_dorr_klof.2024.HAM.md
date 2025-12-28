@@ -20,6 +20,7 @@ tags:
 ,     <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Built Environment Additive Manufacturing, pp. 52-59
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -54,8 +55,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../mai_broh_freu_gant.2021.LP3CP/">Large Particle 3D Concrete Printing:<br/>A Green and Viable Solution</a></li>
-      <li>None</li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

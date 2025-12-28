@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/singh_bhupinder"><b>Singh</b> Bhupinder</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#acoustic`](keyword/acoustic)

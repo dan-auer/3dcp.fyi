@@ -16,11 +16,10 @@ tags:
  - paste
  - printability
  - relation
- - on
 
 ---
 
-#:aca-closedaccess:{ .xred '} Design of 3D Printable Concrete Based on the Relationship between Flowability of Cement-Paste and Optimum Aggregate-Content ([2019-09](date/2019/09))
+#:aca-closedaccess:{ .xred '} Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content ([2019-09](date/2019/09))
 <a href="https://doi.org/10.1016/j.cemconcomp.2019.103406" title="DOI" target="_blank">:aca-doi:{ .lg .middle } 10.1016/j.cemconcomp.2019.103406</a>
 
 -------------------------
@@ -52,7 +51,7 @@ tags:
 
 -------------------------
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20of%203D%20Printable%20Concrete%20Based%20on%20the%20Relationship%20between%20Flowability%20of%20Cement-Paste%20and%20Optimum%20Aggregate-Content" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar_lookup?title=Design%20of%203D%20Printable%20Concrete%20Based%20on%20the%20Relationship%20Between%20Flowability%20of%20Cement-Paste%20and%20Optimum%20Aggregate-Content" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071622043&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000501649500065" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2019.103406" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -100,7 +99,7 @@ tags:
     </ol>
 ???+ quote "Citations"
     <ol reversed>
-      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PCPMaS/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete: Printability, Mechanics, and Shrinkage</a></li>
+      <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/nicolaides_demetris"><b>Nicolaides</b> Demetris</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../oztu_ince_borg_nico.2025.PEPaEIo3PCMIHLTPaA/">Printability, Engineering Properties and Environmental Implications of 3D-Printed Cementitious Mortars Incorporating Hydrated Lime, Tile Powder and Accelerator</a></li>
       <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
       <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>

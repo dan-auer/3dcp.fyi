@@ -13,7 +13,6 @@ tags:
  - performance
  - print
  - temperature
- - a
 
 ---
 
@@ -72,7 +71,6 @@ tags:
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/wang_jiaao"><b>Wang</b> Jiaao</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../chen_li_wang_huan.2020.RPaBTo3PSCPMbRaD/">Rheological Parameters and Building Time of 3D Printing Sulphoaluminate-Cement-Paste Modified by Retarder and Diatomite</a></li>
       <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/liu_bo"><b>Liu</b> Bo</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a>, <a href="../../../author/cao_lidong"><b>Cao</b> Lidong</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../chen_liu_li_cao.2020.RPTaCo3PCSCCMbB/">Rheological Parameters, Thixotropy and Creep of 3D Printed Calcium-Sulfoaluminate-Cement Composites Modified by Bentonite</a></li>
       <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a></li>
-      <li>None</li>
       <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../kash_ngo.2018.OoMPf3PoGC/">Optimization of Mixture-Properties for 3D Printing of Geopolymer Concrete</a></li>
       <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a></li>
       <li><a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../khal_wang_celi.2020.3PMOC/">3D Printable Magnesium Oxide Concrete:<br/>Towards Sustainable Modern Architecture</a></li>

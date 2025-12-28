@@ -17,8 +17,6 @@ tags:
  - robot
  - simulation
  - validation
- - a
- - multi
 
 ---
 
@@ -77,7 +75,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../baz_aoua_khal_remo.2021.ILRo3PCE/">Inter-Layer Reinforcement of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a></li>
@@ -96,12 +93,10 @@ tags:
       <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
-      <li>None</li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
 ???+ quote "Citations"

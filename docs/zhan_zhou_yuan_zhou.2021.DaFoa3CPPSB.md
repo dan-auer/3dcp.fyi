@@ -11,8 +11,6 @@ tags:
  - fabrication
  - print
  - stress
- - a
- - pre
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> <a href="https://orcid.org/0000-0002-2543-2307" title="ORCID: 0000-0002-2543-2307" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia, pp. 663-672
 
 :aca-blank:{ .lg .middle}
     [`#bridge`](keyword/bridge)

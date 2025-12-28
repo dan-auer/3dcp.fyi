@@ -15,8 +15,6 @@ tags:
  - rheology
  - spray
  - viscosity
- - ultra
- - ultra
 
 ---
 

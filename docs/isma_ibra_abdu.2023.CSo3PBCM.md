@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b> Siti</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 1st International Conference on Mechanical and Manufacturing Engineering, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#bio`](keyword/bio)

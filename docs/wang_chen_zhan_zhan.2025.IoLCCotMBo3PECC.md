@@ -14,7 +14,6 @@ tags:
  - limestone
  - mechanics
  - print
- - on
 
 ---
 

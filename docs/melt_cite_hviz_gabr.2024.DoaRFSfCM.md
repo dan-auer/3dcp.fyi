@@ -11,7 +11,6 @@ tags:
  - material
  - robot
  - system
- - a
 
 ---
 

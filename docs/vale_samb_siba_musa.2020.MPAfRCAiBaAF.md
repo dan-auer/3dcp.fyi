@@ -14,9 +14,6 @@ tags:
  - multi
  - physics
  - rubber
- - a
- - in
- - multi
 
 ---
 

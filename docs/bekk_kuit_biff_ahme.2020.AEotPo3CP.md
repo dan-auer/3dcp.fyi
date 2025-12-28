@@ -13,7 +13,6 @@ tags:
  - historical
  - inspiration
  - print
- - in
 
 ---
 
@@ -29,6 +28,7 @@ tags:
 ,     <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> <a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1078-1090
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

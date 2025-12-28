@@ -16,9 +16,6 @@ tags:
  - surface
  - vision
  - workflow
- - a
- - in
- - on
 
 ---
 
@@ -33,6 +30,7 @@ tags:
 ,     <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> <a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 20th International Conference on Computer-Aided Architectural Design Futures, pp. 410-424
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#buildup
+# #buildup
 
 <ol reversed>
   <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b> Marcin</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moll_comm_serd_seta.2023.CAoYSBaSoDLiMEAM/">Computational Analysis of Yield-Stress-Buildup and Stability of Deposited Layers in Material-Extrusion Additive Manufacturing</a></li>

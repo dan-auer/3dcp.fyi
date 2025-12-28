@@ -10,7 +10,6 @@ tags:
  - print
  - raw
  - structure
- - in
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 332-338
 
 :aca-blank:{ .lg .middle}
     [`#cool`](keyword/cool)
@@ -61,7 +61,6 @@ tags:
 ???+ quote "References"
     <ol>
       <li><a href="../../../author/assuncao-badan_julie"><b>Assunção Badan</b> Julie</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM/">Contribution of Production Processes in Environmental Impact of Low-Carbon Materials Made by Additive Manufacturing</a></li>
-      <li>None</li>
       <li><a href="../../../author/furet_benoit"><b>Furet</b> Benoît</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/garnier_sebastien"><b>Garnier</b> Sébastien</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../fure_poul_garn.2019.3PfCBoaCWoPFaC/">3D Printing for Construction Based on a Complex Wall of Polymer-Foam and Concrete</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/ji_yameng"><b>Ji</b> Yameng</a>, <a href="../../../author/poullain_philippe"><b>Poullain</b> Philippe</a>, <a href="../../../author/leklou_nordine_ali"><b>Leklou</b> Ali</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_poul_lekl.2023.TSaDoEMf3P/">The Selection and Design of Earthen Materials for 3D Printing</a></li>

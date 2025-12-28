@@ -13,7 +13,6 @@ tags:
  - rheology
  - test
  - zone
- - a
 
 ---
 
@@ -75,7 +74,6 @@ tags:
       <li><a href="../../../author/khan_s_mohammad"><b>Khan</b> Mohammad</a>, <a href="../../../author/sanchez_florence"><b>Sanchez</b> Florence</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan_sanc_zhou.2020.3PoC/">3D Printing of Concrete:<br/>Beyond Horizons</a></li>
       <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a></li>
       <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../lee_kim_moon_kim.2019.EotMPoa3PM/">Evaluation of the Mechanical Properties of a 3D Printed Mortar</a></li>
-      <li>None</li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../pand_tan.2018.ESoMPaFPoFABGf3CP/">Experimental Study on Mix Proportion and Fresh Properties of Fly-Ash-Based Geopolymer for 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a>, <a href="../../../author/singaram_kumar_kailash"><b>Singaram</b> Kailash</a>, <a href="../../../author/bathina_indira"><b>Bathina</b> Indira</a>, <a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pari_sing_bath_khan.2023.RaPoMSfEBC3P/">Rheology and Pumpability of Mix Suitable for Extrusion-Based Concrete 3D Printing:<br/>A Review</a></li>

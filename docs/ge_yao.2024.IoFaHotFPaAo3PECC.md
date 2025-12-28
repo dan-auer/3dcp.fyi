@@ -13,7 +13,6 @@ tags:
  - influence
  - print
  - property
- - on
 
 ---
 

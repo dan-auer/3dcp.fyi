@@ -15,8 +15,6 @@ tags:
  - reinforcement
  - resistance
  - strand
- - a
- - in
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> <a href="https://orcid.org/0000-0002-2218-1223" title="ORCID: 0000-0002-2218-1223" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

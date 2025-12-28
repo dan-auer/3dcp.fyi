@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#correction
+# #correction
 
 <ol reversed>
   <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>

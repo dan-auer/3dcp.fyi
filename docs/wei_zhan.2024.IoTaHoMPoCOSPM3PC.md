@@ -15,7 +15,6 @@ tags:
  - property
  - shell
  - temperature
- - on
 
 ---
 
@@ -74,9 +73,7 @@ tags:
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
       <li><a href="../../../author/du_jiashuai"><b>Du</b> Jiashuai</a>, <a href="../../../author/wei_yazhi"><b>Wei</b> Yazhi</a>, <a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/idriss_i-b_aboubaker"><b>Idriss</b> Aboubaker</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../du_wei_zhan_idri.2024.EoOSDoPEoBB3PC/">Effects of Oyster-Shell-Derivatives on Performance Enhancement of Biomass-Based 3D Printed Concrete</a></li>
       <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
-      <li>None</li>
       <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a></li>
       <li><a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../shah_ghol_kash_ngo.2021.SBoC3PM/">Shrinkage Behavior of Cementitious 3D Printing Materials:<br/>Effect of Temperature and Relative Humidity</a></li>
       <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a></li>

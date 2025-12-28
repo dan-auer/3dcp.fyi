@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#reflection
+# #reflection
 
 <ol reversed>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>

@@ -11,7 +11,6 @@ tags:
  - identification
  - print
  - technology
- - in
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="https://orcid.org/0000-0002-5210-0228" title="ORCID: 0000-0002-5210-0228" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Manufacturing 2030, pp. 240-251
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)
@@ -71,7 +71,7 @@ tags:
       <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a></li>
       <li><a href="../../../author/kokare_samruddha"><b>Kokare</b> Samruddha</a>, <a href="../../../author/oliveira_pedro_joao"><b>Oliveira</b> João</a>, <a href="../../../author/godina_radu"><b>Godina</b> Radu</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../koka_oliv_godi.2023.LCAoAMP/">Life Cycle Assessment of Additive Manufacturing Processes:<br/>A Review</a></li>
       <li><a href="../../../author/kristombu-baduge_shanaka"><b>Kristombu Baduge</b> Shanaka</a>, <a href="../../../author/navaratnam_satheeskumar"><b>Navaratnam</b> Satheeskumar</a>, <a href="../../../author/zidan_yousef"><b>Zidan</b> Yousef</a>, <a href="../../../author/mccormack_tom"><b>McCormack</b> Tom</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../kris_nava_zida_mcco.2021.IPoAMC/">Improving Performance of Additive Manufactured Concrete:<br/>A Review on Material Mix-Design, Processing, Inter-Layer Bonding, and Reinforcing-Methods</a></li>
-      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CbTBaBf3CP/">Correlation between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
       <li><a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a>, <a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/seshadri_bharath"><b>Seshadri</b> Bharath</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lesc_chei_picc_sesh.2023.3PF/">3D Printing Facades:<br/>Design, Fabrication, and Assessment Methods</a></li>
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>

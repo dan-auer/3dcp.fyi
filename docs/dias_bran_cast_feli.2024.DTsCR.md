@@ -14,7 +14,6 @@ tags:
  - potential
  - reef
  - system
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/felix_joao_maria"><b>Félix</b> Maria</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the XXVIII Conference of the Ibero-American Society of Digital Graphics, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

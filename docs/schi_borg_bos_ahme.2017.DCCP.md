@@ -11,9 +11,6 @@ tags:
  - planar
  - print
  - surface
- - double
- - non
- - on
 
 ---
 

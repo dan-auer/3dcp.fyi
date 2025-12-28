@@ -10,7 +10,6 @@ tags:
  - multi
  - print
  - technology
- - multi
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/andrade-romero_marcelo"><b>de Andrade Romero</b> Marcelo</a> <a href="https://orcid.org/0000-0003-4573-6794" title="ORCID: 0000-0003-4573-6794" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the International Scientific Conference on Energy, Environmental and Construction Engineering, pp. 411-420
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -63,7 +63,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alhumayani_hashem"><b>Alhumayani</b> Hashem</a>, <a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../alhu_goma_soeb_jabi.2020.EAoLS3PiC/">Environmental Assessment of Large-Scale 3D Printing in Construction:<br/>A Comparative Study between Cob and Concrete</a></li>
       <li><a href="../../../author/assaad_j_joseph"><b>Assaad</b> Joseph</a>, <a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b> Farook</a>, <a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../assa_hamz_hama.2020.QAoIBi3PCEtFA/">Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>

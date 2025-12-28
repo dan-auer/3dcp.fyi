@@ -25,6 +25,7 @@ tags:
 ,     <a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> <a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 188-193
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

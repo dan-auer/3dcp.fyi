@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="https://orcid.org/0000-0002-5044-8482" title="ORCID: 0000-0002-5044-8482" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2025, pp. 39
 
 :aca-blank:{ .lg .middle}
     [`#carbon`](keyword/carbon)

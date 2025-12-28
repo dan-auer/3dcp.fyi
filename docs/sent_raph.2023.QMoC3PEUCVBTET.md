@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

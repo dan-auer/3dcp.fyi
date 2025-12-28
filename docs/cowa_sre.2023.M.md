@@ -12,7 +12,6 @@ tags:
  - cost
  - low
  - print
- - a
 
 ---
 
@@ -24,6 +23,7 @@ tags:
 ,     <a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a> <a href="https://orcid.org/0000-0002-4911-9470" title="ORCID: 0000-0002-4911-9470" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2023 IABSE Congress, pp. 535 – 542
 
 :aca-blank:{ .lg .middle}
     [`#approach`](keyword/approach)

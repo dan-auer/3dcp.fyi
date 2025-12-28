@@ -6,7 +6,6 @@ title: Che Lin, Gabriele Mattei, Ina Cheibas, Chaoyu Du, Johan Aejmelaeus-Lindst
 description:
 tags:
  - print
- - on
 
 ---
 
@@ -56,10 +55,8 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/barnett_eric"><b>Barnett</b> Eric</a>, <a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a> <a href="../../../date/2015/06">(2015-06)</a><br><a href="../../../barn_goss.2015.LS3PwaCSR/">Large-Scale 3D Printing with a Cable-Suspended Robot</a></li>
       <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a></li>
-      <li>None</li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a></li>

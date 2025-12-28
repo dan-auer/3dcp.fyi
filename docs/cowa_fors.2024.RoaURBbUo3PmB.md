@@ -9,7 +9,6 @@ tags:
  - bridge
  - print
  - use
- - a
 
 ---
 
@@ -23,6 +22,7 @@ tags:
 ,     <a href="../../../author/forsberg_torben"><b>Forsberg</b> Torben</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2024 IABSE Symposium, pp. 45
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

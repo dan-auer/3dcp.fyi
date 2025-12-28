@@ -8,7 +8,6 @@ tags:
  - dimension
  - printability
  - three
- - a
 
 ---
 
@@ -22,6 +21,7 @@ tags:
 ,     <a href="../../../author/dogan_zekeriya"><b>Dogan</b> Zekeriya</a> <a href="https://orcid.org/0000-0002-2721-4450" title="ORCID: 0000-0002-2721-4450" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 10th MATBUD, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#dimension`](keyword/dimension)

@@ -15,7 +15,6 @@ tags:
  - property
  - setting
  - shotcrete
- - on
 
 ---
 
@@ -89,7 +88,6 @@ tags:
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../rama_kana_sanj.2022.ILAoCMf3CP/">In-Line Activation of Cementitious Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a></li>
       <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../reit_wang_anto_flat.2020.SoDfDC/">Setting-on-Demand for Digital Concrete:<br/>Principles, Measurements, Chemistry, Validation</a></li>
-      <li>None</li>
       <li><a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b> Ariane</a>, <a href="../../../author/hasse_amanda_jessica"><b>Hasse</b> Jéssica</a>, <a href="../../../author/repette_longuini_wellington"><b>Repette</b> Wellington</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../rubi_hass_repe.2021.TEoRPo3PCatEoAA/">The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture</a></li>
       <li><a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/fryda_herve"><b>Fryda</b> Hervé</a>, <a href="../../../author/bousseau_jean-noel"><b>Bousseau</b> Jean-Noël</a>, <a href="../../../author/andreani_pierre-antoine"><b>Andreani</b> Pierre-Antoine</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../silv_fryd_bous_andr.2020.EoEACSBUf3CPbOR/">Evaluation of Early-Age Concrete Structural Build-Up for 3D Concrete Printing by Oscillatory Rheometry</a></li>
       <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../szab_reit_llor_gram.2019.PoSoDSfDFiA/">Processing of Set-on-Demand Solutions for Digital Fabrication in Architecture</a></li>

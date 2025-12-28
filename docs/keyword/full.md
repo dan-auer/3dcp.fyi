@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#full
+# #full
 
 <ol reversed>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>

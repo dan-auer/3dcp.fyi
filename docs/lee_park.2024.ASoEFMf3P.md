@@ -7,9 +7,6 @@ description:
 tags:
  - material
  - print
- - a
- - eco
- - on
 
 ---
 
@@ -56,7 +53,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a></li>
       <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a></li>

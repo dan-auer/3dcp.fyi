@@ -11,8 +11,6 @@ tags:
  - industry
  - manufacturing
  - review
- - a
- - in
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/seepersad_carolyn"><b>Seepersad</b> Carolyn</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -14,7 +14,6 @@ tags:
  - quantity
  - surface
  - texture
- - on
 
 ---
 

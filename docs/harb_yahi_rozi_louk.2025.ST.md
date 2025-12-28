@@ -13,7 +13,6 @@ tags:
  - squeeze
  - stiffness
  - test
- - a
 
 ---
 
@@ -78,7 +77,6 @@ tags:
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../harb_yahi_rozi_louk.2022.PAoCBMUUCT/">Printability-Assessment of Cement-Based Materials Using Uniaxial Compression-Test</a></li>
       <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../harb_yahi_rozi_louk.2023.PQCoCBMUFaRC/">Printing Quality-Control of Cement-Based Materials Under Flow and Rest-Conditions</a></li>
       <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a></li>
-      <li>None</li>
       <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../moei_hoss_yahi.2020.UotCaMAtTtRatGSo3PCM/">Use of the Chemical and Mineral Admixtures to Tailor the Rheology and the Green Strength of 3D Printing Cementitious Mixtures</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../pand_lim_tan.2019.MPaDBoEACitCoDC/">Mechanical Properties and Deformation Behavior of Early-Age Concrete in the Context of Digital Construction</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>

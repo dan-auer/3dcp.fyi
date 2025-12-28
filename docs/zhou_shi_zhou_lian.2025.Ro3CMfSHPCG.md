@@ -12,7 +12,6 @@ tags:
  - method
  - performance
  - structure
- - on
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/bi_kang"><b>Bi</b> Kang</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 135-140
 
 :aca-blank:{ .lg .middle}
     [`#component`](keyword/component)

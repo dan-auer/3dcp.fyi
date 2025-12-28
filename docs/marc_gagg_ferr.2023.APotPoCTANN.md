@@ -11,7 +11,6 @@ tags:
  - neural
  - prediction
  - printability
- - a
 
 ---
 

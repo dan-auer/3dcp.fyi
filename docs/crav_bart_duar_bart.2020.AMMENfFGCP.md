@@ -13,8 +13,6 @@ tags:
  - multi
  - nozzle
  - print
- - a
- - multi
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="https://orcid.org/0000-0003-3683-726X" title="ORCID: 0000-0003-3683-726X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Industry 4.0, pp. 130-135
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

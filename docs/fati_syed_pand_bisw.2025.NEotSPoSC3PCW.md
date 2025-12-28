@@ -14,7 +14,6 @@ tags:
  - seismic
  - self
  - wall
- - self
 
 ---
 
@@ -30,6 +29,7 @@ tags:
 ,     <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, pp. 5443-5451
 
 :aca-blank:{ .lg .middle}
     [`#center`](keyword/center)

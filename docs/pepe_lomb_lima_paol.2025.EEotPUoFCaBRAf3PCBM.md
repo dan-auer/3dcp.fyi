@@ -17,7 +17,6 @@ tags:
  - print
  - recycling
  - use
- - on
 
 ---
 
@@ -97,7 +96,6 @@ tags:
       <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/szewczyk_piotr"><b>Szewczyk</b> Piotr</a>, <a href="../../../author/majewska_julia"><b>Majewska</b> Julia</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../skib_szew_maje_sibe.2024.TEoILAoSDi3PBE/">The Effect of Inter-Layer Adhesion on Stress-Distribution in 3D Printed Beam Elements</a></li>
       <li><a href="../../../author/souza_tramontin_marcelo"><b>Souza</b> Marcelo</a>, <a href="../../../author/ferreira_maia_igor"><b>Ferreira</b> Igor</a>, <a href="../../../author/moraes_guzi_elisangela"><b>Moraes</b> Elisângela</a>, <a href="../../../author/senff_luciano"><b>Senff</b> Luciano</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../souz_ferr_mora_senf.2020.3PCfLSB/">3D Printed Concrete for Large-Scale Buildings:<br/>An Overview of Rheology, Printing Parameters, Chemical Admixtures, Reinforcements, and Economic and Environmental Prospects</a></li>
-      <li>None</li>
       <li><a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/liu_zhenhua"><b>Liu</b> Zhenhua</a>, <a href="../../../author/hou_jia"><b>Hou</b> Jia</a>, <a href="../../../author/ge_mengmeng"><b>Ge</b> Mengmeng</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_liu_hou_ge.2024.RPaTAoC3PTBoC/">Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../yu_xia_sanj_yang.2021.MCo3PC/">Microstructural Characterization of 3D Printed Concrete</a></li>

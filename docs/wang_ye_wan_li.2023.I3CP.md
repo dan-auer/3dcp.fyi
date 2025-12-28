@@ -14,7 +14,6 @@ tags:
  - performance
  - prediction
  - print
- - up
 
 ---
 
@@ -102,9 +101,8 @@ tags:
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P/">Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
-      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFdEB3PP/">Structural Failure during Extrusion-Based 3D Printing Processes</a></li>
+      <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

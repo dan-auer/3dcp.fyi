@@ -11,8 +11,6 @@ tags:
  - first
  - time
  - twin
- - a
- - twin
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/thiele_klaus"><b>Thiele</b> Klaus</a> <a href="https://orcid.org/0000-0002-5367-5840" title="ORCID: 0000-0002-5367-5840" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 439-446
 
 :aca-blank:{ .lg .middle}
     [`#component`](keyword/component)
@@ -60,8 +59,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Arc direct energy deposition (DED-Arc) enables the production of large, optimized components like nodal connectors for the architectural engineering and construction (AEC) sector. High-strength low-alloyed (HSLA) steel wire is particularly suitable for thin-walled and shape-optimized components due to its joining possibilities and strength. As large components for the AEC sector are unique and not meant for serial production, the structural design, prediction of component performance and quality management must be reconsidered. Instead of testing random samples, the process can be monitored and conclusions to the resulting parts can be drawn. With respect to digital fabrication in construction a concept of a digital twin for DED-Arc steel components will be presented. In detail, the manufacturing process has an influence on the design, manufacturing strategy and on the component performance. Therefore, localized information is needed to understand the correlation of as-designed geometry, print strategy, weld data and as-build geometry. This fundamental understanding of design, process and performance enables first time right approaches for sustainable use of DED-Arc technology.
-To determine the influence of these parameters, extensive studies on thin-walled components and nodal connectors made from HSLA steel wire with DED-Arc were conducted. A workflow will be presented to link point, path and surface wise data in a digital twin structure. In detail: A structured light high-resolution scan of the “as-built” components allowed the 3d-analysis of surface topology and correlated them to the manufacturing process data and print features locally. Understanding these complex interactions in digital twin (DT) data enables adapting the component’s design or manufacturing process to predict the component’s mechanical performance requirements.
+    Arc direct energy deposition (DED-Arc) enables the production of large, optimized components like nodal connectors for the architectural engineering and construction (AEC) sector. High-strength low-alloyed (HSLA) steel wire is particularly suitable for thin-walled and shape-optimized components due to its joining possibilities and strength. As large components for the AEC sector are unique and not meant for serial production, the structural design, prediction of component performance and quality management must be reconsidered. Instead of testing random samples, the process can be monitored and conclusions to the resulting parts can be drawn. With respect to digital fabrication in construction a concept of a digital twin for DED-Arc steel components will be presented. In detail, the manufacturing process has an influence on the design, manufacturing strategy and on the component performance. Therefore, localized information is needed to understand the correlation of as-designed geometry, print strategy, weld data and as-build geometry. This fundamental understanding of design, process and performance enables first time right approaches for sustainable use of DED-Arc technology. To determine the influence of these parameters, extensive studies on thin-walled components and nodal connectors made from HSLA steel wire with DED-Arc were conducted. A workflow will be presented to link point, path and surface wise data in a digital twin structure. In detail: A structured light high-resolution scan of the “as-built” components allowed the 3d-analysis of surface topology and correlated them to the manufacturing process data and print features locally. Understanding these complex interactions in digital twin (DT) data enables adapting the component’s design or manufacturing process to predict the component’s mechanical performance requirements.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

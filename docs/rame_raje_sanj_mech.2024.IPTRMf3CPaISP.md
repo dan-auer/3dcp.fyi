@@ -13,7 +13,6 @@ tags:
  - reinforcement
  - structure
  - textile
- - in
 
 ---
 
@@ -87,7 +86,6 @@ tags:
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/michel_albert"><b>Michel</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/schmeier_tobias"><b>Schmeier</b> Tobias</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../mech_mich_lieb_schm.2020.EBAMwCRC/">Extrusion-Based Additive Manufacturing with Carbon Reinforced Concrete:<br/>Concept and Feasibility Study</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../muth_rama_sanj.2022.ILAoGSfC3P/">In-Line Activation of Geopolymer-Slurry for Concrete 3D Printing</a></li>
       <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../muth_rama_sanj.2022.SoDGUPHMf3CP/">Set-on-Demand Geopolymer Using Print-Head Mixing for 3D Concrete Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/hempel_simone"><b>Hempel</b> Simone</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../nere_hemp_mech.2019.EoLIPoMPoCEPbEB3P/">Effects of Layer-Interface Properties on Mechanical Performance of Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../nguy_liu_li_zhan.2023.Mo3PBIBCSRwSF/">Modelling of 3D Printed Bio-Inspired Bouligand Cementitious Structures Reinforced with Steel-Fibers</a></li>
       <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/zhang_guomin"><b>Zhang</b> Guomin</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../nguy_pand_zhan_nguy.2021.DDCaMf3CP/">Digital Design Computing and Modelling for 3D Concrete Printing</a></li>
@@ -100,7 +98,6 @@ tags:
       <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../rame_raje_sanj.2024.BSBoTRi3PC/">Bond-Slip Behavior of Textile-Reinforcement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../sanj_jaya_raje.2021.VIARCf3CP/">Vibration-Induced Active Rheology-Control for 3D Concrete Printing</a></li>
       <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../schr_nere_mech.2019.CWIb3PCVaQbNR/">Capillary Water Intake by 3D Printed Concrete Visualised and Quantified by Neutron Radiography</a></li>
-      <li>None</li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>
 ???+ quote "Citations"

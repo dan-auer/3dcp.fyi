@@ -13,7 +13,6 @@ tags:
  - steel
  - strategy
  - structure
- - two
 
 ---
 

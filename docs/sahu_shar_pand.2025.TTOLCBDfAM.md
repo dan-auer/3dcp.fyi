@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th International Conference on Research into Design, pp. 275-281
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

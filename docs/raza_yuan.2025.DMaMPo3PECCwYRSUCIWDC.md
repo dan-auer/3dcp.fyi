@@ -17,7 +17,6 @@ tags:
  - print
  - sand
  - wet
- - under
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#cement`](keyword/cement)

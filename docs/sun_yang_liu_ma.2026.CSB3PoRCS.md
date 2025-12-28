@@ -17,8 +17,6 @@ tags:
  - spray
  - strategy
  - structure
- - a
- - multi
 
 ---
 
@@ -98,7 +96,6 @@ tags:
       <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../lu_qian_li_weng.2019.DSB3PCMwFACaAEA/">Designing Spray-Based 3D Printable Cementitious Materials with Fly-Ash-Cenosphere and Air-Entraining Agent</a></li>
-      <li>None</li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a></li>
       <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../past_menn_aspr.2022.BBBRKGAtAPCitTOoCS/">Bézier-Based Biased Random-Key Genetic Algorithm to Address Printability-Constraints in the Topology-Optimization of Concrete Structures</a></li>

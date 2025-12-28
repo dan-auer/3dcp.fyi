@@ -32,6 +32,7 @@ tags:
 ,     <a href="../../../author/peters_stefan"><b>Peters</b> Stefan</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Fabricate 2020, pp. 124-129
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)

@@ -17,7 +17,6 @@ tags:
  - print
  - robot
  - system
- - on
 
 ---
 
@@ -32,6 +31,7 @@ tags:
 ,     <a href="../../../author/mahdy_deena"><b>el Mahdy</b> Deena</a> <a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 312-317
 
 :aca-blank:{ .lg .middle}
     [`#activation`](keyword/activation)
@@ -76,7 +76,6 @@ tags:
     <ol>
       <li><a href="../../../author/cutajar_sacha"><b>Cutajar</b> Sacha</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/dorresteijn_evelien"><b>Dorresteijn</b> Evelien</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../cuta_diel_krak_dorr.2024.USEF/">Up-Scaling Earth Formworks:<br/>3D Printing-Strategies for Material-Optimized Reinforced Concrete Structures</a></li>
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
-      <li>None</li>
       <li><a href="../../../author/motamedi_mahan"><b>Motamedi</b> Mahan</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/tang_anh-minh"><b>Tang</b> Anh-Minh</a>, <a href="../../../author/pereira_jean-michel"><b>Pereira</b> Jean-Michel</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mota_mesn_tang_pere.2024.SBUo3PEbD/">Structural Build-Up of 3D Printed Earth by Drying</a></li>
       <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/bruce_mackenzie"><b>Bruce</b> Mackenzie</a>, <a href="../../../author/clune_gabrielle"><b>Clune</b> Gabrielle</a>, <a href="../../../author/xie_ruxin"><b>Xie</b> Ruxin</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../moza_bruc_clun_xie.2023.DDaFoCFfCC/">Digital Design and Fabrication of Clay Formwork for Concrete Casting</a></li>
     </ol>

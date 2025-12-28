@@ -11,7 +11,6 @@ tags:
  - print
  - shape
  - stability
- - on
 
 ---
 

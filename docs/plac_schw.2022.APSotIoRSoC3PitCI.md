@@ -11,9 +11,6 @@ tags:
  - print
  - robot
  - system
- - a
- - in
- - on
 
 ---
 

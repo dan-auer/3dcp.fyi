@@ -12,9 +12,6 @@ tags:
  - lateral
  - print
  - wind
- - a
- - in
- - on
 
 ---
 
@@ -81,7 +78,6 @@ tags:
       <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../ma_li_wang_bai.2019.MCRGCfEB3P/">Micro-Cable-Reinforced Geopolymer Composite for Extrusion-Based 3D Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/10">(2019-10)</a><br><a href="../../../marc_sanj.2020.MRMf3CP/">Mesh Reinforcing Method for 3D Concrete Printing</a></li>
       <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../marc_sanj_nema_xia.2019.ILSo3PC/">Inter-Layer Strength of 3D Printed Concrete</a></li>
-      <li>None</li>
       <li><a href="../../../author/park_jihun"><b>Park</b> Jihun</a>, <a href="../../../author/bui_quang_the"><b>Bui</b> The</a>, <a href="../../../author/lee_jungwoo"><b>Lee</b> Jungwoo</a>, <a href="../../../author/joh_changbin"><b>Joh</b> Changbin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../park_bui_lee_joh.2021.ILSo3PMRbPR/">Inter-Layer Strength of 3D Printed Mortar Reinforced by Postinstalled Reinforcement</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>

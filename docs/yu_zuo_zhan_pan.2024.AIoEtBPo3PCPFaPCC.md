@@ -14,8 +14,6 @@ tags:
  - post
  - print
  - property
- - on
- - post
 
 ---
 
@@ -73,7 +71,7 @@ tags:
     <ol>
       <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a></li>
       <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../bai_wang_ma_sanj.2021.3PEFCCUUaWSaA/">3D Printing Eco-Friendly Concrete Containing Under-Utilised and Waste Solids as Aggregates</a></li>
-      <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics during Casting and Curing</a></li>
+      <li><a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../beka_titt_schu.2022.3PCaSiPF/">3D Printed Concrete as Stay-in-Place Formwork:<br/>Mechanics During Casting and Curing</a></li>
       <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../chen_zhan_liu_zhan.2023.3PCPF/">3D Printed Concrete Permanent Formwork:<br/>Effect of Post-Cast Concrete Proportion on Interface Bonding</a></li>
       <li><a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../he_zhan_zhan_zhou.2020.ESPo3PCBwILW/">Energy-Saving-Potential of 3D Printed Concrete Building with Integrated Living Wall</a></li>
       <li><a href="../../../author/hwang_dooil"><b>Hwang</b> Dooil</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2004/09">(2004-09)</a><br><a href="../../../hwan_khos.2004.CWFbCC/">Concrete Wall Fabrication by Contour Crafting</a></li>

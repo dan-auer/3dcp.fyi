@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/song_lin"><b>Song</b> Lin</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - 42nd Chinese Control Conference (CCC), pp. 7930-7934
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

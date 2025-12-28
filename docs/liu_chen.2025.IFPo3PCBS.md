@@ -69,7 +69,6 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/asghari_y"><b>Asghari</b> Y.</a>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b> S.</a>, <a href="../../../author/petru_m"><b>Petrů</b> M.</a>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b> H.</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../asgh_moha_petr_ghan.2024.3PaIoECC/">3D Printing and Implementation of Engineered Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/soar_c_rupert"><b>Soar</b> Rupert</a>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a>, <a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> <a href="../../../date/2006/06">(2006-06)</a><br><a href="../../../busw_soar_gibb_thor.2007.FC/">Freeform Construction:<br/>Mega-Scale Rapid Manufacturing for Construction</a></li>
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_chan_he_copu.2022.EoCMDaLTGBTPSotILBo3PCM/">Effect of Curing Methods During a Long Time-Gap Between Two Printing Sessions on the Inter-Layer Bonding of 3D Printed Cementitious Materials</a></li>

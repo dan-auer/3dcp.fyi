@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/tatiana_campos"><b>Tatiana</b> Campos</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 377-386
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

@@ -29,6 +29,7 @@ tags:
 ,     <a href="../../../author/leschok_matthias"><b>Leschok</b> Matthias</a> <a href="https://orcid.org/0000-0002-3601-7408" title="ORCID: 0000-0002-3601-7408" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the ACM Symposium on Computational Fabrication, pp. 1-12
 
 :aca-blank:{ .lg .middle}
     [`#bespoke`](keyword/bespoke)

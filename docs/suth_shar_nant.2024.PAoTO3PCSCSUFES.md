@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Recent Developments in Structural Engineering, pp. 547-556
 
 :aca-blank:{ .lg .middle}
     [`#assessment`](keyword/assessment)

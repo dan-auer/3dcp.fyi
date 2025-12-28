@@ -12,7 +12,6 @@ tags:
  - path
  - print
  - tool
- - on
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication, pp. 255-264
 
 :aca-blank:{ .lg .middle}
     [`#adaption`](keyword/adaption)

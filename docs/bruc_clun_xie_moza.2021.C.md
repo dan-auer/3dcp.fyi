@@ -26,6 +26,7 @@ tags:
 ,     <a href="../../../author/adel_arash"><b>Adel</b> Arash</a> <a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 400-409
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)

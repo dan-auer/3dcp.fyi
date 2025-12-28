@@ -14,7 +14,6 @@ tags:
  - model
  - system
  - trajectory
- - a
 
 ---
 
@@ -79,7 +78,6 @@ tags:
       <li><a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/sobek_werner"><b>Sobek</b> Werner</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../schm_sobe.2018.G/">Gradientenbeton</a></li>
       <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2014/11">(2014-11)</a><br><a href="../../../secr_butl_mech.2014.TPoC/">Testing Pumpability of Concrete:<br/>From Laboratory into Practice</a></li>
       <li><a href="../../../author/worner_mark"><b>Wörner</b> Mark</a>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b> Daniel</a>, <a href="../../../author/schuler_benjamin"><b>Schuler</b> Benjamin</a>, <a href="../../../author/pfinder_julian"><b>Pfinder</b> Julian</a> et al. <a href="../../../date/2016/12">(2016-12)</a><br><a href="../../../worn_schm_schu_pfin.2016.TToGC/">The Technology of Graded Concrete:<br/>From the Development of Concrete Mixtures and the Conceptual Design to the Automatized Manufacturing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

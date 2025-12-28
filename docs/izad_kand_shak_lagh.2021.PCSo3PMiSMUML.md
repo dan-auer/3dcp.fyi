@@ -13,7 +13,6 @@ tags:
  - print
  - strength
  - structure
- - in
 
 ---
 

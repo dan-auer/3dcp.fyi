@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#lubrication
+# #lubrication
 
 <ol reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>

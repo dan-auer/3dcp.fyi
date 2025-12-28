@@ -10,7 +10,6 @@ tags:
  - digital
  - rheology
  - system
- - in
 
 ---
 

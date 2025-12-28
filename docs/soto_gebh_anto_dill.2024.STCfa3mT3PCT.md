@@ -10,7 +10,6 @@ tags:
  - structure
  - tall
  - test
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="https://orcid.org/0000-0002-8415-4896" title="ORCID: 0000-0002-8415-4896" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 493-500
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)
@@ -64,7 +64,6 @@ tags:
     <ol>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a></li>
       <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../anto_reit_skev_dill.2022.RLf3/">Reinforcement Lattices for 3DCP:<br/>A Fabrication Method Based on Ruled Surfaces</a></li>
-      <li>None</li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../bos_ahme_wolf_sale.2017.3PCwR/">3D Printing Concrete with Reinforcement</a></li>
       <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a></li>
       <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../gebh_espo_menn_mata.2022.ILSotIo3CPSUotBBoVR/">Inter-Laboratory Study on the Influence of 3D Concrete Printing Set-Ups on the Bond Behavior of Various Reinforcements</a></li>

@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#factor
+# #factor
 
 <ol reversed>
   <li><a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhou_du_wu_lai.2025.EFaaPMoEFo3PC/">Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete</a></li>

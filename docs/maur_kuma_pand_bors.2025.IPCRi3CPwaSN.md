@@ -12,8 +12,6 @@ tags:
  - polymer
  - print
  - reinforcement
- - a
- - in
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> <a href="https://orcid.org/0000-0001-7325-1618" title="ORCID: 0000-0001-7325-1618" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th International Conference on Research into Design, pp. 13-25
 
 :aca-blank:{ .lg .middle}
     [`#cable`](keyword/cable)

@@ -19,9 +19,6 @@ tags:
  - real
  - review
  - scale
- - a
- - in
- - two
 
 ---
 
@@ -81,12 +78,9 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a></li>
       <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../algh_neit.2019.SaCo3PGFfTEBEM/">Synthesis and Characterization of 3D Printable Geopolymeric Foams for Thermally Efficient Building Envelope Materials</a></li>
       <li><a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b> Sarah</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/bagheri_ali"><b>Bagheri</b> Ali</a> <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../alq_naza_bagh.2018.MPoLGSAiC3P/">Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing</a></li>
-      <li>None</li>
-      <li>None</li>
       <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../best_heev_krug_zijl.2021.RDFC/">Reinforcing Digitally Fabricated Concrete:<br/>A Systems Approach Review</a></li>
       <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/basavaraj_shimoga_anusha"><b>Basavaraj</b> Anusha</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../bhat_basa_rahu_sant.2021.SMf3CP/">Sustainable Materials for 3D Concrete Printing</a></li>
       <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bong_nema_xia_ghaf.2022.PoAMGIMWMF/">Properties of Additively Manufactured Geopolymer Incorporating Mineral-Wollastonite-Micro-Fibers</a></li>
@@ -102,7 +96,6 @@ tags:
       <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../chri_perr_otto_koss.2024.RCoTSBB3PC/">Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete</a></li>
       <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB/">Fresh and Strength Properties of 3D Printable Concrete Mixtures Utilising a High Volume of Sustainable Alternative Binders</a></li>
       <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a></li>
-      <li>None</li>
       <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a>, <a href="../../../author/yang_junyi"><b>Yang</b> Junyi</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../guo_yang_xion.2020.IoSCMoRPo3PFABG/">Influence of Supplementary Cementitious Materials on Rheological Properties of 3D Printed Fly-Ash-Based Geopolymer</a></li>
       <li><a href="../../../author/heever_marchant"><b>Heever</b> Marchant</a>, <a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../heev_best_krug_zijl.2021.MCfNSoEB3CP/">Mechanical Characterisation for Numerical Simulation of Extrusion-Based 3D Concrete Printing</a></li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ibra_zijl_baba.2024.MoLoFi3PLCCCCIbEMO/">Mitigation of Lack-of-Fusion in 3D Printed Limestone-Calcined-Clay-Cement Concrete Induced by Effective Micro-Organisms</a></li>

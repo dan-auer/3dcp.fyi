@@ -10,7 +10,6 @@ tags:
  - craf
  - infrastructure
  - simulation
- - up
 
 ---
 
@@ -26,6 +25,7 @@ tags:
 ,     <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Earth and Space 2012, pp. 1458-1467
 
 :aca-blank:{ .lg .middle}
     [`#buildability`](keyword/buildability)

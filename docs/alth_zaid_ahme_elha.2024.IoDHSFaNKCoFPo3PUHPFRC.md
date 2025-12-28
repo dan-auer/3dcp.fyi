@@ -17,12 +17,6 @@ tags:
  - property
  - reinforcement
  - steel
- - double
- - nano
- - on
- - ultra
- - nano
- - ultra
 
 ---
 
@@ -93,7 +87,6 @@ tags:
       <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../doub_kawa.2021.UoNCaMtTRfTDCP/">Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing</a></li>
       <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gu_khay.2024.EWaOLTMtPBo3PC/">Extrudability Window and Off-Line Test-Methods to Predict Buildability of 3D Printing Concrete</a></li>
       <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../hamb_rutz_volk.2019.Po3PFRPCP/">Properties of 3D-Printed Fiber-Reinforced Portland Cement-Paste</a></li>
-      <li>None</li>
       <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ibra_zijl_baba.2023.IoLCCCoPo3PCfSC/">Influence of Limestone-Calcined-Clay-Cement on Properties of 3D Printed Concrete for Sustainable Construction</a></li>
       <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a></li>
       <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a></li>
@@ -102,7 +95,7 @@ tags:
       <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/cochran_evan"><b>Cochran</b> Evan</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../kaze_yuan_coch_khos.2017.CMfCS3P/">Cementitious Materials for Construction-Scale 3D Printing:<br/>Laboratory Testing of Fresh Printing Mixture</a></li>
       <li><a href="../../../author/khan_ataullah_mohd"><b>Khan</b> Mohd</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../khan.2020.MSfC3P/">Mix Suitable for Concrete 3D Printing:<br/>A Review</a></li>
       <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../khan_mcna.2024.RDoLC3PC/">Recent Developments on Low-Carbon 3D Printing Concrete:<br/>Revolutionizing Construction Through Innovative Technology</a></li>
-      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CbTBaBf3CP/">Correlation between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a></li>
       <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a></li>
       <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../liu_hu_guo.2024.PaILBPo3PFRG/">Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer</a></li>

@@ -16,9 +16,6 @@ tags:
  - print
  - structure
  - void
- - in
- - inter
- - on
 
 ---
 
@@ -78,7 +75,6 @@ tags:
       <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a></li>
       <li><a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../liu_xiao_ding.2023.FPo3PCBwEaRFAC/">Flexural Performance of 3D Printed Composite Beams with ECC and Recycled Fine Aggregate Concrete:<br/>Experimental and Numerical Analysis</a></li>
       <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a></li>
-      <li>None</li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>

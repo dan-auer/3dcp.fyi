@@ -13,8 +13,6 @@ tags:
  - print
  - production
  - technology
- - in
- - pre
 
 ---
 
@@ -28,6 +26,7 @@ tags:
 ,     <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a> <a href="https://orcid.org/0000-0002-4781-7494" title="ORCID: 0000-0002-4781-7494" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of 4th International Conference on Civil Engineering and Architecture, pp. 207-221
 
 :aca-blank:{ .lg .middle}
     [`#cast`](keyword/cast)

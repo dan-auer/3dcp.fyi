@@ -11,8 +11,6 @@ tags:
  - print
  - structure
  - variation
- - a
- - in
 
 ---
 
@@ -26,6 +24,7 @@ tags:
 ,     <a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> <a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture, pp. 971-978
 
 :aca-blank:{ .lg .middle}
     [`#adhesion`](keyword/adhesion)

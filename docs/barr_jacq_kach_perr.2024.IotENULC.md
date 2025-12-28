@@ -17,7 +17,6 @@ tags:
  - nozzle
  - print
  - quality
- - in
 
 ---
 
@@ -33,6 +32,7 @@ tags:
 ,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 142-149
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

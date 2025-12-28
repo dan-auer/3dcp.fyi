@@ -14,8 +14,6 @@ tags:
  - steel
  - technique
  - wire
- - a
- - in
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> <a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - fib Symposium 2024, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#beam`](keyword/beam)

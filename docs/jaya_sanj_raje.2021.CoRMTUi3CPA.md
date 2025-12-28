@@ -13,7 +13,6 @@ tags:
  - rheology
  - technique
  - use
- - in
 
 ---
 
@@ -28,6 +27,7 @@ tags:
 ,     <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 10th International Conference on Structural Engineering and Construction Management, pp. 261-273
 
 :aca-blank:{ .lg .middle}
     [`#application`](keyword/application)

@@ -10,7 +10,6 @@ tags:
  - print
  - process
  - solution
- - a
 
 ---
 

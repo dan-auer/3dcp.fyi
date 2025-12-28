@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/petrik_leslie"><b>Petrik</b> Leslie</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 7th International Conference on Concrete Repair, Rehabilitation and Retrofitting, pp. 532-540
 
 :aca-blank:{ .lg .middle}
     [`#augmentation`](keyword/augmentation)

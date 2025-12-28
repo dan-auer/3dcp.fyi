@@ -10,7 +10,6 @@ tags:
  - fabrication
  - future
  - sustainability
- - a
 
 ---
 

@@ -12,8 +12,6 @@ tags:
  - optimization
  - print
  - tailing
- - a
- - in
 
 ---
 

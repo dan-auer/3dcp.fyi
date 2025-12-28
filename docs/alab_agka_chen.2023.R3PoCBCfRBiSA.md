@@ -10,7 +10,6 @@ tags:
  - concrete
  - print
  - robot
- - in
 
 ---
 

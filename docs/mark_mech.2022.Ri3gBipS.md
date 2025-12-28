@@ -5,7 +5,6 @@ hide:
 title: Slava Markin, Viktor Mechtcherine
 description:
 tags:
- - in
 
 ---
 
@@ -19,6 +18,7 @@ tags:
 ,     <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb, pp. 115-120
 
 :aca-blank:{ .lg .middle}
 

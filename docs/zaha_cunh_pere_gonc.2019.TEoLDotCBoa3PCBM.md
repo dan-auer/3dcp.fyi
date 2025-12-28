@@ -14,8 +14,6 @@ tags:
  - load
  - material
  - print
- - a
- - on
 
 ---
 
@@ -31,6 +29,7 @@ tags:
 ,     <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2019 IABSE Symposium, pp. 1658-1665
 
 :aca-blank:{ .lg .middle}
     [`#base`](keyword/base)

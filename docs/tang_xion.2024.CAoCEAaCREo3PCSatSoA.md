@@ -28,6 +28,7 @@ tags:
 ,     <a href="../../../author/xiong_shiqi"><b>Xiong</b> Shiqi</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 5th International Conference on Green Energy, Environment, and Sustainable Development, pp. 77
 
 :aca-blank:{ .lg .middle}
     [`#analysis`](keyword/analysis)

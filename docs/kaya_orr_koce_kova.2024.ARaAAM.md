@@ -24,6 +24,7 @@ tags:
 ,     <a href="../../../author/kovac_mirko"><b>Kovac</b> Mirko</a> <a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Infrastructure Robotics, pp. 367-384
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -58,11 +59,9 @@ tags:
 <div class="grid cards" markdown>
 ???+ quote "References"
     <ol>
-      <li>None</li>
       <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a></li>
       <li><a href="../../../author/davila-delgado_manuel_juan"><b>Davila Delgado</b> Juan</a>, <a href="../../../author/oyedele_lukumon"><b>Oyedele</b> Lukumon</a>, <a href="../../../author/ajayi_anuoluwapo"><b>Ajayi</b> Anuoluwapo</a>, <a href="../../../author/akanbi_lukman"><b>Akanbi</b> Lukman</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../davi_oyed_ajay_akan.2019.RaASiC/">Robotics and Automated Systems in Construction:<br/>Understanding Industry-Specific Challenges for Adoption</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
-      <li>None</li>
       <li><a href="../../../author/helm_volker"><b>Helm</b> Volker</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2012/10">(2012-10)</a><br><a href="../../../helm_jenn_gram_kohl.2012.MRFoCS/">Mobile Robotic Fabrication on Construction Sites:<br/>DimRob</a></li>
       <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/leland_c_julian"><b>Leland</b> Julian</a>, <a href="../../../author/cai_levi"><b>Cai</b> Levi</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2017/04">(2017-04)</a><br><a href="../../../keat_lela_cai_oxma.2017.TSSaSSRFoAS/">Toward Site-Specific and Self-Sufficient Robotic Fabrication on Architectural-Scales</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>

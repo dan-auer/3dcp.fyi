@@ -9,7 +9,6 @@ tags:
  - ceramic
  - extrusion
  - manufacturing
- - in
 
 ---
 
@@ -22,6 +21,7 @@ tags:
       <a href="../../../author/handle_frank"><b>Händle</b> Frank</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - The Art of Ceramic Extrusion, pp. 161-182
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -59,7 +59,6 @@ tags:
       <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../carn_mesn_bave_rous.2022.LPiCEB3P/">Layer Pressing in Concrete Extrusion-Based 3D Printing:<br/>Experiments and Analysis</a></li>
       <li><a href="../../../author/handle_frank"><b>Händle</b> Frank</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../hand.2025.AMbEiC/">Additive Manufacturing by Extrusion in Ceramics</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

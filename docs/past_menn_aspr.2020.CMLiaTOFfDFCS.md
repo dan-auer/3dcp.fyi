@@ -14,8 +14,6 @@ tags:
  - optimization
  - structure
  - topology
- - a
- - in
 
 ---
 
@@ -30,6 +28,7 @@ tags:
 ,     <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 691-700
 
 :aca-blank:{ .lg .middle}
     [`#combination`](keyword/combination)

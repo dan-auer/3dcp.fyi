@@ -13,8 +13,6 @@ tags:
  - print
  - structure
  - wall
- - in
- - on
 
 ---
 

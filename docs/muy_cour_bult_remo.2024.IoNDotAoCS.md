@@ -18,7 +18,6 @@ tags:
  - print
  - recycling
  - strength
- - on
 
 ---
 
@@ -37,6 +36,7 @@ tags:
 ,     <a href="../../../author/hubert_julien"><b>Hubert</b> Julien</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#aggregate`](keyword/aggregate)

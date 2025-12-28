@@ -11,7 +11,6 @@ tags:
  - design
  - method
  - print
- - a
 
 ---
 
@@ -27,6 +26,7 @@ tags:
 ,     <a href="../../../author/young_jack"><b>Young</b> Jack</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 237-244
 
 :aca-blank:{ .lg .middle}
     [`#architecture`](keyword/architecture)

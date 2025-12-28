@@ -13,7 +13,6 @@ tags:
  - standard
  - streamline
  - workflow
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="https://orcid.org/0000-0001-7128-4635" title="ORCID: 0000-0001-7128-4635" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 13th International Conference of the Arab Society for Computation in Architecture, Art and Design, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#3dcp`](keyword/3dcp)

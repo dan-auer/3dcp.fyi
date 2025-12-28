@@ -17,9 +17,6 @@ tags:
  - performance
  - print
  - space
- - a
- - near
- - on
 
 ---
 

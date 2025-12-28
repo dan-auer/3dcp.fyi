@@ -16,11 +16,6 @@ tags:
  - reinforcement
  - synergy
  - system
- - a
- - dual
- - in
- - ultra
- - ultra
 
 ---
 
@@ -100,7 +95,6 @@ tags:
       <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../nair_sant_neit.2022.MMBPCATfGAo3PCE/">Mathematical Morphology-Based Point-Cloud-Analysis-Techniques for Geometry-Assessment of 3D Printed Concrete Elements</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../perr_pier_nere_wolf.2021.FAMtNS/">From Analytical Methods to Numerical Simulations:<br/>A Process Engineering Toolbox for 3D Concrete Printing</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
-      <li>None</li>
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../tao_rahu_lesa_titt.2022.MaMPo3PCitCotTPPS/">Mechanical and Microstructural Properties of 3D Printable Concrete in the Context of the Twin-Pipe Pumping-Strategy</a></li>
       <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/cu_th_yen"><b>Cu</b> Yen</a>, <a href="../../../author/le_vh_chau"><b>Le</b> Chau</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../tran_cu_le.2021.RaSoCUPFf3CP/">Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing</a></li>
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>

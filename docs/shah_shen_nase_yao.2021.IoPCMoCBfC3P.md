@@ -13,7 +13,6 @@ tags:
  - material
  - phase
  - print
- - on
 
 ---
 
@@ -96,7 +95,6 @@ tags:
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
-      <li>None</li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>

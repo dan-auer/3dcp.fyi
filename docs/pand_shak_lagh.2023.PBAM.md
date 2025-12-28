@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> <a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Additive Manufacturing for Construction, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -131,7 +132,6 @@ tags:
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../xia_nema_sanj.2019.PPTtESoPCMDFUPB3PP/">Post-Processing Techniques to Enhance Strength of Portland Cement Mortar Digitally Fabricated Using Powder-Based 3D Printing Process</a></li>
-      <li>None</li>
       <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../yu_du_sanj.2020.AB3CPwCPB/">Aggregate-Bed 3D Concrete Printing with Cement-Paste Binder</a></li>
       <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../yuan_tao.2018.MaEoPC/">Mixing and Extrusion of Printing Concrete</a></li>
     </ol>

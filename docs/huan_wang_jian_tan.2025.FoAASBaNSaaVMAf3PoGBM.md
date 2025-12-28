@@ -17,9 +17,6 @@ tags:
  - print
  - silica
  - viscosity
- - a
- - nano
- - nano
 
 ---
 
@@ -106,7 +103,6 @@ tags:
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
-      <li>None</li>
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
     </ol>
 ???+ quote "Citations"

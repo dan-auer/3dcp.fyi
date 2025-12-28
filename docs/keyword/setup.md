@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#setup
+# #setup
 
 <ol reversed>
   <li><a href="../../../author/soave_francesco"><b>Soave</b> Francesco</a>, <a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../soav_muci_ferr.2024.ESfSaILBia3PCF/">Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework</a></li>

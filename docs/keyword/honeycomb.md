@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#honeycomb
+# #honeycomb
 
 <ol reversed>
   <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cruz_bosb_kalt_beck.2024.MMRaHSMoECRCW/">Material-Minimized Rib and Honeycomb Slabs Made of Extruded Carbon-Reinforced Concrete Webs</a></li>

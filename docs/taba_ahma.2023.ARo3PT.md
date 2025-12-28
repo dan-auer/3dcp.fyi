@@ -11,7 +11,6 @@ tags:
  - review
  - sustainability
  - technology
- - a
 
 ---
 
@@ -76,7 +75,6 @@ tags:
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/ahamed_mn_n"><b>Ahamed</b> N.</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../tay_pand_ting_aham.2020.3PfSC/">3D Printing for Sustainable Construction</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>
       <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../xia_nema_sanj.2019.CSaDAoPCMMUPB3PfCA/">Compressive Strength and Dimensional Accuracy of Portland Cement Mortar Made Using Powder-Based 3D Printing for Construction Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
 ???+ quote "Citations"

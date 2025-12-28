@@ -11,8 +11,6 @@ tags:
  - model
  - print
  - wall
- - a
- - under
 
 ---
 
@@ -25,6 +23,7 @@ tags:
 ,     <a href="../../../author/fuente_albert"><b>de la Fuente</b> Albert</a> <a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 6th fib International Congress, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#characteristic`](keyword/characteristic)

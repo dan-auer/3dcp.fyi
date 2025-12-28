@@ -6,7 +6,7 @@ search:
   exclude: true
 ---
 
-# \#early
+# #early
 
 <ol reversed>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>

@@ -30,6 +30,7 @@ tags:
 ,     <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#assembly`](keyword/assembly)

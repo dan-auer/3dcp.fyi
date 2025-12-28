@@ -15,8 +15,6 @@ tags:
  - reinforcement
  - staples
  - technique
- - inter
- - on
 
 ---
 

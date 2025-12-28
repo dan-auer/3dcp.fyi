@@ -14,8 +14,6 @@ tags:
  - self
  - state
  - thixotropy
- - a
- - self
 
 ---
 

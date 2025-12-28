@@ -27,6 +27,7 @@ tags:
 ,     <a href="../../../author/cadoni_ezio"><b>Cadoni</b> Ezio</a> <a href="https://orcid.org/0000-0002-1254-1619" title="ORCID: 0000-0002-1254-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 478-488
 
 :aca-blank:{ .lg .middle}
     [`#behavior`](keyword/behavior)

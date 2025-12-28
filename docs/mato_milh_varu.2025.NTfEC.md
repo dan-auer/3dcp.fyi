@@ -10,7 +10,6 @@ tags:
  - print
  - real
  - technology
- - a
 
 ---
 
@@ -25,6 +24,7 @@ tags:
 ,     <a href="../../../author/varum_humberto"><b>Varum</b> Humberto</a> <a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Sustainable Materials for the Built Environment, pp. 187-212
 
 :aca-blank:{ .lg .middle}
     [`#construction`](keyword/construction)
@@ -68,7 +68,6 @@ tags:
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
       <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/laagland_l-m_hans"><b>Laagland</b> Hans</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../sale_ahme_bos_laag.2018.Doa3PCBbT/">Design of a 3D Printed Concrete Bridge by Testing</a></li>
       <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../sanj_nema.2019.3CPfCA/">3D Concrete Printing for Construction Applications</a></li>
-      <li>None</li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_l"><b>Quispe</b> L.</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a>, <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../silv_quis_kim_naka.2019.DoaSNFRECfCAU3P/">Development of a Stabilized Natural Fiber-Reinforced Earth Composite for Construction Applications Using 3D Printing</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>

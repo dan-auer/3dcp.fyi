@@ -13,7 +13,6 @@ tags:
  - finite
  - print
  - simulation
- - in
 
 ---
 

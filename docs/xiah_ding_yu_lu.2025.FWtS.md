@@ -17,7 +17,6 @@ tags:
  - strength
  - sustainability
  - waste
- - in
 
 ---
 

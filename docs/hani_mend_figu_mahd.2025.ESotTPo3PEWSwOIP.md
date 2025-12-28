@@ -15,7 +15,6 @@ tags:
  - segment
  - temperature
  - wall
- - on
 
 ---
 
@@ -31,6 +30,7 @@ tags:
 ,     <a href="../../../author/mahdy_deena"><b>el Mahdy</b> Deena</a> <a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 1692-1699
 
 :aca-blank:{ .lg .middle}
     [`#earth`](keyword/earth)

@@ -17,11 +17,6 @@ tags:
  - migration
  - near
  - print
- - a
- - in
- - micro
- - near
- - micro
 
 ---
 
@@ -117,7 +112,7 @@ tags:
       <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a></li>
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../xu_savi.2019.DoSHCCSRw3PPR/">Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement:<br/>Mechanical Properties</a></li>
       <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/peng_yu"><b>Peng</b> Yu</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../yang_zeng_peng_wang.2022.AMaILPSo3PFRCC/">Anomalous Matrix and Inter-Layer Pore-Structure of 3D Printed Fiber-Reinforced Cementitious Composites</a></li>
-      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDbMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
+      <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/zhu_yi"><b>Zhu</b> Yi</a>, <a href="../../../author/lan_yan"><b>Lan</b> Yan</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../yang_zhu_lan_zeng.2022.DiMGFDBMaILoCFAbEM/">Differences in Micro Grain & Fiber-Distributions Between Matrix and Inter-Layer of Cementitious Filaments Affected by Extrusion-Molding</a></li>
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_zhan_qian_liu.2023.IoSFotWAo3PC/">Influence of Steel-Fiber on the Water-Absorption of 3D Printed Concrete</a></li>

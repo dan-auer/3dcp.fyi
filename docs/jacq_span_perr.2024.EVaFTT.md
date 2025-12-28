@@ -18,8 +18,6 @@ tags:
  - self
  - temperature
  - viscosity
- - non
- - self
 
 ---
 
@@ -34,6 +32,7 @@ tags:
 ,     <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 465-473
 
 :aca-blank:{ .lg .middle}
     [`#cfd`](keyword/cfd)
@@ -71,9 +70,7 @@ tags:
 -------------------------
 
 ???+ quote "Abstract" 
-    Recent developments in 3D printing in the construction sector have highlighted the importance of reducing the impact of the materials used. One of the main levers is to reduce the amount of cement by maximizing the aggregates content. However, increasing the amount of aggregates could lead to problems during the pumping or transport step to the printhead, which is limited by the power of the pumping equipment and the viscosity of the cement-based materials, which has a strong effect on the pumping pressure. As the addition of aggregates generally increases the viscosity of the mixture, the influence of the addition of these large aggregates on the properties of high-viscosity printable cement-based materials during extrusion needs to be analysed.
-The aim of this study is to investigate the influence of the pumping process on the self-heating of extruded materials, from paste to mortar and concrete, for both cementitious and clayey matrices. The viscosity of the material is assessed macroscopically by its dynamic viscosity and depends on the amount of aggregates in the mix. Pumping of the material through a 10 m hose and assessment of the associated viscosity will feed a numerical simulation model based on heat transfer for non-isothermal flow in a pipe of non-Newtonian material. Thanks to this dual approach, a comparative study between temperature rise measurements and process simulation will be able to quantify the influence of changing scale and compound design parameters on the extrusion behaviour of printable materials.
-This study aims to pave the way for new challenges related to the entire supply chain of the 3D printing process for construction materials, taking into account multiphysical contributions such as friction, evaporation, temperature-dependent chemical reactions, etc. and related measurements that can be performed, including the possibility of adding a heat source to control the setting or drive a phase change of a heat sensitive material.
+    Recent developments in 3D printing in the construction sector have highlighted the importance of reducing the impact of the materials used. One of the main levers is to reduce the amount of cement by maximizing the aggregates content. However, increasing the amount of aggregates could lead to problems during the pumping or transport step to the printhead, which is limited by the power of the pumping equipment and the viscosity of the cement-based materials, which has a strong effect on the pumping pressure. As the addition of aggregates generally increases the viscosity of the mixture, the influence of the addition of these large aggregates on the properties of high-viscosity printable cement-based materials during extrusion needs to be analysed. The aim of this study is to investigate the influence of the pumping process on the self-heating of extruded materials, from paste to mortar and concrete, for both cementitious and clayey matrices. The viscosity of the material is assessed macroscopically by its dynamic viscosity and depends on the amount of aggregates in the mix. Pumping of the material through a 10 m hose and assessment of the associated viscosity will feed a numerical simulation model based on heat transfer for non-isothermal flow in a pipe of non-Newtonian material. Thanks to this dual approach, a comparative study between temperature rise measurements and process simulation will be able to quantify the influence of changing scale and compound design parameters on the extrusion behaviour of printable materials. This study aims to pave the way for new challenges related to the entire supply chain of the 3D printing process for construction materials, taking into account multiphysical contributions such as friction, evaporation, temperature-dependent chemical reactions, etc. and related measurements that can be performed, including the possibility of adding a heat source to control the setting or drive a phase change of a heat sensitive material.
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>

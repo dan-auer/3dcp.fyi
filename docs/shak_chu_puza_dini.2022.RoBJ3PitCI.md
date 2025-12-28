@@ -10,7 +10,6 @@ tags:
  - industry
  - print
  - review
- - in
 
 ---
 
@@ -83,7 +82,6 @@ tags:
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>
       <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/suresh_vignesh"><b>Suresh</b> Vignesh</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../wi_sure_wang_li.2020.QQo3PCOUa3SLSS/">Quantifying Quality of 3D Printed Clay Objects Using a 3D Structured Light Scanning System</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

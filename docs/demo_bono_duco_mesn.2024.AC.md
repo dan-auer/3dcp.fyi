@@ -11,8 +11,6 @@ tags:
  - concrete
  - construction
  - engineered
- - a
- - on
 
 ---
 
@@ -27,6 +25,7 @@ tags:
 ,     <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Built Environment Additive Manufacturing, pp. 94-103
 
 :aca-blank:{ .lg .middle}
     [`#anisotropy`](keyword/anisotropy)

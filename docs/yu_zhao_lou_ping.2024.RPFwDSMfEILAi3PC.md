@@ -15,8 +15,6 @@ tags:
  - print
  - recycling
  - surface
- - in
- - inter
 
 ---
 
@@ -77,7 +75,6 @@ tags:
       <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a>, <a href="../../../author/ma_hongyan"><b>Ma</b> Hongyan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gu_zhen_ma_long.2024.EoAKoSPoPaILBo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymers on Printability and Inter-Layer Bond of 3D Printing Concrete</a></li>
       <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a></li>
       <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a></li>
-      <li>None</li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a></li>
       <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../moel_krug_comb.2022.MEACi3PCUFSPSRABCCaCM/">Mitigating Early-Age Cracking in 3D Printed Concrete Using Fibers, Superabsorbent Polymers, Shrinkage Reducing Admixtures, B-CSA Cement and Curing Measures</a></li>
       <li><a href="../../../author/pham_luong"><b>Pham</b> Luong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../pham_tran_sanj.2020.SFR3PC/">Steel-Fiber-Reinforced 3D Printed Concrete:<br/>Influence of Fiber Sizes on Mechanical Performance</a></li>

@@ -14,7 +14,6 @@ tags:
  - geometry
  - isogeometric
  - print
- - on
 
 ---
 

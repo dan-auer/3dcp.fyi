@@ -23,6 +23,7 @@ tags:
 ,     <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> <a href="https://orcid.org/0000-0002-9677-3627" title="ORCID: 0000-0002-9677-3627" target="_blank">:aca-orcid:{ .lg .middle }</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Structures and Architecture, pp. 245-253
 
 :aca-blank:{ .lg .middle}
     [`#concrete`](keyword/concrete)

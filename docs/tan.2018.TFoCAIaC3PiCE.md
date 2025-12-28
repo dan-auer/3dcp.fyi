@@ -12,7 +12,6 @@ tags:
  - framework
  - intelligence
  - print
- - in
 
 ---
 
@@ -68,11 +67,9 @@ tags:
       <li><a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/wei_ran"><b>Wei</b> Ran</a>, <a href="../../../author/che_haichao"><b>Che</b> Haichao</a> <a href="../../../date/2014/12">(2014-12)</a><br><a href="../../../ding_wei_che.2014.DoaBBACS/">Development of a BIM-Based Automated Construction System</a></li>
       <li><a href="../../../author/gardiner_b_james"><b>Gardiner</b> James</a>, <a href="../../../author/janssen_r_steven"><b>Janssen</b> Steven</a>, <a href="../../../author/kirchner_nathan"><b>Kirchner</b> Nathan</a> <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../gard_jans_kirc.2016.ARoaCSRSf3PoCF/">A Realization of a Construction-Scale Robotic System for 3D Printing of Complex Formwork</a></li>
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
-      <li>None</li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
       <li><a href="../../../author/sakin_mehmet"><b>Sakin</b> Mehmet</a>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b> Yusuf</a> <a href="../../../date/2017/10">(2017-10)</a><br><a href="../../../saki_kiro.2017.3PoB/">3D Printing of Buildings:<br/>Construction of the Sustainable Houses of the Future by BIM</a></li>
       <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/renneberg_jarred"><b>Renneberg</b> Jarred</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../shak_renn_neja_paul.2017.OoDCMDf3PbU6IR/">Optimization of Different Concrete Mix Designs for 3D Printing by Utilizing 6DOF Industrial Robot</a></li>
-      <li>None</li>
     </ol>
 ???+ quote "Citations"
     <ol reversed>

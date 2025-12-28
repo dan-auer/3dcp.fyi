@@ -31,6 +31,7 @@ tags:
 ,     <a href="../../../author/castillero_luis"><b>Castillero</b> Luis</a>
   
 :aca-blank:{ .lg .middle}
+    Contribution - Developments in Clay Science and Construction Techniques, pp. (None,)
 
 :aca-blank:{ .lg .middle}
     [`#additive`](keyword/additive)
@@ -105,7 +106,6 @@ tags:
       <li><a href="../../../author/taher_ammar"><b>Taher</b> Ammar</a>, <a href="../../../author/asut_serdar"><b>Aşut</b> Serdar</a>, <a href="../../../author/spoel_willem"><b>Spoel</b> Willem</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tahe_asut_spoe.2023.AIWfDaFMFBCTAMwC/">An Integrated Workflow for Designing and Fabricating Multi-Functional Building Components Through Additive Manufacturing with Clay</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
-      <li>None</li>
       <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/suresh_vignesh"><b>Suresh</b> Vignesh</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/li_beiwen"><b>Li</b> Beiwen</a> et al. <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../wi_sure_wang_li.2020.QQo3PCOUa3SLSS/">Quantifying Quality of 3D Printed Clay Objects Using a 3D Structured Light Scanning System</a></li>
       <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a></li>
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
