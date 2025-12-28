@@ -9,7 +9,7 @@ site_author = "<daniel.auer@tum.de>"
 site_url =  "https://3dcp.fyi"
 
 copyright = """
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> • <a href="/impressum">Impressum</a> • <a href="/datenschutz">Datenschutz</a>
+<a href="/impressum">Impressum</a> • <a href="/datenschutz">Datenschutz</a>
 """
 
 nav = [
@@ -65,12 +65,14 @@ features = [
 [[project.theme.palette]]
 scheme = "default"
 toggle.icon = "fontawesome/solid/moon"
+toggle.name = "Light Mode"
 accent = "blue"
 primary = "blue"
 
 [[project.theme.palette]]
 scheme = "slate"
 toggle.icon = "fontawesome/solid/sun"
+toggle.name = "Dark Mode"
 accent = "pink"
 primary = "pink"
 

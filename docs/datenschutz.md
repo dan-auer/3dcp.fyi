@@ -15,15 +15,10 @@ search:
   exclude: true
 ---
 
-
-
-<h2 class="wp-block-heading">Datenschutzerklärung</h2>
-
+<h2>Datenschutzerklärung</h2>
 
 
 <p>Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.</p>
-
-
 
 <p>Gemäß <a href="http://dejure.org/gesetze/DSGVO/4.html" target="_blank" title="Art. 4 DSGVO: Begriffsbestimmungen">Art. 4 Ziffer 1</a>. der Verordnung (EU) 2016/679, also der Datenschutz-Grundverordnung (nachfolgend nur „DSGVO“ genannt), gilt als „Verarbeitung“ jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführter Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten, wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.</p>
 
@@ -41,7 +36,7 @@ search:
 
 
 
-<h3 class="wp-block-heading">I. Informationen über uns als Verantwortliche</h3>
+<h3>I. Informationen über uns als Verantwortliche</h3>
 
 
 
@@ -61,7 +56,7 @@ Theresienstaße 90<br>
 E-Mail: daniel.auer@tum.de
 
 
-<h3 class="wp-block-heading">II. Rechte der Nutzer und Betroffenen</h3>
+<h3>II. Rechte der Nutzer und Betroffenen</h3>
 
 
 
@@ -69,7 +64,7 @@ E-Mail: daniel.auer@tum.de
 
 
 
-<ul class="wp-block-list">
+<ul>
 <li>auf Bestätigung, ob sie betreffende Daten verarbeitet werden, auf Auskunft über die verarbeiteten Daten, auf weitere Informationen über die Datenverarbeitung sowie auf Kopien der Daten (vgl. auch <a href="http://dejure.org/gesetze/DSGVO/15.html" target="_blank" title="Art. 15 DSGVO: Auskunftsrecht der betroffenen Person">Art. 15 DSGVO</a>);</li>
 
 <li>auf Berichtigung oder Vervollständigung unrichtiger bzw. unvollständiger Daten (vgl. auch <a href="http://dejure.org/gesetze/DSGVO/16.html" target="_blank" title="Art. 16 DSGVO: Recht auf Berichtigung">Art. 16 DSGVO</a>);</li>
@@ -101,7 +96,7 @@ E-Mail: daniel.auer@tum.de
 <p>Die Einbindung der Plugins erfolgt dabei über eine verlinkte Grafik. Erst durch einen Klick auf die entsprechende Grafik wird der Nutzer zu dem Dienst des jeweiligen sozialen Netzwerks weitergeleitet.</p>
 <p>Nach der Weiterleitung des Kunden werden durch das jeweilige Netzwerk Informationen über den Nutzer erfasst. Dies sind zunächst Daten wie IP-Adresse, Datum, Uhrzeit und besuchte Seite. Ist der Nutzer währenddessen in seinem Benutzerkonto des jeweiligen Netzwerks eingeloggt, kann der Netzwerk-Betreiber ggf. die gesammelten Informationen des konkreten Besuches des Nutzers dem persönlichen Account des Nutzers zuordnen. Interagiert der Nutzer über einen „Teilen“-Button des jeweiligen Netzwerks, können diese Informationen in dem persönlichen Benutzerkonto des Nutzers gespeichert und ggf. veröffentlicht werden. Will der Nutzer verhindern, dass die gesammelten Informationen unmittelbar seinem Benutzerkonto zugeordnet werden, muss sich der Nutzer vor dem Anklicken der Grafik ausloggen. Zudem besteht die Möglichkeit, das jeweilige Benutzerkonto entsprechend zu konfigurieren.</p>
 <p>Folgende Webtechnologien sind vom Anbieter verlinkt:</p>
-<h4 class="jet-listing-dynamic-field__content">jsdelivr.net-CDN</h4><p>Zur Optimierung der Abrufgeschwindigkeit, der Gestaltung und Darstellung der Inhalte unseres Internetauftritts auf unterschiedlichen Endgeräten setzen wir in unserem Internetauftritt den Dienst jsdeliver.com, ein Content Delivery Network („CDN“), ein. Hierbei handelt es sich um einen Open-Source-Dienst der JSD Limited, Suite 2a1, Northside House, Mount Pleasant, Barnet, England, EN4 9EB.</p>
+<h4>jsdelivr.net-CDN</h4><p>Zur Optimierung der Abrufgeschwindigkeit, der Gestaltung und Darstellung der Inhalte unseres Internetauftritts auf unterschiedlichen Endgeräten setzen wir in unserem Internetauftritt den Dienst jsdeliver.com, ein Content Delivery Network („CDN“), ein. Hierbei handelt es sich um einen Open-Source-Dienst der JSD Limited, Suite 2a1, Northside House, Mount Pleasant, Barnet, England, EN4 9EB.</p>
 <p>Um die Inhalte unseres Internetauftritts schnell ausliefern zu können, greift der Dienst auf sog. JavaScript-Bibliotheken zurück. Dabei werden entsprechende Dateien von einem Drittserver geladen, der Ihre IP-Adresse erfasst. Wir haben dabei keinen Einfluss darauf, ob Ihre IP-Adresse durch Dritte zu statistischen Zwecken verarbeitet wird.</p>
 <p>Die JSD Limited bietet unter <a href="https://www.jsdelivr.com/privacy-policy-jsdelivr-net" rel="nofollow noopener" target="_blank">https://www.jsdelivr.com/privacy-policy-jsdelivr-net</a>
 weitergehende Datenschutzinformationen an. Rechtsgrundlage ist <a href="http://dejure.org/gesetze/DSGVO/6.html" target="_blank" title="Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung">Art. 6 Abs. 1 lit. f) DSGVO</a>. Unser berechtigtes Interesse liegt in der Beschleunigung der Ladezeiten unseres Internetauftritts sowie in dessen Optimierung.

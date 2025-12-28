@@ -1,11 +1,3 @@
-
-<a href="https://www.3dcp.fyi/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="dat/3dcpfyix.svg">
-      <img alt="3D Printed Concrete" width="64px" src="dat/3dcpfyix.svg" title="3DCP.fyi" align="right">
-    </picture>
-</a>
-
 # 3DCP.fyi
 
 <h5 align="center">
@@ -23,19 +15,11 @@ src=https://img.shields.io/badge/Last%20Update-2025--12--27-a2ad00></a>
 src=https://img.shields.io/badge/Download%20Dataset-3dcp.bib%20(8%20MB)-e37222></a>
 </h5>
 
-> Relax, this isn't another review paper on 3D concrete printing (**3DCP**)! Instead, we've curated an exhaustive 
-database that offers a detailed look at the state-of-the-art in 3D-printing in the construction industry, mostly, 
-but not exclusively, involving cementitious materials and extrusion-based manufacturing. To guarantee the dataset's 
-quality and consistency, we've taken the extra step of manually curating each entry over the years, which means
+> Roadmap
 
-- [x] authors are identified through their **ORCiD** profiles
 - [ ] universities are tagged with their respective **ROR**s (upcoming feature)
 - [ ] citations have a semantic weight (upcoming feature)
-- [x] open accessible papers are tagged and can be downloaded directly
-- [x] year of publication is enhanced by the month
-- [x] publications are evaluated by several of their centralities in the citation network over multiple [topological 
-generations](https://en.wikipedia.org/wiki/Topological_sorting)
-- [x] links to third party services are provided
+- [ ] 
 
 > [!CAUTION]
 > The graphs of the last publication are knowingly missing, as the project has now reached a size where Github is no longer a suitable solution. We are currently looking for better approaches to display the temporal and spatial data of the graph network and the articles better, faster and more interactively. Stay tuned!
